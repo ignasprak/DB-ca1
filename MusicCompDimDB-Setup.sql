@@ -299,3 +299,9 @@ SET
         AND VoteMode IN ('Web', 'Phone') THEN 1.00
         ELSE 0.00
     END;
+
+SELECT v.EditionYear, p.ParticipantName, v.VoteMode, v.TotalVotes
+FROM musiccompdimdb_c20424992.votesfact v
+    JOIN musiccompdimdb_c20424992.participantdimension p ON v.ParticipantName = p.ParticipantName
+WHERE
+    v.EditionYear IN (2021, 2023);
