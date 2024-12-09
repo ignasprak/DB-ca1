@@ -81,7 +81,11 @@ INSERT INTO
 SELECT CATID, CATNAME
 FROM MusicCompDB.VIEWERCATEGORY;
 
--- C20424992 - Q1
+--  --  --  --  --
+--  C20424992   --
+--      -       --
+--      Q1      --
+--  --  --  --  --
 
 -- C20424992 - Create another Fact Table, that pre-aggregates data by year, participant, county, vote mode, age group and category
 CREATE TABLE MusicCompDimDB_c20424992.VotesSummaryFact (
@@ -100,7 +104,6 @@ CREATE TABLE MusicCompDimDB_c20424992.VotesSummaryFact (
     )
 );
 -- This table will be populated with an ETL job that will summarise data from VotesFact
-
 -- C20424992 - Create a County Dimension table to normalise dimensions
 CREATE TABLE MusicCompDimDB_c20424992.CountyDimension (
     CountyID SERIAL PRIMARY KEY, -- alternate key for county
@@ -108,7 +111,6 @@ CREATE TABLE MusicCompDimDB_c20424992.CountyDimension (
 );
 
 -- C20424992 - SQL for altering tables in order to utilise CountyDimension table
-
 -- C20424992 - Update ParticipantDimension to reference CountyDimension
 ALTER TABLE MusicCompDimDB_c20424992.ParticipantDimension
 DROP COLUMN CountyName;
