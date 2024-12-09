@@ -68432,3 +68432,55904 @@ VALUES (
         '2019-05-25 23:17:51',
         'Web',
         2,
+        2019,
+        'Aaron Peterson'
+    ),
+    (
+        434,
+        '2019-05-25 23:17:51',
+        'Web',
+        4,
+        2019,
+        'Jennifer Ford'
+    ),
+    (
+        434,
+        '2019-05-25 23:17:51',
+        'Web',
+        3,
+        2019,
+        'Kathryn Alvarez'
+    ),
+    (
+        434,
+        '2019-05-25 23:17:51',
+        'Web',
+        5,
+        2019,
+        'Samantha Jones'
+    ),
+    (
+        832,
+        '2023-05-27 23:37:29',
+        'Facebook',
+        3,
+        2023,
+        'Paula Henderson'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        832,
+        '2023-05-27 23:37:29',
+        'Facebook',
+        4,
+        2023,
+        'Megan Saunders'
+    ),
+    (
+        832,
+        '2023-05-27 23:37:29',
+        'Facebook',
+        1,
+        2023,
+        'Scott Baker'
+    ),
+    (
+        832,
+        '2023-05-27 23:37:29',
+        'Facebook',
+        2,
+        2023,
+        'Jacqueline Wagner'
+    ),
+    (
+        832,
+        '2023-05-27 23:37:29',
+        'Facebook',
+        5,
+        2023,
+        'Michael Butler'
+    ),
+    (
+        301,
+        '2011-05-28 22:15:06',
+        'Facebook',
+        5,
+        2011,
+        'Wesley Garcia'
+    ),
+    (
+        301,
+        '2011-05-28 22:15:06',
+        'Facebook',
+        4,
+        2011,
+        'Ashley Lawson'
+    ),
+    (
+        301,
+        '2011-05-28 22:15:06',
+        'Facebook',
+        3,
+        2011,
+        'Andres Rubio'
+    ),
+    (
+        301,
+        '2011-05-28 22:15:06',
+        'Facebook',
+        1,
+        2011,
+        'Justin Kelly'
+    ),
+    (
+        301,
+        '2011-05-28 22:15:06',
+        'Facebook',
+        2,
+        2011,
+        'Cody Davis'
+    ),
+    (
+        103,
+        '2024-05-25 23:18:03',
+        'Instagram',
+        3,
+        2024,
+        'Alexis Fields'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        103,
+        '2024-05-25 23:18:03',
+        'Instagram',
+        4,
+        2024,
+        'Gabriel Arroyo'
+    ),
+    (
+        103,
+        '2024-05-25 23:18:03',
+        'Instagram',
+        5,
+        2024,
+        'Jessica Murphy'
+    ),
+    (
+        103,
+        '2024-05-25 23:18:03',
+        'Instagram',
+        2,
+        2024,
+        'Christopher Singh'
+    ),
+    (
+        103,
+        '2024-05-25 23:18:03',
+        'Instagram',
+        1,
+        2024,
+        'Richard Lewis'
+    ),
+    (
+        328,
+        '2016-05-28 23:20:59',
+        'Facebook',
+        2,
+        2016,
+        'Melody Reese MD'
+    ),
+    (
+        328,
+        '2016-05-28 23:20:59',
+        'Facebook',
+        5,
+        2016,
+        'Brian Ingram'
+    ),
+    (
+        328,
+        '2016-05-28 23:20:59',
+        'Facebook',
+        4,
+        2016,
+        'Cathy Lewis'
+    ),
+    (
+        328,
+        '2016-05-28 23:20:59',
+        'Facebook',
+        3,
+        2016,
+        'Tara Mcgee'
+    ),
+    (
+        328,
+        '2016-05-28 23:20:59',
+        'Facebook',
+        1,
+        2016,
+        'Derek Schwartz'
+    ),
+    (
+        297,
+        '2017-05-27 22:16:34',
+        'Facebook',
+        4,
+        2017,
+        'Denise Jones'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        297,
+        '2017-05-27 22:16:34',
+        'Facebook',
+        2,
+        2017,
+        'Matthew Vaughn'
+    ),
+    (
+        297,
+        '2017-05-27 22:16:34',
+        'Facebook',
+        5,
+        2017,
+        'Andrea Hill'
+    ),
+    (
+        297,
+        '2017-05-27 22:16:34',
+        'Facebook',
+        1,
+        2017,
+        'Tina Roy'
+    ),
+    (
+        297,
+        '2017-05-27 22:16:34',
+        'Facebook',
+        3,
+        2017,
+        'Elizabeth Koch'
+    ),
+    (
+        211,
+        '2014-05-31 22:24:30',
+        'Instagram',
+        3,
+        2014,
+        'Christopher Hodge'
+    ),
+    (
+        211,
+        '2014-05-31 22:24:30',
+        'Instagram',
+        1,
+        2014,
+        'Zachary Fox'
+    ),
+    (
+        211,
+        '2014-05-31 22:24:30',
+        'Instagram',
+        2,
+        2014,
+        'Teresa Martin'
+    ),
+    (
+        542,
+        '2015-05-30 23:21:14',
+        'Phone',
+        2,
+        2015,
+        'Nicholas Black'
+    ),
+    (
+        542,
+        '2015-05-30 23:21:14',
+        'Phone',
+        5,
+        2015,
+        'Brett Benjamin'
+    ),
+    (
+        542,
+        '2015-05-30 23:21:14',
+        'Phone',
+        3,
+        2015,
+        'Nathan Bailey'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        542,
+        '2015-05-30 23:21:14',
+        'Phone',
+        1,
+        2015,
+        'Deborah Sparks'
+    ),
+    (
+        542,
+        '2015-05-30 23:21:14',
+        'Phone',
+        4,
+        2015,
+        'Louis Phillips'
+    ),
+    (
+        71,
+        '2022-05-28 23:39:12',
+        'Phone',
+        5,
+        2022,
+        'Michael Baker'
+    ),
+    (
+        71,
+        '2022-05-28 23:39:12',
+        'Phone',
+        2,
+        2022,
+        'Andrew Hodges'
+    ),
+    (
+        71,
+        '2022-05-28 23:39:12',
+        'Phone',
+        3,
+        2022,
+        'Stephanie Smith'
+    ),
+    (
+        71,
+        '2022-05-28 23:39:12',
+        'Phone',
+        1,
+        2022,
+        'Thomas Gregory'
+    ),
+    (
+        71,
+        '2022-05-28 23:39:12',
+        'Phone',
+        4,
+        2022,
+        'Andre Burton'
+    ),
+    (
+        283,
+        '2011-05-28 23:36:27',
+        'Phone',
+        1,
+        2011,
+        'Justin Kelly'
+    ),
+    (
+        283,
+        '2011-05-28 23:36:27',
+        'Phone',
+        2,
+        2011,
+        'Carmen Mitchell'
+    ),
+    (
+        283,
+        '2011-05-28 23:36:27',
+        'Phone',
+        5,
+        2011,
+        'Cody Davis'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        283,
+        '2011-05-28 23:36:27',
+        'Phone',
+        4,
+        2011,
+        'Wesley Garcia'
+    ),
+    (
+        283,
+        '2011-05-28 23:36:27',
+        'Phone',
+        3,
+        2011,
+        'Andres Rubio'
+    ),
+    (
+        425,
+        '2011-05-28 22:20:33',
+        'Web',
+        2,
+        2011,
+        'Cody Davis'
+    ),
+    (
+        425,
+        '2011-05-28 22:20:33',
+        'Web',
+        5,
+        2011,
+        'Carmen Mitchell'
+    ),
+    (
+        425,
+        '2011-05-28 22:20:33',
+        'Web',
+        1,
+        2011,
+        'John Henderson'
+    ),
+    (
+        425,
+        '2011-05-28 22:20:33',
+        'Web',
+        4,
+        2011,
+        'Victoria Rosales PhD'
+    ),
+    (
+        425,
+        '2011-05-28 22:20:33',
+        'Web',
+        3,
+        2011,
+        'Ashley Lawson'
+    ),
+    (
+        867,
+        '2013-05-25 22:17:18',
+        'Web',
+        4,
+        2013,
+        'Angela Phillips'
+    ),
+    (
+        867,
+        '2013-05-25 22:17:18',
+        'Web',
+        2,
+        2013,
+        'Cassandra Hooper'
+    ),
+    (
+        867,
+        '2013-05-25 22:17:18',
+        'Web',
+        1,
+        2013,
+        'Thomas Hess'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        867,
+        '2013-05-25 22:17:18',
+        'Web',
+        5,
+        2013,
+        'Blake Martinez'
+    ),
+    (
+        867,
+        '2013-05-25 22:17:18',
+        'Web',
+        3,
+        2013,
+        'Diane Cooper'
+    ),
+    (
+        87,
+        '2011-05-28 23:52:19',
+        'Phone',
+        2,
+        2011,
+        'Dr. Courtney Green MD'
+    ),
+    (
+        87,
+        '2011-05-28 23:52:19',
+        'Phone',
+        1,
+        2011,
+        'Victoria Rosales PhD'
+    ),
+    (
+        87,
+        '2011-05-28 23:52:19',
+        'Phone',
+        3,
+        2011,
+        'Ashley Lawson'
+    ),
+    (
+        87,
+        '2011-05-28 23:52:19',
+        'Phone',
+        5,
+        2011,
+        'Cody Davis'
+    ),
+    (
+        87,
+        '2011-05-28 23:52:19',
+        'Phone',
+        4,
+        2011,
+        'Wesley Garcia'
+    ),
+    (
+        42,
+        '2024-05-25 23:52:17',
+        'Instagram',
+        5,
+        2024,
+        'Gabriel Arroyo'
+    ),
+    (
+        42,
+        '2024-05-25 23:52:17',
+        'Instagram',
+        2,
+        2024,
+        'Taylor Lopez'
+    ),
+    (
+        42,
+        '2024-05-25 23:52:17',
+        'Instagram',
+        3,
+        2024,
+        'Emily Buck'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        42,
+        '2024-05-25 23:52:17',
+        'Instagram',
+        4,
+        2024,
+        'Christopher Singh'
+    ),
+    (
+        42,
+        '2024-05-25 23:52:17',
+        'Instagram',
+        1,
+        2024,
+        'Christy Perry'
+    ),
+    (
+        490,
+        '2022-05-28 23:18:45',
+        'Web',
+        4,
+        2022,
+        'Robert Curtis'
+    ),
+    (
+        490,
+        '2022-05-28 23:18:45',
+        'Web',
+        1,
+        2022,
+        'Michael Martinez'
+    ),
+    (
+        490,
+        '2022-05-28 23:18:45',
+        'Web',
+        2,
+        2022,
+        'Michelle Martin'
+    ),
+    (
+        490,
+        '2022-05-28 23:18:45',
+        'Web',
+        5,
+        2022,
+        'Andrew Hodges'
+    ),
+    (
+        490,
+        '2022-05-28 23:18:45',
+        'Web',
+        3,
+        2022,
+        'Stephanie Smith'
+    ),
+    (
+        420,
+        '2016-05-28 23:19:31',
+        'Facebook',
+        5,
+        2016,
+        'Brian Ingram'
+    ),
+    (
+        420,
+        '2016-05-28 23:19:31',
+        'Facebook',
+        3,
+        2016,
+        'Melody Reese MD'
+    ),
+    (
+        420,
+        '2016-05-28 23:19:31',
+        'Facebook',
+        4,
+        2016,
+        'Derek Schwartz'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        783,
+        '2013-05-25 23:54:27',
+        'Facebook',
+        5,
+        2013,
+        'Tony Prince'
+    ),
+    (
+        783,
+        '2013-05-25 23:54:27',
+        'Facebook',
+        3,
+        2013,
+        'Blake Martinez'
+    ),
+    (
+        783,
+        '2013-05-25 23:54:27',
+        'Facebook',
+        4,
+        2013,
+        'Kimberly Larsen'
+    ),
+    (
+        783,
+        '2013-05-25 23:54:27',
+        'Facebook',
+        1,
+        2013,
+        'Anthony Villanueva'
+    ),
+    (
+        783,
+        '2013-05-25 23:54:27',
+        'Facebook',
+        2,
+        2013,
+        'Nancy Mcmahon'
+    ),
+    (
+        448,
+        '2019-05-25 22:49:17',
+        'Instagram',
+        3,
+        2019,
+        'Sarah Hancock'
+    ),
+    (
+        448,
+        '2019-05-25 22:49:17',
+        'Instagram',
+        4,
+        2019,
+        'Amanda Ingram'
+    ),
+    (
+        448,
+        '2019-05-25 22:49:17',
+        'Instagram',
+        1,
+        2019,
+        'Samantha Jones'
+    ),
+    (
+        448,
+        '2019-05-25 22:49:17',
+        'Instagram',
+        5,
+        2019,
+        'Aaron Peterson'
+    ),
+    (
+        448,
+        '2019-05-25 22:49:17',
+        'Instagram',
+        2,
+        2019,
+        'Kyle Hernandez'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        5,
+        '2016-05-28 23:35:54',
+        'Facebook',
+        1,
+        2016,
+        'Amanda Patterson'
+    ),
+    (
+        5,
+        '2016-05-28 23:35:54',
+        'Facebook',
+        4,
+        2016,
+        'Kimberly Wilkins MD'
+    ),
+    (
+        5,
+        '2016-05-28 23:35:54',
+        'Facebook',
+        3,
+        2016,
+        'Anne Mcfarland'
+    ),
+    (
+        5,
+        '2016-05-28 23:35:54',
+        'Facebook',
+        2,
+        2016,
+        'Derek Schwartz'
+    ),
+    (
+        5,
+        '2016-05-28 23:35:54',
+        'Facebook',
+        5,
+        2016,
+        'Alejandra Walter'
+    ),
+    (
+        931,
+        '2017-05-27 22:59:10',
+        'Phone',
+        2,
+        2017,
+        'Nathan Williams'
+    ),
+    (
+        931,
+        '2017-05-27 22:59:10',
+        'Phone',
+        4,
+        2017,
+        'Brandi Harris'
+    ),
+    (
+        931,
+        '2017-05-27 22:59:10',
+        'Phone',
+        3,
+        2017,
+        'Rachel Cole'
+    ),
+    (
+        931,
+        '2017-05-27 22:59:10',
+        'Phone',
+        5,
+        2017,
+        'Tina Roy'
+    ),
+    (
+        931,
+        '2017-05-27 22:59:10',
+        'Phone',
+        1,
+        2017,
+        'Sean Ward'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        396,
+        '2019-05-25 22:11:31',
+        'Instagram',
+        3,
+        2019,
+        'Sarah Hancock'
+    ),
+    (
+        396,
+        '2019-05-25 22:11:31',
+        'Instagram',
+        4,
+        2019,
+        'Kathryn Alvarez'
+    ),
+    (
+        396,
+        '2019-05-25 22:11:31',
+        'Instagram',
+        2,
+        2019,
+        'Jennifer Ford'
+    ),
+    (
+        396,
+        '2019-05-25 22:11:31',
+        'Instagram',
+        5,
+        2019,
+        'Amanda Ingram'
+    ),
+    (
+        396,
+        '2019-05-25 22:11:31',
+        'Instagram',
+        1,
+        2019,
+        'Kyle Hernandez'
+    ),
+    (
+        855,
+        '2022-05-28 22:59:14',
+        'Web',
+        2,
+        2022,
+        'Thomas Gregory'
+    ),
+    (
+        855,
+        '2022-05-28 22:59:14',
+        'Web',
+        3,
+        2022,
+        'Andrew Hodges'
+    ),
+    (
+        855,
+        '2022-05-28 22:59:14',
+        'Web',
+        5,
+        2022,
+        'Martin Moore'
+    ),
+    (
+        855,
+        '2022-05-28 22:59:14',
+        'Web',
+        1,
+        2022,
+        'Stephanie Smith'
+    ),
+    (
+        855,
+        '2022-05-28 22:59:14',
+        'Web',
+        4,
+        2022,
+        'Michael Martinez'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        904,
+        '2015-05-30 23:05:13',
+        'Web',
+        2,
+        2015,
+        'Brett Benjamin'
+    ),
+    (
+        904,
+        '2015-05-30 23:05:13',
+        'Web',
+        4,
+        2015,
+        'Colleen White'
+    ),
+    (
+        904,
+        '2015-05-30 23:05:13',
+        'Web',
+        3,
+        2015,
+        'Nicholas Black'
+    ),
+    (
+        904,
+        '2015-05-30 23:05:13',
+        'Web',
+        1,
+        2015,
+        'Lisa Patrick'
+    ),
+    (
+        904,
+        '2015-05-30 23:05:13',
+        'Web',
+        5,
+        2015,
+        'Robert White'
+    ),
+    (
+        600,
+        '2016-05-28 22:45:59',
+        'Phone',
+        2,
+        2016,
+        'Steve Bennett'
+    ),
+    (
+        600,
+        '2016-05-28 22:45:59',
+        'Phone',
+        5,
+        2016,
+        'Brian Ingram'
+    ),
+    (
+        600,
+        '2016-05-28 22:45:59',
+        'Phone',
+        3,
+        2016,
+        'Alejandra Walter'
+    ),
+    (
+        327,
+        '2023-05-27 23:37:21',
+        'Facebook',
+        2,
+        2023,
+        'Michael Butler'
+    ),
+    (
+        327,
+        '2023-05-27 23:37:21',
+        'Facebook',
+        3,
+        2023,
+        'Thomas Ruiz'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        327,
+        '2023-05-27 23:37:21',
+        'Facebook',
+        4,
+        2023,
+        'Samantha Erickson'
+    ),
+    (
+        327,
+        '2023-05-27 23:37:21',
+        'Facebook',
+        1,
+        2023,
+        'Megan Saunders'
+    ),
+    (
+        327,
+        '2023-05-27 23:37:21',
+        'Facebook',
+        5,
+        2023,
+        'Jacqueline Wagner'
+    ),
+    (
+        980,
+        '2020-05-30 22:55:43',
+        'Phone',
+        3,
+        2020,
+        'Jacob Hickman'
+    ),
+    (
+        980,
+        '2020-05-30 22:55:43',
+        'Phone',
+        1,
+        2020,
+        'Danielle Berger'
+    ),
+    (
+        980,
+        '2020-05-30 22:55:43',
+        'Phone',
+        5,
+        2020,
+        'Charles Maddox'
+    ),
+    (
+        980,
+        '2020-05-30 22:55:43',
+        'Phone',
+        4,
+        2020,
+        'Lisa Wood'
+    ),
+    (
+        980,
+        '2020-05-30 22:55:43',
+        'Phone',
+        2,
+        2020,
+        'Charles Washington'
+    ),
+    (
+        925,
+        '2021-05-29 23:51:41',
+        'Facebook',
+        2,
+        2021,
+        'Aaron Baldwin'
+    ),
+    (
+        925,
+        '2021-05-29 23:51:41',
+        'Facebook',
+        3,
+        2021,
+        'Robin Myers'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        925,
+        '2021-05-29 23:51:41',
+        'Facebook',
+        1,
+        2021,
+        'Tamara Barnes'
+    ),
+    (
+        925,
+        '2021-05-29 23:51:41',
+        'Facebook',
+        4,
+        2021,
+        'Jack Singh'
+    ),
+    (
+        925,
+        '2021-05-29 23:51:41',
+        'Facebook',
+        5,
+        2021,
+        'Samantha Lee'
+    ),
+    (
+        279,
+        '2014-05-31 22:13:46',
+        'Facebook',
+        5,
+        2014,
+        'Melissa Williams'
+    ),
+    (
+        279,
+        '2014-05-31 22:13:46',
+        'Facebook',
+        4,
+        2014,
+        'Christopher Hodge'
+    ),
+    (
+        279,
+        '2014-05-31 22:13:46',
+        'Facebook',
+        2,
+        2014,
+        'Mary Vance'
+    ),
+    (
+        279,
+        '2014-05-31 22:13:46',
+        'Facebook',
+        1,
+        2014,
+        'John Conner'
+    ),
+    (
+        279,
+        '2014-05-31 22:13:46',
+        'Facebook',
+        3,
+        2014,
+        'Todd Miller'
+    ),
+    (
+        580,
+        '2022-05-28 23:26:09',
+        'Instagram',
+        3,
+        2022,
+        'Andrew Hodges'
+    ),
+    (
+        580,
+        '2022-05-28 23:26:09',
+        'Instagram',
+        4,
+        2022,
+        'Martin Moore'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        580,
+        '2022-05-28 23:26:09',
+        'Instagram',
+        1,
+        2022,
+        'Gary Stone'
+    ),
+    (
+        580,
+        '2022-05-28 23:26:09',
+        'Instagram',
+        5,
+        2022,
+        'Andre Burton'
+    ),
+    (
+        580,
+        '2022-05-28 23:26:09',
+        'Instagram',
+        2,
+        2022,
+        'Stephanie Smith'
+    ),
+    (
+        432,
+        '2013-05-25 23:57:55',
+        'Web',
+        4,
+        2013,
+        'Blake Martinez'
+    ),
+    (
+        432,
+        '2013-05-25 23:57:55',
+        'Web',
+        3,
+        2013,
+        'Nancy Mcmahon'
+    ),
+    (
+        432,
+        '2013-05-25 23:57:55',
+        'Web',
+        2,
+        2013,
+        'Kimberly Larsen'
+    ),
+    (
+        432,
+        '2013-05-25 23:57:55',
+        'Web',
+        5,
+        2013,
+        'Cassandra Hooper'
+    ),
+    (
+        432,
+        '2013-05-25 23:57:55',
+        'Web',
+        1,
+        2013,
+        'Diane Cooper'
+    ),
+    (
+        582,
+        '2020-05-30 22:05:47',
+        'Facebook',
+        2,
+        2020,
+        'Lisa Mcdaniel'
+    ),
+    (
+        582,
+        '2020-05-30 22:05:47',
+        'Facebook',
+        3,
+        2020,
+        'Juan Huerta'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        582,
+        '2020-05-30 22:05:47',
+        'Facebook',
+        1,
+        2020,
+        'Charles Maddox'
+    ),
+    (
+        582,
+        '2020-05-30 22:05:47',
+        'Facebook',
+        5,
+        2020,
+        'Travis Walker'
+    ),
+    (
+        582,
+        '2020-05-30 22:05:47',
+        'Facebook',
+        4,
+        2020,
+        'Mr. Steven Yoder'
+    ),
+    (
+        443,
+        '2021-05-29 23:03:29',
+        'Phone',
+        2,
+        2021,
+        'Amber Mcdowell'
+    ),
+    (
+        443,
+        '2021-05-29 23:03:29',
+        'Phone',
+        1,
+        2021,
+        'Jack Singh'
+    ),
+    (
+        443,
+        '2021-05-29 23:03:29',
+        'Phone',
+        4,
+        2021,
+        'Aaron Baldwin'
+    ),
+    (
+        443,
+        '2021-05-29 23:03:29',
+        'Phone',
+        5,
+        2021,
+        'Caleb Ellison'
+    ),
+    (
+        443,
+        '2021-05-29 23:03:29',
+        'Phone',
+        3,
+        2021,
+        'Samantha Lee'
+    ),
+    (
+        597,
+        '2021-05-29 23:15:34',
+        'Phone',
+        5,
+        2021,
+        'Caleb Ellison'
+    ),
+    (
+        597,
+        '2021-05-29 23:15:34',
+        'Phone',
+        2,
+        2021,
+        'Thomas Smith'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        597,
+        '2021-05-29 23:15:34',
+        'Phone',
+        4,
+        2021,
+        'Amber Mcdowell'
+    ),
+    (
+        597,
+        '2021-05-29 23:15:34',
+        'Phone',
+        3,
+        2021,
+        'Ann Perez'
+    ),
+    (
+        597,
+        '2021-05-29 23:15:34',
+        'Phone',
+        1,
+        2021,
+        'Manuel Caldwell'
+    ),
+    (
+        239,
+        '2021-05-29 23:37:41',
+        'Facebook',
+        4,
+        2021,
+        'Thomas Smith'
+    ),
+    (
+        239,
+        '2021-05-29 23:37:41',
+        'Facebook',
+        3,
+        2021,
+        'Aaron Baldwin'
+    ),
+    (
+        239,
+        '2021-05-29 23:37:41',
+        'Facebook',
+        1,
+        2021,
+        'Manuel Caldwell'
+    ),
+    (
+        239,
+        '2021-05-29 23:37:41',
+        'Facebook',
+        5,
+        2021,
+        'Samantha Lee'
+    ),
+    (
+        239,
+        '2021-05-29 23:37:41',
+        'Facebook',
+        2,
+        2021,
+        'Tamara Barnes'
+    ),
+    (
+        811,
+        '2018-05-26 23:16:22',
+        'Instagram',
+        2,
+        2018,
+        'Kimberly Davis'
+    ),
+    (
+        811,
+        '2018-05-26 23:16:22',
+        'Instagram',
+        3,
+        2018,
+        'Jessica Williams'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        811,
+        '2018-05-26 23:16:22',
+        'Instagram',
+        1,
+        2018,
+        'Diane Harrison'
+    ),
+    (
+        811,
+        '2018-05-26 23:16:22',
+        'Instagram',
+        4,
+        2018,
+        'Charles Glover'
+    ),
+    (
+        811,
+        '2018-05-26 23:16:22',
+        'Instagram',
+        5,
+        2018,
+        'Laura Barnes'
+    ),
+    (
+        40,
+        '2021-05-29 23:20:34',
+        'Phone',
+        1,
+        2021,
+        'Thomas Smith'
+    ),
+    (
+        40,
+        '2021-05-29 23:20:34',
+        'Phone',
+        5,
+        2021,
+        'Manuel Caldwell'
+    ),
+    (
+        40,
+        '2021-05-29 23:20:34',
+        'Phone',
+        3,
+        2021,
+        'Ann Perez'
+    ),
+    (
+        40,
+        '2021-05-29 23:20:34',
+        'Phone',
+        4,
+        2021,
+        'Jack Singh'
+    ),
+    (
+        40,
+        '2021-05-29 23:20:34',
+        'Phone',
+        2,
+        2021,
+        'Aaron Baldwin'
+    ),
+    (
+        970,
+        '2024-05-25 22:01:08',
+        'Web',
+        4,
+        2024,
+        'Austin Williams'
+    ),
+    (
+        970,
+        '2024-05-25 22:01:08',
+        'Web',
+        2,
+        2024,
+        'Richard Lewis'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        970,
+        '2024-05-25 22:01:08',
+        'Web',
+        1,
+        2024,
+        'Emily Buck'
+    ),
+    (
+        970,
+        '2024-05-25 22:01:08',
+        'Web',
+        3,
+        2024,
+        'Christopher Singh'
+    ),
+    (
+        970,
+        '2024-05-25 22:01:08',
+        'Web',
+        5,
+        2024,
+        'Gabriel Arroyo'
+    ),
+    (
+        781,
+        '2018-05-26 23:00:06',
+        'Web',
+        5,
+        2018,
+        'Diane Harrison'
+    ),
+    (
+        781,
+        '2018-05-26 23:00:06',
+        'Web',
+        3,
+        2018,
+        'John Hubbard'
+    ),
+    (
+        997,
+        '2010-05-29 23:52:24',
+        'Phone',
+        2,
+        2010,
+        'Rachel Melton'
+    ),
+    (
+        997,
+        '2010-05-29 23:52:24',
+        'Phone',
+        3,
+        2010,
+        'Kayla Vargas'
+    ),
+    (
+        997,
+        '2010-05-29 23:52:24',
+        'Phone',
+        1,
+        2010,
+        'Timothy Sandoval'
+    ),
+    (
+        997,
+        '2010-05-29 23:52:24',
+        'Phone',
+        4,
+        2010,
+        'Katherine Li'
+    ),
+    (
+        997,
+        '2010-05-29 23:52:24',
+        'Phone',
+        5,
+        2010,
+        'Matthew Rice'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        267,
+        '2017-05-27 23:42:26',
+        'Instagram',
+        3,
+        2017,
+        'Denise Jones'
+    ),
+    (
+        267,
+        '2017-05-27 23:42:26',
+        'Instagram',
+        5,
+        2017,
+        'Brandi Harris'
+    ),
+    (
+        267,
+        '2017-05-27 23:42:26',
+        'Instagram',
+        2,
+        2017,
+        'Brian Mccall'
+    ),
+    (
+        267,
+        '2017-05-27 23:42:26',
+        'Instagram',
+        4,
+        2017,
+        'Rachel Cole'
+    ),
+    (
+        267,
+        '2017-05-27 23:42:26',
+        'Instagram',
+        1,
+        2017,
+        'Elizabeth Koch'
+    ),
+    (
+        387,
+        '2020-05-30 22:13:50',
+        'Web',
+        4,
+        2020,
+        'Benjamin Thomas'
+    ),
+    (
+        387,
+        '2020-05-30 22:13:50',
+        'Web',
+        1,
+        2020,
+        'Charles Maddox'
+    ),
+    (
+        387,
+        '2020-05-30 22:13:50',
+        'Web',
+        3,
+        2020,
+        'Lisa Mcdaniel'
+    ),
+    (
+        387,
+        '2020-05-30 22:13:50',
+        'Web',
+        5,
+        2020,
+        'Danielle Berger'
+    ),
+    (
+        387,
+        '2020-05-30 22:13:50',
+        'Web',
+        2,
+        2020,
+        'Juan Huerta'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        743,
+        '2024-05-25 22:44:01',
+        'Web',
+        3,
+        2024,
+        'Austin Williams'
+    ),
+    (
+        743,
+        '2024-05-25 22:44:01',
+        'Web',
+        5,
+        2024,
+        'Christopher Singh'
+    ),
+    (
+        743,
+        '2024-05-25 22:44:01',
+        'Web',
+        4,
+        2024,
+        'Christy Perry'
+    ),
+    (
+        743,
+        '2024-05-25 22:44:01',
+        'Web',
+        2,
+        2024,
+        'Taylor Lopez'
+    ),
+    (
+        743,
+        '2024-05-25 22:44:01',
+        'Web',
+        1,
+        2024,
+        'Jessica Murphy'
+    ),
+    (
+        843,
+        '2013-05-25 22:55:21',
+        'Facebook',
+        1,
+        2013,
+        'Cassandra Hooper'
+    ),
+    (
+        843,
+        '2013-05-25 22:55:21',
+        'Facebook',
+        4,
+        2013,
+        'Angela Phillips'
+    ),
+    (
+        843,
+        '2013-05-25 22:55:21',
+        'Facebook',
+        2,
+        2013,
+        'Kimberly Larsen'
+    ),
+    (
+        843,
+        '2013-05-25 22:55:21',
+        'Facebook',
+        3,
+        2013,
+        'Thomas Hess'
+    ),
+    (
+        843,
+        '2013-05-25 22:55:21',
+        'Facebook',
+        5,
+        2013,
+        'Diane Cooper'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        272,
+        '2022-05-28 22:42:20',
+        'Web',
+        3,
+        2022,
+        'Gary Stone'
+    ),
+    (
+        272,
+        '2022-05-28 22:42:20',
+        'Web',
+        2,
+        2022,
+        'Michelle Martin'
+    ),
+    (
+        272,
+        '2022-05-28 22:42:20',
+        'Web',
+        4,
+        2022,
+        'Michael Martinez'
+    ),
+    (
+        272,
+        '2022-05-28 22:42:20',
+        'Web',
+        5,
+        2022,
+        'Martin Moore'
+    ),
+    (
+        272,
+        '2022-05-28 22:42:20',
+        'Web',
+        1,
+        2022,
+        'Robert Curtis'
+    ),
+    (
+        357,
+        '2019-05-25 22:41:10',
+        'Web',
+        5,
+        2019,
+        'Patrick Wilson'
+    ),
+    (
+        357,
+        '2019-05-25 22:41:10',
+        'Web',
+        3,
+        2019,
+        'Sarah Hancock'
+    ),
+    (
+        357,
+        '2019-05-25 22:41:10',
+        'Web',
+        2,
+        2019,
+        'Kyle Hernandez'
+    ),
+    (
+        357,
+        '2019-05-25 22:41:10',
+        'Web',
+        4,
+        2019,
+        'Amanda Ingram'
+    ),
+    (
+        357,
+        '2019-05-25 22:41:10',
+        'Web',
+        1,
+        2019,
+        'Samantha Jones'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        889,
+        '2023-05-27 22:22:31',
+        'Facebook',
+        5,
+        2023,
+        'Paula Henderson'
+    ),
+    (
+        889,
+        '2023-05-27 22:22:31',
+        'Facebook',
+        1,
+        2023,
+        'Megan Saunders'
+    ),
+    (
+        437,
+        '2014-05-31 22:23:04',
+        'Facebook',
+        5,
+        2014,
+        'Mary Vance'
+    ),
+    (
+        437,
+        '2014-05-31 22:23:04',
+        'Facebook',
+        1,
+        2014,
+        'Lisa Wright'
+    ),
+    (
+        437,
+        '2014-05-31 22:23:04',
+        'Facebook',
+        2,
+        2014,
+        'Carol Garrett'
+    ),
+    (
+        437,
+        '2014-05-31 22:23:04',
+        'Facebook',
+        3,
+        2014,
+        'Melissa Williams'
+    ),
+    (
+        437,
+        '2014-05-31 22:23:04',
+        'Facebook',
+        4,
+        2014,
+        'Zachary Fox'
+    ),
+    (
+        725,
+        '2019-05-25 23:54:55',
+        'Phone',
+        2,
+        2019,
+        'Kathryn Alvarez'
+    ),
+    (
+        725,
+        '2019-05-25 23:54:55',
+        'Phone',
+        4,
+        2019,
+        'Kyle Hernandez'
+    ),
+    (
+        725,
+        '2019-05-25 23:54:55',
+        'Phone',
+        3,
+        2019,
+        'Patrick Wilson'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        13,
+        '2017-05-27 23:48:51',
+        'Web',
+        5,
+        2017,
+        'Brandi Harris'
+    ),
+    (
+        13,
+        '2017-05-27 23:48:51',
+        'Web',
+        3,
+        2017,
+        'Rachel Cole'
+    ),
+    (
+        13,
+        '2017-05-27 23:48:51',
+        'Web',
+        4,
+        2017,
+        'Matthew Vaughn'
+    ),
+    (
+        13,
+        '2017-05-27 23:48:51',
+        'Web',
+        1,
+        2017,
+        'Tina Roy'
+    ),
+    (
+        13,
+        '2017-05-27 23:48:51',
+        'Web',
+        2,
+        2017,
+        'Sean Ward'
+    ),
+    (
+        797,
+        '2021-05-29 23:08:58',
+        'Instagram',
+        1,
+        2021,
+        'Robin Myers'
+    ),
+    (
+        797,
+        '2021-05-29 23:08:58',
+        'Instagram',
+        2,
+        2021,
+        'Aaron Baldwin'
+    ),
+    (
+        797,
+        '2021-05-29 23:08:58',
+        'Instagram',
+        4,
+        2021,
+        'Manuel Caldwell'
+    ),
+    (
+        797,
+        '2021-05-29 23:08:58',
+        'Instagram',
+        3,
+        2021,
+        'Caleb Ellison'
+    ),
+    (
+        797,
+        '2021-05-29 23:08:58',
+        'Instagram',
+        5,
+        2021,
+        'Samantha Lee'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        471,
+        '2016-05-28 23:09:53',
+        'Phone',
+        1,
+        2016,
+        'Melody Reese MD'
+    ),
+    (
+        471,
+        '2016-05-28 23:09:53',
+        'Phone',
+        3,
+        2016,
+        'Brian Ingram'
+    ),
+    (
+        471,
+        '2016-05-28 23:09:53',
+        'Phone',
+        2,
+        2016,
+        'Steve Bennett'
+    ),
+    (
+        471,
+        '2016-05-28 23:09:53',
+        'Phone',
+        4,
+        2016,
+        'Amanda Patterson'
+    ),
+    (
+        471,
+        '2016-05-28 23:09:53',
+        'Phone',
+        5,
+        2016,
+        'Cathy Lewis'
+    ),
+    (
+        668,
+        '2018-05-26 23:31:13',
+        'Web',
+        5,
+        2018,
+        'Brandon Ruiz'
+    ),
+    (
+        668,
+        '2018-05-26 23:31:13',
+        'Web',
+        4,
+        2018,
+        'Danielle Miller'
+    ),
+    (
+        668,
+        '2018-05-26 23:31:13',
+        'Web',
+        2,
+        2018,
+        'Kimberly Davis'
+    ),
+    (
+        668,
+        '2018-05-26 23:31:13',
+        'Web',
+        1,
+        2018,
+        'Charles Glover'
+    ),
+    (
+        668,
+        '2018-05-26 23:31:13',
+        'Web',
+        3,
+        2018,
+        'Carrie Clark'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        825,
+        '2020-05-30 23:34:01',
+        'Phone',
+        2,
+        2020,
+        'Charles Washington'
+    ),
+    (
+        825,
+        '2020-05-30 23:34:01',
+        'Phone',
+        5,
+        2020,
+        'Juan Huerta'
+    ),
+    (
+        825,
+        '2020-05-30 23:34:01',
+        'Phone',
+        4,
+        2020,
+        'Mr. Steven Yoder'
+    ),
+    (
+        825,
+        '2020-05-30 23:34:01',
+        'Phone',
+        1,
+        2020,
+        'Lisa Wood'
+    ),
+    (
+        825,
+        '2020-05-30 23:34:01',
+        'Phone',
+        3,
+        2020,
+        'Lisa Mcdaniel'
+    ),
+    (
+        374,
+        '2011-05-28 23:10:30',
+        'Web',
+        4,
+        2011,
+        'Dr. Courtney Green MD'
+    ),
+    (
+        374,
+        '2011-05-28 23:10:30',
+        'Web',
+        5,
+        2011,
+        'Wesley Garcia'
+    ),
+    (
+        374,
+        '2011-05-28 23:10:30',
+        'Web',
+        1,
+        2011,
+        'Cody Davis'
+    ),
+    (
+        374,
+        '2011-05-28 23:10:30',
+        'Web',
+        3,
+        2011,
+        'Keith Ingram'
+    ),
+    (
+        374,
+        '2011-05-28 23:10:30',
+        'Web',
+        2,
+        2011,
+        'Victoria Rosales PhD'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        740,
+        '2022-05-28 22:47:18',
+        'Phone',
+        4,
+        2022,
+        'Michael Martinez'
+    ),
+    (
+        740,
+        '2022-05-28 22:47:18',
+        'Phone',
+        3,
+        2022,
+        'Gary Stone'
+    ),
+    (
+        740,
+        '2022-05-28 22:47:18',
+        'Phone',
+        1,
+        2022,
+        'Michael Baker'
+    ),
+    (
+        740,
+        '2022-05-28 22:47:18',
+        'Phone',
+        2,
+        2022,
+        'Stephanie Smith'
+    ),
+    (
+        740,
+        '2022-05-28 22:47:18',
+        'Phone',
+        5,
+        2022,
+        'Andre Burton'
+    ),
+    (
+        398,
+        '2014-05-31 22:05:50',
+        'Phone',
+        3,
+        2014,
+        'Zachary Fox'
+    ),
+    (
+        398,
+        '2014-05-31 22:05:50',
+        'Phone',
+        1,
+        2014,
+        'Lisa Wright'
+    ),
+    (
+        627,
+        '2016-05-28 23:55:28',
+        'Facebook',
+        4,
+        2016,
+        'Amanda Patterson'
+    ),
+    (
+        627,
+        '2016-05-28 23:55:28',
+        'Facebook',
+        3,
+        2016,
+        'Kimberly Wilkins MD'
+    ),
+    (
+        743,
+        '2014-05-31 22:42:44',
+        'Instagram',
+        1,
+        2014,
+        'Luke Williams'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        743,
+        '2014-05-31 22:42:44',
+        'Instagram',
+        5,
+        2014,
+        'Melissa Williams'
+    ),
+    (
+        743,
+        '2014-05-31 22:42:44',
+        'Instagram',
+        3,
+        2014,
+        'Teresa Martin'
+    ),
+    (
+        743,
+        '2014-05-31 22:42:44',
+        'Instagram',
+        4,
+        2014,
+        'Lisa Wright'
+    ),
+    (
+        743,
+        '2014-05-31 22:42:44',
+        'Instagram',
+        2,
+        2014,
+        'Mary Vance'
+    ),
+    (
+        516,
+        '2011-05-28 23:17:46',
+        'Instagram',
+        1,
+        2011,
+        'John Henderson'
+    ),
+    (
+        516,
+        '2011-05-28 23:17:46',
+        'Instagram',
+        2,
+        2011,
+        'Keith Ingram'
+    ),
+    (
+        516,
+        '2011-05-28 23:17:46',
+        'Instagram',
+        3,
+        2011,
+        'Cody Davis'
+    ),
+    (
+        516,
+        '2011-05-28 23:17:46',
+        'Instagram',
+        5,
+        2011,
+        'Justin Kelly'
+    ),
+    (
+        516,
+        '2011-05-28 23:17:46',
+        'Instagram',
+        4,
+        2011,
+        'Andres Rubio'
+    ),
+    (
+        447,
+        '2021-05-29 23:15:41',
+        'Web',
+        1,
+        2021,
+        'Jack Singh'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        447,
+        '2021-05-29 23:15:41',
+        'Web',
+        5,
+        2021,
+        'Samantha Lee'
+    ),
+    (
+        447,
+        '2021-05-29 23:15:41',
+        'Web',
+        3,
+        2021,
+        'Thomas Smith'
+    ),
+    (
+        447,
+        '2021-05-29 23:15:41',
+        'Web',
+        4,
+        2021,
+        'Manuel Caldwell'
+    ),
+    (
+        447,
+        '2021-05-29 23:15:41',
+        'Web',
+        2,
+        2021,
+        'Tamara Barnes'
+    ),
+    (
+        475,
+        '2010-05-29 22:54:39',
+        'Instagram',
+        2,
+        2010,
+        'Kyle Weiss'
+    ),
+    (
+        475,
+        '2010-05-29 22:54:39',
+        'Instagram',
+        3,
+        2010,
+        'Matthew Rice'
+    ),
+    (
+        475,
+        '2010-05-29 22:54:39',
+        'Instagram',
+        1,
+        2010,
+        'Katherine Li'
+    ),
+    (
+        475,
+        '2010-05-29 22:54:39',
+        'Instagram',
+        5,
+        2010,
+        'Kevin Wilson'
+    ),
+    (
+        475,
+        '2010-05-29 22:54:39',
+        'Instagram',
+        4,
+        2010,
+        'David Williams'
+    ),
+    (
+        50,
+        '2021-05-29 22:59:50',
+        'Facebook',
+        4,
+        2021,
+        'Robin Myers'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        50,
+        '2021-05-29 22:59:50',
+        'Facebook',
+        3,
+        2021,
+        'Tamara Barnes'
+    ),
+    (
+        50,
+        '2021-05-29 22:59:50',
+        'Facebook',
+        2,
+        2021,
+        'Jack Singh'
+    ),
+    (
+        50,
+        '2021-05-29 22:59:50',
+        'Facebook',
+        5,
+        2021,
+        'Manuel Caldwell'
+    ),
+    (
+        50,
+        '2021-05-29 22:59:50',
+        'Facebook',
+        1,
+        2021,
+        'Ann Perez'
+    ),
+    (
+        668,
+        '2019-05-25 23:32:52',
+        'Web',
+        1,
+        2019,
+        'Kathryn Alvarez'
+    ),
+    (
+        668,
+        '2019-05-25 23:32:52',
+        'Web',
+        5,
+        2019,
+        'Terry Powell'
+    ),
+    (
+        668,
+        '2019-05-25 23:32:52',
+        'Web',
+        4,
+        2019,
+        'Cameron Hawkins'
+    ),
+    (
+        668,
+        '2019-05-25 23:32:52',
+        'Web',
+        2,
+        2019,
+        'Aaron Peterson'
+    ),
+    (
+        668,
+        '2019-05-25 23:32:52',
+        'Web',
+        3,
+        2019,
+        'Sarah Hancock'
+    ),
+    (
+        931,
+        '2015-05-30 23:44:21',
+        'Facebook',
+        5,
+        2015,
+        'Heidi Barry'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        931,
+        '2015-05-30 23:44:21',
+        'Facebook',
+        3,
+        2015,
+        'Brett Benjamin'
+    ),
+    (
+        931,
+        '2015-05-30 23:44:21',
+        'Facebook',
+        1,
+        2015,
+        'Nicholas Black'
+    ),
+    (
+        931,
+        '2015-05-30 23:44:21',
+        'Facebook',
+        4,
+        2015,
+        'Robert White'
+    ),
+    (
+        931,
+        '2015-05-30 23:44:21',
+        'Facebook',
+        2,
+        2015,
+        'Nathan Bailey'
+    ),
+    (
+        868,
+        '2016-05-28 22:58:46',
+        'Facebook',
+        2,
+        2016,
+        'Alejandra Walter'
+    ),
+    (
+        868,
+        '2016-05-28 22:58:46',
+        'Facebook',
+        1,
+        2016,
+        'Cathy Lewis'
+    ),
+    (
+        868,
+        '2016-05-28 22:58:46',
+        'Facebook',
+        3,
+        2016,
+        'Tara Mcgee'
+    ),
+    (
+        868,
+        '2016-05-28 22:58:46',
+        'Facebook',
+        4,
+        2016,
+        'Amanda Patterson'
+    ),
+    (
+        868,
+        '2016-05-28 22:58:46',
+        'Facebook',
+        5,
+        2016,
+        'Anne Mcfarland'
+    ),
+    (
+        259,
+        '2014-05-31 23:50:55',
+        'Instagram',
+        2,
+        2014,
+        'Zachary Fox'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        259,
+        '2014-05-31 23:50:55',
+        'Instagram',
+        3,
+        2014,
+        'Teresa Martin'
+    ),
+    (
+        259,
+        '2014-05-31 23:50:55',
+        'Instagram',
+        1,
+        2014,
+        'Todd Miller'
+    ),
+    (
+        259,
+        '2014-05-31 23:50:55',
+        'Instagram',
+        5,
+        2014,
+        'Lisa Wright'
+    ),
+    (
+        259,
+        '2014-05-31 23:50:55',
+        'Instagram',
+        4,
+        2014,
+        'Mary Vance'
+    ),
+    (
+        182,
+        '2023-05-27 22:28:41',
+        'Facebook',
+        1,
+        2023,
+        'Samantha Erickson'
+    ),
+    (
+        182,
+        '2023-05-27 22:28:41',
+        'Facebook',
+        5,
+        2023,
+        'Michael Butler'
+    ),
+    (
+        182,
+        '2023-05-27 22:28:41',
+        'Facebook',
+        4,
+        2023,
+        'Megan Saunders'
+    ),
+    (
+        182,
+        '2023-05-27 22:28:41',
+        'Facebook',
+        2,
+        2023,
+        'Paula Henderson'
+    ),
+    (
+        182,
+        '2023-05-27 22:28:41',
+        'Facebook',
+        3,
+        2023,
+        'Manuel Graves'
+    ),
+    (
+        788,
+        '2024-05-25 22:39:41',
+        'Web',
+        5,
+        2024,
+        'Emily Buck'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        788,
+        '2024-05-25 22:39:41',
+        'Web',
+        3,
+        2024,
+        'Austin Williams'
+    ),
+    (
+        788,
+        '2024-05-25 22:39:41',
+        'Web',
+        4,
+        2024,
+        'Alexis Fields'
+    ),
+    (
+        788,
+        '2024-05-25 22:39:41',
+        'Web',
+        1,
+        2024,
+        'Amber Williams'
+    ),
+    (
+        788,
+        '2024-05-25 22:39:41',
+        'Web',
+        2,
+        2024,
+        'Jessica Murphy'
+    ),
+    (
+        95,
+        '2012-05-26 22:29:17',
+        'Web',
+        3,
+        2012,
+        'Jose Smith Jr.'
+    ),
+    (
+        95,
+        '2012-05-26 22:29:17',
+        'Web',
+        1,
+        2012,
+        'Tyler Jordan'
+    ),
+    (
+        95,
+        '2012-05-26 22:29:17',
+        'Web',
+        5,
+        2012,
+        'Anthony Bradford'
+    ),
+    (
+        95,
+        '2012-05-26 22:29:17',
+        'Web',
+        2,
+        2012,
+        'Kenneth Warner'
+    ),
+    (
+        95,
+        '2012-05-26 22:29:17',
+        'Web',
+        4,
+        2012,
+        'Stephanie Patrick'
+    ),
+    (
+        361,
+        '2015-05-30 22:57:34',
+        'Facebook',
+        3,
+        2015,
+        'Travis Hays'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        361,
+        '2015-05-30 22:57:34',
+        'Facebook',
+        1,
+        2015,
+        'Colleen White'
+    ),
+    (
+        361,
+        '2015-05-30 22:57:34',
+        'Facebook',
+        4,
+        2015,
+        'Deborah Sparks'
+    ),
+    (
+        361,
+        '2015-05-30 22:57:34',
+        'Facebook',
+        5,
+        2015,
+        'Louis Phillips'
+    ),
+    (
+        361,
+        '2015-05-30 22:57:34',
+        'Facebook',
+        2,
+        2015,
+        'Heidi Barry'
+    ),
+    (
+        762,
+        '2022-05-28 23:18:26',
+        'Facebook',
+        3,
+        2022,
+        'Thomas Gregory'
+    ),
+    (
+        762,
+        '2022-05-28 23:18:26',
+        'Facebook',
+        2,
+        2022,
+        'Martin Moore'
+    ),
+    (
+        762,
+        '2022-05-28 23:18:26',
+        'Facebook',
+        4,
+        2022,
+        'Robert Curtis'
+    ),
+    (
+        208,
+        '2023-05-27 23:38:10',
+        'Phone',
+        3,
+        2023,
+        'Thomas Ruiz'
+    ),
+    (
+        208,
+        '2023-05-27 23:38:10',
+        'Phone',
+        4,
+        2023,
+        'Jacqueline Wagner'
+    ),
+    (
+        208,
+        '2023-05-27 23:38:10',
+        'Phone',
+        5,
+        2023,
+        'Samantha Erickson'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        208,
+        '2023-05-27 23:38:10',
+        'Phone',
+        1,
+        2023,
+        'Megan Saunders'
+    ),
+    (
+        208,
+        '2023-05-27 23:38:10',
+        'Phone',
+        2,
+        2023,
+        'Leslie Lee'
+    ),
+    (
+        381,
+        '2016-05-28 23:35:16',
+        'Web',
+        1,
+        2016,
+        'Melody Reese MD'
+    ),
+    (
+        381,
+        '2016-05-28 23:35:16',
+        'Web',
+        5,
+        2016,
+        'Derek Schwartz'
+    ),
+    (
+        381,
+        '2016-05-28 23:35:16',
+        'Web',
+        3,
+        2016,
+        'Anne Mcfarland'
+    ),
+    (
+        381,
+        '2016-05-28 23:35:16',
+        'Web',
+        2,
+        2016,
+        'Kimberly Wilkins MD'
+    ),
+    (
+        381,
+        '2016-05-28 23:35:16',
+        'Web',
+        4,
+        2016,
+        'Brian Ingram'
+    ),
+    (
+        230,
+        '2020-05-30 22:37:11',
+        'Facebook',
+        5,
+        2020,
+        'Danielle Berger'
+    ),
+    (
+        230,
+        '2020-05-30 22:37:11',
+        'Facebook',
+        2,
+        2020,
+        'Travis Walker'
+    ),
+    (
+        230,
+        '2020-05-30 22:37:11',
+        'Facebook',
+        1,
+        2020,
+        'Charles Washington'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        230,
+        '2020-05-30 22:37:11',
+        'Facebook',
+        3,
+        2020,
+        'Lisa Mcdaniel'
+    ),
+    (
+        230,
+        '2020-05-30 22:37:11',
+        'Facebook',
+        4,
+        2020,
+        'Charles Maddox'
+    ),
+    (
+        587,
+        '2012-05-26 22:27:04',
+        'Instagram',
+        4,
+        2012,
+        'Anthony Bradford'
+    ),
+    (
+        587,
+        '2012-05-26 22:27:04',
+        'Instagram',
+        5,
+        2012,
+        'Kenneth Warner'
+    ),
+    (
+        587,
+        '2012-05-26 22:27:04',
+        'Instagram',
+        1,
+        2012,
+        'Stacy White'
+    ),
+    (
+        587,
+        '2012-05-26 22:27:04',
+        'Instagram',
+        2,
+        2012,
+        'Tyler Jordan'
+    ),
+    (
+        587,
+        '2012-05-26 22:27:04',
+        'Instagram',
+        3,
+        2012,
+        'Stephanie Patrick'
+    ),
+    (
+        430,
+        '2011-05-28 22:55:24',
+        'Facebook',
+        4,
+        2011,
+        'Justin Kelly'
+    ),
+    (
+        430,
+        '2011-05-28 22:55:24',
+        'Facebook',
+        3,
+        2011,
+        'Wesley Garcia'
+    ),
+    (
+        430,
+        '2011-05-28 22:55:24',
+        'Facebook',
+        2,
+        2011,
+        'Cody Davis'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        430,
+        '2011-05-28 22:55:24',
+        'Facebook',
+        1,
+        2011,
+        'Keith Ingram'
+    ),
+    (
+        430,
+        '2011-05-28 22:55:24',
+        'Facebook',
+        5,
+        2011,
+        'John Henderson'
+    ),
+    (
+        722,
+        '2021-05-29 23:15:59',
+        'Web',
+        2,
+        2021,
+        'Amber Mcdowell'
+    ),
+    (
+        722,
+        '2021-05-29 23:15:59',
+        'Web',
+        1,
+        2021,
+        'Manuel Caldwell'
+    ),
+    (
+        722,
+        '2021-05-29 23:15:59',
+        'Web',
+        5,
+        2021,
+        'Tamara Barnes'
+    ),
+    (
+        722,
+        '2021-05-29 23:15:59',
+        'Web',
+        4,
+        2021,
+        'Ann Perez'
+    ),
+    (
+        722,
+        '2021-05-29 23:15:59',
+        'Web',
+        3,
+        2021,
+        'Samantha Lee'
+    ),
+    (
+        839,
+        '2010-05-29 22:25:32',
+        'Web',
+        5,
+        2010,
+        'Richard Dawson'
+    ),
+    (
+        839,
+        '2010-05-29 22:25:32',
+        'Web',
+        2,
+        2010,
+        'Timothy Sandoval'
+    ),
+    (
+        839,
+        '2010-05-29 22:25:32',
+        'Web',
+        1,
+        2010,
+        'Matthew Rice'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        839,
+        '2010-05-29 22:25:32',
+        'Web',
+        4,
+        2010,
+        'Katherine Li'
+    ),
+    (
+        839,
+        '2010-05-29 22:25:32',
+        'Web',
+        3,
+        2010,
+        'David Williams'
+    ),
+    (
+        756,
+        '2024-05-25 22:23:19',
+        'Phone',
+        5,
+        2024,
+        'Richard Lewis'
+    ),
+    (
+        756,
+        '2024-05-25 22:23:19',
+        'Phone',
+        4,
+        2024,
+        'Taylor Lopez'
+    ),
+    (
+        756,
+        '2024-05-25 22:23:19',
+        'Phone',
+        3,
+        2024,
+        'Emily Buck'
+    ),
+    (
+        269,
+        '2020-05-30 23:02:04',
+        'Web',
+        5,
+        2020,
+        'Jacob Hickman'
+    ),
+    (
+        269,
+        '2020-05-30 23:02:04',
+        'Web',
+        2,
+        2020,
+        'Lisa Wood'
+    ),
+    (
+        269,
+        '2020-05-30 23:02:04',
+        'Web',
+        3,
+        2020,
+        'Mr. Steven Yoder'
+    ),
+    (
+        269,
+        '2020-05-30 23:02:04',
+        'Web',
+        1,
+        2020,
+        'Benjamin Thomas'
+    ),
+    (
+        269,
+        '2020-05-30 23:02:04',
+        'Web',
+        4,
+        2020,
+        'Danielle Berger'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        389,
+        '2009-05-30 22:43:10',
+        'Instagram',
+        5,
+        2009,
+        'Carrie Bell'
+    ),
+    (
+        389,
+        '2009-05-30 22:43:10',
+        'Instagram',
+        2,
+        2009,
+        'Theresa Castaneda'
+    ),
+    (
+        389,
+        '2009-05-30 22:43:10',
+        'Instagram',
+        3,
+        2009,
+        'Kimberly Craig'
+    ),
+    (
+        389,
+        '2009-05-30 22:43:10',
+        'Instagram',
+        1,
+        2009,
+        'Matthew Garcia'
+    ),
+    (
+        389,
+        '2009-05-30 22:43:10',
+        'Instagram',
+        4,
+        2009,
+        'Olivia Nichols'
+    ),
+    (
+        279,
+        '2015-05-30 22:31:18',
+        'Facebook',
+        3,
+        2015,
+        'Robert White'
+    ),
+    (
+        279,
+        '2015-05-30 22:31:18',
+        'Facebook',
+        4,
+        2015,
+        'Louis Phillips'
+    ),
+    (
+        279,
+        '2015-05-30 22:31:18',
+        'Facebook',
+        5,
+        2015,
+        'Nicholas Black'
+    ),
+    (
+        279,
+        '2015-05-30 22:31:18',
+        'Facebook',
+        2,
+        2015,
+        'Deborah Sparks'
+    ),
+    (
+        279,
+        '2015-05-30 22:31:18',
+        'Facebook',
+        1,
+        2015,
+        'Travis Hays'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        641,
+        '2012-05-26 23:33:59',
+        'Web',
+        1,
+        2012,
+        'Anthony Bradford'
+    ),
+    (
+        641,
+        '2012-05-26 23:33:59',
+        'Web',
+        5,
+        2012,
+        'Tyler Jordan'
+    ),
+    (
+        641,
+        '2012-05-26 23:33:59',
+        'Web',
+        4,
+        2012,
+        'Stephanie Patrick'
+    ),
+    (
+        641,
+        '2012-05-26 23:33:59',
+        'Web',
+        3,
+        2012,
+        'Jose Smith Jr.'
+    ),
+    (
+        641,
+        '2012-05-26 23:33:59',
+        'Web',
+        2,
+        2012,
+        'Lynn Booth'
+    ),
+    (
+        309,
+        '2018-05-26 23:00:15',
+        'Phone',
+        2,
+        2018,
+        'John Hubbard'
+    ),
+    (
+        309,
+        '2018-05-26 23:00:15',
+        'Phone',
+        3,
+        2018,
+        'Laura Barnes'
+    ),
+    (
+        309,
+        '2018-05-26 23:00:15',
+        'Phone',
+        5,
+        2018,
+        'Brandon Ruiz'
+    ),
+    (
+        309,
+        '2018-05-26 23:00:15',
+        'Phone',
+        1,
+        2018,
+        'Danielle Miller'
+    ),
+    (
+        309,
+        '2018-05-26 23:00:15',
+        'Phone',
+        4,
+        2018,
+        'Charles Glover'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        276,
+        '2019-05-25 23:12:14',
+        'Instagram',
+        1,
+        2019,
+        'Cameron Hawkins'
+    ),
+    (
+        276,
+        '2019-05-25 23:12:14',
+        'Instagram',
+        4,
+        2019,
+        'Terry Powell'
+    ),
+    (
+        276,
+        '2019-05-25 23:12:14',
+        'Instagram',
+        3,
+        2019,
+        'Jennifer Ford'
+    ),
+    (
+        276,
+        '2019-05-25 23:12:14',
+        'Instagram',
+        2,
+        2019,
+        'Sarah Hancock'
+    ),
+    (
+        276,
+        '2019-05-25 23:12:14',
+        'Instagram',
+        5,
+        2019,
+        'Samantha Jones'
+    ),
+    (
+        899,
+        '2014-05-31 22:13:31',
+        'Web',
+        3,
+        2014,
+        'Christopher Hodge'
+    ),
+    (
+        899,
+        '2014-05-31 22:13:31',
+        'Web',
+        2,
+        2014,
+        'Melissa Williams'
+    ),
+    (
+        899,
+        '2014-05-31 22:13:31',
+        'Web',
+        5,
+        2014,
+        'Teresa Martin'
+    ),
+    (
+        899,
+        '2014-05-31 22:13:31',
+        'Web',
+        4,
+        2014,
+        'Todd Miller'
+    ),
+    (
+        899,
+        '2014-05-31 22:13:31',
+        'Web',
+        1,
+        2014,
+        'Lisa Wright'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        17,
+        '2015-05-30 23:21:12',
+        'Facebook',
+        2,
+        2015,
+        'Deborah Sparks'
+    ),
+    (
+        17,
+        '2015-05-30 23:21:12',
+        'Facebook',
+        5,
+        2015,
+        'Nicholas Black'
+    ),
+    (
+        17,
+        '2015-05-30 23:21:12',
+        'Facebook',
+        3,
+        2015,
+        'Travis Hays'
+    ),
+    (
+        17,
+        '2015-05-30 23:21:12',
+        'Facebook',
+        1,
+        2015,
+        'Lisa Patrick'
+    ),
+    (
+        17,
+        '2015-05-30 23:21:12',
+        'Facebook',
+        4,
+        2015,
+        'Nathan Bailey'
+    ),
+    (
+        635,
+        '2013-05-25 22:35:25',
+        'Phone',
+        2,
+        2013,
+        'Anthony Villanueva'
+    ),
+    (
+        635,
+        '2013-05-25 22:35:25',
+        'Phone',
+        5,
+        2013,
+        'Thomas Hess'
+    ),
+    (
+        71,
+        '2009-05-30 23:19:35',
+        'Phone',
+        4,
+        2009,
+        'Kimberly Craig'
+    ),
+    (
+        71,
+        '2009-05-30 23:19:35',
+        'Phone',
+        5,
+        2009,
+        'Melanie Hall'
+    ),
+    (
+        71,
+        '2009-05-30 23:19:35',
+        'Phone',
+        3,
+        2009,
+        'Olivia Nichols'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        71,
+        '2009-05-30 23:19:35',
+        'Phone',
+        2,
+        2009,
+        'Matthew Garcia'
+    ),
+    (
+        71,
+        '2009-05-30 23:19:35',
+        'Phone',
+        1,
+        2009,
+        'Carrie Bell'
+    ),
+    (
+        187,
+        '2015-05-30 22:35:14',
+        'Instagram',
+        5,
+        2015,
+        'Brett Benjamin'
+    ),
+    (
+        187,
+        '2015-05-30 22:35:14',
+        'Instagram',
+        4,
+        2015,
+        'Heidi Barry'
+    ),
+    (
+        187,
+        '2015-05-30 22:35:14',
+        'Instagram',
+        3,
+        2015,
+        'Colleen White'
+    ),
+    (
+        187,
+        '2015-05-30 22:35:14',
+        'Instagram',
+        1,
+        2015,
+        'Nathan Bailey'
+    ),
+    (
+        187,
+        '2015-05-30 22:35:14',
+        'Instagram',
+        2,
+        2015,
+        'Lisa Patrick'
+    ),
+    (
+        233,
+        '2021-05-29 23:54:15',
+        'Instagram',
+        1,
+        2021,
+        'Robin Myers'
+    ),
+    (
+        233,
+        '2021-05-29 23:54:15',
+        'Instagram',
+        4,
+        2021,
+        'Thomas Smith'
+    ),
+    (
+        233,
+        '2021-05-29 23:54:15',
+        'Instagram',
+        5,
+        2021,
+        'Caleb Ellison'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        233,
+        '2021-05-29 23:54:15',
+        'Instagram',
+        2,
+        2021,
+        'Jack Singh'
+    ),
+    (
+        233,
+        '2021-05-29 23:54:15',
+        'Instagram',
+        3,
+        2021,
+        'Amber Mcdowell'
+    ),
+    (
+        892,
+        '2013-05-25 23:04:39',
+        'Instagram',
+        3,
+        2013,
+        'Wendy Cunningham'
+    ),
+    (
+        892,
+        '2013-05-25 23:04:39',
+        'Instagram',
+        1,
+        2013,
+        'Kimberly Larsen'
+    ),
+    (
+        892,
+        '2013-05-25 23:04:39',
+        'Instagram',
+        2,
+        2013,
+        'Tony Prince'
+    ),
+    (
+        892,
+        '2013-05-25 23:04:39',
+        'Instagram',
+        4,
+        2013,
+        'Blake Martinez'
+    ),
+    (
+        892,
+        '2013-05-25 23:04:39',
+        'Instagram',
+        5,
+        2013,
+        'Diane Cooper'
+    ),
+    (
+        41,
+        '2023-05-27 23:18:56',
+        'Phone',
+        2,
+        2023,
+        'Scott Baker'
+    ),
+    (
+        41,
+        '2023-05-27 23:18:56',
+        'Phone',
+        5,
+        2023,
+        'Samantha Erickson'
+    ),
+    (
+        41,
+        '2023-05-27 23:18:56',
+        'Phone',
+        4,
+        2023,
+        'Christine Hayes'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        41,
+        '2023-05-27 23:18:56',
+        'Phone',
+        3,
+        2023,
+        'Paula Henderson'
+    ),
+    (
+        41,
+        '2023-05-27 23:18:56',
+        'Phone',
+        1,
+        2023,
+        'Michael Butler'
+    ),
+    (
+        520,
+        '2013-05-25 22:57:59',
+        'Web',
+        4,
+        2013,
+        'Kimberly Larsen'
+    ),
+    (
+        520,
+        '2013-05-25 22:57:59',
+        'Web',
+        2,
+        2013,
+        'Wendy Cunningham'
+    ),
+    (
+        520,
+        '2013-05-25 22:57:59',
+        'Web',
+        3,
+        2013,
+        'Blake Martinez'
+    ),
+    (
+        520,
+        '2013-05-25 22:57:59',
+        'Web',
+        5,
+        2013,
+        'Angela Phillips'
+    ),
+    (
+        520,
+        '2013-05-25 22:57:59',
+        'Web',
+        1,
+        2013,
+        'Diane Cooper'
+    ),
+    (
+        138,
+        '2011-05-28 23:17:24',
+        'Facebook',
+        4,
+        2011,
+        'Wesley Garcia'
+    ),
+    (
+        880,
+        '2021-05-29 22:39:33',
+        'Facebook',
+        5,
+        2021,
+        'Robin Myers'
+    ),
+    (
+        880,
+        '2021-05-29 22:39:33',
+        'Facebook',
+        3,
+        2021,
+        'Tamara Barnes'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        880,
+        '2021-05-29 22:39:33',
+        'Facebook',
+        2,
+        2021,
+        'Ann Perez'
+    ),
+    (
+        880,
+        '2021-05-29 22:39:33',
+        'Facebook',
+        1,
+        2021,
+        'Manuel Caldwell'
+    ),
+    (
+        880,
+        '2021-05-29 22:39:33',
+        'Facebook',
+        4,
+        2021,
+        'Thomas Smith'
+    ),
+    (
+        752,
+        '2020-05-30 23:41:44',
+        'Instagram',
+        5,
+        2020,
+        'Jacob Hickman'
+    ),
+    (
+        752,
+        '2020-05-30 23:41:44',
+        'Instagram',
+        2,
+        2020,
+        'Travis Walker'
+    ),
+    (
+        752,
+        '2020-05-30 23:41:44',
+        'Instagram',
+        1,
+        2020,
+        'Benjamin Thomas'
+    ),
+    (
+        752,
+        '2020-05-30 23:41:44',
+        'Instagram',
+        3,
+        2020,
+        'Lisa Mcdaniel'
+    ),
+    (
+        752,
+        '2020-05-30 23:41:44',
+        'Instagram',
+        4,
+        2020,
+        'Lisa Wood'
+    ),
+    (
+        365,
+        '2018-05-26 23:25:31',
+        'Web',
+        1,
+        2018,
+        'Laura Barnes'
+    ),
+    (
+        365,
+        '2018-05-26 23:25:31',
+        'Web',
+        4,
+        2018,
+        'Diane Harrison'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        365,
+        '2018-05-26 23:25:31',
+        'Web',
+        5,
+        2018,
+        'Carrie Clark'
+    ),
+    (
+        365,
+        '2018-05-26 23:25:31',
+        'Web',
+        3,
+        2018,
+        'Brandon Ruiz'
+    ),
+    (
+        365,
+        '2018-05-26 23:25:31',
+        'Web',
+        2,
+        2018,
+        'Jessica Williams'
+    ),
+    (
+        7,
+        '2020-05-30 22:51:59',
+        'Phone',
+        3,
+        2020,
+        'Travis Walker'
+    ),
+    (
+        7,
+        '2020-05-30 22:51:59',
+        'Phone',
+        2,
+        2020,
+        'Lisa Mcdaniel'
+    ),
+    (
+        7,
+        '2020-05-30 22:51:59',
+        'Phone',
+        5,
+        2020,
+        'Charles Maddox'
+    ),
+    (
+        7,
+        '2020-05-30 22:51:59',
+        'Phone',
+        4,
+        2020,
+        'Juan Huerta'
+    ),
+    (
+        7,
+        '2020-05-30 22:51:59',
+        'Phone',
+        1,
+        2020,
+        'Mr. Steven Yoder'
+    ),
+    (
+        636,
+        '2023-05-27 22:34:42',
+        'Phone',
+        3,
+        2023,
+        'Manuel Graves'
+    ),
+    (
+        636,
+        '2023-05-27 22:34:42',
+        'Phone',
+        4,
+        2023,
+        'Jacqueline Wagner'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        636,
+        '2023-05-27 22:34:42',
+        'Phone',
+        1,
+        2023,
+        'Thomas Ruiz'
+    ),
+    (
+        636,
+        '2023-05-27 22:34:42',
+        'Phone',
+        5,
+        2023,
+        'Scott Baker'
+    ),
+    (
+        636,
+        '2023-05-27 22:34:42',
+        'Phone',
+        2,
+        2023,
+        'Leslie Lee'
+    ),
+    (
+        488,
+        '2013-05-25 22:16:24',
+        'Phone',
+        4,
+        2013,
+        'Wendy Cunningham'
+    ),
+    (
+        488,
+        '2013-05-25 22:16:24',
+        'Phone',
+        3,
+        2013,
+        'Cassandra Hooper'
+    ),
+    (
+        488,
+        '2013-05-25 22:16:24',
+        'Phone',
+        1,
+        2013,
+        'Blake Martinez'
+    ),
+    (
+        488,
+        '2013-05-25 22:16:24',
+        'Phone',
+        2,
+        2013,
+        'Nancy Mcmahon'
+    ),
+    (
+        488,
+        '2013-05-25 22:16:24',
+        'Phone',
+        5,
+        2013,
+        'Angela Phillips'
+    ),
+    (
+        221,
+        '2017-05-27 23:58:46',
+        'Phone',
+        3,
+        2017,
+        'Rachel Cole'
+    ),
+    (
+        221,
+        '2017-05-27 23:58:46',
+        'Phone',
+        4,
+        2017,
+        'Nathan Williams'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        221,
+        '2017-05-27 23:58:46',
+        'Phone',
+        5,
+        2017,
+        'Sean Ward'
+    ),
+    (
+        221,
+        '2017-05-27 23:58:46',
+        'Phone',
+        2,
+        2017,
+        'Elizabeth Koch'
+    ),
+    (
+        221,
+        '2017-05-27 23:58:46',
+        'Phone',
+        1,
+        2017,
+        'Matthew Vaughn'
+    ),
+    (
+        437,
+        '2022-05-28 23:09:39',
+        'Instagram',
+        5,
+        2022,
+        'Michael Martinez'
+    ),
+    (
+        437,
+        '2022-05-28 23:09:39',
+        'Instagram',
+        4,
+        2022,
+        'Stephanie Smith'
+    ),
+    (
+        437,
+        '2022-05-28 23:09:39',
+        'Instagram',
+        1,
+        2022,
+        'Michael Baker'
+    ),
+    (
+        437,
+        '2022-05-28 23:09:39',
+        'Instagram',
+        3,
+        2022,
+        'Gary Stone'
+    ),
+    (
+        437,
+        '2022-05-28 23:09:39',
+        'Instagram',
+        2,
+        2022,
+        'Andre Burton'
+    ),
+    (
+        209,
+        '2016-05-28 23:41:46',
+        'Phone',
+        2,
+        2016,
+        'Derek Schwartz'
+    ),
+    (
+        209,
+        '2016-05-28 23:41:46',
+        'Phone',
+        3,
+        2016,
+        'Tara Mcgee'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        209,
+        '2016-05-28 23:41:46',
+        'Phone',
+        1,
+        2016,
+        'Melody Reese MD'
+    ),
+    (
+        209,
+        '2016-05-28 23:41:46',
+        'Phone',
+        5,
+        2016,
+        'Alejandra Walter'
+    ),
+    (
+        209,
+        '2016-05-28 23:41:46',
+        'Phone',
+        4,
+        2016,
+        'Brian Ingram'
+    ),
+    (
+        731,
+        '2024-05-25 23:13:11',
+        'Facebook',
+        3,
+        2024,
+        'Austin Williams'
+    ),
+    (
+        731,
+        '2024-05-25 23:13:11',
+        'Facebook',
+        4,
+        2024,
+        'Alexis Fields'
+    ),
+    (
+        731,
+        '2024-05-25 23:13:11',
+        'Facebook',
+        1,
+        2024,
+        'Gabriel Arroyo'
+    ),
+    (
+        731,
+        '2024-05-25 23:13:11',
+        'Facebook',
+        2,
+        2024,
+        'Emily Buck'
+    ),
+    (
+        731,
+        '2024-05-25 23:13:11',
+        'Facebook',
+        5,
+        2024,
+        'Amber Williams'
+    ),
+    (
+        276,
+        '2013-05-25 23:32:16',
+        'Instagram',
+        1,
+        2013,
+        'Tony Prince'
+    ),
+    (
+        276,
+        '2013-05-25 23:32:16',
+        'Instagram',
+        4,
+        2013,
+        'Cassandra Hooper'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        777,
+        '2019-05-25 23:36:35',
+        'Facebook',
+        4,
+        2019,
+        'Terry Powell'
+    ),
+    (
+        777,
+        '2019-05-25 23:36:35',
+        'Facebook',
+        1,
+        2019,
+        'Kathryn Alvarez'
+    ),
+    (
+        777,
+        '2019-05-25 23:36:35',
+        'Facebook',
+        3,
+        2019,
+        'Aaron Peterson'
+    ),
+    (
+        777,
+        '2019-05-25 23:36:35',
+        'Facebook',
+        5,
+        2019,
+        'Sarah Hancock'
+    ),
+    (
+        777,
+        '2019-05-25 23:36:35',
+        'Facebook',
+        2,
+        2019,
+        'Patrick Wilson'
+    ),
+    (
+        320,
+        '2018-05-26 23:49:57',
+        'Facebook',
+        3,
+        2018,
+        'Charles Glover'
+    ),
+    (
+        320,
+        '2018-05-26 23:49:57',
+        'Facebook',
+        4,
+        2018,
+        'Carrie Clark'
+    ),
+    (
+        320,
+        '2018-05-26 23:49:57',
+        'Facebook',
+        5,
+        2018,
+        'Brandon Ruiz'
+    ),
+    (
+        320,
+        '2018-05-26 23:49:57',
+        'Facebook',
+        1,
+        2018,
+        'John Hubbard'
+    ),
+    (
+        320,
+        '2018-05-26 23:49:57',
+        'Facebook',
+        2,
+        2018,
+        'Laura Barnes'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        899,
+        '2009-05-30 23:38:14',
+        'Instagram',
+        2,
+        2009,
+        'Olivia Nichols'
+    ),
+    (
+        899,
+        '2009-05-30 23:38:14',
+        'Instagram',
+        5,
+        2009,
+        'Carrie Bell'
+    ),
+    (
+        899,
+        '2009-05-30 23:38:14',
+        'Instagram',
+        3,
+        2009,
+        'Matthew Garcia'
+    ),
+    (
+        899,
+        '2009-05-30 23:38:14',
+        'Instagram',
+        1,
+        2009,
+        'Melanie Hall'
+    ),
+    (
+        899,
+        '2009-05-30 23:38:14',
+        'Instagram',
+        4,
+        2009,
+        'Kimberly Craig'
+    ),
+    (
+        548,
+        '2013-05-25 22:45:21',
+        'Phone',
+        3,
+        2013,
+        'Blake Martinez'
+    ),
+    (
+        548,
+        '2013-05-25 22:45:21',
+        'Phone',
+        1,
+        2013,
+        'Angela Phillips'
+    ),
+    (
+        548,
+        '2013-05-25 22:45:21',
+        'Phone',
+        5,
+        2013,
+        'Diane Cooper'
+    ),
+    (
+        548,
+        '2013-05-25 22:45:21',
+        'Phone',
+        4,
+        2013,
+        'Nancy Mcmahon'
+    ),
+    (
+        548,
+        '2013-05-25 22:45:21',
+        'Phone',
+        2,
+        2013,
+        'Thomas Hess'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        484,
+        '2023-05-27 23:45:17',
+        'Web',
+        5,
+        2023,
+        'Scott Baker'
+    ),
+    (
+        484,
+        '2023-05-27 23:45:17',
+        'Web',
+        1,
+        2023,
+        'Christine Hayes'
+    ),
+    (
+        484,
+        '2023-05-27 23:45:17',
+        'Web',
+        4,
+        2023,
+        'Thomas Ruiz'
+    ),
+    (
+        484,
+        '2023-05-27 23:45:17',
+        'Web',
+        2,
+        2023,
+        'Michael Butler'
+    ),
+    (
+        484,
+        '2023-05-27 23:45:17',
+        'Web',
+        3,
+        2023,
+        'Jacqueline Wagner'
+    ),
+    (
+        513,
+        '2014-05-31 23:25:53',
+        'Instagram',
+        3,
+        2014,
+        'Christopher Hodge'
+    ),
+    (
+        513,
+        '2014-05-31 23:25:53',
+        'Instagram',
+        1,
+        2014,
+        'Zachary Fox'
+    ),
+    (
+        513,
+        '2014-05-31 23:25:53',
+        'Instagram',
+        5,
+        2014,
+        'John Conner'
+    ),
+    (
+        513,
+        '2014-05-31 23:25:53',
+        'Instagram',
+        2,
+        2014,
+        'Teresa Martin'
+    ),
+    (
+        513,
+        '2014-05-31 23:25:53',
+        'Instagram',
+        4,
+        2014,
+        'Luke Williams'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        307,
+        '2014-05-31 22:52:32',
+        'Phone',
+        4,
+        2014,
+        'Todd Miller'
+    ),
+    (
+        307,
+        '2014-05-31 22:52:32',
+        'Phone',
+        5,
+        2014,
+        'John Conner'
+    ),
+    (
+        307,
+        '2014-05-31 22:52:32',
+        'Phone',
+        2,
+        2014,
+        'Zachary Fox'
+    ),
+    (
+        307,
+        '2014-05-31 22:52:32',
+        'Phone',
+        1,
+        2014,
+        'Melissa Williams'
+    ),
+    (
+        307,
+        '2014-05-31 22:52:32',
+        'Phone',
+        3,
+        2014,
+        'Carol Garrett'
+    ),
+    (
+        26,
+        '2020-05-30 23:18:34',
+        'Web',
+        4,
+        2020,
+        'Lisa Wood'
+    ),
+    (
+        26,
+        '2020-05-30 23:18:34',
+        'Web',
+        3,
+        2020,
+        'Danielle Berger'
+    ),
+    (
+        26,
+        '2020-05-30 23:18:34',
+        'Web',
+        2,
+        2020,
+        'Charles Maddox'
+    ),
+    (
+        26,
+        '2020-05-30 23:18:34',
+        'Web',
+        1,
+        2020,
+        'Mr. Steven Yoder'
+    ),
+    (
+        26,
+        '2020-05-30 23:18:34',
+        'Web',
+        5,
+        2020,
+        'Benjamin Thomas'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        675,
+        '2017-05-27 23:19:52',
+        'Web',
+        1,
+        2017,
+        'Matthew Vaughn'
+    ),
+    (
+        675,
+        '2017-05-27 23:19:52',
+        'Web',
+        2,
+        2017,
+        'Elizabeth Koch'
+    ),
+    (
+        675,
+        '2017-05-27 23:19:52',
+        'Web',
+        5,
+        2017,
+        'Brian Mccall'
+    ),
+    (
+        675,
+        '2017-05-27 23:19:52',
+        'Web',
+        4,
+        2017,
+        'Sean Ward'
+    ),
+    (
+        675,
+        '2017-05-27 23:19:52',
+        'Web',
+        3,
+        2017,
+        'Andrea Hill'
+    ),
+    (
+        978,
+        '2018-05-26 23:05:09',
+        'Phone',
+        3,
+        2018,
+        'Brandon Ruiz'
+    ),
+    (
+        978,
+        '2018-05-26 23:05:09',
+        'Phone',
+        1,
+        2018,
+        'John Hubbard'
+    ),
+    (
+        978,
+        '2018-05-26 23:05:09',
+        'Phone',
+        5,
+        2018,
+        'Charles Glover'
+    ),
+    (
+        978,
+        '2018-05-26 23:05:09',
+        'Phone',
+        2,
+        2018,
+        'Steven Cox'
+    ),
+    (
+        978,
+        '2018-05-26 23:05:09',
+        'Phone',
+        4,
+        2018,
+        'Laura Barnes'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        687,
+        '2014-05-31 23:11:38',
+        'Facebook',
+        1,
+        2014,
+        'Todd Miller'
+    ),
+    (
+        687,
+        '2014-05-31 23:11:38',
+        'Facebook',
+        5,
+        2014,
+        'Luke Williams'
+    ),
+    (
+        687,
+        '2014-05-31 23:11:38',
+        'Facebook',
+        2,
+        2014,
+        'Zachary Fox'
+    ),
+    (
+        687,
+        '2014-05-31 23:11:38',
+        'Facebook',
+        3,
+        2014,
+        'Carol Garrett'
+    ),
+    (
+        687,
+        '2014-05-31 23:11:38',
+        'Facebook',
+        4,
+        2014,
+        'Teresa Martin'
+    ),
+    (
+        397,
+        '2024-05-25 22:57:11',
+        'Web',
+        5,
+        2024,
+        'Emily Buck'
+    ),
+    (
+        397,
+        '2024-05-25 22:57:11',
+        'Web',
+        4,
+        2024,
+        'Amber Williams'
+    ),
+    (
+        397,
+        '2024-05-25 22:57:11',
+        'Web',
+        1,
+        2024,
+        'Taylor Lopez'
+    ),
+    (
+        397,
+        '2024-05-25 22:57:11',
+        'Web',
+        3,
+        2024,
+        'Richard Lewis'
+    ),
+    (
+        397,
+        '2024-05-25 22:57:11',
+        'Web',
+        2,
+        2024,
+        'Christopher Singh'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        517,
+        '2020-05-30 22:55:35',
+        'Phone',
+        5,
+        2020,
+        'Travis Walker'
+    ),
+    (
+        517,
+        '2020-05-30 22:55:35',
+        'Phone',
+        4,
+        2020,
+        'Lisa Mcdaniel'
+    ),
+    (
+        517,
+        '2020-05-30 22:55:35',
+        'Phone',
+        2,
+        2020,
+        'Jacob Hickman'
+    ),
+    (
+        517,
+        '2020-05-30 22:55:35',
+        'Phone',
+        3,
+        2020,
+        'Danielle Berger'
+    ),
+    (
+        517,
+        '2020-05-30 22:55:35',
+        'Phone',
+        1,
+        2020,
+        'Charles Maddox'
+    ),
+    (
+        770,
+        '2015-05-30 22:09:46',
+        'Phone',
+        1,
+        2015,
+        'Nicholas Black'
+    ),
+    (
+        770,
+        '2015-05-30 22:09:46',
+        'Phone',
+        4,
+        2015,
+        'Nathan Bailey'
+    ),
+    (
+        770,
+        '2015-05-30 22:09:46',
+        'Phone',
+        2,
+        2015,
+        'Louis Phillips'
+    ),
+    (
+        770,
+        '2015-05-30 22:09:46',
+        'Phone',
+        3,
+        2015,
+        'Robert White'
+    ),
+    (
+        770,
+        '2015-05-30 22:09:46',
+        'Phone',
+        5,
+        2015,
+        'Colleen White'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        347,
+        '2023-05-27 22:25:26',
+        'Phone',
+        1,
+        2023,
+        'Jacqueline Wagner'
+    ),
+    (
+        347,
+        '2023-05-27 22:25:26',
+        'Phone',
+        4,
+        2023,
+        'Manuel Graves'
+    ),
+    (
+        347,
+        '2023-05-27 22:25:26',
+        'Phone',
+        2,
+        2023,
+        'Megan Saunders'
+    ),
+    (
+        347,
+        '2023-05-27 22:25:26',
+        'Phone',
+        5,
+        2023,
+        'Leslie Lee'
+    ),
+    (
+        347,
+        '2023-05-27 22:25:26',
+        'Phone',
+        3,
+        2023,
+        'Paula Henderson'
+    ),
+    (
+        917,
+        '2009-05-30 22:46:34',
+        'Phone',
+        5,
+        2009,
+        'Carrie Bell'
+    ),
+    (
+        917,
+        '2009-05-30 22:46:34',
+        'Phone',
+        2,
+        2009,
+        'Matthew Garcia'
+    ),
+    (
+        917,
+        '2009-05-30 22:46:34',
+        'Phone',
+        1,
+        2009,
+        'Leslie Saunders'
+    ),
+    (
+        917,
+        '2009-05-30 22:46:34',
+        'Phone',
+        3,
+        2009,
+        'Olivia Nichols'
+    ),
+    (
+        917,
+        '2009-05-30 22:46:34',
+        'Phone',
+        4,
+        2009,
+        'Sandra Lopez'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        192,
+        '2024-05-25 22:30:29',
+        'Instagram',
+        5,
+        2024,
+        'Emily Buck'
+    ),
+    (
+        192,
+        '2024-05-25 22:30:29',
+        'Instagram',
+        2,
+        2024,
+        'Richard Lewis'
+    ),
+    (
+        192,
+        '2024-05-25 22:30:29',
+        'Instagram',
+        3,
+        2024,
+        'Christopher Singh'
+    ),
+    (
+        192,
+        '2024-05-25 22:30:29',
+        'Instagram',
+        4,
+        2024,
+        'Alexis Fields'
+    ),
+    (
+        192,
+        '2024-05-25 22:30:29',
+        'Instagram',
+        1,
+        2024,
+        'Gabriel Arroyo'
+    ),
+    (
+        832,
+        '2014-05-31 23:32:26',
+        'Facebook',
+        5,
+        2014,
+        'John Conner'
+    ),
+    (
+        832,
+        '2014-05-31 23:32:26',
+        'Facebook',
+        3,
+        2014,
+        'Lisa Wright'
+    ),
+    (
+        832,
+        '2014-05-31 23:32:26',
+        'Facebook',
+        4,
+        2014,
+        'Zachary Fox'
+    ),
+    (
+        832,
+        '2014-05-31 23:32:26',
+        'Facebook',
+        1,
+        2014,
+        'Carol Garrett'
+    ),
+    (
+        832,
+        '2014-05-31 23:32:26',
+        'Facebook',
+        2,
+        2014,
+        'Luke Williams'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        847,
+        '2017-05-27 23:23:48',
+        'Web',
+        4,
+        2017,
+        'Matthew Vaughn'
+    ),
+    (
+        847,
+        '2017-05-27 23:23:48',
+        'Web',
+        1,
+        2017,
+        'Brian Mccall'
+    ),
+    (
+        197,
+        '2022-05-28 23:00:11',
+        'Phone',
+        2,
+        2022,
+        'Thomas Gregory'
+    ),
+    (
+        197,
+        '2022-05-28 23:00:11',
+        'Phone',
+        3,
+        2022,
+        'Robert Curtis'
+    ),
+    (
+        197,
+        '2022-05-28 23:00:11',
+        'Phone',
+        4,
+        2022,
+        'Andrew Hodges'
+    ),
+    (
+        197,
+        '2022-05-28 23:00:11',
+        'Phone',
+        5,
+        2022,
+        'Stephanie Smith'
+    ),
+    (
+        197,
+        '2022-05-28 23:00:11',
+        'Phone',
+        1,
+        2022,
+        'Michelle Martin'
+    ),
+    (
+        988,
+        '2018-05-26 22:24:50',
+        'Facebook',
+        4,
+        2018,
+        'John Hubbard'
+    ),
+    (
+        988,
+        '2018-05-26 22:24:50',
+        'Facebook',
+        2,
+        2018,
+        'Carrie Clark'
+    ),
+    (
+        988,
+        '2018-05-26 22:24:50',
+        'Facebook',
+        3,
+        2018,
+        'Kimberly Davis'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        988,
+        '2018-05-26 22:24:50',
+        'Facebook',
+        5,
+        2018,
+        'Brandon Ruiz'
+    ),
+    (
+        988,
+        '2018-05-26 22:24:50',
+        'Facebook',
+        1,
+        2018,
+        'Danielle Miller'
+    ),
+    (
+        869,
+        '2015-05-30 22:34:51',
+        'Facebook',
+        4,
+        2015,
+        'Heidi Barry'
+    ),
+    (
+        869,
+        '2015-05-30 22:34:51',
+        'Facebook',
+        5,
+        2015,
+        'Deborah Sparks'
+    ),
+    (
+        869,
+        '2015-05-30 22:34:51',
+        'Facebook',
+        3,
+        2015,
+        'Colleen White'
+    ),
+    (
+        869,
+        '2015-05-30 22:34:51',
+        'Facebook',
+        1,
+        2015,
+        'Robert White'
+    ),
+    (
+        869,
+        '2015-05-30 22:34:51',
+        'Facebook',
+        2,
+        2015,
+        'Nicholas Black'
+    ),
+    (
+        153,
+        '2013-05-25 23:12:07',
+        'Web',
+        1,
+        2013,
+        'Wendy Cunningham'
+    ),
+    (
+        153,
+        '2013-05-25 23:12:07',
+        'Web',
+        4,
+        2013,
+        'Thomas Hess'
+    ),
+    (
+        153,
+        '2013-05-25 23:12:07',
+        'Web',
+        3,
+        2013,
+        'Cassandra Hooper'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        153,
+        '2013-05-25 23:12:07',
+        'Web',
+        5,
+        2013,
+        'Kimberly Larsen'
+    ),
+    (
+        153,
+        '2013-05-25 23:12:07',
+        'Web',
+        2,
+        2013,
+        'Tony Prince'
+    ),
+    (
+        563,
+        '2014-05-31 22:05:20',
+        'Phone',
+        1,
+        2014,
+        'Mary Vance'
+    ),
+    (
+        563,
+        '2014-05-31 22:05:20',
+        'Phone',
+        5,
+        2014,
+        'Teresa Martin'
+    ),
+    (
+        563,
+        '2014-05-31 22:05:20',
+        'Phone',
+        4,
+        2014,
+        'Luke Williams'
+    ),
+    (
+        563,
+        '2014-05-31 22:05:20',
+        'Phone',
+        2,
+        2014,
+        'Melissa Williams'
+    ),
+    (
+        563,
+        '2014-05-31 22:05:20',
+        'Phone',
+        3,
+        2014,
+        'Lisa Wright'
+    ),
+    (
+        569,
+        '2020-05-30 23:55:48',
+        'Instagram',
+        5,
+        2020,
+        'Juan Huerta'
+    ),
+    (
+        569,
+        '2020-05-30 23:55:48',
+        'Instagram',
+        2,
+        2020,
+        'Danielle Berger'
+    ),
+    (
+        569,
+        '2020-05-30 23:55:48',
+        'Instagram',
+        1,
+        2020,
+        'Lisa Wood'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        569,
+        '2020-05-30 23:55:48',
+        'Instagram',
+        4,
+        2020,
+        'Travis Walker'
+    ),
+    (
+        569,
+        '2020-05-30 23:55:48',
+        'Instagram',
+        3,
+        2020,
+        'Benjamin Thomas'
+    ),
+    (
+        437,
+        '2015-05-30 23:55:26',
+        'Phone',
+        4,
+        2015,
+        'Deborah Sparks'
+    ),
+    (
+        437,
+        '2015-05-30 23:55:26',
+        'Phone',
+        1,
+        2015,
+        'Robert White'
+    ),
+    (
+        437,
+        '2015-05-30 23:55:26',
+        'Phone',
+        2,
+        2015,
+        'Brett Benjamin'
+    ),
+    (
+        437,
+        '2015-05-30 23:55:26',
+        'Phone',
+        5,
+        2015,
+        'Travis Hays'
+    ),
+    (
+        437,
+        '2015-05-30 23:55:26',
+        'Phone',
+        3,
+        2015,
+        'Nathan Bailey'
+    ),
+    (
+        255,
+        '2010-05-29 22:53:06',
+        'Facebook',
+        4,
+        2010,
+        'Matthew Rice'
+    ),
+    (
+        255,
+        '2010-05-29 22:53:06',
+        'Facebook',
+        5,
+        2010,
+        'David Williams'
+    ),
+    (
+        463,
+        '2014-05-31 22:23:56',
+        'Web',
+        3,
+        2014,
+        'Luke Williams'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        463,
+        '2014-05-31 22:23:56',
+        'Web',
+        4,
+        2014,
+        'Teresa Martin'
+    ),
+    (
+        463,
+        '2014-05-31 22:23:56',
+        'Web',
+        5,
+        2014,
+        'Lisa Wright'
+    ),
+    (
+        463,
+        '2014-05-31 22:23:56',
+        'Web',
+        2,
+        2014,
+        'Zachary Fox'
+    ),
+    (
+        463,
+        '2014-05-31 22:23:56',
+        'Web',
+        1,
+        2014,
+        'Mary Vance'
+    ),
+    (
+        917,
+        '2021-05-29 23:42:58',
+        'Web',
+        4,
+        2021,
+        'Aaron Baldwin'
+    ),
+    (
+        917,
+        '2021-05-29 23:42:58',
+        'Web',
+        5,
+        2021,
+        'Jack Singh'
+    ),
+    (
+        917,
+        '2021-05-29 23:42:58',
+        'Web',
+        2,
+        2021,
+        'Robin Myers'
+    ),
+    (
+        917,
+        '2021-05-29 23:42:58',
+        'Web',
+        1,
+        2021,
+        'Amber Mcdowell'
+    ),
+    (
+        917,
+        '2021-05-29 23:42:58',
+        'Web',
+        3,
+        2021,
+        'Manuel Caldwell'
+    ),
+    (
+        720,
+        '2012-05-26 23:58:38',
+        'Phone',
+        3,
+        2012,
+        'Maria Robertson'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        720,
+        '2012-05-26 23:58:38',
+        'Phone',
+        4,
+        2012,
+        'Lynn Booth'
+    ),
+    (
+        720,
+        '2012-05-26 23:58:38',
+        'Phone',
+        2,
+        2012,
+        'Patrick Benson'
+    ),
+    (
+        720,
+        '2012-05-26 23:58:38',
+        'Phone',
+        5,
+        2012,
+        'Tyler Jordan'
+    ),
+    (
+        720,
+        '2012-05-26 23:58:38',
+        'Phone',
+        1,
+        2012,
+        'Kenneth Warner'
+    ),
+    (
+        556,
+        '2021-05-29 23:26:08',
+        'Facebook',
+        3,
+        2021,
+        'Amber Mcdowell'
+    ),
+    (
+        556,
+        '2021-05-29 23:26:08',
+        'Facebook',
+        1,
+        2021,
+        'Aaron Baldwin'
+    ),
+    (
+        556,
+        '2021-05-29 23:26:08',
+        'Facebook',
+        4,
+        2021,
+        'Manuel Caldwell'
+    ),
+    (
+        556,
+        '2021-05-29 23:26:08',
+        'Facebook',
+        5,
+        2021,
+        'Caleb Ellison'
+    ),
+    (
+        556,
+        '2021-05-29 23:26:08',
+        'Facebook',
+        2,
+        2021,
+        'Thomas Smith'
+    ),
+    (
+        901,
+        '2017-05-27 22:00:44',
+        'Phone',
+        2,
+        2017,
+        'Denise Jones'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        901,
+        '2017-05-27 22:00:44',
+        'Phone',
+        4,
+        2017,
+        'Rachel Cole'
+    ),
+    (
+        901,
+        '2017-05-27 22:00:44',
+        'Phone',
+        3,
+        2017,
+        'Nathan Williams'
+    ),
+    (
+        901,
+        '2017-05-27 22:00:44',
+        'Phone',
+        1,
+        2017,
+        'Tina Roy'
+    ),
+    (
+        901,
+        '2017-05-27 22:00:44',
+        'Phone',
+        5,
+        2017,
+        'Andrea Hill'
+    ),
+    (
+        630,
+        '2024-05-25 22:40:03',
+        'Phone',
+        5,
+        2024,
+        'Gabriel Arroyo'
+    ),
+    (
+        630,
+        '2024-05-25 22:40:03',
+        'Phone',
+        4,
+        2024,
+        'Jessica Murphy'
+    ),
+    (
+        630,
+        '2024-05-25 22:40:03',
+        'Phone',
+        3,
+        2024,
+        'Richard Lewis'
+    ),
+    (
+        630,
+        '2024-05-25 22:40:03',
+        'Phone',
+        2,
+        2024,
+        'Emily Buck'
+    ),
+    (
+        630,
+        '2024-05-25 22:40:03',
+        'Phone',
+        1,
+        2024,
+        'Taylor Lopez'
+    ),
+    (
+        625,
+        '2019-05-25 23:38:56',
+        'Facebook',
+        2,
+        2019,
+        'Terry Powell'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        625,
+        '2019-05-25 23:38:56',
+        'Facebook',
+        1,
+        2019,
+        'Kathryn Alvarez'
+    ),
+    (
+        625,
+        '2019-05-25 23:38:56',
+        'Facebook',
+        3,
+        2019,
+        'Amanda Ingram'
+    ),
+    (
+        625,
+        '2019-05-25 23:38:56',
+        'Facebook',
+        5,
+        2019,
+        'Aaron Peterson'
+    ),
+    (
+        625,
+        '2019-05-25 23:38:56',
+        'Facebook',
+        4,
+        2019,
+        'Patrick Wilson'
+    ),
+    (
+        230,
+        '2022-05-28 22:12:52',
+        'Phone',
+        4,
+        2022,
+        'Gary Stone'
+    ),
+    (
+        230,
+        '2022-05-28 22:12:52',
+        'Phone',
+        3,
+        2022,
+        'Stephanie Smith'
+    ),
+    (
+        230,
+        '2022-05-28 22:12:52',
+        'Phone',
+        1,
+        2022,
+        'Thomas Gregory'
+    ),
+    (
+        230,
+        '2022-05-28 22:12:52',
+        'Phone',
+        2,
+        2022,
+        'Andrew Hodges'
+    ),
+    (
+        230,
+        '2022-05-28 22:12:52',
+        'Phone',
+        5,
+        2022,
+        'Andre Burton'
+    ),
+    (
+        851,
+        '2024-05-25 23:16:04',
+        'Web',
+        4,
+        2024,
+        'Emily Buck'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        851,
+        '2024-05-25 23:16:04',
+        'Web',
+        2,
+        2024,
+        'Alexis Fields'
+    ),
+    (
+        851,
+        '2024-05-25 23:16:04',
+        'Web',
+        5,
+        2024,
+        'Austin Williams'
+    ),
+    (
+        851,
+        '2024-05-25 23:16:04',
+        'Web',
+        1,
+        2024,
+        'Taylor Lopez'
+    ),
+    (
+        825,
+        '2017-05-27 22:45:10',
+        'Facebook',
+        4,
+        2017,
+        'Denise Jones'
+    ),
+    (
+        825,
+        '2017-05-27 22:45:10',
+        'Facebook',
+        3,
+        2017,
+        'Rachel Cole'
+    ),
+    (
+        825,
+        '2017-05-27 22:45:10',
+        'Facebook',
+        1,
+        2017,
+        'Matthew Vaughn'
+    ),
+    (
+        825,
+        '2017-05-27 22:45:10',
+        'Facebook',
+        5,
+        2017,
+        'Sean Ward'
+    ),
+    (
+        825,
+        '2017-05-27 22:45:10',
+        'Facebook',
+        2,
+        2017,
+        'Elizabeth Koch'
+    ),
+    (
+        374,
+        '2013-05-25 22:09:09',
+        'Web',
+        4,
+        2013,
+        'Tony Prince'
+    ),
+    (
+        374,
+        '2013-05-25 22:09:09',
+        'Web',
+        5,
+        2013,
+        'Diane Cooper'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        374,
+        '2013-05-25 22:09:09',
+        'Web',
+        3,
+        2013,
+        'Wendy Cunningham'
+    ),
+    (
+        374,
+        '2013-05-25 22:09:09',
+        'Web',
+        1,
+        2013,
+        'Angela Phillips'
+    ),
+    (
+        374,
+        '2013-05-25 22:09:09',
+        'Web',
+        2,
+        2013,
+        'Thomas Hess'
+    ),
+    (
+        922,
+        '2009-05-30 23:12:24',
+        'Facebook',
+        3,
+        2009,
+        'Leslie Saunders'
+    ),
+    (
+        922,
+        '2009-05-30 23:12:24',
+        'Facebook',
+        1,
+        2009,
+        'Matthew Garcia'
+    ),
+    (
+        922,
+        '2009-05-30 23:12:24',
+        'Facebook',
+        5,
+        2009,
+        'Olivia Nichols'
+    ),
+    (
+        922,
+        '2009-05-30 23:12:24',
+        'Facebook',
+        4,
+        2009,
+        'Wanda Smith'
+    ),
+    (
+        922,
+        '2009-05-30 23:12:24',
+        'Facebook',
+        2,
+        2009,
+        'Sandra Lopez'
+    ),
+    (
+        708,
+        '2021-05-29 22:20:18',
+        'Phone',
+        2,
+        2021,
+        'Aaron Baldwin'
+    ),
+    (
+        708,
+        '2021-05-29 22:20:18',
+        'Phone',
+        5,
+        2021,
+        'Ann Perez'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        708,
+        '2021-05-29 22:20:18',
+        'Phone',
+        4,
+        2021,
+        'Tamara Barnes'
+    ),
+    (
+        708,
+        '2021-05-29 22:20:18',
+        'Phone',
+        1,
+        2021,
+        'Robin Myers'
+    ),
+    (
+        708,
+        '2021-05-29 22:20:18',
+        'Phone',
+        3,
+        2021,
+        'Manuel Caldwell'
+    ),
+    (
+        907,
+        '2019-05-25 23:30:04',
+        'Phone',
+        1,
+        2019,
+        'Terry Powell'
+    ),
+    (
+        907,
+        '2019-05-25 23:30:04',
+        'Phone',
+        4,
+        2019,
+        'Cameron Hawkins'
+    ),
+    (
+        907,
+        '2019-05-25 23:30:04',
+        'Phone',
+        3,
+        2019,
+        'Samantha Jones'
+    ),
+    (
+        907,
+        '2019-05-25 23:30:04',
+        'Phone',
+        2,
+        2019,
+        'Kathryn Alvarez'
+    ),
+    (
+        907,
+        '2019-05-25 23:30:04',
+        'Phone',
+        5,
+        2019,
+        'Patrick Wilson'
+    ),
+    (
+        974,
+        '2009-05-30 22:49:46',
+        'Instagram',
+        4,
+        2009,
+        'Wanda Smith'
+    ),
+    (
+        974,
+        '2009-05-30 22:49:46',
+        'Instagram',
+        1,
+        2009,
+        'Kimberly Craig'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        974,
+        '2009-05-30 22:49:46',
+        'Instagram',
+        3,
+        2009,
+        'Melanie Hall'
+    ),
+    (
+        974,
+        '2009-05-30 22:49:46',
+        'Instagram',
+        5,
+        2009,
+        'Matthew Garcia'
+    ),
+    (
+        974,
+        '2009-05-30 22:49:46',
+        'Instagram',
+        2,
+        2009,
+        'Sandra Lopez'
+    ),
+    (
+        124,
+        '2018-05-26 22:50:12',
+        'Phone',
+        2,
+        2018,
+        'Laura Barnes'
+    ),
+    (
+        124,
+        '2018-05-26 22:50:12',
+        'Phone',
+        4,
+        2018,
+        'Brandon Ruiz'
+    ),
+    (
+        124,
+        '2018-05-26 22:50:12',
+        'Phone',
+        5,
+        2018,
+        'Jessica Williams'
+    ),
+    (
+        124,
+        '2018-05-26 22:50:12',
+        'Phone',
+        3,
+        2018,
+        'Danielle Miller'
+    ),
+    (
+        124,
+        '2018-05-26 22:50:12',
+        'Phone',
+        1,
+        2018,
+        'Diane Harrison'
+    ),
+    (
+        411,
+        '2011-05-28 22:30:03',
+        'Facebook',
+        3,
+        2011,
+        'Cody Davis'
+    ),
+    (
+        411,
+        '2011-05-28 22:30:03',
+        'Facebook',
+        4,
+        2011,
+        'Dr. Courtney Green MD'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        411,
+        '2011-05-28 22:30:03',
+        'Facebook',
+        5,
+        2011,
+        'Victoria Rosales PhD'
+    ),
+    (
+        411,
+        '2011-05-28 22:30:03',
+        'Facebook',
+        1,
+        2011,
+        'Andres Rubio'
+    ),
+    (
+        411,
+        '2011-05-28 22:30:03',
+        'Facebook',
+        2,
+        2011,
+        'John Henderson'
+    ),
+    (
+        44,
+        '2021-05-29 22:02:16',
+        'Instagram',
+        1,
+        2021,
+        'Thomas Smith'
+    ),
+    (
+        44,
+        '2021-05-29 22:02:16',
+        'Instagram',
+        3,
+        2021,
+        'Aaron Baldwin'
+    ),
+    (
+        44,
+        '2021-05-29 22:02:16',
+        'Instagram',
+        5,
+        2021,
+        'Manuel Caldwell'
+    ),
+    (
+        44,
+        '2021-05-29 22:02:16',
+        'Instagram',
+        2,
+        2021,
+        'Ann Perez'
+    ),
+    (
+        44,
+        '2021-05-29 22:02:16',
+        'Instagram',
+        4,
+        2021,
+        'Robin Myers'
+    ),
+    (
+        895,
+        '2017-05-27 22:29:48',
+        'Instagram',
+        4,
+        2017,
+        'Andrea Hill'
+    ),
+    (
+        895,
+        '2017-05-27 22:29:48',
+        'Instagram',
+        1,
+        2017,
+        'Tina Roy'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        895,
+        '2017-05-27 22:29:48',
+        'Instagram',
+        5,
+        2017,
+        'Denise Jones'
+    ),
+    (
+        895,
+        '2017-05-27 22:29:48',
+        'Instagram',
+        3,
+        2017,
+        'Rachel Cole'
+    ),
+    (
+        895,
+        '2017-05-27 22:29:48',
+        'Instagram',
+        2,
+        2017,
+        'Brian Mccall'
+    ),
+    (
+        814,
+        '2011-05-28 22:40:34',
+        'Phone',
+        5,
+        2011,
+        'Carmen Mitchell'
+    ),
+    (
+        814,
+        '2011-05-28 22:40:34',
+        'Phone',
+        3,
+        2011,
+        'Justin Kelly'
+    ),
+    (
+        814,
+        '2011-05-28 22:40:34',
+        'Phone',
+        2,
+        2011,
+        'Dr. Courtney Green MD'
+    ),
+    (
+        814,
+        '2011-05-28 22:40:34',
+        'Phone',
+        1,
+        2011,
+        'Cody Davis'
+    ),
+    (
+        814,
+        '2011-05-28 22:40:34',
+        'Phone',
+        4,
+        2011,
+        'John Henderson'
+    ),
+    (
+        823,
+        '2023-05-27 22:36:28',
+        'Web',
+        1,
+        2023,
+        'Samantha Erickson'
+    ),
+    (
+        823,
+        '2023-05-27 22:36:28',
+        'Web',
+        3,
+        2023,
+        'Leslie Lee'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        823,
+        '2023-05-27 22:36:28',
+        'Web',
+        5,
+        2023,
+        'Scott Baker'
+    ),
+    (
+        823,
+        '2023-05-27 22:36:28',
+        'Web',
+        4,
+        2023,
+        'Jacqueline Wagner'
+    ),
+    (
+        823,
+        '2023-05-27 22:36:28',
+        'Web',
+        2,
+        2023,
+        'Christine Hayes'
+    ),
+    (
+        793,
+        '2020-05-30 22:51:59',
+        'Instagram',
+        1,
+        2020,
+        'Charles Washington'
+    ),
+    (
+        793,
+        '2020-05-30 22:51:59',
+        'Instagram',
+        4,
+        2020,
+        'Mr. Steven Yoder'
+    ),
+    (
+        793,
+        '2020-05-30 22:51:59',
+        'Instagram',
+        2,
+        2020,
+        'Jacob Hickman'
+    ),
+    (
+        793,
+        '2020-05-30 22:51:59',
+        'Instagram',
+        3,
+        2020,
+        'Travis Walker'
+    ),
+    (
+        793,
+        '2020-05-30 22:51:59',
+        'Instagram',
+        5,
+        2020,
+        'Charles Maddox'
+    ),
+    (
+        176,
+        '2014-05-31 22:36:09',
+        'Facebook',
+        4,
+        2014,
+        'Zachary Fox'
+    ),
+    (
+        176,
+        '2014-05-31 22:36:09',
+        'Facebook',
+        3,
+        2014,
+        'Lisa Wright'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        606,
+        '2023-05-27 22:28:32',
+        'Instagram',
+        1,
+        2023,
+        'Jacqueline Wagner'
+    ),
+    (
+        606,
+        '2023-05-27 22:28:32',
+        'Instagram',
+        4,
+        2023,
+        'Leslie Lee'
+    ),
+    (
+        606,
+        '2023-05-27 22:28:32',
+        'Instagram',
+        3,
+        2023,
+        'Samantha Erickson'
+    ),
+    (
+        606,
+        '2023-05-27 22:28:32',
+        'Instagram',
+        2,
+        2023,
+        'Michael Butler'
+    ),
+    (
+        606,
+        '2023-05-27 22:28:32',
+        'Instagram',
+        5,
+        2023,
+        'Manuel Graves'
+    ),
+    (
+        166,
+        '2022-05-28 22:55:34',
+        'Web',
+        2,
+        2022,
+        'Martin Moore'
+    ),
+    (
+        166,
+        '2022-05-28 22:55:34',
+        'Web',
+        5,
+        2022,
+        'Gary Stone'
+    ),
+    (
+        662,
+        '2018-05-26 22:36:03',
+        'Phone',
+        1,
+        2018,
+        'Charles Glover'
+    ),
+    (
+        662,
+        '2018-05-26 22:36:03',
+        'Phone',
+        2,
+        2018,
+        'Brandon Ruiz'
+    ),
+    (
+        662,
+        '2018-05-26 22:36:03',
+        'Phone',
+        5,
+        2018,
+        'Diane Harrison'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        662,
+        '2018-05-26 22:36:03',
+        'Phone',
+        3,
+        2018,
+        'Steven Cox'
+    ),
+    (
+        662,
+        '2018-05-26 22:36:03',
+        'Phone',
+        4,
+        2018,
+        'John Hubbard'
+    ),
+    (
+        718,
+        '2017-05-27 23:00:12',
+        'Phone',
+        4,
+        2017,
+        'Tina Roy'
+    ),
+    (
+        718,
+        '2017-05-27 23:00:12',
+        'Phone',
+        3,
+        2017,
+        'Elizabeth Koch'
+    ),
+    (
+        718,
+        '2017-05-27 23:00:12',
+        'Phone',
+        5,
+        2017,
+        'Brian Mccall'
+    ),
+    (
+        718,
+        '2017-05-27 23:00:12',
+        'Phone',
+        2,
+        2017,
+        'Rachel Cole'
+    ),
+    (
+        718,
+        '2017-05-27 23:00:12',
+        'Phone',
+        1,
+        2017,
+        'Sean Ward'
+    ),
+    (
+        348,
+        '2015-05-30 23:45:06',
+        'Phone',
+        5,
+        2015,
+        'Travis Hays'
+    ),
+    (
+        348,
+        '2015-05-30 23:45:06',
+        'Phone',
+        1,
+        2015,
+        'Nathan Bailey'
+    ),
+    (
+        348,
+        '2015-05-30 23:45:06',
+        'Phone',
+        4,
+        2015,
+        'Robert White'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        348,
+        '2015-05-30 23:45:06',
+        'Phone',
+        2,
+        2015,
+        'Louis Phillips'
+    ),
+    (
+        348,
+        '2015-05-30 23:45:06',
+        'Phone',
+        3,
+        2015,
+        'Lisa Patrick'
+    ),
+    (
+        22,
+        '2009-05-30 23:10:01',
+        'Facebook',
+        1,
+        2009,
+        'Matthew Garcia'
+    ),
+    (
+        22,
+        '2009-05-30 23:10:01',
+        'Facebook',
+        2,
+        2009,
+        'Olivia Nichols'
+    ),
+    (
+        22,
+        '2009-05-30 23:10:01',
+        'Facebook',
+        4,
+        2009,
+        'Jason Hebert'
+    ),
+    (
+        22,
+        '2009-05-30 23:10:01',
+        'Facebook',
+        3,
+        2009,
+        'Wanda Smith'
+    ),
+    (
+        22,
+        '2009-05-30 23:10:01',
+        'Facebook',
+        5,
+        2009,
+        'Leslie Saunders'
+    ),
+    (
+        245,
+        '2013-05-25 22:16:20',
+        'Web',
+        4,
+        2013,
+        'Tony Prince'
+    ),
+    (
+        245,
+        '2013-05-25 22:16:20',
+        'Web',
+        3,
+        2013,
+        'Angela Phillips'
+    ),
+    (
+        245,
+        '2013-05-25 22:16:20',
+        'Web',
+        2,
+        2013,
+        'Cassandra Hooper'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        245,
+        '2013-05-25 22:16:20',
+        'Web',
+        1,
+        2013,
+        'Wendy Cunningham'
+    ),
+    (
+        245,
+        '2013-05-25 22:16:20',
+        'Web',
+        5,
+        2013,
+        'Blake Martinez'
+    ),
+    (
+        232,
+        '2020-05-30 22:15:06',
+        'Phone',
+        1,
+        2020,
+        'Charles Washington'
+    ),
+    (
+        232,
+        '2020-05-30 22:15:06',
+        'Phone',
+        3,
+        2020,
+        'Travis Walker'
+    ),
+    (
+        232,
+        '2020-05-30 22:15:06',
+        'Phone',
+        2,
+        2020,
+        'Benjamin Thomas'
+    ),
+    (
+        232,
+        '2020-05-30 22:15:06',
+        'Phone',
+        4,
+        2020,
+        'Juan Huerta'
+    ),
+    (
+        232,
+        '2020-05-30 22:15:06',
+        'Phone',
+        5,
+        2020,
+        'Lisa Wood'
+    ),
+    (
+        239,
+        '2019-05-25 23:52:24',
+        'Facebook',
+        4,
+        2019,
+        'Patrick Wilson'
+    ),
+    (
+        239,
+        '2019-05-25 23:52:24',
+        'Facebook',
+        3,
+        2019,
+        'Kathryn Alvarez'
+    ),
+    (
+        239,
+        '2019-05-25 23:52:24',
+        'Facebook',
+        1,
+        2019,
+        'Samantha Jones'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        239,
+        '2019-05-25 23:52:24',
+        'Facebook',
+        5,
+        2019,
+        'Amanda Ingram'
+    ),
+    (
+        239,
+        '2019-05-25 23:52:24',
+        'Facebook',
+        2,
+        2019,
+        'Kyle Hernandez'
+    ),
+    (
+        548,
+        '2019-05-25 22:18:48',
+        'Web',
+        3,
+        2019,
+        'Patrick Wilson'
+    ),
+    (
+        548,
+        '2019-05-25 22:18:48',
+        'Web',
+        2,
+        2019,
+        'Terry Powell'
+    ),
+    (
+        548,
+        '2019-05-25 22:18:48',
+        'Web',
+        5,
+        2019,
+        'Cameron Hawkins'
+    ),
+    (
+        548,
+        '2019-05-25 22:18:48',
+        'Web',
+        1,
+        2019,
+        'Kathryn Alvarez'
+    ),
+    (
+        548,
+        '2019-05-25 22:18:48',
+        'Web',
+        4,
+        2019,
+        'Samantha Jones'
+    ),
+    (
+        957,
+        '2024-05-25 23:50:53',
+        'Phone',
+        5,
+        2024,
+        'Taylor Lopez'
+    ),
+    (
+        957,
+        '2024-05-25 23:50:53',
+        'Phone',
+        3,
+        2024,
+        'Richard Lewis'
+    ),
+    (
+        957,
+        '2024-05-25 23:50:53',
+        'Phone',
+        1,
+        2024,
+        'Alexis Fields'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        957,
+        '2024-05-25 23:50:53',
+        'Phone',
+        2,
+        2024,
+        'Amber Williams'
+    ),
+    (
+        957,
+        '2024-05-25 23:50:53',
+        'Phone',
+        4,
+        2024,
+        'Austin Williams'
+    ),
+    (
+        970,
+        '2017-05-27 23:08:51',
+        'Web',
+        5,
+        2017,
+        'Elizabeth Koch'
+    ),
+    (
+        970,
+        '2017-05-27 23:08:51',
+        'Web',
+        4,
+        2017,
+        'Andrea Hill'
+    ),
+    (
+        970,
+        '2017-05-27 23:08:51',
+        'Web',
+        1,
+        2017,
+        'Denise Jones'
+    ),
+    (
+        970,
+        '2017-05-27 23:08:51',
+        'Web',
+        3,
+        2017,
+        'Nathan Williams'
+    ),
+    (
+        970,
+        '2017-05-27 23:08:51',
+        'Web',
+        2,
+        2017,
+        'Matthew Vaughn'
+    ),
+    (
+        403,
+        '2015-05-30 23:00:46',
+        'Web',
+        3,
+        2015,
+        'Brett Benjamin'
+    ),
+    (
+        403,
+        '2015-05-30 23:00:46',
+        'Web',
+        2,
+        2015,
+        'Travis Hays'
+    ),
+    (
+        313,
+        '2010-05-29 23:50:13',
+        'Instagram',
+        2,
+        2010,
+        'Rachel Melton'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        313,
+        '2010-05-29 23:50:13',
+        'Instagram',
+        4,
+        2010,
+        'Timothy Sandoval'
+    ),
+    (
+        313,
+        '2010-05-29 23:50:13',
+        'Instagram',
+        5,
+        2010,
+        'Kevin Wilson'
+    ),
+    (
+        313,
+        '2010-05-29 23:50:13',
+        'Instagram',
+        1,
+        2010,
+        'Katherine Li'
+    ),
+    (
+        313,
+        '2010-05-29 23:50:13',
+        'Instagram',
+        3,
+        2010,
+        'David Williams'
+    ),
+    (
+        621,
+        '2020-05-30 22:32:13',
+        'Phone',
+        4,
+        2020,
+        'Danielle Berger'
+    ),
+    (
+        621,
+        '2020-05-30 22:32:13',
+        'Phone',
+        2,
+        2020,
+        'Jacob Hickman'
+    ),
+    (
+        621,
+        '2020-05-30 22:32:13',
+        'Phone',
+        1,
+        2020,
+        'Lisa Wood'
+    ),
+    (
+        621,
+        '2020-05-30 22:32:13',
+        'Phone',
+        3,
+        2020,
+        'Benjamin Thomas'
+    ),
+    (
+        621,
+        '2020-05-30 22:32:13',
+        'Phone',
+        5,
+        2020,
+        'Lisa Mcdaniel'
+    ),
+    (
+        300,
+        '2017-05-27 22:55:31',
+        'Phone',
+        2,
+        2017,
+        'Brandi Harris'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        300,
+        '2017-05-27 22:55:31',
+        'Phone',
+        4,
+        2017,
+        'Denise Jones'
+    ),
+    (
+        300,
+        '2017-05-27 22:55:31',
+        'Phone',
+        3,
+        2017,
+        'Sean Ward'
+    ),
+    (
+        300,
+        '2017-05-27 22:55:31',
+        'Phone',
+        1,
+        2017,
+        'Rachel Cole'
+    ),
+    (
+        300,
+        '2017-05-27 22:55:31',
+        'Phone',
+        5,
+        2017,
+        'Elizabeth Koch'
+    ),
+    (
+        181,
+        '2015-05-30 23:14:36',
+        'Instagram',
+        3,
+        2015,
+        'Heidi Barry'
+    ),
+    (
+        181,
+        '2015-05-30 23:14:36',
+        'Instagram',
+        4,
+        2015,
+        'Colleen White'
+    ),
+    (
+        181,
+        '2015-05-30 23:14:36',
+        'Instagram',
+        5,
+        2015,
+        'Louis Phillips'
+    ),
+    (
+        181,
+        '2015-05-30 23:14:36',
+        'Instagram',
+        1,
+        2015,
+        'Robert White'
+    ),
+    (
+        181,
+        '2015-05-30 23:14:36',
+        'Instagram',
+        2,
+        2015,
+        'Lisa Patrick'
+    ),
+    (
+        920,
+        '2011-05-28 23:54:02',
+        'Web',
+        4,
+        2011,
+        'Carmen Mitchell'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        920,
+        '2011-05-28 23:54:02',
+        'Web',
+        3,
+        2011,
+        'Wesley Garcia'
+    ),
+    (
+        920,
+        '2011-05-28 23:54:02',
+        'Web',
+        2,
+        2011,
+        'Andres Rubio'
+    ),
+    (
+        920,
+        '2011-05-28 23:54:02',
+        'Web',
+        1,
+        2011,
+        'Ashley Lawson'
+    ),
+    (
+        920,
+        '2011-05-28 23:54:02',
+        'Web',
+        5,
+        2011,
+        'Dr. Courtney Green MD'
+    ),
+    (
+        995,
+        '2010-05-29 22:51:31',
+        'Instagram',
+        3,
+        2010,
+        'Rachel Melton'
+    ),
+    (
+        995,
+        '2010-05-29 22:51:31',
+        'Instagram',
+        4,
+        2010,
+        'Richard Dawson'
+    ),
+    (
+        35,
+        '2019-05-25 22:29:51',
+        'Phone',
+        5,
+        2019,
+        'Amanda Ingram'
+    ),
+    (
+        35,
+        '2019-05-25 22:29:51',
+        'Phone',
+        1,
+        2019,
+        'Sarah Hancock'
+    ),
+    (
+        35,
+        '2019-05-25 22:29:51',
+        'Phone',
+        4,
+        2019,
+        'Jennifer Ford'
+    ),
+    (
+        35,
+        '2019-05-25 22:29:51',
+        'Phone',
+        3,
+        2019,
+        'Patrick Wilson'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        35,
+        '2019-05-25 22:29:51',
+        'Phone',
+        2,
+        2019,
+        'Samantha Jones'
+    ),
+    (
+        404,
+        '2011-05-28 22:08:24',
+        'Phone',
+        1,
+        2011,
+        'Justin Kelly'
+    ),
+    (
+        404,
+        '2011-05-28 22:08:24',
+        'Phone',
+        4,
+        2011,
+        'Andres Rubio'
+    ),
+    (
+        404,
+        '2011-05-28 22:08:24',
+        'Phone',
+        2,
+        2011,
+        'Wesley Garcia'
+    ),
+    (
+        404,
+        '2011-05-28 22:08:24',
+        'Phone',
+        3,
+        2011,
+        'Ashley Lawson'
+    ),
+    (
+        404,
+        '2011-05-28 22:08:24',
+        'Phone',
+        5,
+        2011,
+        'John Henderson'
+    ),
+    (
+        443,
+        '2014-05-31 23:39:36',
+        'Phone',
+        2,
+        2014,
+        'Zachary Fox'
+    ),
+    (
+        443,
+        '2014-05-31 23:39:36',
+        'Phone',
+        5,
+        2014,
+        'Carol Garrett'
+    ),
+    (
+        443,
+        '2014-05-31 23:39:36',
+        'Phone',
+        1,
+        2014,
+        'Melissa Williams'
+    ),
+    (
+        443,
+        '2014-05-31 23:39:36',
+        'Phone',
+        4,
+        2014,
+        'John Conner'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        443,
+        '2014-05-31 23:39:36',
+        'Phone',
+        3,
+        2014,
+        'Mary Vance'
+    ),
+    (
+        372,
+        '2023-05-27 23:34:20',
+        'Facebook',
+        5,
+        2023,
+        'Thomas Ruiz'
+    ),
+    (
+        372,
+        '2023-05-27 23:34:20',
+        'Facebook',
+        3,
+        2023,
+        'Jacqueline Wagner'
+    ),
+    (
+        372,
+        '2023-05-27 23:34:20',
+        'Facebook',
+        1,
+        2023,
+        'Samantha Erickson'
+    ),
+    (
+        372,
+        '2023-05-27 23:34:20',
+        'Facebook',
+        2,
+        2023,
+        'Paula Henderson'
+    ),
+    (
+        372,
+        '2023-05-27 23:34:20',
+        'Facebook',
+        4,
+        2023,
+        'Scott Baker'
+    ),
+    (
+        665,
+        '2012-05-26 22:44:24',
+        'Web',
+        2,
+        2012,
+        'Tyler Jordan'
+    ),
+    (
+        665,
+        '2012-05-26 22:44:24',
+        'Web',
+        3,
+        2012,
+        'Stephanie Patrick'
+    ),
+    (
+        665,
+        '2012-05-26 22:44:24',
+        'Web',
+        1,
+        2012,
+        'Lynn Booth'
+    ),
+    (
+        665,
+        '2012-05-26 22:44:24',
+        'Web',
+        4,
+        2012,
+        'Jose Smith Jr.'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        665,
+        '2012-05-26 22:44:24',
+        'Web',
+        5,
+        2012,
+        'Maria Robertson'
+    ),
+    (
+        77,
+        '2022-05-28 22:16:14',
+        'Facebook',
+        5,
+        2022,
+        'Martin Moore'
+    ),
+    (
+        77,
+        '2022-05-28 22:16:14',
+        'Facebook',
+        1,
+        2022,
+        'Michael Baker'
+    ),
+    (
+        77,
+        '2022-05-28 22:16:14',
+        'Facebook',
+        3,
+        2022,
+        'Michelle Martin'
+    ),
+    (
+        77,
+        '2022-05-28 22:16:14',
+        'Facebook',
+        2,
+        2022,
+        'Andrew Hodges'
+    ),
+    (
+        77,
+        '2022-05-28 22:16:14',
+        'Facebook',
+        4,
+        2022,
+        'Thomas Gregory'
+    ),
+    (
+        188,
+        '2018-05-26 22:29:28',
+        'Facebook',
+        2,
+        2018,
+        'Carrie Clark'
+    ),
+    (
+        188,
+        '2018-05-26 22:29:28',
+        'Facebook',
+        5,
+        2018,
+        'John Hubbard'
+    ),
+    (
+        188,
+        '2018-05-26 22:29:28',
+        'Facebook',
+        1,
+        2018,
+        'Kimberly Davis'
+    ),
+    (
+        188,
+        '2018-05-26 22:29:28',
+        'Facebook',
+        3,
+        2018,
+        'Steven Cox'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        188,
+        '2018-05-26 22:29:28',
+        'Facebook',
+        4,
+        2018,
+        'Jessica Williams'
+    ),
+    (
+        962,
+        '2020-05-30 22:43:42',
+        'Facebook',
+        3,
+        2020,
+        'Charles Washington'
+    ),
+    (
+        962,
+        '2020-05-30 22:43:42',
+        'Facebook',
+        1,
+        2020,
+        'Lisa Mcdaniel'
+    ),
+    (
+        962,
+        '2020-05-30 22:43:42',
+        'Facebook',
+        2,
+        2020,
+        'Mr. Steven Yoder'
+    ),
+    (
+        739,
+        '2017-05-27 23:32:28',
+        'Phone',
+        1,
+        2017,
+        'Tina Roy'
+    ),
+    (
+        739,
+        '2017-05-27 23:32:28',
+        'Phone',
+        4,
+        2017,
+        'Denise Jones'
+    ),
+    (
+        739,
+        '2017-05-27 23:32:28',
+        'Phone',
+        3,
+        2017,
+        'Brian Mccall'
+    ),
+    (
+        739,
+        '2017-05-27 23:32:28',
+        'Phone',
+        2,
+        2017,
+        'Brandi Harris'
+    ),
+    (
+        739,
+        '2017-05-27 23:32:28',
+        'Phone',
+        5,
+        2017,
+        'Elizabeth Koch'
+    ),
+    (
+        276,
+        '2009-05-30 23:12:31',
+        'Web',
+        2,
+        2009,
+        'Olivia Nichols'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        276,
+        '2009-05-30 23:12:31',
+        'Web',
+        4,
+        2009,
+        'Melanie Hall'
+    ),
+    (
+        276,
+        '2009-05-30 23:12:31',
+        'Web',
+        3,
+        2009,
+        'Kimberly Craig'
+    ),
+    (
+        276,
+        '2009-05-30 23:12:31',
+        'Web',
+        1,
+        2009,
+        'Carrie Bell'
+    ),
+    (
+        276,
+        '2009-05-30 23:12:31',
+        'Web',
+        5,
+        2009,
+        'Wanda Smith'
+    ),
+    (
+        745,
+        '2020-05-30 22:49:31',
+        'Phone',
+        4,
+        2020,
+        'Lisa Mcdaniel'
+    ),
+    (
+        745,
+        '2020-05-30 22:49:31',
+        'Phone',
+        2,
+        2020,
+        'Charles Maddox'
+    ),
+    (
+        745,
+        '2020-05-30 22:49:31',
+        'Phone',
+        3,
+        2020,
+        'Benjamin Thomas'
+    ),
+    (
+        745,
+        '2020-05-30 22:49:31',
+        'Phone',
+        5,
+        2020,
+        'Travis Walker'
+    ),
+    (
+        745,
+        '2020-05-30 22:49:31',
+        'Phone',
+        1,
+        2020,
+        'Juan Huerta'
+    ),
+    (
+        694,
+        '2012-05-26 22:15:11',
+        'Instagram',
+        3,
+        2012,
+        'Jose Smith Jr.'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        694,
+        '2012-05-26 22:15:11',
+        'Instagram',
+        2,
+        2012,
+        'Anthony Bradford'
+    ),
+    (
+        694,
+        '2012-05-26 22:15:11',
+        'Instagram',
+        5,
+        2012,
+        'Stacy White'
+    ),
+    (
+        694,
+        '2012-05-26 22:15:11',
+        'Instagram',
+        4,
+        2012,
+        'Tyler Jordan'
+    ),
+    (
+        694,
+        '2012-05-26 22:15:11',
+        'Instagram',
+        1,
+        2012,
+        'Kenneth Warner'
+    ),
+    (
+        179,
+        '2016-05-28 22:03:42',
+        'Instagram',
+        3,
+        2016,
+        'Anne Mcfarland'
+    ),
+    (
+        179,
+        '2016-05-28 22:03:42',
+        'Instagram',
+        2,
+        2016,
+        'Brian Ingram'
+    ),
+    (
+        179,
+        '2016-05-28 22:03:42',
+        'Instagram',
+        4,
+        2016,
+        'Amanda Patterson'
+    ),
+    (
+        996,
+        '2023-05-27 22:17:20',
+        'Instagram',
+        1,
+        2023,
+        'Megan Saunders'
+    ),
+    (
+        996,
+        '2023-05-27 22:17:20',
+        'Instagram',
+        5,
+        2023,
+        'Thomas Ruiz'
+    ),
+    (
+        996,
+        '2023-05-27 22:17:20',
+        'Instagram',
+        4,
+        2023,
+        'Manuel Graves'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        996,
+        '2023-05-27 22:17:20',
+        'Instagram',
+        2,
+        2023,
+        'Leslie Lee'
+    ),
+    (
+        996,
+        '2023-05-27 22:17:20',
+        'Instagram',
+        3,
+        2023,
+        'Christine Hayes'
+    ),
+    (
+        844,
+        '2021-05-29 22:35:42',
+        'Facebook',
+        1,
+        2021,
+        'Thomas Smith'
+    ),
+    (
+        844,
+        '2021-05-29 22:35:42',
+        'Facebook',
+        5,
+        2021,
+        'Ann Perez'
+    ),
+    (
+        844,
+        '2021-05-29 22:35:42',
+        'Facebook',
+        4,
+        2021,
+        'Aaron Baldwin'
+    ),
+    (
+        844,
+        '2021-05-29 22:35:42',
+        'Facebook',
+        3,
+        2021,
+        'Manuel Caldwell'
+    ),
+    (
+        844,
+        '2021-05-29 22:35:42',
+        'Facebook',
+        2,
+        2021,
+        'Amber Mcdowell'
+    ),
+    (
+        198,
+        '2009-05-30 23:07:18',
+        'Facebook',
+        5,
+        2009,
+        'Wanda Smith'
+    ),
+    (
+        198,
+        '2009-05-30 23:07:18',
+        'Facebook',
+        3,
+        2009,
+        'Carrie Bell'
+    ),
+    (
+        198,
+        '2009-05-30 23:07:18',
+        'Facebook',
+        2,
+        2009,
+        'Matthew Garcia'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        198,
+        '2009-05-30 23:07:18',
+        'Facebook',
+        1,
+        2009,
+        'Kimberly Craig'
+    ),
+    (
+        198,
+        '2009-05-30 23:07:18',
+        'Facebook',
+        4,
+        2009,
+        'Melanie Hall'
+    ),
+    (
+        890,
+        '2012-05-26 22:34:00',
+        'Instagram',
+        2,
+        2012,
+        'Maria Robertson'
+    ),
+    (
+        890,
+        '2012-05-26 22:34:00',
+        'Instagram',
+        4,
+        2012,
+        'Kenneth Warner'
+    ),
+    (
+        890,
+        '2012-05-26 22:34:00',
+        'Instagram',
+        3,
+        2012,
+        'Stacy White'
+    ),
+    (
+        890,
+        '2012-05-26 22:34:00',
+        'Instagram',
+        1,
+        2012,
+        'Anthony Bradford'
+    ),
+    (
+        890,
+        '2012-05-26 22:34:00',
+        'Instagram',
+        5,
+        2012,
+        'Patrick Benson'
+    ),
+    (
+        650,
+        '2019-05-25 23:24:23',
+        'Instagram',
+        2,
+        2019,
+        'Terry Powell'
+    ),
+    (
+        650,
+        '2019-05-25 23:24:23',
+        'Instagram',
+        1,
+        2019,
+        'Kathryn Alvarez'
+    ),
+    (
+        650,
+        '2019-05-25 23:24:23',
+        'Instagram',
+        5,
+        2019,
+        'Amanda Ingram'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        650,
+        '2019-05-25 23:24:23',
+        'Instagram',
+        4,
+        2019,
+        'Jennifer Ford'
+    ),
+    (
+        650,
+        '2019-05-25 23:24:23',
+        'Instagram',
+        3,
+        2019,
+        'Sarah Hancock'
+    ),
+    (
+        120,
+        '2022-05-28 22:07:03',
+        'Facebook',
+        3,
+        2022,
+        'Thomas Gregory'
+    ),
+    (
+        120,
+        '2022-05-28 22:07:03',
+        'Facebook',
+        4,
+        2022,
+        'Andre Burton'
+    ),
+    (
+        120,
+        '2022-05-28 22:07:03',
+        'Facebook',
+        5,
+        2022,
+        'Gary Stone'
+    ),
+    (
+        120,
+        '2022-05-28 22:07:03',
+        'Facebook',
+        1,
+        2022,
+        'Michael Baker'
+    ),
+    (
+        120,
+        '2022-05-28 22:07:03',
+        'Facebook',
+        2,
+        2022,
+        'Robert Curtis'
+    ),
+    (
+        8,
+        '2013-05-25 23:51:23',
+        'Phone',
+        1,
+        2013,
+        'Blake Martinez'
+    ),
+    (
+        8,
+        '2013-05-25 23:51:23',
+        'Phone',
+        2,
+        2013,
+        'Anthony Villanueva'
+    ),
+    (
+        8,
+        '2013-05-25 23:51:23',
+        'Phone',
+        5,
+        2013,
+        'Tony Prince'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        8,
+        '2013-05-25 23:51:23',
+        'Phone',
+        4,
+        2013,
+        'Diane Cooper'
+    ),
+    (
+        8,
+        '2013-05-25 23:51:23',
+        'Phone',
+        3,
+        2013,
+        'Cassandra Hooper'
+    ),
+    (
+        185,
+        '2015-05-30 22:35:39',
+        'Instagram',
+        1,
+        2015,
+        'Louis Phillips'
+    ),
+    (
+        185,
+        '2015-05-30 22:35:39',
+        'Instagram',
+        2,
+        2015,
+        'Nathan Bailey'
+    ),
+    (
+        185,
+        '2015-05-30 22:35:39',
+        'Instagram',
+        3,
+        2015,
+        'Deborah Sparks'
+    ),
+    (
+        185,
+        '2015-05-30 22:35:39',
+        'Instagram',
+        4,
+        2015,
+        'Robert White'
+    ),
+    (
+        185,
+        '2015-05-30 22:35:39',
+        'Instagram',
+        5,
+        2015,
+        'Heidi Barry'
+    ),
+    (
+        810,
+        '2024-05-25 23:44:21',
+        'Web',
+        1,
+        2024,
+        'Jessica Murphy'
+    ),
+    (
+        810,
+        '2024-05-25 23:44:21',
+        'Web',
+        5,
+        2024,
+        'Austin Williams'
+    ),
+    (
+        810,
+        '2024-05-25 23:44:21',
+        'Web',
+        3,
+        2024,
+        'Alexis Fields'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        810,
+        '2024-05-25 23:44:21',
+        'Web',
+        2,
+        2024,
+        'Richard Lewis'
+    ),
+    (
+        810,
+        '2024-05-25 23:44:21',
+        'Web',
+        4,
+        2024,
+        'Emily Buck'
+    ),
+    (
+        823,
+        '2014-05-31 23:49:53',
+        'Facebook',
+        4,
+        2014,
+        'John Conner'
+    ),
+    (
+        823,
+        '2014-05-31 23:49:53',
+        'Facebook',
+        1,
+        2014,
+        'Zachary Fox'
+    ),
+    (
+        823,
+        '2014-05-31 23:49:53',
+        'Facebook',
+        2,
+        2014,
+        'Lisa Wright'
+    ),
+    (
+        823,
+        '2014-05-31 23:49:53',
+        'Facebook',
+        3,
+        2014,
+        'Mary Vance'
+    ),
+    (
+        823,
+        '2014-05-31 23:49:53',
+        'Facebook',
+        5,
+        2014,
+        'Todd Miller'
+    ),
+    (
+        396,
+        '2023-05-27 22:58:11',
+        'Instagram',
+        1,
+        2023,
+        'Thomas Ruiz'
+    ),
+    (
+        396,
+        '2023-05-27 22:58:11',
+        'Instagram',
+        5,
+        2023,
+        'Megan Saunders'
+    ),
+    (
+        396,
+        '2023-05-27 22:58:11',
+        'Instagram',
+        2,
+        2023,
+        'Samantha Erickson'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        396,
+        '2023-05-27 22:58:11',
+        'Instagram',
+        4,
+        2023,
+        'Paula Henderson'
+    ),
+    (
+        396,
+        '2023-05-27 22:58:11',
+        'Instagram',
+        3,
+        2023,
+        'Manuel Graves'
+    ),
+    (
+        620,
+        '2021-05-29 22:17:27',
+        'Web',
+        4,
+        2021,
+        'Ann Perez'
+    ),
+    (
+        620,
+        '2021-05-29 22:17:27',
+        'Web',
+        5,
+        2021,
+        'Aaron Baldwin'
+    ),
+    (
+        620,
+        '2021-05-29 22:17:27',
+        'Web',
+        1,
+        2021,
+        'Thomas Smith'
+    ),
+    (
+        620,
+        '2021-05-29 22:17:27',
+        'Web',
+        2,
+        2021,
+        'Manuel Caldwell'
+    ),
+    (
+        620,
+        '2021-05-29 22:17:27',
+        'Web',
+        3,
+        2021,
+        'Tamara Barnes'
+    ),
+    (
+        903,
+        '2015-05-30 22:48:54',
+        'Instagram',
+        4,
+        2015,
+        'Nicholas Black'
+    ),
+    (
+        903,
+        '2015-05-30 22:48:54',
+        'Instagram',
+        3,
+        2015,
+        'Nathan Bailey'
+    ),
+    (
+        903,
+        '2015-05-30 22:48:54',
+        'Instagram',
+        1,
+        2015,
+        'Colleen White'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        903,
+        '2015-05-30 22:48:54',
+        'Instagram',
+        2,
+        2015,
+        'Louis Phillips'
+    ),
+    (
+        903,
+        '2015-05-30 22:48:54',
+        'Instagram',
+        5,
+        2015,
+        'Heidi Barry'
+    ),
+    (
+        910,
+        '2012-05-26 22:56:09',
+        'Web',
+        1,
+        2012,
+        'Stephanie Patrick'
+    ),
+    (
+        910,
+        '2012-05-26 22:56:09',
+        'Web',
+        3,
+        2012,
+        'Tyler Jordan'
+    ),
+    (
+        910,
+        '2012-05-26 22:56:09',
+        'Web',
+        5,
+        2012,
+        'Maria Robertson'
+    ),
+    (
+        910,
+        '2012-05-26 22:56:09',
+        'Web',
+        2,
+        2012,
+        'Anthony Bradford'
+    ),
+    (
+        910,
+        '2012-05-26 22:56:09',
+        'Web',
+        4,
+        2012,
+        'Jose Smith Jr.'
+    ),
+    (
+        453,
+        '2023-05-27 23:58:57',
+        'Web',
+        5,
+        2023,
+        'Scott Baker'
+    ),
+    (
+        453,
+        '2023-05-27 23:58:57',
+        'Web',
+        4,
+        2023,
+        'Samantha Erickson'
+    ),
+    (
+        453,
+        '2023-05-27 23:58:57',
+        'Web',
+        1,
+        2023,
+        'Leslie Lee'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        453,
+        '2023-05-27 23:58:57',
+        'Web',
+        3,
+        2023,
+        'Megan Saunders'
+    ),
+    (
+        453,
+        '2023-05-27 23:58:57',
+        'Web',
+        2,
+        2023,
+        'Manuel Graves'
+    ),
+    (
+        229,
+        '2023-05-27 23:51:58',
+        'Phone',
+        4,
+        2023,
+        'Paula Henderson'
+    ),
+    (
+        229,
+        '2023-05-27 23:51:58',
+        'Phone',
+        2,
+        2023,
+        'Scott Baker'
+    ),
+    (
+        229,
+        '2023-05-27 23:51:58',
+        'Phone',
+        1,
+        2023,
+        'Megan Saunders'
+    ),
+    (
+        229,
+        '2023-05-27 23:51:58',
+        'Phone',
+        3,
+        2023,
+        'Leslie Lee'
+    ),
+    (
+        229,
+        '2023-05-27 23:51:58',
+        'Phone',
+        5,
+        2023,
+        'Jacqueline Wagner'
+    ),
+    (
+        842,
+        '2024-05-25 23:56:42',
+        'Phone',
+        2,
+        2024,
+        'Christopher Singh'
+    ),
+    (
+        842,
+        '2024-05-25 23:56:42',
+        'Phone',
+        4,
+        2024,
+        'Alexis Fields'
+    ),
+    (
+        842,
+        '2024-05-25 23:56:42',
+        'Phone',
+        3,
+        2024,
+        'Gabriel Arroyo'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        842,
+        '2024-05-25 23:56:42',
+        'Phone',
+        1,
+        2024,
+        'Emily Buck'
+    ),
+    (
+        842,
+        '2024-05-25 23:56:42',
+        'Phone',
+        5,
+        2024,
+        'Austin Williams'
+    ),
+    (
+        314,
+        '2012-05-26 23:22:21',
+        'Instagram',
+        3,
+        2012,
+        'Jose Smith Jr.'
+    ),
+    (
+        314,
+        '2012-05-26 23:22:21',
+        'Instagram',
+        4,
+        2012,
+        'Stacy White'
+    ),
+    (
+        314,
+        '2012-05-26 23:22:21',
+        'Instagram',
+        1,
+        2012,
+        'Patrick Benson'
+    ),
+    (
+        314,
+        '2012-05-26 23:22:21',
+        'Instagram',
+        2,
+        2012,
+        'Anthony Bradford'
+    ),
+    (
+        314,
+        '2012-05-26 23:22:21',
+        'Instagram',
+        5,
+        2012,
+        'Stephanie Patrick'
+    ),
+    (
+        954,
+        '2013-05-25 23:22:06',
+        'Phone',
+        1,
+        2013,
+        'Diane Cooper'
+    ),
+    (
+        954,
+        '2013-05-25 23:22:06',
+        'Phone',
+        4,
+        2013,
+        'Blake Martinez'
+    ),
+    (
+        954,
+        '2013-05-25 23:22:06',
+        'Phone',
+        5,
+        2013,
+        'Wendy Cunningham'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        954,
+        '2013-05-25 23:22:06',
+        'Phone',
+        3,
+        2013,
+        'Cassandra Hooper'
+    ),
+    (
+        954,
+        '2013-05-25 23:22:06',
+        'Phone',
+        2,
+        2013,
+        'Nancy Mcmahon'
+    ),
+    (
+        260,
+        '2009-05-30 22:22:04',
+        'Instagram',
+        3,
+        2009,
+        'Sandra Lopez'
+    ),
+    (
+        260,
+        '2009-05-30 22:22:04',
+        'Instagram',
+        1,
+        2009,
+        'Melanie Hall'
+    ),
+    (
+        260,
+        '2009-05-30 22:22:04',
+        'Instagram',
+        4,
+        2009,
+        'Leslie Saunders'
+    ),
+    (
+        260,
+        '2009-05-30 22:22:04',
+        'Instagram',
+        5,
+        2009,
+        'Matthew Garcia'
+    ),
+    (
+        260,
+        '2009-05-30 22:22:04',
+        'Instagram',
+        2,
+        2009,
+        'Carrie Bell'
+    ),
+    (
+        194,
+        '2024-05-25 23:04:13',
+        'Instagram',
+        2,
+        2024,
+        'Christy Perry'
+    ),
+    (
+        194,
+        '2024-05-25 23:04:13',
+        'Instagram',
+        3,
+        2024,
+        'Christopher Singh'
+    ),
+    (
+        194,
+        '2024-05-25 23:04:13',
+        'Instagram',
+        4,
+        2024,
+        'Austin Williams'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        194,
+        '2024-05-25 23:04:13',
+        'Instagram',
+        1,
+        2024,
+        'Emily Buck'
+    ),
+    (
+        194,
+        '2024-05-25 23:04:13',
+        'Instagram',
+        5,
+        2024,
+        'Richard Lewis'
+    ),
+    (
+        206,
+        '2024-05-25 22:36:17',
+        'Web',
+        4,
+        2024,
+        'Christopher Singh'
+    ),
+    (
+        206,
+        '2024-05-25 22:36:17',
+        'Web',
+        2,
+        2024,
+        'Alexis Fields'
+    ),
+    (
+        206,
+        '2024-05-25 22:36:17',
+        'Web',
+        3,
+        2024,
+        'Austin Williams'
+    ),
+    (
+        206,
+        '2024-05-25 22:36:17',
+        'Web',
+        5,
+        2024,
+        'Richard Lewis'
+    ),
+    (
+        206,
+        '2024-05-25 22:36:17',
+        'Web',
+        1,
+        2024,
+        'Jessica Murphy'
+    ),
+    (
+        365,
+        '2015-05-30 23:41:31',
+        'Phone',
+        4,
+        2015,
+        'Travis Hays'
+    ),
+    (
+        365,
+        '2015-05-30 23:41:31',
+        'Phone',
+        1,
+        2015,
+        'Brett Benjamin'
+    ),
+    (
+        365,
+        '2015-05-30 23:41:31',
+        'Phone',
+        5,
+        2015,
+        'Louis Phillips'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        365,
+        '2015-05-30 23:41:31',
+        'Phone',
+        2,
+        2015,
+        'Lisa Patrick'
+    ),
+    (
+        365,
+        '2015-05-30 23:41:31',
+        'Phone',
+        3,
+        2015,
+        'Nicholas Black'
+    ),
+    (
+        773,
+        '2018-05-26 23:45:35',
+        'Web',
+        3,
+        2018,
+        'Diane Harrison'
+    ),
+    (
+        773,
+        '2018-05-26 23:45:35',
+        'Web',
+        2,
+        2018,
+        'Steven Cox'
+    ),
+    (
+        773,
+        '2018-05-26 23:45:35',
+        'Web',
+        5,
+        2018,
+        'Charles Glover'
+    ),
+    (
+        773,
+        '2018-05-26 23:45:35',
+        'Web',
+        4,
+        2018,
+        'Laura Barnes'
+    ),
+    (
+        773,
+        '2018-05-26 23:45:35',
+        'Web',
+        1,
+        2018,
+        'Kimberly Davis'
+    ),
+    (
+        468,
+        '2013-05-25 23:04:47',
+        'Web',
+        3,
+        2013,
+        'Nancy Mcmahon'
+    ),
+    (
+        468,
+        '2013-05-25 23:04:47',
+        'Web',
+        5,
+        2013,
+        'Wendy Cunningham'
+    ),
+    (
+        468,
+        '2013-05-25 23:04:47',
+        'Web',
+        4,
+        2013,
+        'Thomas Hess'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        468,
+        '2013-05-25 23:04:47',
+        'Web',
+        2,
+        2013,
+        'Blake Martinez'
+    ),
+    (
+        468,
+        '2013-05-25 23:04:47',
+        'Web',
+        1,
+        2013,
+        'Diane Cooper'
+    ),
+    (
+        476,
+        '2009-05-30 23:06:40',
+        'Web',
+        5,
+        2009,
+        'Theresa Castaneda'
+    ),
+    (
+        476,
+        '2009-05-30 23:06:40',
+        'Web',
+        4,
+        2009,
+        'Jason Hebert'
+    ),
+    (
+        476,
+        '2009-05-30 23:06:40',
+        'Web',
+        3,
+        2009,
+        'Matthew Garcia'
+    ),
+    (
+        476,
+        '2009-05-30 23:06:40',
+        'Web',
+        2,
+        2009,
+        'Carrie Bell'
+    ),
+    (
+        476,
+        '2009-05-30 23:06:40',
+        'Web',
+        1,
+        2009,
+        'Wanda Smith'
+    ),
+    (
+        69,
+        '2012-05-26 23:22:50',
+        'Facebook',
+        3,
+        2012,
+        'Stacy White'
+    ),
+    (
+        69,
+        '2012-05-26 23:22:50',
+        'Facebook',
+        2,
+        2012,
+        'Jennifer Wolfe'
+    ),
+    (
+        69,
+        '2012-05-26 23:22:50',
+        'Facebook',
+        5,
+        2012,
+        'Lynn Booth'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        69,
+        '2012-05-26 23:22:50',
+        'Facebook',
+        4,
+        2012,
+        'Tyler Jordan'
+    ),
+    (
+        69,
+        '2012-05-26 23:22:50',
+        'Facebook',
+        1,
+        2012,
+        'Patrick Benson'
+    ),
+    (
+        627,
+        '2013-05-25 22:25:05',
+        'Phone',
+        4,
+        2013,
+        'Cassandra Hooper'
+    ),
+    (
+        627,
+        '2013-05-25 22:25:05',
+        'Phone',
+        1,
+        2013,
+        'Nancy Mcmahon'
+    ),
+    (
+        627,
+        '2013-05-25 22:25:05',
+        'Phone',
+        2,
+        2013,
+        'Thomas Hess'
+    ),
+    (
+        627,
+        '2013-05-25 22:25:05',
+        'Phone',
+        3,
+        2013,
+        'Wendy Cunningham'
+    ),
+    (
+        627,
+        '2013-05-25 22:25:05',
+        'Phone',
+        5,
+        2013,
+        'Diane Cooper'
+    ),
+    (
+        502,
+        '2018-05-26 22:17:50',
+        'Web',
+        1,
+        2018,
+        'Brandon Ruiz'
+    ),
+    (
+        502,
+        '2018-05-26 22:17:50',
+        'Web',
+        3,
+        2018,
+        'John Hubbard'
+    ),
+    (
+        502,
+        '2018-05-26 22:17:50',
+        'Web',
+        2,
+        2018,
+        'Laura Barnes'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        502,
+        '2018-05-26 22:17:50',
+        'Web',
+        4,
+        2018,
+        'Steven Cox'
+    ),
+    (
+        502,
+        '2018-05-26 22:17:50',
+        'Web',
+        5,
+        2018,
+        'Danielle Miller'
+    ),
+    (
+        171,
+        '2018-05-26 22:00:07',
+        'Instagram',
+        1,
+        2018,
+        'Carrie Clark'
+    ),
+    (
+        171,
+        '2018-05-26 22:00:07',
+        'Instagram',
+        4,
+        2018,
+        'Brandon Ruiz'
+    ),
+    (
+        171,
+        '2018-05-26 22:00:07',
+        'Instagram',
+        5,
+        2018,
+        'Laura Barnes'
+    ),
+    (
+        171,
+        '2018-05-26 22:00:07',
+        'Instagram',
+        3,
+        2018,
+        'Diane Harrison'
+    ),
+    (
+        171,
+        '2018-05-26 22:00:07',
+        'Instagram',
+        2,
+        2018,
+        'Charles Glover'
+    ),
+    (
+        750,
+        '2023-05-27 23:22:53',
+        'Instagram',
+        3,
+        2023,
+        'Michael Butler'
+    ),
+    (
+        750,
+        '2023-05-27 23:22:53',
+        'Instagram',
+        5,
+        2023,
+        'Jacqueline Wagner'
+    ),
+    (
+        750,
+        '2023-05-27 23:22:53',
+        'Instagram',
+        4,
+        2023,
+        'Megan Saunders'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        750,
+        '2023-05-27 23:22:53',
+        'Instagram',
+        2,
+        2023,
+        'Christine Hayes'
+    ),
+    (
+        750,
+        '2023-05-27 23:22:53',
+        'Instagram',
+        1,
+        2023,
+        'Scott Baker'
+    ),
+    (
+        648,
+        '2011-05-28 22:46:09',
+        'Web',
+        5,
+        2011,
+        'Wesley Garcia'
+    ),
+    (
+        648,
+        '2011-05-28 22:46:09',
+        'Web',
+        4,
+        2011,
+        'Dr. Courtney Green MD'
+    ),
+    (
+        648,
+        '2011-05-28 22:46:09',
+        'Web',
+        3,
+        2011,
+        'Carmen Mitchell'
+    ),
+    (
+        648,
+        '2011-05-28 22:46:09',
+        'Web',
+        2,
+        2011,
+        'Ashley Lawson'
+    ),
+    (
+        648,
+        '2011-05-28 22:46:09',
+        'Web',
+        1,
+        2011,
+        'Cody Davis'
+    ),
+    (
+        236,
+        '2019-05-25 22:54:34',
+        'Instagram',
+        3,
+        2019,
+        'Aaron Peterson'
+    ),
+    (
+        236,
+        '2019-05-25 22:54:34',
+        'Instagram',
+        5,
+        2019,
+        'Patrick Wilson'
+    ),
+    (
+        236,
+        '2019-05-25 22:54:34',
+        'Instagram',
+        2,
+        2019,
+        'Jennifer Ford'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        236,
+        '2019-05-25 22:54:34',
+        'Instagram',
+        4,
+        2019,
+        'Terry Powell'
+    ),
+    (
+        236,
+        '2019-05-25 22:54:34',
+        'Instagram',
+        1,
+        2019,
+        'Kyle Hernandez'
+    ),
+    (
+        929,
+        '2018-05-26 22:48:46',
+        'Phone',
+        4,
+        2018,
+        'Steven Cox'
+    ),
+    (
+        929,
+        '2018-05-26 22:48:46',
+        'Phone',
+        2,
+        2018,
+        'Brandon Ruiz'
+    ),
+    (
+        929,
+        '2018-05-26 22:48:46',
+        'Phone',
+        3,
+        2018,
+        'Danielle Miller'
+    ),
+    (
+        929,
+        '2018-05-26 22:48:46',
+        'Phone',
+        5,
+        2018,
+        'Carrie Clark'
+    ),
+    (
+        929,
+        '2018-05-26 22:48:46',
+        'Phone',
+        1,
+        2018,
+        'Charles Glover'
+    ),
+    (
+        10,
+        '2015-05-30 22:56:04',
+        'Web',
+        5,
+        2015,
+        'Nicholas Black'
+    ),
+    (
+        10,
+        '2015-05-30 22:56:04',
+        'Web',
+        3,
+        2015,
+        'Colleen White'
+    ),
+    (
+        10,
+        '2015-05-30 22:56:04',
+        'Web',
+        2,
+        2015,
+        'Louis Phillips'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        10,
+        '2015-05-30 22:56:04',
+        'Web',
+        4,
+        2015,
+        'Brett Benjamin'
+    ),
+    (
+        10,
+        '2015-05-30 22:56:04',
+        'Web',
+        1,
+        2015,
+        'Robert White'
+    ),
+    (
+        15,
+        '2022-05-28 23:57:36',
+        'Instagram',
+        5,
+        2022,
+        'Gary Stone'
+    ),
+    (
+        15,
+        '2022-05-28 23:57:36',
+        'Instagram',
+        3,
+        2022,
+        'Thomas Gregory'
+    ),
+    (
+        15,
+        '2022-05-28 23:57:36',
+        'Instagram',
+        2,
+        2022,
+        'Andrew Hodges'
+    ),
+    (
+        15,
+        '2022-05-28 23:57:36',
+        'Instagram',
+        4,
+        2022,
+        'Andre Burton'
+    ),
+    (
+        15,
+        '2022-05-28 23:57:36',
+        'Instagram',
+        1,
+        2022,
+        'Michael Martinez'
+    ),
+    (
+        468,
+        '2013-05-25 22:25:22',
+        'Instagram',
+        4,
+        2013,
+        'Cassandra Hooper'
+    ),
+    (
+        598,
+        '2021-05-29 22:20:59',
+        'Web',
+        3,
+        2021,
+        'Samantha Lee'
+    ),
+    (
+        598,
+        '2021-05-29 22:20:59',
+        'Web',
+        4,
+        2021,
+        'Manuel Caldwell'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        598,
+        '2021-05-29 22:20:59',
+        'Web',
+        5,
+        2021,
+        'Thomas Smith'
+    ),
+    (
+        598,
+        '2021-05-29 22:20:59',
+        'Web',
+        1,
+        2021,
+        'Robin Myers'
+    ),
+    (
+        598,
+        '2021-05-29 22:20:59',
+        'Web',
+        2,
+        2021,
+        'Amber Mcdowell'
+    ),
+    (
+        845,
+        '2014-05-31 22:51:53',
+        'Instagram',
+        1,
+        2014,
+        'Christopher Hodge'
+    ),
+    (
+        845,
+        '2014-05-31 22:51:53',
+        'Instagram',
+        5,
+        2014,
+        'Mary Vance'
+    ),
+    (
+        845,
+        '2014-05-31 22:51:53',
+        'Instagram',
+        4,
+        2014,
+        'Carol Garrett'
+    ),
+    (
+        845,
+        '2014-05-31 22:51:53',
+        'Instagram',
+        3,
+        2014,
+        'Todd Miller'
+    ),
+    (
+        845,
+        '2014-05-31 22:51:53',
+        'Instagram',
+        2,
+        2014,
+        'Teresa Martin'
+    ),
+    (
+        969,
+        '2012-05-26 22:00:40',
+        'Instagram',
+        5,
+        2012,
+        'Jennifer Wolfe'
+    ),
+    (
+        969,
+        '2012-05-26 22:00:40',
+        'Instagram',
+        3,
+        2012,
+        'Lynn Booth'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        969,
+        '2012-05-26 22:00:40',
+        'Instagram',
+        2,
+        2012,
+        'Maria Robertson'
+    ),
+    (
+        969,
+        '2012-05-26 22:00:40',
+        'Instagram',
+        4,
+        2012,
+        'Patrick Benson'
+    ),
+    (
+        969,
+        '2012-05-26 22:00:40',
+        'Instagram',
+        1,
+        2012,
+        'Tyler Jordan'
+    ),
+    (
+        657,
+        '2009-05-30 23:31:54',
+        'Instagram',
+        2,
+        2009,
+        'Leslie Saunders'
+    ),
+    (
+        657,
+        '2009-05-30 23:31:54',
+        'Instagram',
+        3,
+        2009,
+        'Olivia Nichols'
+    ),
+    (
+        657,
+        '2009-05-30 23:31:54',
+        'Instagram',
+        1,
+        2009,
+        'Carrie Bell'
+    ),
+    (
+        657,
+        '2009-05-30 23:31:54',
+        'Instagram',
+        5,
+        2009,
+        'Sandra Lopez'
+    ),
+    (
+        657,
+        '2009-05-30 23:31:54',
+        'Instagram',
+        4,
+        2009,
+        'Matthew Garcia'
+    ),
+    (
+        857,
+        '2009-05-30 23:44:14',
+        'Phone',
+        2,
+        2009,
+        'Melanie Hall'
+    ),
+    (
+        857,
+        '2009-05-30 23:44:14',
+        'Phone',
+        4,
+        2009,
+        'Jason Hebert'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        857,
+        '2009-05-30 23:44:14',
+        'Phone',
+        5,
+        2009,
+        'Olivia Nichols'
+    ),
+    (
+        857,
+        '2009-05-30 23:44:14',
+        'Phone',
+        1,
+        2009,
+        'Leslie Saunders'
+    ),
+    (
+        857,
+        '2009-05-30 23:44:14',
+        'Phone',
+        3,
+        2009,
+        'Wanda Smith'
+    ),
+    (
+        233,
+        '2021-05-29 22:45:14',
+        'Facebook',
+        3,
+        2021,
+        'Aaron Baldwin'
+    ),
+    (
+        233,
+        '2021-05-29 22:45:14',
+        'Facebook',
+        2,
+        2021,
+        'Ann Perez'
+    ),
+    (
+        944,
+        '2010-05-29 23:01:03',
+        'Web',
+        1,
+        2010,
+        'Timothy Sandoval'
+    ),
+    (
+        944,
+        '2010-05-29 23:01:03',
+        'Web',
+        5,
+        2010,
+        'Kayla Vargas'
+    ),
+    (
+        944,
+        '2010-05-29 23:01:03',
+        'Web',
+        2,
+        2010,
+        'Courtney Barber'
+    ),
+    (
+        944,
+        '2010-05-29 23:01:03',
+        'Web',
+        3,
+        2010,
+        'Matthew Rice'
+    ),
+    (
+        944,
+        '2010-05-29 23:01:03',
+        'Web',
+        4,
+        2010,
+        'Rachel Melton'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        784,
+        '2022-05-28 22:47:37',
+        'Facebook',
+        2,
+        2022,
+        'Robert Curtis'
+    ),
+    (
+        784,
+        '2022-05-28 22:47:37',
+        'Facebook',
+        4,
+        2022,
+        'Andrew Hodges'
+    ),
+    (
+        784,
+        '2022-05-28 22:47:37',
+        'Facebook',
+        1,
+        2022,
+        'Michael Baker'
+    ),
+    (
+        784,
+        '2022-05-28 22:47:37',
+        'Facebook',
+        3,
+        2022,
+        'Michael Martinez'
+    ),
+    (
+        784,
+        '2022-05-28 22:47:37',
+        'Facebook',
+        5,
+        2022,
+        'Michelle Martin'
+    ),
+    (
+        492,
+        '2011-05-28 23:12:02',
+        'Facebook',
+        5,
+        2011,
+        'Andres Rubio'
+    ),
+    (
+        492,
+        '2011-05-28 23:12:02',
+        'Facebook',
+        4,
+        2011,
+        'Dr. Courtney Green MD'
+    ),
+    (
+        492,
+        '2011-05-28 23:12:02',
+        'Facebook',
+        2,
+        2011,
+        'John Henderson'
+    ),
+    (
+        492,
+        '2011-05-28 23:12:02',
+        'Facebook',
+        1,
+        2011,
+        'Keith Ingram'
+    ),
+    (
+        492,
+        '2011-05-28 23:12:02',
+        'Facebook',
+        3,
+        2011,
+        'Victoria Rosales PhD'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        512,
+        '2016-05-28 22:53:21',
+        'Instagram',
+        5,
+        2016,
+        'Brian Ingram'
+    ),
+    (
+        512,
+        '2016-05-28 22:53:21',
+        'Instagram',
+        1,
+        2016,
+        'Steve Bennett'
+    ),
+    (
+        512,
+        '2016-05-28 22:53:21',
+        'Instagram',
+        2,
+        2016,
+        'Amanda Patterson'
+    ),
+    (
+        512,
+        '2016-05-28 22:53:21',
+        'Instagram',
+        4,
+        2016,
+        'Cathy Lewis'
+    ),
+    (
+        512,
+        '2016-05-28 22:53:21',
+        'Instagram',
+        3,
+        2016,
+        'Alejandra Walter'
+    ),
+    (
+        359,
+        '2009-05-30 23:05:41',
+        'Phone',
+        4,
+        2009,
+        'Olivia Nichols'
+    ),
+    (
+        359,
+        '2009-05-30 23:05:41',
+        'Phone',
+        5,
+        2009,
+        'Theresa Castaneda'
+    ),
+    (
+        359,
+        '2009-05-30 23:05:41',
+        'Phone',
+        2,
+        2009,
+        'Carrie Bell'
+    ),
+    (
+        359,
+        '2009-05-30 23:05:41',
+        'Phone',
+        1,
+        2009,
+        'Melanie Hall'
+    ),
+    (
+        359,
+        '2009-05-30 23:05:41',
+        'Phone',
+        3,
+        2009,
+        'Sandra Lopez'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        226,
+        '2012-05-26 22:52:16',
+        'Instagram',
+        4,
+        2012,
+        'Jennifer Wolfe'
+    ),
+    (
+        226,
+        '2012-05-26 22:52:16',
+        'Instagram',
+        5,
+        2012,
+        'Maria Robertson'
+    ),
+    (
+        226,
+        '2012-05-26 22:52:16',
+        'Instagram',
+        3,
+        2012,
+        'Stacy White'
+    ),
+    (
+        226,
+        '2012-05-26 22:52:16',
+        'Instagram',
+        1,
+        2012,
+        'Stephanie Patrick'
+    ),
+    (
+        226,
+        '2012-05-26 22:52:16',
+        'Instagram',
+        2,
+        2012,
+        'Patrick Benson'
+    ),
+    (
+        491,
+        '2016-05-28 23:41:13',
+        'Instagram',
+        3,
+        2016,
+        'Melody Reese MD'
+    ),
+    (
+        491,
+        '2016-05-28 23:41:13',
+        'Instagram',
+        4,
+        2016,
+        'Steve Bennett'
+    ),
+    (
+        491,
+        '2016-05-28 23:41:13',
+        'Instagram',
+        1,
+        2016,
+        'Kimberly Wilkins MD'
+    ),
+    (
+        491,
+        '2016-05-28 23:41:13',
+        'Instagram',
+        5,
+        2016,
+        'Brian Ingram'
+    ),
+    (
+        491,
+        '2016-05-28 23:41:13',
+        'Instagram',
+        2,
+        2016,
+        'Alejandra Walter'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        249,
+        '2010-05-29 23:52:28',
+        'Facebook',
+        2,
+        2010,
+        'Timothy Sandoval'
+    ),
+    (
+        249,
+        '2010-05-29 23:52:28',
+        'Facebook',
+        4,
+        2010,
+        'Kyle Weiss'
+    ),
+    (
+        249,
+        '2010-05-29 23:52:28',
+        'Facebook',
+        5,
+        2010,
+        'Richard Dawson'
+    ),
+    (
+        249,
+        '2010-05-29 23:52:28',
+        'Facebook',
+        3,
+        2010,
+        'Kayla Vargas'
+    ),
+    (
+        249,
+        '2010-05-29 23:52:28',
+        'Facebook',
+        1,
+        2010,
+        'David Williams'
+    ),
+    (
+        8,
+        '2022-05-28 23:44:20',
+        'Instagram',
+        5,
+        2022,
+        'Gary Stone'
+    ),
+    (
+        8,
+        '2022-05-28 23:44:20',
+        'Instagram',
+        1,
+        2022,
+        'Robert Curtis'
+    ),
+    (
+        8,
+        '2022-05-28 23:44:20',
+        'Instagram',
+        2,
+        2022,
+        'Michael Baker'
+    ),
+    (
+        8,
+        '2022-05-28 23:44:20',
+        'Instagram',
+        3,
+        2022,
+        'Martin Moore'
+    ),
+    (
+        8,
+        '2022-05-28 23:44:20',
+        'Instagram',
+        4,
+        2022,
+        'Andrew Hodges'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        529,
+        '2014-05-31 22:53:39',
+        'Phone',
+        3,
+        2014,
+        'Melissa Williams'
+    ),
+    (
+        529,
+        '2014-05-31 22:53:39',
+        'Phone',
+        5,
+        2014,
+        'Lisa Wright'
+    ),
+    (
+        529,
+        '2014-05-31 22:53:39',
+        'Phone',
+        4,
+        2014,
+        'Mary Vance'
+    ),
+    (
+        529,
+        '2014-05-31 22:53:39',
+        'Phone',
+        2,
+        2014,
+        'Luke Williams'
+    ),
+    (
+        529,
+        '2014-05-31 22:53:39',
+        'Phone',
+        1,
+        2014,
+        'Teresa Martin'
+    ),
+    (
+        874,
+        '2017-05-27 23:25:15',
+        'Instagram',
+        3,
+        2017,
+        'Sean Ward'
+    ),
+    (
+        874,
+        '2017-05-27 23:25:15',
+        'Instagram',
+        4,
+        2017,
+        'Brian Mccall'
+    ),
+    (
+        874,
+        '2017-05-27 23:25:15',
+        'Instagram',
+        5,
+        2017,
+        'Elizabeth Koch'
+    ),
+    (
+        874,
+        '2017-05-27 23:25:15',
+        'Instagram',
+        2,
+        2017,
+        'Rachel Cole'
+    ),
+    (
+        874,
+        '2017-05-27 23:25:15',
+        'Instagram',
+        1,
+        2017,
+        'Brandi Harris'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        720,
+        '2014-05-31 22:24:16',
+        'Web',
+        2,
+        2014,
+        'Lisa Wright'
+    ),
+    (
+        720,
+        '2014-05-31 22:24:16',
+        'Web',
+        1,
+        2014,
+        'Melissa Williams'
+    ),
+    (
+        720,
+        '2014-05-31 22:24:16',
+        'Web',
+        5,
+        2014,
+        'Teresa Martin'
+    ),
+    (
+        720,
+        '2014-05-31 22:24:16',
+        'Web',
+        3,
+        2014,
+        'Mary Vance'
+    ),
+    (
+        720,
+        '2014-05-31 22:24:16',
+        'Web',
+        4,
+        2014,
+        'Zachary Fox'
+    ),
+    (
+        912,
+        '2017-05-27 23:38:35',
+        'Phone',
+        4,
+        2017,
+        'Elizabeth Koch'
+    ),
+    (
+        912,
+        '2017-05-27 23:38:35',
+        'Phone',
+        2,
+        2017,
+        'Nathan Williams'
+    ),
+    (
+        912,
+        '2017-05-27 23:38:35',
+        'Phone',
+        3,
+        2017,
+        'Rachel Cole'
+    ),
+    (
+        912,
+        '2017-05-27 23:38:35',
+        'Phone',
+        5,
+        2017,
+        'Andrea Hill'
+    ),
+    (
+        912,
+        '2017-05-27 23:38:35',
+        'Phone',
+        1,
+        2017,
+        'Tina Roy'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        847,
+        '2015-05-30 22:37:18',
+        'Facebook',
+        3,
+        2015,
+        'Louis Phillips'
+    ),
+    (
+        847,
+        '2015-05-30 22:37:18',
+        'Facebook',
+        2,
+        2015,
+        'Robert White'
+    ),
+    (
+        847,
+        '2015-05-30 22:37:18',
+        'Facebook',
+        5,
+        2015,
+        'Lisa Patrick'
+    ),
+    (
+        847,
+        '2015-05-30 22:37:18',
+        'Facebook',
+        1,
+        2015,
+        'Deborah Sparks'
+    ),
+    (
+        847,
+        '2015-05-30 22:37:18',
+        'Facebook',
+        4,
+        2015,
+        'Colleen White'
+    ),
+    (
+        654,
+        '2012-05-26 22:35:44',
+        'Facebook',
+        4,
+        2012,
+        'Jose Smith Jr.'
+    ),
+    (
+        654,
+        '2012-05-26 22:35:44',
+        'Facebook',
+        2,
+        2012,
+        'Tyler Jordan'
+    ),
+    (
+        654,
+        '2012-05-26 22:35:44',
+        'Facebook',
+        5,
+        2012,
+        'Lynn Booth'
+    ),
+    (
+        654,
+        '2012-05-26 22:35:44',
+        'Facebook',
+        3,
+        2012,
+        'Kenneth Warner'
+    ),
+    (
+        654,
+        '2012-05-26 22:35:44',
+        'Facebook',
+        1,
+        2012,
+        'Maria Robertson'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        853,
+        '2024-05-25 22:43:43',
+        'Instagram',
+        1,
+        2024,
+        'Taylor Lopez'
+    ),
+    (
+        853,
+        '2024-05-25 22:43:43',
+        'Instagram',
+        4,
+        2024,
+        'Amber Williams'
+    ),
+    (
+        853,
+        '2024-05-25 22:43:43',
+        'Instagram',
+        5,
+        2024,
+        'Jessica Murphy'
+    ),
+    (
+        853,
+        '2024-05-25 22:43:43',
+        'Instagram',
+        2,
+        2024,
+        'Austin Williams'
+    ),
+    (
+        853,
+        '2024-05-25 22:43:43',
+        'Instagram',
+        3,
+        2024,
+        'Alexis Fields'
+    ),
+    (
+        691,
+        '2020-05-30 22:07:03',
+        'Phone',
+        5,
+        2020,
+        'Mr. Steven Yoder'
+    ),
+    (
+        691,
+        '2020-05-30 22:07:03',
+        'Phone',
+        1,
+        2020,
+        'Charles Maddox'
+    ),
+    (
+        691,
+        '2020-05-30 22:07:03',
+        'Phone',
+        4,
+        2020,
+        'Charles Washington'
+    ),
+    (
+        691,
+        '2020-05-30 22:07:03',
+        'Phone',
+        3,
+        2020,
+        'Lisa Wood'
+    ),
+    (
+        691,
+        '2020-05-30 22:07:03',
+        'Phone',
+        2,
+        2020,
+        'Juan Huerta'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        776,
+        '2015-05-30 22:48:57',
+        'Web',
+        2,
+        2015,
+        'Robert White'
+    ),
+    (
+        776,
+        '2015-05-30 22:48:57',
+        'Web',
+        3,
+        2015,
+        'Travis Hays'
+    ),
+    (
+        776,
+        '2015-05-30 22:48:57',
+        'Web',
+        4,
+        2015,
+        'Lisa Patrick'
+    ),
+    (
+        776,
+        '2015-05-30 22:48:57',
+        'Web',
+        1,
+        2015,
+        'Deborah Sparks'
+    ),
+    (
+        776,
+        '2015-05-30 22:48:57',
+        'Web',
+        5,
+        2015,
+        'Heidi Barry'
+    ),
+    (
+        170,
+        '2014-05-31 23:30:42',
+        'Web',
+        5,
+        2014,
+        'Zachary Fox'
+    ),
+    (
+        170,
+        '2014-05-31 23:30:42',
+        'Web',
+        2,
+        2014,
+        'John Conner'
+    ),
+    (
+        170,
+        '2014-05-31 23:30:42',
+        'Web',
+        3,
+        2014,
+        'Carol Garrett'
+    ),
+    (
+        170,
+        '2014-05-31 23:30:42',
+        'Web',
+        4,
+        2014,
+        'Luke Williams'
+    ),
+    (
+        170,
+        '2014-05-31 23:30:42',
+        'Web',
+        1,
+        2014,
+        'Teresa Martin'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        933,
+        '2023-05-27 23:04:04',
+        'Facebook',
+        2,
+        2023,
+        'Michael Butler'
+    ),
+    (
+        933,
+        '2023-05-27 23:04:04',
+        'Facebook',
+        4,
+        2023,
+        'Leslie Lee'
+    ),
+    (
+        933,
+        '2023-05-27 23:04:04',
+        'Facebook',
+        1,
+        2023,
+        'Paula Henderson'
+    ),
+    (
+        933,
+        '2023-05-27 23:04:04',
+        'Facebook',
+        3,
+        2023,
+        'Samantha Erickson'
+    ),
+    (
+        933,
+        '2023-05-27 23:04:04',
+        'Facebook',
+        5,
+        2023,
+        'Christine Hayes'
+    ),
+    (
+        917,
+        '2015-05-30 23:47:22',
+        'Phone',
+        1,
+        2015,
+        'Deborah Sparks'
+    ),
+    (
+        917,
+        '2015-05-30 23:47:22',
+        'Phone',
+        3,
+        2015,
+        'Nathan Bailey'
+    ),
+    (
+        917,
+        '2015-05-30 23:47:22',
+        'Phone',
+        4,
+        2015,
+        'Heidi Barry'
+    ),
+    (
+        917,
+        '2015-05-30 23:47:22',
+        'Phone',
+        5,
+        2015,
+        'Lisa Patrick'
+    ),
+    (
+        917,
+        '2015-05-30 23:47:22',
+        'Phone',
+        2,
+        2015,
+        'Louis Phillips'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        861,
+        '2011-05-28 22:57:27',
+        'Instagram',
+        5,
+        2011,
+        'Wesley Garcia'
+    ),
+    (
+        861,
+        '2011-05-28 22:57:27',
+        'Instagram',
+        1,
+        2011,
+        'Cody Davis'
+    ),
+    (
+        861,
+        '2011-05-28 22:57:27',
+        'Instagram',
+        3,
+        2011,
+        'Victoria Rosales PhD'
+    ),
+    (
+        861,
+        '2011-05-28 22:57:27',
+        'Instagram',
+        2,
+        2011,
+        'Ashley Lawson'
+    ),
+    (
+        861,
+        '2011-05-28 22:57:27',
+        'Instagram',
+        4,
+        2011,
+        'Andres Rubio'
+    ),
+    (
+        316,
+        '2023-05-27 23:00:38',
+        'Web',
+        5,
+        2023,
+        'Paula Henderson'
+    ),
+    (
+        316,
+        '2023-05-27 23:00:38',
+        'Web',
+        3,
+        2023,
+        'Megan Saunders'
+    ),
+    (
+        316,
+        '2023-05-27 23:00:38',
+        'Web',
+        1,
+        2023,
+        'Christine Hayes'
+    ),
+    (
+        316,
+        '2023-05-27 23:00:38',
+        'Web',
+        4,
+        2023,
+        'Jacqueline Wagner'
+    ),
+    (
+        316,
+        '2023-05-27 23:00:38',
+        'Web',
+        2,
+        2023,
+        'Thomas Ruiz'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        812,
+        '2015-05-30 22:00:58',
+        'Facebook',
+        2,
+        2015,
+        'Nathan Bailey'
+    ),
+    (
+        812,
+        '2015-05-30 22:00:58',
+        'Facebook',
+        5,
+        2015,
+        'Nicholas Black'
+    ),
+    (
+        812,
+        '2015-05-30 22:00:58',
+        'Facebook',
+        4,
+        2015,
+        'Louis Phillips'
+    ),
+    (
+        812,
+        '2015-05-30 22:00:58',
+        'Facebook',
+        3,
+        2015,
+        'Brett Benjamin'
+    ),
+    (
+        812,
+        '2015-05-30 22:00:58',
+        'Facebook',
+        1,
+        2015,
+        'Heidi Barry'
+    ),
+    (
+        370,
+        '2011-05-28 22:30:09',
+        'Web',
+        3,
+        2011,
+        'Keith Ingram'
+    ),
+    (
+        370,
+        '2011-05-28 22:30:09',
+        'Web',
+        4,
+        2011,
+        'Carmen Mitchell'
+    ),
+    (
+        893,
+        '2014-05-31 22:38:32',
+        'Instagram',
+        5,
+        2014,
+        'Teresa Martin'
+    ),
+    (
+        893,
+        '2014-05-31 22:38:32',
+        'Instagram',
+        3,
+        2014,
+        'John Conner'
+    ),
+    (
+        893,
+        '2014-05-31 22:38:32',
+        'Instagram',
+        2,
+        2014,
+        'Mary Vance'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        893,
+        '2014-05-31 22:38:32',
+        'Instagram',
+        4,
+        2014,
+        'Christopher Hodge'
+    ),
+    (
+        893,
+        '2014-05-31 22:38:32',
+        'Instagram',
+        1,
+        2014,
+        'Melissa Williams'
+    ),
+    (
+        459,
+        '2020-05-30 23:56:36',
+        'Instagram',
+        4,
+        2020,
+        'Danielle Berger'
+    ),
+    (
+        459,
+        '2020-05-30 23:56:36',
+        'Instagram',
+        2,
+        2020,
+        'Mr. Steven Yoder'
+    ),
+    (
+        459,
+        '2020-05-30 23:56:36',
+        'Instagram',
+        3,
+        2020,
+        'Jacob Hickman'
+    ),
+    (
+        459,
+        '2020-05-30 23:56:36',
+        'Instagram',
+        1,
+        2020,
+        'Lisa Wood'
+    ),
+    (
+        459,
+        '2020-05-30 23:56:36',
+        'Instagram',
+        5,
+        2020,
+        'Benjamin Thomas'
+    ),
+    (
+        556,
+        '2011-05-28 23:43:32',
+        'Instagram',
+        1,
+        2011,
+        'Dr. Courtney Green MD'
+    ),
+    (
+        556,
+        '2011-05-28 23:43:32',
+        'Instagram',
+        5,
+        2011,
+        'Victoria Rosales PhD'
+    ),
+    (
+        556,
+        '2011-05-28 23:43:32',
+        'Instagram',
+        3,
+        2011,
+        'Carmen Mitchell'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        556,
+        '2011-05-28 23:43:32',
+        'Instagram',
+        2,
+        2011,
+        'John Henderson'
+    ),
+    (
+        556,
+        '2011-05-28 23:43:32',
+        'Instagram',
+        4,
+        2011,
+        'Justin Kelly'
+    ),
+    (
+        846,
+        '2010-05-29 23:31:37',
+        'Web',
+        1,
+        2010,
+        'Timothy Sandoval'
+    ),
+    (
+        846,
+        '2010-05-29 23:31:37',
+        'Web',
+        3,
+        2010,
+        'Rachel Melton'
+    ),
+    (
+        846,
+        '2010-05-29 23:31:37',
+        'Web',
+        5,
+        2010,
+        'Katherine Li'
+    ),
+    (
+        846,
+        '2010-05-29 23:31:37',
+        'Web',
+        4,
+        2010,
+        'Kyle Weiss'
+    ),
+    (
+        846,
+        '2010-05-29 23:31:37',
+        'Web',
+        2,
+        2010,
+        'Courtney Barber'
+    ),
+    (
+        426,
+        '2012-05-26 23:14:20',
+        'Phone',
+        5,
+        2012,
+        'Tyler Jordan'
+    ),
+    (
+        426,
+        '2012-05-26 23:14:20',
+        'Phone',
+        1,
+        2012,
+        'Patrick Benson'
+    ),
+    (
+        426,
+        '2012-05-26 23:14:20',
+        'Phone',
+        4,
+        2012,
+        'Jennifer Wolfe'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        426,
+        '2012-05-26 23:14:20',
+        'Phone',
+        3,
+        2012,
+        'Stacy White'
+    ),
+    (
+        426,
+        '2012-05-26 23:14:20',
+        'Phone',
+        2,
+        2012,
+        'Anthony Bradford'
+    ),
+    (
+        74,
+        '2015-05-30 23:27:52',
+        'Facebook',
+        4,
+        2015,
+        'Louis Phillips'
+    ),
+    (
+        74,
+        '2015-05-30 23:27:52',
+        'Facebook',
+        5,
+        2015,
+        'Lisa Patrick'
+    ),
+    (
+        74,
+        '2015-05-30 23:27:52',
+        'Facebook',
+        1,
+        2015,
+        'Heidi Barry'
+    ),
+    (
+        74,
+        '2015-05-30 23:27:52',
+        'Facebook',
+        2,
+        2015,
+        'Deborah Sparks'
+    ),
+    (
+        74,
+        '2015-05-30 23:27:52',
+        'Facebook',
+        3,
+        2015,
+        'Travis Hays'
+    ),
+    (
+        330,
+        '2013-05-25 22:05:10',
+        'Facebook',
+        2,
+        2013,
+        'Wendy Cunningham'
+    ),
+    (
+        330,
+        '2013-05-25 22:05:10',
+        'Facebook',
+        3,
+        2013,
+        'Diane Cooper'
+    ),
+    (
+        330,
+        '2013-05-25 22:05:10',
+        'Facebook',
+        1,
+        2013,
+        'Tony Prince'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        330,
+        '2013-05-25 22:05:10',
+        'Facebook',
+        5,
+        2013,
+        'Cassandra Hooper'
+    ),
+    (
+        330,
+        '2013-05-25 22:05:10',
+        'Facebook',
+        4,
+        2013,
+        'Thomas Hess'
+    ),
+    (
+        110,
+        '2022-05-28 22:17:57',
+        'Instagram',
+        5,
+        2022,
+        'Michelle Martin'
+    ),
+    (
+        110,
+        '2022-05-28 22:17:57',
+        'Instagram',
+        4,
+        2022,
+        'Andrew Hodges'
+    ),
+    (
+        110,
+        '2022-05-28 22:17:57',
+        'Instagram',
+        1,
+        2022,
+        'Gary Stone'
+    ),
+    (
+        110,
+        '2022-05-28 22:17:57',
+        'Instagram',
+        2,
+        2022,
+        'Martin Moore'
+    ),
+    (
+        110,
+        '2022-05-28 22:17:57',
+        'Instagram',
+        3,
+        2022,
+        'Robert Curtis'
+    ),
+    (
+        621,
+        '2020-05-30 22:24:18',
+        'Web',
+        2,
+        2020,
+        'Juan Huerta'
+    ),
+    (
+        621,
+        '2020-05-30 22:24:18',
+        'Web',
+        1,
+        2020,
+        'Mr. Steven Yoder'
+    ),
+    (
+        621,
+        '2020-05-30 22:24:18',
+        'Web',
+        4,
+        2020,
+        'Travis Walker'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        621,
+        '2020-05-30 22:24:18',
+        'Web',
+        5,
+        2020,
+        'Charles Maddox'
+    ),
+    (
+        384,
+        '2012-05-26 22:08:30',
+        'Phone',
+        5,
+        2012,
+        'Anthony Bradford'
+    ),
+    (
+        384,
+        '2012-05-26 22:08:30',
+        'Phone',
+        1,
+        2012,
+        'Stacy White'
+    ),
+    (
+        384,
+        '2012-05-26 22:08:30',
+        'Phone',
+        4,
+        2012,
+        'Lynn Booth'
+    ),
+    (
+        384,
+        '2012-05-26 22:08:30',
+        'Phone',
+        3,
+        2012,
+        'Maria Robertson'
+    ),
+    (
+        384,
+        '2012-05-26 22:08:30',
+        'Phone',
+        2,
+        2012,
+        'Stephanie Patrick'
+    ),
+    (
+        720,
+        '2017-05-27 23:48:49',
+        'Instagram',
+        2,
+        2017,
+        'Brandi Harris'
+    ),
+    (
+        720,
+        '2017-05-27 23:48:49',
+        'Instagram',
+        4,
+        2017,
+        'Sean Ward'
+    ),
+    (
+        720,
+        '2017-05-27 23:48:49',
+        'Instagram',
+        1,
+        2017,
+        'Matthew Vaughn'
+    ),
+    (
+        720,
+        '2017-05-27 23:48:49',
+        'Instagram',
+        5,
+        2017,
+        'Elizabeth Koch'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        720,
+        '2017-05-27 23:48:49',
+        'Instagram',
+        3,
+        2017,
+        'Brian Mccall'
+    ),
+    (
+        887,
+        '2023-05-27 22:24:41',
+        'Phone',
+        3,
+        2023,
+        'Paula Henderson'
+    ),
+    (
+        887,
+        '2023-05-27 22:24:41',
+        'Phone',
+        4,
+        2023,
+        'Christine Hayes'
+    ),
+    (
+        887,
+        '2023-05-27 22:24:41',
+        'Phone',
+        5,
+        2023,
+        'Megan Saunders'
+    ),
+    (
+        887,
+        '2023-05-27 22:24:41',
+        'Phone',
+        1,
+        2023,
+        'Leslie Lee'
+    ),
+    (
+        887,
+        '2023-05-27 22:24:41',
+        'Phone',
+        2,
+        2023,
+        'Scott Baker'
+    ),
+    (
+        646,
+        '2015-05-30 22:14:28',
+        'Facebook',
+        1,
+        2015,
+        'Nathan Bailey'
+    ),
+    (
+        646,
+        '2015-05-30 22:14:28',
+        'Facebook',
+        4,
+        2015,
+        'Heidi Barry'
+    ),
+    (
+        646,
+        '2015-05-30 22:14:28',
+        'Facebook',
+        5,
+        2015,
+        'Brett Benjamin'
+    ),
+    (
+        646,
+        '2015-05-30 22:14:28',
+        'Facebook',
+        2,
+        2015,
+        'Robert White'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        646,
+        '2015-05-30 22:14:28',
+        'Facebook',
+        3,
+        2015,
+        'Louis Phillips'
+    ),
+    (
+        972,
+        '2017-05-27 23:16:04',
+        'Instagram',
+        4,
+        2017,
+        'Tina Roy'
+    ),
+    (
+        972,
+        '2017-05-27 23:16:04',
+        'Instagram',
+        5,
+        2017,
+        'Rachel Cole'
+    ),
+    (
+        972,
+        '2017-05-27 23:16:04',
+        'Instagram',
+        3,
+        2017,
+        'Brandi Harris'
+    ),
+    (
+        972,
+        '2017-05-27 23:16:04',
+        'Instagram',
+        2,
+        2017,
+        'Nathan Williams'
+    ),
+    (
+        972,
+        '2017-05-27 23:16:04',
+        'Instagram',
+        1,
+        2017,
+        'Elizabeth Koch'
+    ),
+    (
+        346,
+        '2012-05-26 23:18:33',
+        'Instagram',
+        4,
+        2012,
+        'Kenneth Warner'
+    ),
+    (
+        346,
+        '2012-05-26 23:18:33',
+        'Instagram',
+        1,
+        2012,
+        'Anthony Bradford'
+    ),
+    (
+        346,
+        '2012-05-26 23:18:33',
+        'Instagram',
+        3,
+        2012,
+        'Maria Robertson'
+    ),
+    (
+        346,
+        '2012-05-26 23:18:33',
+        'Instagram',
+        2,
+        2012,
+        'Jennifer Wolfe'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        346,
+        '2012-05-26 23:18:33',
+        'Instagram',
+        5,
+        2012,
+        'Lynn Booth'
+    ),
+    (
+        203,
+        '2012-05-26 22:00:58',
+        'Instagram',
+        1,
+        2012,
+        'Tyler Jordan'
+    ),
+    (
+        203,
+        '2012-05-26 22:00:58',
+        'Instagram',
+        3,
+        2012,
+        'Stephanie Patrick'
+    ),
+    (
+        353,
+        '2019-05-25 23:40:37',
+        'Web',
+        5,
+        2019,
+        'Patrick Wilson'
+    ),
+    (
+        353,
+        '2019-05-25 23:40:37',
+        'Web',
+        4,
+        2019,
+        'Terry Powell'
+    ),
+    (
+        353,
+        '2019-05-25 23:40:37',
+        'Web',
+        1,
+        2019,
+        'Jennifer Ford'
+    ),
+    (
+        353,
+        '2019-05-25 23:40:37',
+        'Web',
+        2,
+        2019,
+        'Cameron Hawkins'
+    ),
+    (
+        353,
+        '2019-05-25 23:40:37',
+        'Web',
+        3,
+        2019,
+        'Samantha Jones'
+    ),
+    (
+        957,
+        '2023-05-27 23:26:30',
+        'Instagram',
+        4,
+        2023,
+        'Christine Hayes'
+    ),
+    (
+        957,
+        '2023-05-27 23:26:30',
+        'Instagram',
+        1,
+        2023,
+        'Jacqueline Wagner'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        957,
+        '2023-05-27 23:26:30',
+        'Instagram',
+        3,
+        2023,
+        'Leslie Lee'
+    ),
+    (
+        957,
+        '2023-05-27 23:26:30',
+        'Instagram',
+        2,
+        2023,
+        'Manuel Graves'
+    ),
+    (
+        957,
+        '2023-05-27 23:26:30',
+        'Instagram',
+        5,
+        2023,
+        'Megan Saunders'
+    ),
+    (
+        498,
+        '2010-05-29 23:30:39',
+        'Facebook',
+        5,
+        2010,
+        'Richard Dawson'
+    ),
+    (
+        498,
+        '2010-05-29 23:30:39',
+        'Facebook',
+        4,
+        2010,
+        'Kevin Wilson'
+    ),
+    (
+        340,
+        '2016-05-28 22:54:34',
+        'Instagram',
+        2,
+        2016,
+        'Steve Bennett'
+    ),
+    (
+        340,
+        '2016-05-28 22:54:34',
+        'Instagram',
+        5,
+        2016,
+        'Brian Ingram'
+    ),
+    (
+        340,
+        '2016-05-28 22:54:34',
+        'Instagram',
+        3,
+        2016,
+        'Amanda Patterson'
+    ),
+    (
+        340,
+        '2016-05-28 22:54:34',
+        'Instagram',
+        1,
+        2016,
+        'Tara Mcgee'
+    ),
+    (
+        340,
+        '2016-05-28 22:54:34',
+        'Instagram',
+        4,
+        2016,
+        'Derek Schwartz'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        285,
+        '2019-05-25 23:13:00',
+        'Instagram',
+        1,
+        2019,
+        'Sarah Hancock'
+    ),
+    (
+        285,
+        '2019-05-25 23:13:00',
+        'Instagram',
+        2,
+        2019,
+        'Terry Powell'
+    ),
+    (
+        285,
+        '2019-05-25 23:13:00',
+        'Instagram',
+        4,
+        2019,
+        'Kathryn Alvarez'
+    ),
+    (
+        285,
+        '2019-05-25 23:13:00',
+        'Instagram',
+        3,
+        2019,
+        'Samantha Jones'
+    ),
+    (
+        285,
+        '2019-05-25 23:13:00',
+        'Instagram',
+        5,
+        2019,
+        'Amanda Ingram'
+    ),
+    (
+        963,
+        '2015-05-30 23:39:48',
+        'Phone',
+        5,
+        2015,
+        'Deborah Sparks'
+    ),
+    (
+        963,
+        '2015-05-30 23:39:48',
+        'Phone',
+        4,
+        2015,
+        'Nicholas Black'
+    ),
+    (
+        963,
+        '2015-05-30 23:39:48',
+        'Phone',
+        2,
+        2015,
+        'Travis Hays'
+    ),
+    (
+        963,
+        '2015-05-30 23:39:48',
+        'Phone',
+        1,
+        2015,
+        'Heidi Barry'
+    ),
+    (
+        963,
+        '2015-05-30 23:39:48',
+        'Phone',
+        3,
+        2015,
+        'Lisa Patrick'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        325,
+        '2015-05-30 22:16:04',
+        'Instagram',
+        3,
+        2015,
+        'Nicholas Black'
+    ),
+    (
+        325,
+        '2015-05-30 22:16:04',
+        'Instagram',
+        4,
+        2015,
+        'Lisa Patrick'
+    ),
+    (
+        325,
+        '2015-05-30 22:16:04',
+        'Instagram',
+        2,
+        2015,
+        'Colleen White'
+    ),
+    (
+        325,
+        '2015-05-30 22:16:04',
+        'Instagram',
+        1,
+        2015,
+        'Brett Benjamin'
+    ),
+    (
+        325,
+        '2015-05-30 22:16:04',
+        'Instagram',
+        5,
+        2015,
+        'Heidi Barry'
+    ),
+    (
+        2,
+        '2018-05-26 23:16:01',
+        'Instagram',
+        1,
+        2018,
+        'Danielle Miller'
+    ),
+    (
+        2,
+        '2018-05-26 23:16:01',
+        'Instagram',
+        4,
+        2018,
+        'Kimberly Davis'
+    ),
+    (
+        2,
+        '2018-05-26 23:16:01',
+        'Instagram',
+        5,
+        2018,
+        'Carrie Clark'
+    ),
+    (
+        2,
+        '2018-05-26 23:16:01',
+        'Instagram',
+        3,
+        2018,
+        'Laura Barnes'
+    ),
+    (
+        2,
+        '2018-05-26 23:16:01',
+        'Instagram',
+        2,
+        2018,
+        'Brandon Ruiz'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        188,
+        '2021-05-29 22:15:14',
+        'Instagram',
+        3,
+        2021,
+        'Samantha Lee'
+    ),
+    (
+        188,
+        '2021-05-29 22:15:14',
+        'Instagram',
+        4,
+        2021,
+        'Aaron Baldwin'
+    ),
+    (
+        188,
+        '2021-05-29 22:15:14',
+        'Instagram',
+        1,
+        2021,
+        'Jack Singh'
+    ),
+    (
+        188,
+        '2021-05-29 22:15:14',
+        'Instagram',
+        2,
+        2021,
+        'Thomas Smith'
+    ),
+    (
+        188,
+        '2021-05-29 22:15:14',
+        'Instagram',
+        5,
+        2021,
+        'Manuel Caldwell'
+    ),
+    (
+        499,
+        '2013-05-25 22:36:29',
+        'Phone',
+        4,
+        2013,
+        'Wendy Cunningham'
+    ),
+    (
+        499,
+        '2013-05-25 22:36:29',
+        'Phone',
+        1,
+        2013,
+        'Diane Cooper'
+    ),
+    (
+        499,
+        '2013-05-25 22:36:29',
+        'Phone',
+        2,
+        2013,
+        'Kimberly Larsen'
+    ),
+    (
+        373,
+        '2014-05-31 22:47:00',
+        'Web',
+        3,
+        2014,
+        'Zachary Fox'
+    ),
+    (
+        373,
+        '2014-05-31 22:47:00',
+        'Web',
+        2,
+        2014,
+        'Todd Miller'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        373,
+        '2014-05-31 22:47:00',
+        'Web',
+        1,
+        2014,
+        'Luke Williams'
+    ),
+    (
+        373,
+        '2014-05-31 22:47:00',
+        'Web',
+        4,
+        2014,
+        'Christopher Hodge'
+    ),
+    (
+        373,
+        '2014-05-31 22:47:00',
+        'Web',
+        5,
+        2014,
+        'Teresa Martin'
+    ),
+    (
+        976,
+        '2023-05-27 23:12:59',
+        'Phone',
+        2,
+        2023,
+        'Thomas Ruiz'
+    ),
+    (
+        976,
+        '2023-05-27 23:12:59',
+        'Phone',
+        1,
+        2023,
+        'Scott Baker'
+    ),
+    (
+        976,
+        '2023-05-27 23:12:59',
+        'Phone',
+        5,
+        2023,
+        'Christine Hayes'
+    ),
+    (
+        976,
+        '2023-05-27 23:12:59',
+        'Phone',
+        3,
+        2023,
+        'Paula Henderson'
+    ),
+    (
+        976,
+        '2023-05-27 23:12:59',
+        'Phone',
+        4,
+        2023,
+        'Michael Butler'
+    ),
+    (
+        631,
+        '2021-05-29 23:27:15',
+        'Phone',
+        4,
+        2021,
+        'Aaron Baldwin'
+    ),
+    (
+        631,
+        '2021-05-29 23:27:15',
+        'Phone',
+        2,
+        2021,
+        'Ann Perez'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        631,
+        '2021-05-29 23:27:15',
+        'Phone',
+        1,
+        2021,
+        'Robin Myers'
+    ),
+    (
+        631,
+        '2021-05-29 23:27:15',
+        'Phone',
+        5,
+        2021,
+        'Thomas Smith'
+    ),
+    (
+        631,
+        '2021-05-29 23:27:15',
+        'Phone',
+        3,
+        2021,
+        'Manuel Caldwell'
+    ),
+    (
+        298,
+        '2019-05-25 22:57:35',
+        'Facebook',
+        2,
+        2019,
+        'Cameron Hawkins'
+    ),
+    (
+        298,
+        '2019-05-25 22:57:35',
+        'Facebook',
+        4,
+        2019,
+        'Jennifer Ford'
+    ),
+    (
+        298,
+        '2019-05-25 22:57:35',
+        'Facebook',
+        3,
+        2019,
+        'Amanda Ingram'
+    ),
+    (
+        298,
+        '2019-05-25 22:57:35',
+        'Facebook',
+        5,
+        2019,
+        'Patrick Wilson'
+    ),
+    (
+        298,
+        '2019-05-25 22:57:35',
+        'Facebook',
+        1,
+        2019,
+        'Sarah Hancock'
+    ),
+    (
+        695,
+        '2024-05-25 22:25:52',
+        'Web',
+        5,
+        2024,
+        'Christy Perry'
+    ),
+    (
+        695,
+        '2024-05-25 22:25:52',
+        'Web',
+        4,
+        2024,
+        'Jessica Murphy'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        695,
+        '2024-05-25 22:25:52',
+        'Web',
+        1,
+        2024,
+        'Gabriel Arroyo'
+    ),
+    (
+        695,
+        '2024-05-25 22:25:52',
+        'Web',
+        2,
+        2024,
+        'Christopher Singh'
+    ),
+    (
+        695,
+        '2024-05-25 22:25:52',
+        'Web',
+        3,
+        2024,
+        'Austin Williams'
+    ),
+    (
+        517,
+        '2012-05-26 23:55:44',
+        'Facebook',
+        4,
+        2012,
+        'Jennifer Wolfe'
+    ),
+    (
+        517,
+        '2012-05-26 23:55:44',
+        'Facebook',
+        5,
+        2012,
+        'Jose Smith Jr.'
+    ),
+    (
+        517,
+        '2012-05-26 23:55:44',
+        'Facebook',
+        3,
+        2012,
+        'Lynn Booth'
+    ),
+    (
+        517,
+        '2012-05-26 23:55:44',
+        'Facebook',
+        2,
+        2012,
+        'Kenneth Warner'
+    ),
+    (
+        517,
+        '2012-05-26 23:55:44',
+        'Facebook',
+        1,
+        2012,
+        'Tyler Jordan'
+    ),
+    (
+        544,
+        '2016-05-28 23:42:36',
+        'Facebook',
+        3,
+        2016,
+        'Amanda Patterson'
+    ),
+    (
+        544,
+        '2016-05-28 23:42:36',
+        'Facebook',
+        1,
+        2016,
+        'Steve Bennett'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        544,
+        '2016-05-28 23:42:36',
+        'Facebook',
+        4,
+        2016,
+        'Kimberly Wilkins MD'
+    ),
+    (
+        544,
+        '2016-05-28 23:42:36',
+        'Facebook',
+        2,
+        2016,
+        'Anne Mcfarland'
+    ),
+    (
+        544,
+        '2016-05-28 23:42:36',
+        'Facebook',
+        5,
+        2016,
+        'Derek Schwartz'
+    ),
+    (
+        497,
+        '2016-05-28 22:10:08',
+        'Web',
+        3,
+        2016,
+        'Amanda Patterson'
+    ),
+    (
+        497,
+        '2016-05-28 22:10:08',
+        'Web',
+        2,
+        2016,
+        'Tara Mcgee'
+    ),
+    (
+        497,
+        '2016-05-28 22:10:08',
+        'Web',
+        5,
+        2016,
+        'Anne Mcfarland'
+    ),
+    (
+        497,
+        '2016-05-28 22:10:08',
+        'Web',
+        1,
+        2016,
+        'Melody Reese MD'
+    ),
+    (
+        497,
+        '2016-05-28 22:10:08',
+        'Web',
+        4,
+        2016,
+        'Kimberly Wilkins MD'
+    ),
+    (
+        437,
+        '2009-05-30 23:01:07',
+        'Instagram',
+        5,
+        2009,
+        'Melanie Hall'
+    ),
+    (
+        437,
+        '2009-05-30 23:01:07',
+        'Instagram',
+        2,
+        2009,
+        'Kimberly Craig'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        437,
+        '2009-05-30 23:01:07',
+        'Instagram',
+        3,
+        2009,
+        'Wanda Smith'
+    ),
+    (
+        437,
+        '2009-05-30 23:01:07',
+        'Instagram',
+        1,
+        2009,
+        'Leslie Saunders'
+    ),
+    (
+        437,
+        '2009-05-30 23:01:07',
+        'Instagram',
+        4,
+        2009,
+        'Jason Hebert'
+    ),
+    (
+        976,
+        '2010-05-29 22:31:31',
+        'Web',
+        4,
+        2010,
+        'Katherine Li'
+    ),
+    (
+        976,
+        '2010-05-29 22:31:31',
+        'Web',
+        3,
+        2010,
+        'Matthew Rice'
+    ),
+    (
+        976,
+        '2010-05-29 22:31:31',
+        'Web',
+        2,
+        2010,
+        'Rachel Melton'
+    ),
+    (
+        976,
+        '2010-05-29 22:31:31',
+        'Web',
+        5,
+        2010,
+        'Richard Dawson'
+    ),
+    (
+        976,
+        '2010-05-29 22:31:31',
+        'Web',
+        1,
+        2010,
+        'Timothy Sandoval'
+    ),
+    (
+        532,
+        '2013-05-25 23:09:48',
+        'Instagram',
+        2,
+        2013,
+        'Blake Martinez'
+    ),
+    (
+        532,
+        '2013-05-25 23:09:48',
+        'Instagram',
+        4,
+        2013,
+        'Anthony Villanueva'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        532,
+        '2013-05-25 23:09:48',
+        'Instagram',
+        1,
+        2013,
+        'Thomas Hess'
+    ),
+    (
+        532,
+        '2013-05-25 23:09:48',
+        'Instagram',
+        3,
+        2013,
+        'Nancy Mcmahon'
+    ),
+    (
+        532,
+        '2013-05-25 23:09:48',
+        'Instagram',
+        5,
+        2013,
+        'Wendy Cunningham'
+    ),
+    (
+        388,
+        '2023-05-27 23:17:47',
+        'Phone',
+        2,
+        2023,
+        'Leslie Lee'
+    ),
+    (
+        388,
+        '2023-05-27 23:17:47',
+        'Phone',
+        3,
+        2023,
+        'Thomas Ruiz'
+    ),
+    (
+        388,
+        '2023-05-27 23:17:47',
+        'Phone',
+        4,
+        2023,
+        'Jacqueline Wagner'
+    ),
+    (
+        388,
+        '2023-05-27 23:17:47',
+        'Phone',
+        5,
+        2023,
+        'Samantha Erickson'
+    ),
+    (
+        388,
+        '2023-05-27 23:17:47',
+        'Phone',
+        1,
+        2023,
+        'Manuel Graves'
+    ),
+    (
+        436,
+        '2020-05-30 23:47:21',
+        'Phone',
+        3,
+        2020,
+        'Charles Washington'
+    ),
+    (
+        436,
+        '2020-05-30 23:47:21',
+        'Phone',
+        4,
+        2020,
+        'Mr. Steven Yoder'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        436,
+        '2020-05-30 23:47:21',
+        'Phone',
+        2,
+        2020,
+        'Juan Huerta'
+    ),
+    (
+        436,
+        '2020-05-30 23:47:21',
+        'Phone',
+        1,
+        2020,
+        'Benjamin Thomas'
+    ),
+    (
+        436,
+        '2020-05-30 23:47:21',
+        'Phone',
+        5,
+        2020,
+        'Charles Maddox'
+    ),
+    (
+        257,
+        '2022-05-28 22:29:08',
+        'Phone',
+        1,
+        2022,
+        'Thomas Gregory'
+    ),
+    (
+        257,
+        '2022-05-28 22:29:08',
+        'Phone',
+        3,
+        2022,
+        'Martin Moore'
+    ),
+    (
+        257,
+        '2022-05-28 22:29:08',
+        'Phone',
+        4,
+        2022,
+        'Robert Curtis'
+    ),
+    (
+        257,
+        '2022-05-28 22:29:08',
+        'Phone',
+        5,
+        2022,
+        'Michelle Martin'
+    ),
+    (
+        257,
+        '2022-05-28 22:29:08',
+        'Phone',
+        2,
+        2022,
+        'Stephanie Smith'
+    ),
+    (
+        178,
+        '2014-05-31 22:12:09',
+        'Web',
+        5,
+        2014,
+        'Teresa Martin'
+    ),
+    (
+        178,
+        '2014-05-31 22:12:09',
+        'Web',
+        4,
+        2014,
+        'Zachary Fox'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        178,
+        '2014-05-31 22:12:09',
+        'Web',
+        3,
+        2014,
+        'Carol Garrett'
+    ),
+    (
+        178,
+        '2014-05-31 22:12:09',
+        'Web',
+        1,
+        2014,
+        'Todd Miller'
+    ),
+    (
+        178,
+        '2014-05-31 22:12:09',
+        'Web',
+        2,
+        2014,
+        'Mary Vance'
+    ),
+    (
+        269,
+        '2013-05-25 23:27:36',
+        'Facebook',
+        5,
+        2013,
+        'Diane Cooper'
+    ),
+    (
+        269,
+        '2013-05-25 23:27:36',
+        'Facebook',
+        2,
+        2013,
+        'Nancy Mcmahon'
+    ),
+    (
+        269,
+        '2013-05-25 23:27:36',
+        'Facebook',
+        3,
+        2013,
+        'Cassandra Hooper'
+    ),
+    (
+        269,
+        '2013-05-25 23:27:36',
+        'Facebook',
+        4,
+        2013,
+        'Kimberly Larsen'
+    ),
+    (
+        269,
+        '2013-05-25 23:27:36',
+        'Facebook',
+        1,
+        2013,
+        'Anthony Villanueva'
+    ),
+    (
+        987,
+        '2018-05-26 23:48:28',
+        'Instagram',
+        2,
+        2018,
+        'John Hubbard'
+    ),
+    (
+        987,
+        '2018-05-26 23:48:28',
+        'Instagram',
+        1,
+        2018,
+        'Steven Cox'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        987,
+        '2018-05-26 23:48:28',
+        'Instagram',
+        4,
+        2018,
+        'Danielle Miller'
+    ),
+    (
+        987,
+        '2018-05-26 23:48:28',
+        'Instagram',
+        3,
+        2018,
+        'Jessica Williams'
+    ),
+    (
+        987,
+        '2018-05-26 23:48:28',
+        'Instagram',
+        5,
+        2018,
+        'Kimberly Davis'
+    ),
+    (
+        889,
+        '2015-05-30 22:14:49',
+        'Facebook',
+        1,
+        2015,
+        'Heidi Barry'
+    ),
+    (
+        889,
+        '2015-05-30 22:14:49',
+        'Facebook',
+        2,
+        2015,
+        'Colleen White'
+    ),
+    (
+        889,
+        '2015-05-30 22:14:49',
+        'Facebook',
+        5,
+        2015,
+        'Robert White'
+    ),
+    (
+        889,
+        '2015-05-30 22:14:49',
+        'Facebook',
+        4,
+        2015,
+        'Travis Hays'
+    ),
+    (
+        889,
+        '2015-05-30 22:14:49',
+        'Facebook',
+        3,
+        2015,
+        'Louis Phillips'
+    ),
+    (
+        644,
+        '2014-05-31 23:23:12',
+        'Phone',
+        5,
+        2014,
+        'Christopher Hodge'
+    ),
+    (
+        644,
+        '2014-05-31 23:23:12',
+        'Phone',
+        4,
+        2014,
+        'Teresa Martin'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        644,
+        '2014-05-31 23:23:12',
+        'Phone',
+        2,
+        2014,
+        'John Conner'
+    ),
+    (
+        582,
+        '2019-05-25 23:27:18',
+        'Instagram',
+        2,
+        2019,
+        'Kathryn Alvarez'
+    ),
+    (
+        582,
+        '2019-05-25 23:27:18',
+        'Instagram',
+        5,
+        2019,
+        'Patrick Wilson'
+    ),
+    (
+        582,
+        '2019-05-25 23:27:18',
+        'Instagram',
+        3,
+        2019,
+        'Kyle Hernandez'
+    ),
+    (
+        582,
+        '2019-05-25 23:27:18',
+        'Instagram',
+        4,
+        2019,
+        'Samantha Jones'
+    ),
+    (
+        582,
+        '2019-05-25 23:27:18',
+        'Instagram',
+        1,
+        2019,
+        'Cameron Hawkins'
+    ),
+    (
+        405,
+        '2023-05-27 22:15:47',
+        'Instagram',
+        5,
+        2023,
+        'Samantha Erickson'
+    ),
+    (
+        405,
+        '2023-05-27 22:15:47',
+        'Instagram',
+        3,
+        2023,
+        'Megan Saunders'
+    ),
+    (
+        405,
+        '2023-05-27 22:15:47',
+        'Instagram',
+        1,
+        2023,
+        'Leslie Lee'
+    ),
+    (
+        405,
+        '2023-05-27 22:15:47',
+        'Instagram',
+        2,
+        2023,
+        'Christine Hayes'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        405,
+        '2023-05-27 22:15:47',
+        'Instagram',
+        4,
+        2023,
+        'Thomas Ruiz'
+    ),
+    (
+        487,
+        '2023-05-27 23:53:48',
+        'Facebook',
+        3,
+        2023,
+        'Paula Henderson'
+    ),
+    (
+        487,
+        '2023-05-27 23:53:48',
+        'Facebook',
+        1,
+        2023,
+        'Scott Baker'
+    ),
+    (
+        487,
+        '2023-05-27 23:53:48',
+        'Facebook',
+        4,
+        2023,
+        'Michael Butler'
+    ),
+    (
+        487,
+        '2023-05-27 23:53:48',
+        'Facebook',
+        2,
+        2023,
+        'Christine Hayes'
+    ),
+    (
+        487,
+        '2023-05-27 23:53:48',
+        'Facebook',
+        5,
+        2023,
+        'Manuel Graves'
+    ),
+    (
+        323,
+        '2019-05-25 23:21:39',
+        'Instagram',
+        4,
+        2019,
+        'Amanda Ingram'
+    ),
+    (
+        323,
+        '2019-05-25 23:21:39',
+        'Instagram',
+        1,
+        2019,
+        'Terry Powell'
+    ),
+    (
+        323,
+        '2019-05-25 23:21:39',
+        'Instagram',
+        3,
+        2019,
+        'Patrick Wilson'
+    ),
+    (
+        323,
+        '2019-05-25 23:21:39',
+        'Instagram',
+        2,
+        2019,
+        'Aaron Peterson'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        323,
+        '2019-05-25 23:21:39',
+        'Instagram',
+        5,
+        2019,
+        'Kathryn Alvarez'
+    ),
+    (
+        703,
+        '2013-05-25 22:06:08',
+        'Web',
+        2,
+        2013,
+        'Cassandra Hooper'
+    ),
+    (
+        703,
+        '2013-05-25 22:06:08',
+        'Web',
+        5,
+        2013,
+        'Diane Cooper'
+    ),
+    (
+        703,
+        '2013-05-25 22:06:08',
+        'Web',
+        3,
+        2013,
+        'Kimberly Larsen'
+    ),
+    (
+        703,
+        '2013-05-25 22:06:08',
+        'Web',
+        4,
+        2013,
+        'Wendy Cunningham'
+    ),
+    (
+        703,
+        '2013-05-25 22:06:08',
+        'Web',
+        1,
+        2013,
+        'Tony Prince'
+    ),
+    (
+        138,
+        '2010-05-29 22:35:09',
+        'Web',
+        2,
+        2010,
+        'Courtney Barber'
+    ),
+    (
+        138,
+        '2010-05-29 22:35:09',
+        'Web',
+        1,
+        2010,
+        'Matthew Rice'
+    ),
+    (
+        138,
+        '2010-05-29 22:35:09',
+        'Web',
+        3,
+        2010,
+        'Rachel Melton'
+    ),
+    (
+        138,
+        '2010-05-29 22:35:09',
+        'Web',
+        4,
+        2010,
+        'Kyle Weiss'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        138,
+        '2010-05-29 22:35:09',
+        'Web',
+        5,
+        2010,
+        'David Williams'
+    ),
+    (
+        893,
+        '2010-05-29 23:41:22',
+        'Phone',
+        2,
+        2010,
+        'Richard Dawson'
+    ),
+    (
+        893,
+        '2010-05-29 23:41:22',
+        'Phone',
+        4,
+        2010,
+        'Kayla Vargas'
+    ),
+    (
+        893,
+        '2010-05-29 23:41:22',
+        'Phone',
+        5,
+        2010,
+        'Rachel Melton'
+    ),
+    (
+        893,
+        '2010-05-29 23:41:22',
+        'Phone',
+        3,
+        2010,
+        'Matthew Rice'
+    ),
+    (
+        893,
+        '2010-05-29 23:41:22',
+        'Phone',
+        1,
+        2010,
+        'Kyle Weiss'
+    ),
+    (
+        376,
+        '2009-05-30 22:46:16',
+        'Phone',
+        2,
+        2009,
+        'Olivia Nichols'
+    ),
+    (
+        376,
+        '2009-05-30 22:46:16',
+        'Phone',
+        1,
+        2009,
+        'Leslie Saunders'
+    ),
+    (
+        376,
+        '2009-05-30 22:46:16',
+        'Phone',
+        5,
+        2009,
+        'Theresa Castaneda'
+    ),
+    (
+        376,
+        '2009-05-30 22:46:16',
+        'Phone',
+        4,
+        2009,
+        'Melanie Hall'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        376,
+        '2009-05-30 22:46:16',
+        'Phone',
+        3,
+        2009,
+        'Sandra Lopez'
+    ),
+    (
+        854,
+        '2011-05-28 22:17:48',
+        'Facebook',
+        3,
+        2011,
+        'Keith Ingram'
+    ),
+    (
+        854,
+        '2011-05-28 22:17:48',
+        'Facebook',
+        4,
+        2011,
+        'Cody Davis'
+    ),
+    (
+        854,
+        '2011-05-28 22:17:48',
+        'Facebook',
+        5,
+        2011,
+        'Carmen Mitchell'
+    ),
+    (
+        854,
+        '2011-05-28 22:17:48',
+        'Facebook',
+        2,
+        2011,
+        'Victoria Rosales PhD'
+    ),
+    (
+        854,
+        '2011-05-28 22:17:48',
+        'Facebook',
+        1,
+        2011,
+        'John Henderson'
+    ),
+    (
+        301,
+        '2014-05-31 22:13:36',
+        'Instagram',
+        4,
+        2014,
+        'Lisa Wright'
+    ),
+    (
+        301,
+        '2014-05-31 22:13:36',
+        'Instagram',
+        1,
+        2014,
+        'Mary Vance'
+    ),
+    (
+        301,
+        '2014-05-31 22:13:36',
+        'Instagram',
+        3,
+        2014,
+        'Christopher Hodge'
+    ),
+    (
+        301,
+        '2014-05-31 22:13:36',
+        'Instagram',
+        2,
+        2014,
+        'Luke Williams'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        301,
+        '2014-05-31 22:13:36',
+        'Instagram',
+        5,
+        2014,
+        'Zachary Fox'
+    ),
+    (
+        45,
+        '2011-05-28 23:55:26',
+        'Web',
+        4,
+        2011,
+        'Ashley Lawson'
+    ),
+    (
+        45,
+        '2011-05-28 23:55:26',
+        'Web',
+        2,
+        2011,
+        'Keith Ingram'
+    ),
+    (
+        45,
+        '2011-05-28 23:55:26',
+        'Web',
+        5,
+        2011,
+        'Dr. Courtney Green MD'
+    ),
+    (
+        45,
+        '2011-05-28 23:55:26',
+        'Web',
+        3,
+        2011,
+        'Justin Kelly'
+    ),
+    (
+        45,
+        '2011-05-28 23:55:26',
+        'Web',
+        1,
+        2011,
+        'Carmen Mitchell'
+    ),
+    (
+        915,
+        '2012-05-26 23:31:58',
+        'Instagram',
+        5,
+        2012,
+        'Kenneth Warner'
+    ),
+    (
+        915,
+        '2012-05-26 23:31:58',
+        'Instagram',
+        2,
+        2012,
+        'Stephanie Patrick'
+    ),
+    (
+        915,
+        '2012-05-26 23:31:58',
+        'Instagram',
+        1,
+        2012,
+        'Jose Smith Jr.'
+    ),
+    (
+        915,
+        '2012-05-26 23:31:58',
+        'Instagram',
+        4,
+        2012,
+        'Maria Robertson'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        915,
+        '2012-05-26 23:31:58',
+        'Instagram',
+        3,
+        2012,
+        'Lynn Booth'
+    ),
+    (
+        904,
+        '2014-05-31 22:23:15',
+        'Phone',
+        4,
+        2014,
+        'Mary Vance'
+    ),
+    (
+        904,
+        '2014-05-31 22:23:15',
+        'Phone',
+        3,
+        2014,
+        'Zachary Fox'
+    ),
+    (
+        904,
+        '2014-05-31 22:23:15',
+        'Phone',
+        2,
+        2014,
+        'Luke Williams'
+    ),
+    (
+        904,
+        '2014-05-31 22:23:15',
+        'Phone',
+        5,
+        2014,
+        'Christopher Hodge'
+    ),
+    (
+        904,
+        '2014-05-31 22:23:15',
+        'Phone',
+        1,
+        2014,
+        'Todd Miller'
+    ),
+    (
+        927,
+        '2010-05-29 23:47:24',
+        'Facebook',
+        2,
+        2010,
+        'Richard Dawson'
+    ),
+    (
+        927,
+        '2010-05-29 23:47:24',
+        'Facebook',
+        1,
+        2010,
+        'Rachel Melton'
+    ),
+    (
+        927,
+        '2010-05-29 23:47:24',
+        'Facebook',
+        3,
+        2010,
+        'David Williams'
+    ),
+    (
+        927,
+        '2010-05-29 23:47:24',
+        'Facebook',
+        4,
+        2010,
+        'Courtney Barber'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        927,
+        '2010-05-29 23:47:24',
+        'Facebook',
+        5,
+        2010,
+        'Katherine Li'
+    ),
+    (
+        779,
+        '2010-05-29 23:59:55',
+        'Facebook',
+        1,
+        2010,
+        'Kyle Weiss'
+    ),
+    (
+        779,
+        '2010-05-29 23:59:55',
+        'Facebook',
+        4,
+        2010,
+        'Matthew Rice'
+    ),
+    (
+        779,
+        '2010-05-29 23:59:55',
+        'Facebook',
+        5,
+        2010,
+        'Rachel Melton'
+    ),
+    (
+        779,
+        '2010-05-29 23:59:55',
+        'Facebook',
+        2,
+        2010,
+        'David Williams'
+    ),
+    (
+        779,
+        '2010-05-29 23:59:55',
+        'Facebook',
+        3,
+        2010,
+        'Courtney Barber'
+    ),
+    (
+        161,
+        '2024-05-25 22:07:46',
+        'Phone',
+        3,
+        2024,
+        'Austin Williams'
+    ),
+    (
+        161,
+        '2024-05-25 22:07:46',
+        'Phone',
+        2,
+        2024,
+        'Taylor Lopez'
+    ),
+    (
+        161,
+        '2024-05-25 22:07:46',
+        'Phone',
+        4,
+        2024,
+        'Gabriel Arroyo'
+    ),
+    (
+        161,
+        '2024-05-25 22:07:46',
+        'Phone',
+        1,
+        2024,
+        'Emily Buck'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        161,
+        '2024-05-25 22:07:46',
+        'Phone',
+        5,
+        2024,
+        'Jessica Murphy'
+    ),
+    (
+        40,
+        '2024-05-25 22:22:00',
+        'Instagram',
+        1,
+        2024,
+        'Jessica Murphy'
+    ),
+    (
+        40,
+        '2024-05-25 22:22:00',
+        'Instagram',
+        4,
+        2024,
+        'Taylor Lopez'
+    ),
+    (
+        40,
+        '2024-05-25 22:22:00',
+        'Instagram',
+        5,
+        2024,
+        'Austin Williams'
+    ),
+    (
+        40,
+        '2024-05-25 22:22:00',
+        'Instagram',
+        3,
+        2024,
+        'Amber Williams'
+    ),
+    (
+        40,
+        '2024-05-25 22:22:00',
+        'Instagram',
+        2,
+        2024,
+        'Alexis Fields'
+    ),
+    (
+        843,
+        '2022-05-28 22:16:46',
+        'Phone',
+        1,
+        2022,
+        'Gary Stone'
+    ),
+    (
+        843,
+        '2022-05-28 22:16:46',
+        'Phone',
+        3,
+        2022,
+        'Martin Moore'
+    ),
+    (
+        843,
+        '2022-05-28 22:16:46',
+        'Phone',
+        4,
+        2022,
+        'Michael Martinez'
+    ),
+    (
+        843,
+        '2022-05-28 22:16:46',
+        'Phone',
+        5,
+        2022,
+        'Michael Baker'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        843,
+        '2022-05-28 22:16:46',
+        'Phone',
+        2,
+        2022,
+        'Robert Curtis'
+    ),
+    (
+        352,
+        '2010-05-29 23:01:58',
+        'Facebook',
+        4,
+        2010,
+        'Kevin Wilson'
+    ),
+    (
+        352,
+        '2010-05-29 23:01:58',
+        'Facebook',
+        3,
+        2010,
+        'Kyle Weiss'
+    ),
+    (
+        352,
+        '2010-05-29 23:01:58',
+        'Facebook',
+        5,
+        2010,
+        'Timothy Sandoval'
+    ),
+    (
+        352,
+        '2010-05-29 23:01:58',
+        'Facebook',
+        2,
+        2010,
+        'Richard Dawson'
+    ),
+    (
+        352,
+        '2010-05-29 23:01:58',
+        'Facebook',
+        1,
+        2010,
+        'Kayla Vargas'
+    ),
+    (
+        699,
+        '2016-05-28 22:32:38',
+        'Instagram',
+        2,
+        2016,
+        'Steve Bennett'
+    ),
+    (
+        699,
+        '2016-05-28 22:32:38',
+        'Instagram',
+        3,
+        2016,
+        'Tara Mcgee'
+    ),
+    (
+        699,
+        '2016-05-28 22:32:38',
+        'Instagram',
+        1,
+        2016,
+        'Cathy Lewis'
+    ),
+    (
+        699,
+        '2016-05-28 22:32:38',
+        'Instagram',
+        4,
+        2016,
+        'Kimberly Wilkins MD'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        699,
+        '2016-05-28 22:32:38',
+        'Instagram',
+        5,
+        2016,
+        'Amanda Patterson'
+    ),
+    (
+        861,
+        '2018-05-26 22:13:48',
+        'Instagram',
+        4,
+        2018,
+        'Charles Glover'
+    ),
+    (
+        861,
+        '2018-05-26 22:13:48',
+        'Instagram',
+        1,
+        2018,
+        'Diane Harrison'
+    ),
+    (
+        861,
+        '2018-05-26 22:13:48',
+        'Instagram',
+        2,
+        2018,
+        'Laura Barnes'
+    ),
+    (
+        861,
+        '2018-05-26 22:13:48',
+        'Instagram',
+        3,
+        2018,
+        'Brandon Ruiz'
+    ),
+    (
+        861,
+        '2018-05-26 22:13:48',
+        'Instagram',
+        5,
+        2018,
+        'Kimberly Davis'
+    ),
+    (
+        18,
+        '2024-05-25 22:26:46',
+        'Web',
+        4,
+        2024,
+        'Amber Williams'
+    ),
+    (
+        18,
+        '2024-05-25 22:26:46',
+        'Web',
+        1,
+        2024,
+        'Emily Buck'
+    ),
+    (
+        18,
+        '2024-05-25 22:26:46',
+        'Web',
+        3,
+        2024,
+        'Christopher Singh'
+    ),
+    (
+        18,
+        '2024-05-25 22:26:46',
+        'Web',
+        5,
+        2024,
+        'Alexis Fields'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        18,
+        '2024-05-25 22:26:46',
+        'Web',
+        2,
+        2024,
+        'Jessica Murphy'
+    ),
+    (
+        43,
+        '2016-05-28 23:37:46',
+        'Facebook',
+        5,
+        2016,
+        'Tara Mcgee'
+    ),
+    (
+        43,
+        '2016-05-28 23:37:46',
+        'Facebook',
+        2,
+        2016,
+        'Anne Mcfarland'
+    ),
+    (
+        43,
+        '2016-05-28 23:37:46',
+        'Facebook',
+        1,
+        2016,
+        'Derek Schwartz'
+    ),
+    (
+        43,
+        '2016-05-28 23:37:46',
+        'Facebook',
+        3,
+        2016,
+        'Kimberly Wilkins MD'
+    ),
+    (
+        43,
+        '2016-05-28 23:37:46',
+        'Facebook',
+        4,
+        2016,
+        'Steve Bennett'
+    ),
+    (
+        47,
+        '2011-05-28 23:12:32',
+        'Instagram',
+        4,
+        2011,
+        'Cody Davis'
+    ),
+    (
+        47,
+        '2011-05-28 23:12:32',
+        'Instagram',
+        1,
+        2011,
+        'Wesley Garcia'
+    ),
+    (
+        47,
+        '2011-05-28 23:12:32',
+        'Instagram',
+        2,
+        2011,
+        'Dr. Courtney Green MD'
+    ),
+    (
+        47,
+        '2011-05-28 23:12:32',
+        'Instagram',
+        3,
+        2011,
+        'Keith Ingram'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        47,
+        '2011-05-28 23:12:32',
+        'Instagram',
+        5,
+        2011,
+        'Ashley Lawson'
+    ),
+    (
+        114,
+        '2013-05-25 22:27:49',
+        'Phone',
+        1,
+        2013,
+        'Tony Prince'
+    ),
+    (
+        114,
+        '2013-05-25 22:27:49',
+        'Phone',
+        4,
+        2013,
+        'Diane Cooper'
+    ),
+    (
+        114,
+        '2013-05-25 22:27:49',
+        'Phone',
+        3,
+        2013,
+        'Angela Phillips'
+    ),
+    (
+        114,
+        '2013-05-25 22:27:49',
+        'Phone',
+        2,
+        2013,
+        'Cassandra Hooper'
+    ),
+    (
+        114,
+        '2013-05-25 22:27:49',
+        'Phone',
+        5,
+        2013,
+        'Anthony Villanueva'
+    ),
+    (
+        850,
+        '2012-05-26 22:39:59',
+        'Web',
+        1,
+        2012,
+        'Stacy White'
+    ),
+    (
+        850,
+        '2012-05-26 22:39:59',
+        'Web',
+        4,
+        2012,
+        'Maria Robertson'
+    ),
+    (
+        850,
+        '2012-05-26 22:39:59',
+        'Web',
+        3,
+        2012,
+        'Patrick Benson'
+    ),
+    (
+        850,
+        '2012-05-26 22:39:59',
+        'Web',
+        5,
+        2012,
+        'Lynn Booth'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        850,
+        '2012-05-26 22:39:59',
+        'Web',
+        2,
+        2012,
+        'Jennifer Wolfe'
+    ),
+    (
+        515,
+        '2015-05-30 22:31:11',
+        'Phone',
+        1,
+        2015,
+        'Colleen White'
+    ),
+    (
+        515,
+        '2015-05-30 22:31:11',
+        'Phone',
+        3,
+        2015,
+        'Deborah Sparks'
+    ),
+    (
+        515,
+        '2015-05-30 22:31:11',
+        'Phone',
+        4,
+        2015,
+        'Louis Phillips'
+    ),
+    (
+        515,
+        '2015-05-30 22:31:11',
+        'Phone',
+        2,
+        2015,
+        'Lisa Patrick'
+    ),
+    (
+        515,
+        '2015-05-30 22:31:11',
+        'Phone',
+        5,
+        2015,
+        'Robert White'
+    ),
+    (
+        204,
+        '2017-05-27 23:36:00',
+        'Instagram',
+        2,
+        2017,
+        'Matthew Vaughn'
+    ),
+    (
+        204,
+        '2017-05-27 23:36:00',
+        'Instagram',
+        4,
+        2017,
+        'Tina Roy'
+    ),
+    (
+        204,
+        '2017-05-27 23:36:00',
+        'Instagram',
+        5,
+        2017,
+        'Brandi Harris'
+    ),
+    (
+        204,
+        '2017-05-27 23:36:00',
+        'Instagram',
+        1,
+        2017,
+        'Elizabeth Koch'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        204,
+        '2017-05-27 23:36:00',
+        'Instagram',
+        3,
+        2017,
+        'Nathan Williams'
+    ),
+    (
+        612,
+        '2024-05-25 23:08:23',
+        'Phone',
+        4,
+        2024,
+        'Taylor Lopez'
+    ),
+    (
+        612,
+        '2024-05-25 23:08:23',
+        'Phone',
+        3,
+        2024,
+        'Austin Williams'
+    ),
+    (
+        612,
+        '2024-05-25 23:08:23',
+        'Phone',
+        5,
+        2024,
+        'Emily Buck'
+    ),
+    (
+        612,
+        '2024-05-25 23:08:23',
+        'Phone',
+        2,
+        2024,
+        'Jessica Murphy'
+    ),
+    (
+        612,
+        '2024-05-25 23:08:23',
+        'Phone',
+        1,
+        2024,
+        'Gabriel Arroyo'
+    ),
+    (
+        296,
+        '2023-05-27 23:29:44',
+        'Facebook',
+        2,
+        2023,
+        'Scott Baker'
+    ),
+    (
+        296,
+        '2023-05-27 23:29:44',
+        'Facebook',
+        1,
+        2023,
+        'Christine Hayes'
+    ),
+    (
+        296,
+        '2023-05-27 23:29:44',
+        'Facebook',
+        5,
+        2023,
+        'Paula Henderson'
+    ),
+    (
+        296,
+        '2023-05-27 23:29:44',
+        'Facebook',
+        4,
+        2023,
+        'Thomas Ruiz'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        296,
+        '2023-05-27 23:29:44',
+        'Facebook',
+        3,
+        2023,
+        'Megan Saunders'
+    ),
+    (
+        835,
+        '2013-05-25 23:15:41',
+        'Phone',
+        4,
+        2013,
+        'Thomas Hess'
+    ),
+    (
+        835,
+        '2013-05-25 23:15:41',
+        'Phone',
+        2,
+        2013,
+        'Diane Cooper'
+    ),
+    (
+        835,
+        '2013-05-25 23:15:41',
+        'Phone',
+        5,
+        2013,
+        'Anthony Villanueva'
+    ),
+    (
+        835,
+        '2013-05-25 23:15:41',
+        'Phone',
+        3,
+        2013,
+        'Tony Prince'
+    ),
+    (
+        835,
+        '2013-05-25 23:15:41',
+        'Phone',
+        1,
+        2013,
+        'Nancy Mcmahon'
+    ),
+    (
+        524,
+        '2018-05-26 22:54:42',
+        'Phone',
+        1,
+        2018,
+        'Laura Barnes'
+    ),
+    (
+        524,
+        '2018-05-26 22:54:42',
+        'Phone',
+        2,
+        2018,
+        'Brandon Ruiz'
+    ),
+    (
+        524,
+        '2018-05-26 22:54:42',
+        'Phone',
+        5,
+        2018,
+        'Steven Cox'
+    ),
+    (
+        524,
+        '2018-05-26 22:54:42',
+        'Phone',
+        4,
+        2018,
+        'Diane Harrison'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        524,
+        '2018-05-26 22:54:42',
+        'Phone',
+        3,
+        2018,
+        'John Hubbard'
+    ),
+    (
+        638,
+        '2023-05-27 23:29:26',
+        'Web',
+        5,
+        2023,
+        'Christine Hayes'
+    ),
+    (
+        638,
+        '2023-05-27 23:29:26',
+        'Web',
+        4,
+        2023,
+        'Michael Butler'
+    ),
+    (
+        638,
+        '2023-05-27 23:29:26',
+        'Web',
+        2,
+        2023,
+        'Samantha Erickson'
+    ),
+    (
+        638,
+        '2023-05-27 23:29:26',
+        'Web',
+        1,
+        2023,
+        'Jacqueline Wagner'
+    ),
+    (
+        638,
+        '2023-05-27 23:29:26',
+        'Web',
+        3,
+        2023,
+        'Paula Henderson'
+    ),
+    (
+        565,
+        '2016-05-28 23:30:02',
+        'Phone',
+        4,
+        2016,
+        'Steve Bennett'
+    ),
+    (
+        565,
+        '2016-05-28 23:30:02',
+        'Phone',
+        1,
+        2016,
+        'Kimberly Wilkins MD'
+    ),
+    (
+        565,
+        '2016-05-28 23:30:02',
+        'Phone',
+        5,
+        2016,
+        'Anne Mcfarland'
+    ),
+    (
+        565,
+        '2016-05-28 23:30:02',
+        'Phone',
+        2,
+        2016,
+        'Alejandra Walter'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        565,
+        '2016-05-28 23:30:02',
+        'Phone',
+        3,
+        2016,
+        'Amanda Patterson'
+    ),
+    (
+        940,
+        '2024-05-25 22:37:38',
+        'Web',
+        3,
+        2024,
+        'Taylor Lopez'
+    ),
+    (
+        940,
+        '2024-05-25 22:37:38',
+        'Web',
+        5,
+        2024,
+        'Christy Perry'
+    ),
+    (
+        940,
+        '2024-05-25 22:37:38',
+        'Web',
+        2,
+        2024,
+        'Jessica Murphy'
+    ),
+    (
+        940,
+        '2024-05-25 22:37:38',
+        'Web',
+        4,
+        2024,
+        'Austin Williams'
+    ),
+    (
+        940,
+        '2024-05-25 22:37:38',
+        'Web',
+        1,
+        2024,
+        'Emily Buck'
+    ),
+    (
+        438,
+        '2017-05-27 23:15:50',
+        'Facebook',
+        4,
+        2017,
+        'Tina Roy'
+    ),
+    (
+        438,
+        '2017-05-27 23:15:50',
+        'Facebook',
+        5,
+        2017,
+        'Brandi Harris'
+    ),
+    (
+        438,
+        '2017-05-27 23:15:50',
+        'Facebook',
+        2,
+        2017,
+        'Rachel Cole'
+    ),
+    (
+        438,
+        '2017-05-27 23:15:50',
+        'Facebook',
+        1,
+        2017,
+        'Matthew Vaughn'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        438,
+        '2017-05-27 23:15:50',
+        'Facebook',
+        3,
+        2017,
+        'Andrea Hill'
+    ),
+    (
+        720,
+        '2015-05-30 22:27:11',
+        'Phone',
+        4,
+        2015,
+        'Travis Hays'
+    ),
+    (
+        720,
+        '2015-05-30 22:27:11',
+        'Phone',
+        5,
+        2015,
+        'Louis Phillips'
+    ),
+    (
+        720,
+        '2015-05-30 22:27:11',
+        'Phone',
+        2,
+        2015,
+        'Heidi Barry'
+    ),
+    (
+        720,
+        '2015-05-30 22:27:11',
+        'Phone',
+        3,
+        2015,
+        'Brett Benjamin'
+    ),
+    (
+        720,
+        '2015-05-30 22:27:11',
+        'Phone',
+        1,
+        2015,
+        'Deborah Sparks'
+    ),
+    (
+        828,
+        '2020-05-30 22:29:54',
+        'Facebook',
+        2,
+        2020,
+        'Travis Walker'
+    ),
+    (
+        828,
+        '2020-05-30 22:29:54',
+        'Facebook',
+        1,
+        2020,
+        'Benjamin Thomas'
+    ),
+    (
+        828,
+        '2020-05-30 22:29:54',
+        'Facebook',
+        3,
+        2020,
+        'Lisa Mcdaniel'
+    ),
+    (
+        828,
+        '2020-05-30 22:29:54',
+        'Facebook',
+        4,
+        2020,
+        'Jacob Hickman'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        828,
+        '2020-05-30 22:29:54',
+        'Facebook',
+        5,
+        2020,
+        'Juan Huerta'
+    ),
+    (
+        494,
+        '2011-05-28 22:46:49',
+        'Phone',
+        1,
+        2011,
+        'Cody Davis'
+    ),
+    (
+        494,
+        '2011-05-28 22:46:49',
+        'Phone',
+        2,
+        2011,
+        'Wesley Garcia'
+    ),
+    (
+        494,
+        '2011-05-28 22:46:49',
+        'Phone',
+        3,
+        2011,
+        'Keith Ingram'
+    ),
+    (
+        494,
+        '2011-05-28 22:46:49',
+        'Phone',
+        4,
+        2011,
+        'Dr. Courtney Green MD'
+    ),
+    (
+        494,
+        '2011-05-28 22:46:49',
+        'Phone',
+        5,
+        2011,
+        'Ashley Lawson'
+    ),
+    (
+        790,
+        '2009-05-30 23:17:04',
+        'Facebook',
+        5,
+        2009,
+        'Olivia Nichols'
+    ),
+    (
+        790,
+        '2009-05-30 23:17:04',
+        'Facebook',
+        2,
+        2009,
+        'Melanie Hall'
+    ),
+    (
+        790,
+        '2009-05-30 23:17:04',
+        'Facebook',
+        1,
+        2009,
+        'Carrie Bell'
+    ),
+    (
+        790,
+        '2009-05-30 23:17:04',
+        'Facebook',
+        4,
+        2009,
+        'Matthew Garcia'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        790,
+        '2009-05-30 23:17:04',
+        'Facebook',
+        3,
+        2009,
+        'Theresa Castaneda'
+    ),
+    (
+        686,
+        '2017-05-27 23:40:06',
+        'Phone',
+        2,
+        2017,
+        'Brandi Harris'
+    ),
+    (
+        686,
+        '2017-05-27 23:40:06',
+        'Phone',
+        4,
+        2017,
+        'Andrea Hill'
+    ),
+    (
+        686,
+        '2017-05-27 23:40:06',
+        'Phone',
+        5,
+        2017,
+        'Denise Jones'
+    ),
+    (
+        686,
+        '2017-05-27 23:40:06',
+        'Phone',
+        3,
+        2017,
+        'Brian Mccall'
+    ),
+    (
+        686,
+        '2017-05-27 23:40:06',
+        'Phone',
+        1,
+        2017,
+        'Sean Ward'
+    ),
+    (
+        912,
+        '2015-05-30 22:43:09',
+        'Phone',
+        4,
+        2015,
+        'Louis Phillips'
+    ),
+    (
+        912,
+        '2015-05-30 22:43:09',
+        'Phone',
+        1,
+        2015,
+        'Lisa Patrick'
+    ),
+    (
+        912,
+        '2015-05-30 22:43:09',
+        'Phone',
+        2,
+        2015,
+        'Brett Benjamin'
+    ),
+    (
+        912,
+        '2015-05-30 22:43:09',
+        'Phone',
+        5,
+        2015,
+        'Travis Hays'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        912,
+        '2015-05-30 22:43:09',
+        'Phone',
+        3,
+        2015,
+        'Robert White'
+    ),
+    (
+        387,
+        '2024-05-25 23:54:09',
+        'Facebook',
+        3,
+        2024,
+        'Taylor Lopez'
+    ),
+    (
+        387,
+        '2024-05-25 23:54:09',
+        'Facebook',
+        5,
+        2024,
+        'Christy Perry'
+    ),
+    (
+        387,
+        '2024-05-25 23:54:09',
+        'Facebook',
+        2,
+        2024,
+        'Austin Williams'
+    ),
+    (
+        387,
+        '2024-05-25 23:54:09',
+        'Facebook',
+        4,
+        2024,
+        'Gabriel Arroyo'
+    ),
+    (
+        387,
+        '2024-05-25 23:54:09',
+        'Facebook',
+        1,
+        2024,
+        'Emily Buck'
+    ),
+    (
+        709,
+        '2011-05-28 23:38:57',
+        'Web',
+        4,
+        2011,
+        'Dr. Courtney Green MD'
+    ),
+    (
+        709,
+        '2011-05-28 23:38:57',
+        'Web',
+        2,
+        2011,
+        'Justin Kelly'
+    ),
+    (
+        709,
+        '2011-05-28 23:38:57',
+        'Web',
+        3,
+        2011,
+        'Carmen Mitchell'
+    ),
+    (
+        709,
+        '2011-05-28 23:38:57',
+        'Web',
+        5,
+        2011,
+        'John Henderson'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        709,
+        '2011-05-28 23:38:57',
+        'Web',
+        1,
+        2011,
+        'Ashley Lawson'
+    ),
+    (
+        888,
+        '2011-05-28 22:31:30',
+        'Instagram',
+        2,
+        2011,
+        'Dr. Courtney Green MD'
+    ),
+    (
+        888,
+        '2011-05-28 22:31:30',
+        'Instagram',
+        4,
+        2011,
+        'Keith Ingram'
+    ),
+    (
+        888,
+        '2011-05-28 22:31:30',
+        'Instagram',
+        1,
+        2011,
+        'Cody Davis'
+    ),
+    (
+        888,
+        '2011-05-28 22:31:30',
+        'Instagram',
+        5,
+        2011,
+        'Victoria Rosales PhD'
+    ),
+    (
+        888,
+        '2011-05-28 22:31:30',
+        'Instagram',
+        3,
+        2011,
+        'John Henderson'
+    ),
+    (
+        267,
+        '2020-05-30 23:09:17',
+        'Phone',
+        4,
+        2020,
+        'Lisa Mcdaniel'
+    ),
+    (
+        267,
+        '2020-05-30 23:09:17',
+        'Phone',
+        1,
+        2020,
+        'Jacob Hickman'
+    ),
+    (
+        267,
+        '2020-05-30 23:09:17',
+        'Phone',
+        5,
+        2020,
+        'Charles Washington'
+    ),
+    (
+        267,
+        '2020-05-30 23:09:17',
+        'Phone',
+        3,
+        2020,
+        'Juan Huerta'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        267,
+        '2020-05-30 23:09:17',
+        'Phone',
+        2,
+        2020,
+        'Benjamin Thomas'
+    ),
+    (
+        249,
+        '2018-05-26 23:38:24',
+        'Phone',
+        2,
+        2018,
+        'Diane Harrison'
+    ),
+    (
+        249,
+        '2018-05-26 23:38:24',
+        'Phone',
+        5,
+        2018,
+        'Jessica Williams'
+    ),
+    (
+        249,
+        '2018-05-26 23:38:24',
+        'Phone',
+        3,
+        2018,
+        'Charles Glover'
+    ),
+    (
+        249,
+        '2018-05-26 23:38:24',
+        'Phone',
+        4,
+        2018,
+        'Steven Cox'
+    ),
+    (
+        249,
+        '2018-05-26 23:38:24',
+        'Phone',
+        1,
+        2018,
+        'John Hubbard'
+    ),
+    (
+        235,
+        '2022-05-28 22:25:05',
+        'Facebook',
+        4,
+        2022,
+        'Andrew Hodges'
+    ),
+    (
+        235,
+        '2022-05-28 22:25:05',
+        'Facebook',
+        3,
+        2022,
+        'Michael Baker'
+    ),
+    (
+        235,
+        '2022-05-28 22:25:05',
+        'Facebook',
+        1,
+        2022,
+        'Martin Moore'
+    ),
+    (
+        235,
+        '2022-05-28 22:25:05',
+        'Facebook',
+        2,
+        2022,
+        'Thomas Gregory'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        235,
+        '2022-05-28 22:25:05',
+        'Facebook',
+        5,
+        2022,
+        'Michelle Martin'
+    ),
+    (
+        571,
+        '2016-05-28 22:32:31',
+        'Web',
+        3,
+        2016,
+        'Brian Ingram'
+    ),
+    (
+        571,
+        '2016-05-28 22:32:31',
+        'Web',
+        1,
+        2016,
+        'Anne Mcfarland'
+    ),
+    (
+        571,
+        '2016-05-28 22:32:31',
+        'Web',
+        4,
+        2016,
+        'Amanda Patterson'
+    ),
+    (
+        571,
+        '2016-05-28 22:32:31',
+        'Web',
+        2,
+        2016,
+        'Derek Schwartz'
+    ),
+    (
+        571,
+        '2016-05-28 22:32:31',
+        'Web',
+        5,
+        2016,
+        'Steve Bennett'
+    ),
+    (
+        556,
+        '2017-05-27 22:01:29',
+        'Instagram',
+        1,
+        2017,
+        'Brian Mccall'
+    ),
+    (
+        556,
+        '2017-05-27 22:01:29',
+        'Instagram',
+        4,
+        2017,
+        'Rachel Cole'
+    ),
+    (
+        556,
+        '2017-05-27 22:01:29',
+        'Instagram',
+        5,
+        2017,
+        'Brandi Harris'
+    ),
+    (
+        556,
+        '2017-05-27 22:01:29',
+        'Instagram',
+        2,
+        2017,
+        'Andrea Hill'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        556,
+        '2017-05-27 22:01:29',
+        'Instagram',
+        3,
+        2017,
+        'Denise Jones'
+    ),
+    (
+        909,
+        '2020-05-30 22:10:12',
+        'Instagram',
+        5,
+        2020,
+        'Lisa Wood'
+    ),
+    (
+        909,
+        '2020-05-30 22:10:12',
+        'Instagram',
+        2,
+        2020,
+        'Jacob Hickman'
+    ),
+    (
+        909,
+        '2020-05-30 22:10:12',
+        'Instagram',
+        4,
+        2020,
+        'Benjamin Thomas'
+    ),
+    (
+        909,
+        '2020-05-30 22:10:12',
+        'Instagram',
+        3,
+        2020,
+        'Juan Huerta'
+    ),
+    (
+        909,
+        '2020-05-30 22:10:12',
+        'Instagram',
+        1,
+        2020,
+        'Travis Walker'
+    ),
+    (
+        305,
+        '2016-05-28 22:23:30',
+        'Facebook',
+        4,
+        2016,
+        'Kimberly Wilkins MD'
+    ),
+    (
+        305,
+        '2016-05-28 22:23:30',
+        'Facebook',
+        1,
+        2016,
+        'Melody Reese MD'
+    ),
+    (
+        305,
+        '2016-05-28 22:23:30',
+        'Facebook',
+        3,
+        2016,
+        'Alejandra Walter'
+    ),
+    (
+        305,
+        '2016-05-28 22:23:30',
+        'Facebook',
+        2,
+        2016,
+        'Anne Mcfarland'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        305,
+        '2016-05-28 22:23:30',
+        'Facebook',
+        5,
+        2016,
+        'Amanda Patterson'
+    ),
+    (
+        949,
+        '2013-05-25 23:09:30',
+        'Facebook',
+        1,
+        2013,
+        'Nancy Mcmahon'
+    ),
+    (
+        949,
+        '2013-05-25 23:09:30',
+        'Facebook',
+        3,
+        2013,
+        'Tony Prince'
+    ),
+    (
+        949,
+        '2013-05-25 23:09:30',
+        'Facebook',
+        4,
+        2013,
+        'Cassandra Hooper'
+    ),
+    (
+        949,
+        '2013-05-25 23:09:30',
+        'Facebook',
+        5,
+        2013,
+        'Angela Phillips'
+    ),
+    (
+        949,
+        '2013-05-25 23:09:30',
+        'Facebook',
+        2,
+        2013,
+        'Anthony Villanueva'
+    ),
+    (
+        870,
+        '2023-05-27 23:48:11',
+        'Phone',
+        4,
+        2023,
+        'Scott Baker'
+    ),
+    (
+        870,
+        '2023-05-27 23:48:11',
+        'Phone',
+        5,
+        2023,
+        'Samantha Erickson'
+    ),
+    (
+        870,
+        '2023-05-27 23:48:11',
+        'Phone',
+        3,
+        2023,
+        'Paula Henderson'
+    ),
+    (
+        870,
+        '2023-05-27 23:48:11',
+        'Phone',
+        2,
+        2023,
+        'Thomas Ruiz'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        870,
+        '2023-05-27 23:48:11',
+        'Phone',
+        1,
+        2023,
+        'Christine Hayes'
+    ),
+    (
+        964,
+        '2018-05-26 22:37:04',
+        'Instagram',
+        4,
+        2018,
+        'Steven Cox'
+    ),
+    (
+        964,
+        '2018-05-26 22:37:04',
+        'Instagram',
+        5,
+        2018,
+        'John Hubbard'
+    ),
+    (
+        964,
+        '2018-05-26 22:37:04',
+        'Instagram',
+        1,
+        2018,
+        'Jessica Williams'
+    ),
+    (
+        964,
+        '2018-05-26 22:37:04',
+        'Instagram',
+        2,
+        2018,
+        'Brandon Ruiz'
+    ),
+    (
+        964,
+        '2018-05-26 22:37:04',
+        'Instagram',
+        3,
+        2018,
+        'Danielle Miller'
+    ),
+    (
+        697,
+        '2021-05-29 23:51:37',
+        'Web',
+        3,
+        2021,
+        'Jack Singh'
+    ),
+    (
+        697,
+        '2021-05-29 23:51:37',
+        'Web',
+        4,
+        2021,
+        'Caleb Ellison'
+    ),
+    (
+        697,
+        '2021-05-29 23:51:37',
+        'Web',
+        2,
+        2021,
+        'Manuel Caldwell'
+    ),
+    (
+        697,
+        '2021-05-29 23:51:37',
+        'Web',
+        5,
+        2021,
+        'Amber Mcdowell'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        697,
+        '2021-05-29 23:51:37',
+        'Web',
+        1,
+        2021,
+        'Tamara Barnes'
+    ),
+    (
+        40,
+        '2013-05-25 22:20:44',
+        'Web',
+        5,
+        2013,
+        'Blake Martinez'
+    ),
+    (
+        40,
+        '2013-05-25 22:20:44',
+        'Web',
+        1,
+        2013,
+        'Kimberly Larsen'
+    ),
+    (
+        263,
+        '2015-05-30 23:13:36',
+        'Phone',
+        3,
+        2015,
+        'Heidi Barry'
+    ),
+    (
+        263,
+        '2015-05-30 23:13:36',
+        'Phone',
+        4,
+        2015,
+        'Travis Hays'
+    ),
+    (
+        263,
+        '2015-05-30 23:13:36',
+        'Phone',
+        2,
+        2015,
+        'Deborah Sparks'
+    ),
+    (
+        263,
+        '2015-05-30 23:13:36',
+        'Phone',
+        1,
+        2015,
+        'Nicholas Black'
+    ),
+    (
+        263,
+        '2015-05-30 23:13:36',
+        'Phone',
+        5,
+        2015,
+        'Nathan Bailey'
+    ),
+    (
+        60,
+        '2017-05-27 23:48:29',
+        'Phone',
+        4,
+        2017,
+        'Brandi Harris'
+    ),
+    (
+        60,
+        '2017-05-27 23:48:29',
+        'Phone',
+        2,
+        2017,
+        'Tina Roy'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        60,
+        '2017-05-27 23:48:29',
+        'Phone',
+        5,
+        2017,
+        'Andrea Hill'
+    ),
+    (
+        60,
+        '2017-05-27 23:48:29',
+        'Phone',
+        1,
+        2017,
+        'Denise Jones'
+    ),
+    (
+        60,
+        '2017-05-27 23:48:29',
+        'Phone',
+        3,
+        2017,
+        'Sean Ward'
+    ),
+    (
+        999,
+        '2011-05-28 22:00:53',
+        'Instagram',
+        4,
+        2011,
+        'Keith Ingram'
+    ),
+    (
+        999,
+        '2011-05-28 22:00:53',
+        'Instagram',
+        2,
+        2011,
+        'Carmen Mitchell'
+    ),
+    (
+        999,
+        '2011-05-28 22:00:53',
+        'Instagram',
+        3,
+        2011,
+        'Wesley Garcia'
+    ),
+    (
+        999,
+        '2011-05-28 22:00:53',
+        'Instagram',
+        1,
+        2011,
+        'Justin Kelly'
+    ),
+    (
+        999,
+        '2011-05-28 22:00:53',
+        'Instagram',
+        5,
+        2011,
+        'John Henderson'
+    ),
+    (
+        939,
+        '2018-05-26 23:55:19',
+        'Web',
+        3,
+        2018,
+        'Diane Harrison'
+    ),
+    (
+        939,
+        '2018-05-26 23:55:19',
+        'Web',
+        2,
+        2018,
+        'Charles Glover'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        939,
+        '2018-05-26 23:55:19',
+        'Web',
+        1,
+        2018,
+        'Brandon Ruiz'
+    ),
+    (
+        939,
+        '2018-05-26 23:55:19',
+        'Web',
+        4,
+        2018,
+        'Carrie Clark'
+    ),
+    (
+        939,
+        '2018-05-26 23:55:19',
+        'Web',
+        5,
+        2018,
+        'Kimberly Davis'
+    ),
+    (
+        948,
+        '2023-05-27 22:31:23',
+        'Phone',
+        4,
+        2023,
+        'Scott Baker'
+    ),
+    (
+        948,
+        '2023-05-27 22:31:23',
+        'Phone',
+        5,
+        2023,
+        'Leslie Lee'
+    ),
+    (
+        948,
+        '2023-05-27 22:31:23',
+        'Phone',
+        3,
+        2023,
+        'Megan Saunders'
+    ),
+    (
+        948,
+        '2023-05-27 22:31:23',
+        'Phone',
+        2,
+        2023,
+        'Michael Butler'
+    ),
+    (
+        948,
+        '2023-05-27 22:31:23',
+        'Phone',
+        1,
+        2023,
+        'Christine Hayes'
+    ),
+    (
+        526,
+        '2021-05-29 22:23:25',
+        'Web',
+        1,
+        2021,
+        'Aaron Baldwin'
+    ),
+    (
+        526,
+        '2021-05-29 22:23:25',
+        'Web',
+        4,
+        2021,
+        'Tamara Barnes'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        526,
+        '2021-05-29 22:23:25',
+        'Web',
+        5,
+        2021,
+        'Thomas Smith'
+    ),
+    (
+        526,
+        '2021-05-29 22:23:25',
+        'Web',
+        2,
+        2021,
+        'Manuel Caldwell'
+    ),
+    (
+        526,
+        '2021-05-29 22:23:25',
+        'Web',
+        3,
+        2021,
+        'Amber Mcdowell'
+    ),
+    (
+        734,
+        '2019-05-25 22:59:48',
+        'Web',
+        3,
+        2019,
+        'Samantha Jones'
+    ),
+    (
+        734,
+        '2019-05-25 22:59:48',
+        'Web',
+        2,
+        2019,
+        'Aaron Peterson'
+    ),
+    (
+        734,
+        '2019-05-25 22:59:48',
+        'Web',
+        1,
+        2019,
+        'Sarah Hancock'
+    ),
+    (
+        734,
+        '2019-05-25 22:59:48',
+        'Web',
+        4,
+        2019,
+        'Patrick Wilson'
+    ),
+    (
+        734,
+        '2019-05-25 22:59:48',
+        'Web',
+        5,
+        2019,
+        'Kathryn Alvarez'
+    ),
+    (
+        267,
+        '2021-05-29 22:45:01',
+        'Phone',
+        3,
+        2021,
+        'Manuel Caldwell'
+    ),
+    (
+        267,
+        '2021-05-29 22:45:01',
+        'Phone',
+        1,
+        2021,
+        'Aaron Baldwin'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        267,
+        '2021-05-29 22:45:01',
+        'Phone',
+        5,
+        2021,
+        'Robin Myers'
+    ),
+    (
+        267,
+        '2021-05-29 22:45:01',
+        'Phone',
+        4,
+        2021,
+        'Amber Mcdowell'
+    ),
+    (
+        267,
+        '2021-05-29 22:45:01',
+        'Phone',
+        2,
+        2021,
+        'Thomas Smith'
+    ),
+    (
+        55,
+        '2021-05-29 23:12:00',
+        'Phone',
+        2,
+        2021,
+        'Amber Mcdowell'
+    ),
+    (
+        55,
+        '2021-05-29 23:12:00',
+        'Phone',
+        4,
+        2021,
+        'Robin Myers'
+    ),
+    (
+        55,
+        '2021-05-29 23:12:00',
+        'Phone',
+        1,
+        2021,
+        'Thomas Smith'
+    ),
+    (
+        55,
+        '2021-05-29 23:12:00',
+        'Phone',
+        3,
+        2021,
+        'Samantha Lee'
+    ),
+    (
+        55,
+        '2021-05-29 23:12:00',
+        'Phone',
+        5,
+        2021,
+        'Tamara Barnes'
+    ),
+    (
+        279,
+        '2022-05-28 22:36:02',
+        'Phone',
+        4,
+        2022,
+        'Robert Curtis'
+    ),
+    (
+        279,
+        '2022-05-28 22:36:02',
+        'Phone',
+        5,
+        2022,
+        'Andre Burton'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        279,
+        '2022-05-28 22:36:02',
+        'Phone',
+        3,
+        2022,
+        'Michelle Martin'
+    ),
+    (
+        279,
+        '2022-05-28 22:36:02',
+        'Phone',
+        2,
+        2022,
+        'Michael Martinez'
+    ),
+    (
+        279,
+        '2022-05-28 22:36:02',
+        'Phone',
+        1,
+        2022,
+        'Thomas Gregory'
+    ),
+    (
+        256,
+        '2022-05-28 23:59:31',
+        'Phone',
+        5,
+        2022,
+        'Andre Burton'
+    ),
+    (
+        256,
+        '2022-05-28 23:59:31',
+        'Phone',
+        4,
+        2022,
+        'Gary Stone'
+    ),
+    (
+        256,
+        '2022-05-28 23:59:31',
+        'Phone',
+        3,
+        2022,
+        'Michael Baker'
+    ),
+    (
+        256,
+        '2022-05-28 23:59:31',
+        'Phone',
+        1,
+        2022,
+        'Robert Curtis'
+    ),
+    (
+        256,
+        '2022-05-28 23:59:31',
+        'Phone',
+        2,
+        2022,
+        'Thomas Gregory'
+    ),
+    (
+        57,
+        '2020-05-30 22:13:05',
+        'Phone',
+        3,
+        2020,
+        'Jacob Hickman'
+    ),
+    (
+        57,
+        '2020-05-30 22:13:05',
+        'Phone',
+        5,
+        2020,
+        'Lisa Wood'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        451,
+        '2021-05-29 22:40:47',
+        'Facebook',
+        3,
+        2021,
+        'Thomas Smith'
+    ),
+    (
+        451,
+        '2021-05-29 22:40:47',
+        'Facebook',
+        1,
+        2021,
+        'Samantha Lee'
+    ),
+    (
+        451,
+        '2021-05-29 22:40:47',
+        'Facebook',
+        2,
+        2021,
+        'Tamara Barnes'
+    ),
+    (
+        451,
+        '2021-05-29 22:40:47',
+        'Facebook',
+        4,
+        2021,
+        'Robin Myers'
+    ),
+    (
+        451,
+        '2021-05-29 22:40:47',
+        'Facebook',
+        5,
+        2021,
+        'Jack Singh'
+    ),
+    (
+        590,
+        '2017-05-27 22:00:17',
+        'Instagram',
+        5,
+        2017,
+        'Rachel Cole'
+    ),
+    (
+        590,
+        '2017-05-27 22:00:17',
+        'Instagram',
+        2,
+        2017,
+        'Denise Jones'
+    ),
+    (
+        590,
+        '2017-05-27 22:00:17',
+        'Instagram',
+        4,
+        2017,
+        'Nathan Williams'
+    ),
+    (
+        590,
+        '2017-05-27 22:00:17',
+        'Instagram',
+        3,
+        2017,
+        'Tina Roy'
+    ),
+    (
+        590,
+        '2017-05-27 22:00:17',
+        'Instagram',
+        1,
+        2017,
+        'Sean Ward'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        554,
+        '2012-05-26 23:41:51',
+        'Phone',
+        3,
+        2012,
+        'Jennifer Wolfe'
+    ),
+    (
+        554,
+        '2012-05-26 23:41:51',
+        'Phone',
+        5,
+        2012,
+        'Lynn Booth'
+    ),
+    (
+        554,
+        '2012-05-26 23:41:51',
+        'Phone',
+        1,
+        2012,
+        'Kenneth Warner'
+    ),
+    (
+        554,
+        '2012-05-26 23:41:51',
+        'Phone',
+        4,
+        2012,
+        'Anthony Bradford'
+    ),
+    (
+        554,
+        '2012-05-26 23:41:51',
+        'Phone',
+        2,
+        2012,
+        'Tyler Jordan'
+    ),
+    (
+        535,
+        '2017-05-27 22:53:29',
+        'Facebook',
+        3,
+        2017,
+        'Andrea Hill'
+    ),
+    (
+        535,
+        '2017-05-27 22:53:29',
+        'Facebook',
+        5,
+        2017,
+        'Rachel Cole'
+    ),
+    (
+        535,
+        '2017-05-27 22:53:29',
+        'Facebook',
+        1,
+        2017,
+        'Matthew Vaughn'
+    ),
+    (
+        535,
+        '2017-05-27 22:53:29',
+        'Facebook',
+        2,
+        2017,
+        'Nathan Williams'
+    ),
+    (
+        535,
+        '2017-05-27 22:53:29',
+        'Facebook',
+        4,
+        2017,
+        'Brian Mccall'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        840,
+        '2020-05-30 23:16:59',
+        'Phone',
+        4,
+        2020,
+        'Lisa Wood'
+    ),
+    (
+        840,
+        '2020-05-30 23:16:59',
+        'Phone',
+        5,
+        2020,
+        'Jacob Hickman'
+    ),
+    (
+        840,
+        '2020-05-30 23:16:59',
+        'Phone',
+        2,
+        2020,
+        'Danielle Berger'
+    ),
+    (
+        840,
+        '2020-05-30 23:16:59',
+        'Phone',
+        3,
+        2020,
+        'Charles Washington'
+    ),
+    (
+        840,
+        '2020-05-30 23:16:59',
+        'Phone',
+        1,
+        2020,
+        'Charles Maddox'
+    ),
+    (
+        20,
+        '2023-05-27 23:53:24',
+        'Web',
+        4,
+        2023,
+        'Jacqueline Wagner'
+    ),
+    (
+        20,
+        '2023-05-27 23:53:24',
+        'Web',
+        5,
+        2023,
+        'Michael Butler'
+    ),
+    (
+        20,
+        '2023-05-27 23:53:24',
+        'Web',
+        3,
+        2023,
+        'Leslie Lee'
+    ),
+    (
+        20,
+        '2023-05-27 23:53:24',
+        'Web',
+        2,
+        2023,
+        'Scott Baker'
+    ),
+    (
+        20,
+        '2023-05-27 23:53:24',
+        'Web',
+        1,
+        2023,
+        'Samantha Erickson'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        827,
+        '2021-05-29 23:16:38',
+        'Web',
+        5,
+        2021,
+        'Robin Myers'
+    ),
+    (
+        827,
+        '2021-05-29 23:16:38',
+        'Web',
+        4,
+        2021,
+        'Ann Perez'
+    ),
+    (
+        827,
+        '2021-05-29 23:16:38',
+        'Web',
+        1,
+        2021,
+        'Manuel Caldwell'
+    ),
+    (
+        827,
+        '2021-05-29 23:16:38',
+        'Web',
+        3,
+        2021,
+        'Tamara Barnes'
+    ),
+    (
+        827,
+        '2021-05-29 23:16:38',
+        'Web',
+        2,
+        2021,
+        'Caleb Ellison'
+    ),
+    (
+        351,
+        '2017-05-27 22:04:07',
+        'Facebook',
+        5,
+        2017,
+        'Rachel Cole'
+    ),
+    (
+        351,
+        '2017-05-27 22:04:07',
+        'Facebook',
+        3,
+        2017,
+        'Tina Roy'
+    ),
+    (
+        351,
+        '2017-05-27 22:04:07',
+        'Facebook',
+        4,
+        2017,
+        'Brian Mccall'
+    ),
+    (
+        351,
+        '2017-05-27 22:04:07',
+        'Facebook',
+        1,
+        2017,
+        'Elizabeth Koch'
+    ),
+    (
+        351,
+        '2017-05-27 22:04:07',
+        'Facebook',
+        2,
+        2017,
+        'Denise Jones'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        789,
+        '2023-05-27 22:48:08',
+        'Phone',
+        2,
+        2023,
+        'Christine Hayes'
+    ),
+    (
+        789,
+        '2023-05-27 22:48:08',
+        'Phone',
+        5,
+        2023,
+        'Samantha Erickson'
+    ),
+    (
+        789,
+        '2023-05-27 22:48:08',
+        'Phone',
+        1,
+        2023,
+        'Manuel Graves'
+    ),
+    (
+        887,
+        '2019-05-25 22:53:25',
+        'Web',
+        2,
+        2019,
+        'Kyle Hernandez'
+    ),
+    (
+        887,
+        '2019-05-25 22:53:25',
+        'Web',
+        1,
+        2019,
+        'Jennifer Ford'
+    ),
+    (
+        887,
+        '2019-05-25 22:53:25',
+        'Web',
+        4,
+        2019,
+        'Sarah Hancock'
+    ),
+    (
+        887,
+        '2019-05-25 22:53:25',
+        'Web',
+        3,
+        2019,
+        'Terry Powell'
+    ),
+    (
+        887,
+        '2019-05-25 22:53:25',
+        'Web',
+        5,
+        2019,
+        'Amanda Ingram'
+    ),
+    (
+        696,
+        '2023-05-27 22:28:36',
+        'Instagram',
+        3,
+        2023,
+        'Megan Saunders'
+    ),
+    (
+        696,
+        '2023-05-27 22:28:36',
+        'Instagram',
+        4,
+        2023,
+        'Thomas Ruiz'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        696,
+        '2023-05-27 22:28:36',
+        'Instagram',
+        5,
+        2023,
+        'Christine Hayes'
+    ),
+    (
+        696,
+        '2023-05-27 22:28:36',
+        'Instagram',
+        2,
+        2023,
+        'Leslie Lee'
+    ),
+    (
+        696,
+        '2023-05-27 22:28:36',
+        'Instagram',
+        1,
+        2023,
+        'Scott Baker'
+    ),
+    (
+        370,
+        '2019-05-25 22:58:41',
+        'Web',
+        5,
+        2019,
+        'Amanda Ingram'
+    ),
+    (
+        370,
+        '2019-05-25 22:58:41',
+        'Web',
+        1,
+        2019,
+        'Terry Powell'
+    ),
+    (
+        370,
+        '2019-05-25 22:58:41',
+        'Web',
+        3,
+        2019,
+        'Cameron Hawkins'
+    ),
+    (
+        370,
+        '2019-05-25 22:58:41',
+        'Web',
+        2,
+        2019,
+        'Sarah Hancock'
+    ),
+    (
+        370,
+        '2019-05-25 22:58:41',
+        'Web',
+        4,
+        2019,
+        'Patrick Wilson'
+    ),
+    (
+        730,
+        '2018-05-26 23:38:43',
+        'Instagram',
+        1,
+        2018,
+        'Carrie Clark'
+    ),
+    (
+        730,
+        '2018-05-26 23:38:43',
+        'Instagram',
+        5,
+        2018,
+        'Diane Harrison'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        730,
+        '2018-05-26 23:38:43',
+        'Instagram',
+        4,
+        2018,
+        'Kimberly Davis'
+    ),
+    (
+        730,
+        '2018-05-26 23:38:43',
+        'Instagram',
+        3,
+        2018,
+        'Danielle Miller'
+    ),
+    (
+        730,
+        '2018-05-26 23:38:43',
+        'Instagram',
+        2,
+        2018,
+        'Brandon Ruiz'
+    ),
+    (
+        969,
+        '2021-05-29 22:54:46',
+        'Facebook',
+        4,
+        2021,
+        'Tamara Barnes'
+    ),
+    (
+        969,
+        '2021-05-29 22:54:46',
+        'Facebook',
+        2,
+        2021,
+        'Robin Myers'
+    ),
+    (
+        969,
+        '2021-05-29 22:54:46',
+        'Facebook',
+        1,
+        2021,
+        'Amber Mcdowell'
+    ),
+    (
+        969,
+        '2021-05-29 22:54:46',
+        'Facebook',
+        3,
+        2021,
+        'Ann Perez'
+    ),
+    (
+        969,
+        '2021-05-29 22:54:46',
+        'Facebook',
+        5,
+        2021,
+        'Thomas Smith'
+    ),
+    (
+        878,
+        '2013-05-25 23:59:13',
+        'Web',
+        5,
+        2013,
+        'Angela Phillips'
+    ),
+    (
+        878,
+        '2013-05-25 23:59:13',
+        'Web',
+        2,
+        2013,
+        'Diane Cooper'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        878,
+        '2013-05-25 23:59:13',
+        'Web',
+        3,
+        2013,
+        'Anthony Villanueva'
+    ),
+    (
+        878,
+        '2013-05-25 23:59:13',
+        'Web',
+        4,
+        2013,
+        'Thomas Hess'
+    ),
+    (
+        878,
+        '2013-05-25 23:59:13',
+        'Web',
+        1,
+        2013,
+        'Tony Prince'
+    ),
+    (
+        137,
+        '2019-05-25 23:09:21',
+        'Web',
+        3,
+        2019,
+        'Sarah Hancock'
+    ),
+    (
+        137,
+        '2019-05-25 23:09:21',
+        'Web',
+        5,
+        2019,
+        'Terry Powell'
+    ),
+    (
+        137,
+        '2019-05-25 23:09:21',
+        'Web',
+        2,
+        2019,
+        'Samantha Jones'
+    ),
+    (
+        137,
+        '2019-05-25 23:09:21',
+        'Web',
+        4,
+        2019,
+        'Patrick Wilson'
+    ),
+    (
+        137,
+        '2019-05-25 23:09:21',
+        'Web',
+        1,
+        2019,
+        'Cameron Hawkins'
+    ),
+    (
+        970,
+        '2011-05-28 23:53:28',
+        'Instagram',
+        1,
+        2011,
+        'John Henderson'
+    ),
+    (
+        970,
+        '2011-05-28 23:53:28',
+        'Instagram',
+        5,
+        2011,
+        'Wesley Garcia'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        970,
+        '2011-05-28 23:53:28',
+        'Instagram',
+        2,
+        2011,
+        'Victoria Rosales PhD'
+    ),
+    (
+        970,
+        '2011-05-28 23:53:28',
+        'Instagram',
+        3,
+        2011,
+        'Justin Kelly'
+    ),
+    (
+        970,
+        '2011-05-28 23:53:28',
+        'Instagram',
+        4,
+        2011,
+        'Dr. Courtney Green MD'
+    ),
+    (
+        309,
+        '2018-05-26 23:05:55',
+        'Phone',
+        3,
+        2018,
+        'Diane Harrison'
+    ),
+    (
+        309,
+        '2018-05-26 23:05:55',
+        'Phone',
+        5,
+        2018,
+        'Carrie Clark'
+    ),
+    (
+        993,
+        '2020-05-30 22:44:45',
+        'Instagram',
+        2,
+        2020,
+        'Charles Maddox'
+    ),
+    (
+        993,
+        '2020-05-30 22:44:45',
+        'Instagram',
+        4,
+        2020,
+        'Charles Washington'
+    ),
+    (
+        993,
+        '2020-05-30 22:44:45',
+        'Instagram',
+        5,
+        2020,
+        'Benjamin Thomas'
+    ),
+    (
+        993,
+        '2020-05-30 22:44:45',
+        'Instagram',
+        1,
+        2020,
+        'Lisa Mcdaniel'
+    ),
+    (
+        993,
+        '2020-05-30 22:44:45',
+        'Instagram',
+        3,
+        2020,
+        'Jacob Hickman'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        433,
+        '2024-05-25 23:27:22',
+        'Web',
+        1,
+        2024,
+        'Christy Perry'
+    ),
+    (
+        433,
+        '2024-05-25 23:27:22',
+        'Web',
+        4,
+        2024,
+        'Austin Williams'
+    ),
+    (
+        433,
+        '2024-05-25 23:27:22',
+        'Web',
+        2,
+        2024,
+        'Emily Buck'
+    ),
+    (
+        433,
+        '2024-05-25 23:27:22',
+        'Web',
+        3,
+        2024,
+        'Richard Lewis'
+    ),
+    (
+        433,
+        '2024-05-25 23:27:22',
+        'Web',
+        5,
+        2024,
+        'Amber Williams'
+    ),
+    (
+        863,
+        '2024-05-25 22:12:48',
+        'Facebook',
+        5,
+        2024,
+        'Taylor Lopez'
+    ),
+    (
+        863,
+        '2024-05-25 22:12:48',
+        'Facebook',
+        1,
+        2024,
+        'Christy Perry'
+    ),
+    (
+        863,
+        '2024-05-25 22:12:48',
+        'Facebook',
+        4,
+        2024,
+        'Alexis Fields'
+    ),
+    (
+        863,
+        '2024-05-25 22:12:48',
+        'Facebook',
+        2,
+        2024,
+        'Jessica Murphy'
+    ),
+    (
+        863,
+        '2024-05-25 22:12:48',
+        'Facebook',
+        3,
+        2024,
+        'Gabriel Arroyo'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        113,
+        '2012-05-26 23:05:50',
+        'Facebook',
+        2,
+        2012,
+        'Tyler Jordan'
+    ),
+    (
+        113,
+        '2012-05-26 23:05:50',
+        'Facebook',
+        4,
+        2012,
+        'Maria Robertson'
+    ),
+    (
+        113,
+        '2012-05-26 23:05:50',
+        'Facebook',
+        3,
+        2012,
+        'Anthony Bradford'
+    ),
+    (
+        113,
+        '2012-05-26 23:05:50',
+        'Facebook',
+        5,
+        2012,
+        'Patrick Benson'
+    ),
+    (
+        113,
+        '2012-05-26 23:05:50',
+        'Facebook',
+        1,
+        2012,
+        'Jose Smith Jr.'
+    ),
+    (
+        487,
+        '2016-05-28 22:25:06',
+        'Phone',
+        4,
+        2016,
+        'Brian Ingram'
+    ),
+    (
+        487,
+        '2016-05-28 22:25:06',
+        'Phone',
+        5,
+        2016,
+        'Melody Reese MD'
+    ),
+    (
+        487,
+        '2016-05-28 22:25:06',
+        'Phone',
+        1,
+        2016,
+        'Tara Mcgee'
+    ),
+    (
+        487,
+        '2016-05-28 22:25:06',
+        'Phone',
+        3,
+        2016,
+        'Kimberly Wilkins MD'
+    ),
+    (
+        487,
+        '2016-05-28 22:25:06',
+        'Phone',
+        2,
+        2016,
+        'Cathy Lewis'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        645,
+        '2023-05-27 23:58:35',
+        'Facebook',
+        3,
+        2023,
+        'Megan Saunders'
+    ),
+    (
+        645,
+        '2023-05-27 23:58:35',
+        'Facebook',
+        4,
+        2023,
+        'Jacqueline Wagner'
+    ),
+    (
+        645,
+        '2023-05-27 23:58:35',
+        'Facebook',
+        5,
+        2023,
+        'Thomas Ruiz'
+    ),
+    (
+        645,
+        '2023-05-27 23:58:35',
+        'Facebook',
+        1,
+        2023,
+        'Samantha Erickson'
+    ),
+    (
+        645,
+        '2023-05-27 23:58:35',
+        'Facebook',
+        2,
+        2023,
+        'Michael Butler'
+    ),
+    (
+        234,
+        '2020-05-30 23:32:18',
+        'Phone',
+        4,
+        2020,
+        'Charles Maddox'
+    ),
+    (
+        234,
+        '2020-05-30 23:32:18',
+        'Phone',
+        3,
+        2020,
+        'Juan Huerta'
+    ),
+    (
+        234,
+        '2020-05-30 23:32:18',
+        'Phone',
+        5,
+        2020,
+        'Travis Walker'
+    ),
+    (
+        234,
+        '2020-05-30 23:32:18',
+        'Phone',
+        2,
+        2020,
+        'Danielle Berger'
+    ),
+    (
+        234,
+        '2020-05-30 23:32:18',
+        'Phone',
+        1,
+        2020,
+        'Charles Washington'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        232,
+        '2016-05-28 23:52:50',
+        'Facebook',
+        4,
+        2016,
+        'Anne Mcfarland'
+    ),
+    (
+        232,
+        '2016-05-28 23:52:50',
+        'Facebook',
+        5,
+        2016,
+        'Cathy Lewis'
+    ),
+    (
+        232,
+        '2016-05-28 23:52:50',
+        'Facebook',
+        2,
+        2016,
+        'Melody Reese MD'
+    ),
+    (
+        232,
+        '2016-05-28 23:52:50',
+        'Facebook',
+        1,
+        2016,
+        'Derek Schwartz'
+    ),
+    (
+        232,
+        '2016-05-28 23:52:50',
+        'Facebook',
+        3,
+        2016,
+        'Tara Mcgee'
+    ),
+    (
+        158,
+        '2020-05-30 22:26:59',
+        'Web',
+        2,
+        2020,
+        'Charles Washington'
+    ),
+    (
+        158,
+        '2020-05-30 22:26:59',
+        'Web',
+        4,
+        2020,
+        'Lisa Wood'
+    ),
+    (
+        158,
+        '2020-05-30 22:26:59',
+        'Web',
+        1,
+        2020,
+        'Danielle Berger'
+    ),
+    (
+        158,
+        '2020-05-30 22:26:59',
+        'Web',
+        3,
+        2020,
+        'Charles Maddox'
+    ),
+    (
+        158,
+        '2020-05-30 22:26:59',
+        'Web',
+        5,
+        2020,
+        'Benjamin Thomas'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        850,
+        '2021-05-29 22:42:43',
+        'Facebook',
+        5,
+        2021,
+        'Amber Mcdowell'
+    ),
+    (
+        850,
+        '2021-05-29 22:42:43',
+        'Facebook',
+        3,
+        2021,
+        'Tamara Barnes'
+    ),
+    (
+        850,
+        '2021-05-29 22:42:43',
+        'Facebook',
+        4,
+        2021,
+        'Caleb Ellison'
+    ),
+    (
+        850,
+        '2021-05-29 22:42:43',
+        'Facebook',
+        2,
+        2021,
+        'Aaron Baldwin'
+    ),
+    (
+        850,
+        '2021-05-29 22:42:43',
+        'Facebook',
+        1,
+        2021,
+        'Ann Perez'
+    ),
+    (
+        737,
+        '2019-05-25 22:46:29',
+        'Web',
+        2,
+        2019,
+        'Sarah Hancock'
+    ),
+    (
+        737,
+        '2019-05-25 22:46:29',
+        'Web',
+        1,
+        2019,
+        'Jennifer Ford'
+    ),
+    (
+        737,
+        '2019-05-25 22:46:29',
+        'Web',
+        4,
+        2019,
+        'Samantha Jones'
+    ),
+    (
+        737,
+        '2019-05-25 22:46:29',
+        'Web',
+        5,
+        2019,
+        'Patrick Wilson'
+    ),
+    (
+        737,
+        '2019-05-25 22:46:29',
+        'Web',
+        3,
+        2019,
+        'Kyle Hernandez'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        752,
+        '2011-05-28 23:30:15',
+        'Web',
+        1,
+        2011,
+        'Ashley Lawson'
+    ),
+    (
+        752,
+        '2011-05-28 23:30:15',
+        'Web',
+        2,
+        2011,
+        'Keith Ingram'
+    ),
+    (
+        752,
+        '2011-05-28 23:30:15',
+        'Web',
+        4,
+        2011,
+        'Cody Davis'
+    ),
+    (
+        752,
+        '2011-05-28 23:30:15',
+        'Web',
+        5,
+        2011,
+        'Carmen Mitchell'
+    ),
+    (
+        752,
+        '2011-05-28 23:30:15',
+        'Web',
+        3,
+        2011,
+        'Victoria Rosales PhD'
+    ),
+    (
+        895,
+        '2021-05-29 22:25:57',
+        'Instagram',
+        2,
+        2021,
+        'Aaron Baldwin'
+    ),
+    (
+        895,
+        '2021-05-29 22:25:57',
+        'Instagram',
+        3,
+        2021,
+        'Samantha Lee'
+    ),
+    (
+        895,
+        '2021-05-29 22:25:57',
+        'Instagram',
+        1,
+        2021,
+        'Thomas Smith'
+    ),
+    (
+        457,
+        '2019-05-25 22:43:44',
+        'Web',
+        3,
+        2019,
+        'Patrick Wilson'
+    ),
+    (
+        457,
+        '2019-05-25 22:43:44',
+        'Web',
+        1,
+        2019,
+        'Kyle Hernandez'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        457,
+        '2019-05-25 22:43:44',
+        'Web',
+        2,
+        2019,
+        'Jennifer Ford'
+    ),
+    (
+        457,
+        '2019-05-25 22:43:44',
+        'Web',
+        5,
+        2019,
+        'Terry Powell'
+    ),
+    (
+        457,
+        '2019-05-25 22:43:44',
+        'Web',
+        4,
+        2019,
+        'Kathryn Alvarez'
+    ),
+    (
+        100,
+        '2017-05-27 22:27:54',
+        'Facebook',
+        4,
+        2017,
+        'Tina Roy'
+    ),
+    (
+        100,
+        '2017-05-27 22:27:54',
+        'Facebook',
+        1,
+        2017,
+        'Rachel Cole'
+    ),
+    (
+        100,
+        '2017-05-27 22:27:54',
+        'Facebook',
+        3,
+        2017,
+        'Matthew Vaughn'
+    ),
+    (
+        100,
+        '2017-05-27 22:27:54',
+        'Facebook',
+        2,
+        2017,
+        'Brian Mccall'
+    ),
+    (
+        100,
+        '2017-05-27 22:27:54',
+        'Facebook',
+        5,
+        2017,
+        'Andrea Hill'
+    ),
+    (
+        832,
+        '2020-05-30 22:03:04',
+        'Instagram',
+        1,
+        2020,
+        'Jacob Hickman'
+    ),
+    (
+        832,
+        '2020-05-30 22:03:04',
+        'Instagram',
+        5,
+        2020,
+        'Mr. Steven Yoder'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        832,
+        '2020-05-30 22:03:04',
+        'Instagram',
+        3,
+        2020,
+        'Danielle Berger'
+    ),
+    (
+        832,
+        '2020-05-30 22:03:04',
+        'Instagram',
+        2,
+        2020,
+        'Lisa Wood'
+    ),
+    (
+        832,
+        '2020-05-30 22:03:04',
+        'Instagram',
+        4,
+        2020,
+        'Benjamin Thomas'
+    ),
+    (
+        486,
+        '2016-05-28 23:14:28',
+        'Web',
+        4,
+        2016,
+        'Anne Mcfarland'
+    ),
+    (
+        486,
+        '2016-05-28 23:14:28',
+        'Web',
+        5,
+        2016,
+        'Brian Ingram'
+    ),
+    (
+        486,
+        '2016-05-28 23:14:28',
+        'Web',
+        3,
+        2016,
+        'Steve Bennett'
+    ),
+    (
+        486,
+        '2016-05-28 23:14:28',
+        'Web',
+        1,
+        2016,
+        'Melody Reese MD'
+    ),
+    (
+        486,
+        '2016-05-28 23:14:28',
+        'Web',
+        2,
+        2016,
+        'Alejandra Walter'
+    ),
+    (
+        887,
+        '2022-05-28 23:09:44',
+        'Facebook',
+        3,
+        2022,
+        'Thomas Gregory'
+    ),
+    (
+        887,
+        '2022-05-28 23:09:44',
+        'Facebook',
+        2,
+        2022,
+        'Gary Stone'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        887,
+        '2022-05-28 23:09:44',
+        'Facebook',
+        5,
+        2022,
+        'Michael Baker'
+    ),
+    (
+        887,
+        '2022-05-28 23:09:44',
+        'Facebook',
+        1,
+        2022,
+        'Michael Martinez'
+    ),
+    (
+        887,
+        '2022-05-28 23:09:44',
+        'Facebook',
+        4,
+        2022,
+        'Robert Curtis'
+    ),
+    (
+        988,
+        '2018-05-26 22:13:05',
+        'Phone',
+        3,
+        2018,
+        'Steven Cox'
+    ),
+    (
+        988,
+        '2018-05-26 22:13:05',
+        'Phone',
+        4,
+        2018,
+        'Jessica Williams'
+    ),
+    (
+        988,
+        '2018-05-26 22:13:05',
+        'Phone',
+        2,
+        2018,
+        'Diane Harrison'
+    ),
+    (
+        87,
+        '2020-05-30 23:17:44',
+        'Phone',
+        2,
+        2020,
+        'Travis Walker'
+    ),
+    (
+        87,
+        '2020-05-30 23:17:44',
+        'Phone',
+        1,
+        2020,
+        'Lisa Mcdaniel'
+    ),
+    (
+        87,
+        '2020-05-30 23:17:44',
+        'Phone',
+        3,
+        2020,
+        'Mr. Steven Yoder'
+    ),
+    (
+        87,
+        '2020-05-30 23:17:44',
+        'Phone',
+        5,
+        2020,
+        'Jacob Hickman'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        87,
+        '2020-05-30 23:17:44',
+        'Phone',
+        4,
+        2020,
+        'Danielle Berger'
+    ),
+    (
+        221,
+        '2022-05-28 22:52:51',
+        'Instagram',
+        3,
+        2022,
+        'Michael Martinez'
+    ),
+    (
+        221,
+        '2022-05-28 22:52:51',
+        'Instagram',
+        4,
+        2022,
+        'Michael Baker'
+    ),
+    (
+        221,
+        '2022-05-28 22:52:51',
+        'Instagram',
+        2,
+        2022,
+        'Robert Curtis'
+    ),
+    (
+        221,
+        '2022-05-28 22:52:51',
+        'Instagram',
+        5,
+        2022,
+        'Martin Moore'
+    ),
+    (
+        221,
+        '2022-05-28 22:52:51',
+        'Instagram',
+        1,
+        2022,
+        'Thomas Gregory'
+    ),
+    (
+        759,
+        '2012-05-26 22:32:57',
+        'Phone',
+        1,
+        2012,
+        'Anthony Bradford'
+    ),
+    (
+        759,
+        '2012-05-26 22:32:57',
+        'Phone',
+        3,
+        2012,
+        'Patrick Benson'
+    ),
+    (
+        759,
+        '2012-05-26 22:32:57',
+        'Phone',
+        4,
+        2012,
+        'Kenneth Warner'
+    ),
+    (
+        759,
+        '2012-05-26 22:32:57',
+        'Phone',
+        5,
+        2012,
+        'Stacy White'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        759,
+        '2012-05-26 22:32:57',
+        'Phone',
+        2,
+        2012,
+        'Jose Smith Jr.'
+    ),
+    (
+        94,
+        '2013-05-25 22:51:35',
+        'Web',
+        2,
+        2013,
+        'Anthony Villanueva'
+    ),
+    (
+        94,
+        '2013-05-25 22:51:35',
+        'Web',
+        4,
+        2013,
+        'Diane Cooper'
+    ),
+    (
+        94,
+        '2013-05-25 22:51:35',
+        'Web',
+        1,
+        2013,
+        'Thomas Hess'
+    ),
+    (
+        94,
+        '2013-05-25 22:51:35',
+        'Web',
+        5,
+        2013,
+        'Wendy Cunningham'
+    ),
+    (
+        94,
+        '2013-05-25 22:51:35',
+        'Web',
+        3,
+        2013,
+        'Blake Martinez'
+    ),
+    (
+        584,
+        '2017-05-27 22:12:54',
+        'Instagram',
+        1,
+        2017,
+        'Tina Roy'
+    ),
+    (
+        584,
+        '2017-05-27 22:12:54',
+        'Instagram',
+        2,
+        2017,
+        'Sean Ward'
+    ),
+    (
+        584,
+        '2017-05-27 22:12:54',
+        'Instagram',
+        4,
+        2017,
+        'Rachel Cole'
+    ),
+    (
+        584,
+        '2017-05-27 22:12:54',
+        'Instagram',
+        3,
+        2017,
+        'Andrea Hill'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        584,
+        '2017-05-27 22:12:54',
+        'Instagram',
+        5,
+        2017,
+        'Brandi Harris'
+    ),
+    (
+        373,
+        '2013-05-25 23:28:42',
+        'Facebook',
+        4,
+        2013,
+        'Angela Phillips'
+    ),
+    (
+        373,
+        '2013-05-25 23:28:42',
+        'Facebook',
+        1,
+        2013,
+        'Blake Martinez'
+    ),
+    (
+        373,
+        '2013-05-25 23:28:42',
+        'Facebook',
+        5,
+        2013,
+        'Cassandra Hooper'
+    ),
+    (
+        373,
+        '2013-05-25 23:28:42',
+        'Facebook',
+        3,
+        2013,
+        'Diane Cooper'
+    ),
+    (
+        373,
+        '2013-05-25 23:28:42',
+        'Facebook',
+        2,
+        2013,
+        'Thomas Hess'
+    ),
+    (
+        365,
+        '2009-05-30 22:20:53',
+        'Facebook',
+        1,
+        2009,
+        'Kimberly Craig'
+    ),
+    (
+        365,
+        '2009-05-30 22:20:53',
+        'Facebook',
+        3,
+        2009,
+        'Sandra Lopez'
+    ),
+    (
+        365,
+        '2009-05-30 22:20:53',
+        'Facebook',
+        2,
+        2009,
+        'Jason Hebert'
+    ),
+    (
+        365,
+        '2009-05-30 22:20:53',
+        'Facebook',
+        5,
+        2009,
+        'Olivia Nichols'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        365,
+        '2009-05-30 22:20:53',
+        'Facebook',
+        4,
+        2009,
+        'Theresa Castaneda'
+    ),
+    (
+        4,
+        '2009-05-30 22:42:45',
+        'Instagram',
+        2,
+        2009,
+        'Melanie Hall'
+    ),
+    (
+        4,
+        '2009-05-30 22:42:45',
+        'Instagram',
+        4,
+        2009,
+        'Leslie Saunders'
+    ),
+    (
+        4,
+        '2009-05-30 22:42:45',
+        'Instagram',
+        3,
+        2009,
+        'Olivia Nichols'
+    ),
+    (
+        4,
+        '2009-05-30 22:42:45',
+        'Instagram',
+        5,
+        2009,
+        'Jason Hebert'
+    ),
+    (
+        4,
+        '2009-05-30 22:42:45',
+        'Instagram',
+        1,
+        2009,
+        'Matthew Garcia'
+    ),
+    (
+        994,
+        '2023-05-27 23:34:29',
+        'Instagram',
+        5,
+        2023,
+        'Paula Henderson'
+    ),
+    (
+        994,
+        '2023-05-27 23:34:29',
+        'Instagram',
+        2,
+        2023,
+        'Jacqueline Wagner'
+    ),
+    (
+        994,
+        '2023-05-27 23:34:29',
+        'Instagram',
+        1,
+        2023,
+        'Megan Saunders'
+    ),
+    (
+        994,
+        '2023-05-27 23:34:29',
+        'Instagram',
+        3,
+        2023,
+        'Christine Hayes'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        994,
+        '2023-05-27 23:34:29',
+        'Instagram',
+        4,
+        2023,
+        'Leslie Lee'
+    ),
+    (
+        324,
+        '2019-05-25 22:18:17',
+        'Instagram',
+        3,
+        2019,
+        'Patrick Wilson'
+    ),
+    (
+        324,
+        '2019-05-25 22:18:17',
+        'Instagram',
+        4,
+        2019,
+        'Jennifer Ford'
+    ),
+    (
+        324,
+        '2019-05-25 22:18:17',
+        'Instagram',
+        5,
+        2019,
+        'Kyle Hernandez'
+    ),
+    (
+        324,
+        '2019-05-25 22:18:17',
+        'Instagram',
+        1,
+        2019,
+        'Sarah Hancock'
+    ),
+    (
+        324,
+        '2019-05-25 22:18:17',
+        'Instagram',
+        2,
+        2019,
+        'Aaron Peterson'
+    ),
+    (
+        163,
+        '2019-05-25 23:51:27',
+        'Instagram',
+        1,
+        2019,
+        'Aaron Peterson'
+    ),
+    (
+        163,
+        '2019-05-25 23:51:27',
+        'Instagram',
+        3,
+        2019,
+        'Kathryn Alvarez'
+    ),
+    (
+        163,
+        '2019-05-25 23:51:27',
+        'Instagram',
+        4,
+        2019,
+        'Terry Powell'
+    ),
+    (
+        163,
+        '2019-05-25 23:51:27',
+        'Instagram',
+        2,
+        2019,
+        'Sarah Hancock'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        163,
+        '2019-05-25 23:51:27',
+        'Instagram',
+        5,
+        2019,
+        'Jennifer Ford'
+    ),
+    (
+        419,
+        '2018-05-26 23:12:02',
+        'Instagram',
+        3,
+        2018,
+        'Carrie Clark'
+    ),
+    (
+        419,
+        '2018-05-26 23:12:02',
+        'Instagram',
+        5,
+        2018,
+        'Kimberly Davis'
+    ),
+    (
+        419,
+        '2018-05-26 23:12:02',
+        'Instagram',
+        1,
+        2018,
+        'Steven Cox'
+    ),
+    (
+        419,
+        '2018-05-26 23:12:02',
+        'Instagram',
+        4,
+        2018,
+        'Jessica Williams'
+    ),
+    (
+        419,
+        '2018-05-26 23:12:02',
+        'Instagram',
+        2,
+        2018,
+        'Diane Harrison'
+    ),
+    (
+        272,
+        '2020-05-30 22:02:54',
+        'Instagram',
+        3,
+        2020,
+        'Jacob Hickman'
+    ),
+    (
+        272,
+        '2020-05-30 22:02:54',
+        'Instagram',
+        1,
+        2020,
+        'Lisa Wood'
+    ),
+    (
+        272,
+        '2020-05-30 22:02:54',
+        'Instagram',
+        2,
+        2020,
+        'Travis Walker'
+    ),
+    (
+        958,
+        '2018-05-26 23:37:04',
+        'Instagram',
+        2,
+        2018,
+        'Laura Barnes'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        958,
+        '2018-05-26 23:37:04',
+        'Instagram',
+        4,
+        2018,
+        'Danielle Miller'
+    ),
+    (
+        958,
+        '2018-05-26 23:37:04',
+        'Instagram',
+        5,
+        2018,
+        'Carrie Clark'
+    ),
+    (
+        958,
+        '2018-05-26 23:37:04',
+        'Instagram',
+        3,
+        2018,
+        'Diane Harrison'
+    ),
+    (
+        958,
+        '2018-05-26 23:37:04',
+        'Instagram',
+        1,
+        2018,
+        'Brandon Ruiz'
+    ),
+    (
+        728,
+        '2024-05-25 22:46:11',
+        'Facebook',
+        3,
+        2024,
+        'Amber Williams'
+    ),
+    (
+        728,
+        '2024-05-25 22:46:11',
+        'Facebook',
+        2,
+        2024,
+        'Gabriel Arroyo'
+    ),
+    (
+        728,
+        '2024-05-25 22:46:11',
+        'Facebook',
+        4,
+        2024,
+        'Christy Perry'
+    ),
+    (
+        728,
+        '2024-05-25 22:46:11',
+        'Facebook',
+        1,
+        2024,
+        'Emily Buck'
+    ),
+    (
+        728,
+        '2024-05-25 22:46:11',
+        'Facebook',
+        5,
+        2024,
+        'Richard Lewis'
+    ),
+    (
+        625,
+        '2012-05-26 22:50:56',
+        'Web',
+        5,
+        2012,
+        'Stacy White'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        625,
+        '2012-05-26 22:50:56',
+        'Web',
+        2,
+        2012,
+        'Jose Smith Jr.'
+    ),
+    (
+        625,
+        '2012-05-26 22:50:56',
+        'Web',
+        3,
+        2012,
+        'Lynn Booth'
+    ),
+    (
+        625,
+        '2012-05-26 22:50:56',
+        'Web',
+        4,
+        2012,
+        'Kenneth Warner'
+    ),
+    (
+        625,
+        '2012-05-26 22:50:56',
+        'Web',
+        1,
+        2012,
+        'Tyler Jordan'
+    ),
+    (
+        405,
+        '2023-05-27 22:11:32',
+        'Instagram',
+        4,
+        2023,
+        'Scott Baker'
+    ),
+    (
+        405,
+        '2023-05-27 22:11:32',
+        'Instagram',
+        1,
+        2023,
+        'Jacqueline Wagner'
+    ),
+    (
+        405,
+        '2023-05-27 22:11:32',
+        'Instagram',
+        3,
+        2023,
+        'Michael Butler'
+    ),
+    (
+        405,
+        '2023-05-27 22:11:32',
+        'Instagram',
+        2,
+        2023,
+        'Manuel Graves'
+    ),
+    (
+        245,
+        '2014-05-31 22:22:43',
+        'Web',
+        1,
+        2014,
+        'Zachary Fox'
+    ),
+    (
+        245,
+        '2014-05-31 22:22:43',
+        'Web',
+        2,
+        2014,
+        'John Conner'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        245,
+        '2014-05-31 22:22:43',
+        'Web',
+        4,
+        2014,
+        'Melissa Williams'
+    ),
+    (
+        245,
+        '2014-05-31 22:22:43',
+        'Web',
+        5,
+        2014,
+        'Todd Miller'
+    ),
+    (
+        245,
+        '2014-05-31 22:22:43',
+        'Web',
+        3,
+        2014,
+        'Mary Vance'
+    ),
+    (
+        254,
+        '2021-05-29 22:00:03',
+        'Facebook',
+        3,
+        2021,
+        'Amber Mcdowell'
+    ),
+    (
+        254,
+        '2021-05-29 22:00:03',
+        'Facebook',
+        5,
+        2021,
+        'Ann Perez'
+    ),
+    (
+        254,
+        '2021-05-29 22:00:03',
+        'Facebook',
+        1,
+        2021,
+        'Tamara Barnes'
+    ),
+    (
+        254,
+        '2021-05-29 22:00:03',
+        'Facebook',
+        2,
+        2021,
+        'Robin Myers'
+    ),
+    (
+        254,
+        '2021-05-29 22:00:03',
+        'Facebook',
+        4,
+        2021,
+        'Manuel Caldwell'
+    ),
+    (
+        460,
+        '2012-05-26 22:09:45',
+        'Facebook',
+        3,
+        2012,
+        'Tyler Jordan'
+    ),
+    (
+        460,
+        '2012-05-26 22:09:45',
+        'Facebook',
+        1,
+        2012,
+        'Anthony Bradford'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        460,
+        '2012-05-26 22:09:45',
+        'Facebook',
+        4,
+        2012,
+        'Jose Smith Jr.'
+    ),
+    (
+        460,
+        '2012-05-26 22:09:45',
+        'Facebook',
+        2,
+        2012,
+        'Kenneth Warner'
+    ),
+    (
+        460,
+        '2012-05-26 22:09:45',
+        'Facebook',
+        5,
+        2012,
+        'Jennifer Wolfe'
+    ),
+    (
+        939,
+        '2018-05-26 22:24:26',
+        'Web',
+        2,
+        2018,
+        'Laura Barnes'
+    ),
+    (
+        939,
+        '2018-05-26 22:24:26',
+        'Web',
+        1,
+        2018,
+        'John Hubbard'
+    ),
+    (
+        939,
+        '2018-05-26 22:24:26',
+        'Web',
+        4,
+        2018,
+        'Danielle Miller'
+    ),
+    (
+        365,
+        '2012-05-26 23:38:11',
+        'Facebook',
+        2,
+        2012,
+        'Stacy White'
+    ),
+    (
+        365,
+        '2012-05-26 23:38:11',
+        'Facebook',
+        1,
+        2012,
+        'Jennifer Wolfe'
+    ),
+    (
+        365,
+        '2012-05-26 23:38:11',
+        'Facebook',
+        4,
+        2012,
+        'Jose Smith Jr.'
+    ),
+    (
+        365,
+        '2012-05-26 23:38:11',
+        'Facebook',
+        3,
+        2012,
+        'Maria Robertson'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        365,
+        '2012-05-26 23:38:11',
+        'Facebook',
+        5,
+        2012,
+        'Kenneth Warner'
+    ),
+    (
+        352,
+        '2014-05-31 22:15:17',
+        'Web',
+        3,
+        2014,
+        'Luke Williams'
+    ),
+    (
+        352,
+        '2014-05-31 22:15:17',
+        'Web',
+        1,
+        2014,
+        'Lisa Wright'
+    ),
+    (
+        352,
+        '2014-05-31 22:15:17',
+        'Web',
+        2,
+        2014,
+        'Christopher Hodge'
+    ),
+    (
+        352,
+        '2014-05-31 22:15:17',
+        'Web',
+        5,
+        2014,
+        'Mary Vance'
+    ),
+    (
+        352,
+        '2014-05-31 22:15:17',
+        'Web',
+        4,
+        2014,
+        'Zachary Fox'
+    ),
+    (
+        306,
+        '2013-05-25 23:16:53',
+        'Phone',
+        4,
+        2013,
+        'Angela Phillips'
+    ),
+    (
+        839,
+        '2020-05-30 22:51:18',
+        'Phone',
+        4,
+        2020,
+        'Charles Maddox'
+    ),
+    (
+        839,
+        '2020-05-30 22:51:18',
+        'Phone',
+        2,
+        2020,
+        'Danielle Berger'
+    ),
+    (
+        839,
+        '2020-05-30 22:51:18',
+        'Phone',
+        3,
+        2020,
+        'Charles Washington'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        839,
+        '2020-05-30 22:51:18',
+        'Phone',
+        1,
+        2020,
+        'Mr. Steven Yoder'
+    ),
+    (
+        839,
+        '2020-05-30 22:51:18',
+        'Phone',
+        5,
+        2020,
+        'Travis Walker'
+    ),
+    (
+        267,
+        '2017-05-27 22:54:31',
+        'Phone',
+        5,
+        2017,
+        'Tina Roy'
+    ),
+    (
+        267,
+        '2017-05-27 22:54:31',
+        'Phone',
+        3,
+        2017,
+        'Andrea Hill'
+    ),
+    (
+        267,
+        '2017-05-27 22:54:31',
+        'Phone',
+        1,
+        2017,
+        'Sean Ward'
+    ),
+    (
+        267,
+        '2017-05-27 22:54:31',
+        'Phone',
+        4,
+        2017,
+        'Matthew Vaughn'
+    ),
+    (
+        267,
+        '2017-05-27 22:54:31',
+        'Phone',
+        2,
+        2017,
+        'Nathan Williams'
+    ),
+    (
+        889,
+        '2023-05-27 22:59:05',
+        'Facebook',
+        1,
+        2023,
+        'Scott Baker'
+    ),
+    (
+        663,
+        '2020-05-30 23:13:48',
+        'Web',
+        4,
+        2020,
+        'Charles Washington'
+    ),
+    (
+        663,
+        '2020-05-30 23:13:48',
+        'Web',
+        1,
+        2020,
+        'Jacob Hickman'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        663,
+        '2020-05-30 23:13:48',
+        'Web',
+        2,
+        2020,
+        'Danielle Berger'
+    ),
+    (
+        663,
+        '2020-05-30 23:13:48',
+        'Web',
+        3,
+        2020,
+        'Lisa Mcdaniel'
+    ),
+    (
+        663,
+        '2020-05-30 23:13:48',
+        'Web',
+        5,
+        2020,
+        'Travis Walker'
+    ),
+    (
+        638,
+        '2016-05-28 23:14:27',
+        'Phone',
+        1,
+        2016,
+        'Steve Bennett'
+    ),
+    (
+        638,
+        '2016-05-28 23:14:27',
+        'Phone',
+        2,
+        2016,
+        'Tara Mcgee'
+    ),
+    (
+        638,
+        '2016-05-28 23:14:27',
+        'Phone',
+        3,
+        2016,
+        'Alejandra Walter'
+    ),
+    (
+        638,
+        '2016-05-28 23:14:27',
+        'Phone',
+        5,
+        2016,
+        'Kimberly Wilkins MD'
+    ),
+    (
+        638,
+        '2016-05-28 23:14:27',
+        'Phone',
+        4,
+        2016,
+        'Anne Mcfarland'
+    ),
+    (
+        32,
+        '2010-05-29 23:15:10',
+        'Facebook',
+        5,
+        2010,
+        'Kayla Vargas'
+    ),
+    (
+        32,
+        '2010-05-29 23:15:10',
+        'Facebook',
+        3,
+        2010,
+        'Kevin Wilson'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        32,
+        '2010-05-29 23:15:10',
+        'Facebook',
+        4,
+        2010,
+        'Katherine Li'
+    ),
+    (
+        32,
+        '2010-05-29 23:15:10',
+        'Facebook',
+        1,
+        2010,
+        'Rachel Melton'
+    ),
+    (
+        32,
+        '2010-05-29 23:15:10',
+        'Facebook',
+        2,
+        2010,
+        'Kyle Weiss'
+    ),
+    (
+        280,
+        '2024-05-25 22:42:51',
+        'Phone',
+        4,
+        2024,
+        'Taylor Lopez'
+    ),
+    (
+        280,
+        '2024-05-25 22:42:51',
+        'Phone',
+        3,
+        2024,
+        'Richard Lewis'
+    ),
+    (
+        280,
+        '2024-05-25 22:42:51',
+        'Phone',
+        1,
+        2024,
+        'Alexis Fields'
+    ),
+    (
+        280,
+        '2024-05-25 22:42:51',
+        'Phone',
+        5,
+        2024,
+        'Emily Buck'
+    ),
+    (
+        280,
+        '2024-05-25 22:42:51',
+        'Phone',
+        2,
+        2024,
+        'Gabriel Arroyo'
+    ),
+    (
+        592,
+        '2015-05-30 22:43:29',
+        'Facebook',
+        2,
+        2015,
+        'Brett Benjamin'
+    ),
+    (
+        592,
+        '2015-05-30 22:43:29',
+        'Facebook',
+        4,
+        2015,
+        'Heidi Barry'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        592,
+        '2015-05-30 22:43:29',
+        'Facebook',
+        3,
+        2015,
+        'Travis Hays'
+    ),
+    (
+        592,
+        '2015-05-30 22:43:29',
+        'Facebook',
+        5,
+        2015,
+        'Louis Phillips'
+    ),
+    (
+        592,
+        '2015-05-30 22:43:29',
+        'Facebook',
+        1,
+        2015,
+        'Robert White'
+    ),
+    (
+        191,
+        '2012-05-26 22:01:22',
+        'Phone',
+        2,
+        2012,
+        'Stephanie Patrick'
+    ),
+    (
+        191,
+        '2012-05-26 22:01:22',
+        'Phone',
+        5,
+        2012,
+        'Maria Robertson'
+    ),
+    (
+        191,
+        '2012-05-26 22:01:22',
+        'Phone',
+        4,
+        2012,
+        'Patrick Benson'
+    ),
+    (
+        191,
+        '2012-05-26 22:01:22',
+        'Phone',
+        3,
+        2012,
+        'Kenneth Warner'
+    ),
+    (
+        191,
+        '2012-05-26 22:01:22',
+        'Phone',
+        1,
+        2012,
+        'Tyler Jordan'
+    ),
+    (
+        788,
+        '2019-05-25 22:08:39',
+        'Instagram',
+        4,
+        2019,
+        'Aaron Peterson'
+    ),
+    (
+        788,
+        '2019-05-25 22:08:39',
+        'Instagram',
+        2,
+        2019,
+        'Patrick Wilson'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        788,
+        '2019-05-25 22:08:39',
+        'Instagram',
+        1,
+        2019,
+        'Jennifer Ford'
+    ),
+    (
+        788,
+        '2019-05-25 22:08:39',
+        'Instagram',
+        5,
+        2019,
+        'Cameron Hawkins'
+    ),
+    (
+        788,
+        '2019-05-25 22:08:39',
+        'Instagram',
+        3,
+        2019,
+        'Terry Powell'
+    ),
+    (
+        804,
+        '2023-05-27 22:44:59',
+        'Instagram',
+        2,
+        2023,
+        'Jacqueline Wagner'
+    ),
+    (
+        804,
+        '2023-05-27 22:44:59',
+        'Instagram',
+        3,
+        2023,
+        'Scott Baker'
+    ),
+    (
+        804,
+        '2023-05-27 22:44:59',
+        'Instagram',
+        5,
+        2023,
+        'Leslie Lee'
+    ),
+    (
+        804,
+        '2023-05-27 22:44:59',
+        'Instagram',
+        1,
+        2023,
+        'Paula Henderson'
+    ),
+    (
+        804,
+        '2023-05-27 22:44:59',
+        'Instagram',
+        4,
+        2023,
+        'Thomas Ruiz'
+    ),
+    (
+        709,
+        '2009-05-30 23:25:36',
+        'Facebook',
+        4,
+        2009,
+        'Theresa Castaneda'
+    ),
+    (
+        709,
+        '2009-05-30 23:25:36',
+        'Facebook',
+        3,
+        2009,
+        'Jason Hebert'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        709,
+        '2009-05-30 23:25:36',
+        'Facebook',
+        2,
+        2009,
+        'Wanda Smith'
+    ),
+    (
+        709,
+        '2009-05-30 23:25:36',
+        'Facebook',
+        1,
+        2009,
+        'Melanie Hall'
+    ),
+    (
+        709,
+        '2009-05-30 23:25:36',
+        'Facebook',
+        5,
+        2009,
+        'Olivia Nichols'
+    ),
+    (
+        472,
+        '2019-05-25 23:45:29',
+        'Facebook',
+        5,
+        2019,
+        'Sarah Hancock'
+    ),
+    (
+        472,
+        '2019-05-25 23:45:29',
+        'Facebook',
+        1,
+        2019,
+        'Jennifer Ford'
+    ),
+    (
+        472,
+        '2019-05-25 23:45:29',
+        'Facebook',
+        2,
+        2019,
+        'Terry Powell'
+    ),
+    (
+        472,
+        '2019-05-25 23:45:29',
+        'Facebook',
+        3,
+        2019,
+        'Samantha Jones'
+    ),
+    (
+        472,
+        '2019-05-25 23:45:29',
+        'Facebook',
+        4,
+        2019,
+        'Patrick Wilson'
+    ),
+    (
+        38,
+        '2019-05-25 22:45:35',
+        'Instagram',
+        4,
+        2019,
+        'Amanda Ingram'
+    ),
+    (
+        38,
+        '2019-05-25 22:45:35',
+        'Instagram',
+        5,
+        2019,
+        'Patrick Wilson'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        38,
+        '2019-05-25 22:45:35',
+        'Instagram',
+        2,
+        2019,
+        'Samantha Jones'
+    ),
+    (
+        38,
+        '2019-05-25 22:45:35',
+        'Instagram',
+        3,
+        2019,
+        'Kathryn Alvarez'
+    ),
+    (
+        38,
+        '2019-05-25 22:45:35',
+        'Instagram',
+        1,
+        2019,
+        'Sarah Hancock'
+    ),
+    (
+        382,
+        '2012-05-26 23:06:29',
+        'Web',
+        3,
+        2012,
+        'Maria Robertson'
+    ),
+    (
+        382,
+        '2012-05-26 23:06:29',
+        'Web',
+        1,
+        2012,
+        'Lynn Booth'
+    ),
+    (
+        382,
+        '2012-05-26 23:06:29',
+        'Web',
+        4,
+        2012,
+        'Patrick Benson'
+    ),
+    (
+        382,
+        '2012-05-26 23:06:29',
+        'Web',
+        2,
+        2012,
+        'Jose Smith Jr.'
+    ),
+    (
+        382,
+        '2012-05-26 23:06:29',
+        'Web',
+        5,
+        2012,
+        'Stacy White'
+    ),
+    (
+        987,
+        '2021-05-29 22:30:55',
+        'Web',
+        4,
+        2021,
+        'Thomas Smith'
+    ),
+    (
+        586,
+        '2015-05-30 22:17:44',
+        'Web',
+        3,
+        2015,
+        'Nicholas Black'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        586,
+        '2015-05-30 22:17:44',
+        'Web',
+        1,
+        2015,
+        'Robert White'
+    ),
+    (
+        586,
+        '2015-05-30 22:17:44',
+        'Web',
+        2,
+        2015,
+        'Lisa Patrick'
+    ),
+    (
+        586,
+        '2015-05-30 22:17:44',
+        'Web',
+        5,
+        2015,
+        'Heidi Barry'
+    ),
+    (
+        586,
+        '2015-05-30 22:17:44',
+        'Web',
+        4,
+        2015,
+        'Brett Benjamin'
+    ),
+    (
+        98,
+        '2012-05-26 22:52:50',
+        'Phone',
+        5,
+        2012,
+        'Jennifer Wolfe'
+    ),
+    (
+        98,
+        '2012-05-26 22:52:50',
+        'Phone',
+        2,
+        2012,
+        'Anthony Bradford'
+    ),
+    (
+        98,
+        '2012-05-26 22:52:50',
+        'Phone',
+        1,
+        2012,
+        'Tyler Jordan'
+    ),
+    (
+        98,
+        '2012-05-26 22:52:50',
+        'Phone',
+        4,
+        2012,
+        'Stacy White'
+    ),
+    (
+        98,
+        '2012-05-26 22:52:50',
+        'Phone',
+        3,
+        2012,
+        'Stephanie Patrick'
+    ),
+    (
+        543,
+        '2010-05-29 23:05:14',
+        'Phone',
+        4,
+        2010,
+        'Kyle Weiss'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        543,
+        '2010-05-29 23:05:14',
+        'Phone',
+        1,
+        2010,
+        'Timothy Sandoval'
+    ),
+    (
+        543,
+        '2010-05-29 23:05:14',
+        'Phone',
+        2,
+        2010,
+        'Kevin Wilson'
+    ),
+    (
+        543,
+        '2010-05-29 23:05:14',
+        'Phone',
+        5,
+        2010,
+        'Richard Dawson'
+    ),
+    (
+        543,
+        '2010-05-29 23:05:14',
+        'Phone',
+        3,
+        2010,
+        'Matthew Rice'
+    ),
+    (
+        925,
+        '2009-05-30 23:07:24',
+        'Facebook',
+        5,
+        2009,
+        'Carrie Bell'
+    ),
+    (
+        925,
+        '2009-05-30 23:07:24',
+        'Facebook',
+        1,
+        2009,
+        'Kimberly Craig'
+    ),
+    (
+        925,
+        '2009-05-30 23:07:24',
+        'Facebook',
+        4,
+        2009,
+        'Wanda Smith'
+    ),
+    (
+        925,
+        '2009-05-30 23:07:24',
+        'Facebook',
+        2,
+        2009,
+        'Matthew Garcia'
+    ),
+    (
+        925,
+        '2009-05-30 23:07:24',
+        'Facebook',
+        3,
+        2009,
+        'Jason Hebert'
+    ),
+    (
+        996,
+        '2019-05-25 22:06:34',
+        'Phone',
+        4,
+        2019,
+        'Amanda Ingram'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        996,
+        '2019-05-25 22:06:34',
+        'Phone',
+        3,
+        2019,
+        'Patrick Wilson'
+    ),
+    (
+        996,
+        '2019-05-25 22:06:34',
+        'Phone',
+        1,
+        2019,
+        'Cameron Hawkins'
+    ),
+    (
+        996,
+        '2019-05-25 22:06:34',
+        'Phone',
+        2,
+        2019,
+        'Kathryn Alvarez'
+    ),
+    (
+        996,
+        '2019-05-25 22:06:34',
+        'Phone',
+        5,
+        2019,
+        'Samantha Jones'
+    ),
+    (
+        912,
+        '2021-05-29 22:32:13',
+        'Instagram',
+        4,
+        2021,
+        'Samantha Lee'
+    ),
+    (
+        912,
+        '2021-05-29 22:32:13',
+        'Instagram',
+        3,
+        2021,
+        'Thomas Smith'
+    ),
+    (
+        912,
+        '2021-05-29 22:32:13',
+        'Instagram',
+        5,
+        2021,
+        'Amber Mcdowell'
+    ),
+    (
+        912,
+        '2021-05-29 22:32:13',
+        'Instagram',
+        1,
+        2021,
+        'Tamara Barnes'
+    ),
+    (
+        912,
+        '2021-05-29 22:32:13',
+        'Instagram',
+        2,
+        2021,
+        'Jack Singh'
+    ),
+    (
+        559,
+        '2021-05-29 23:47:14',
+        'Instagram',
+        5,
+        2021,
+        'Amber Mcdowell'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        559,
+        '2021-05-29 23:47:14',
+        'Instagram',
+        4,
+        2021,
+        'Jack Singh'
+    ),
+    (
+        559,
+        '2021-05-29 23:47:14',
+        'Instagram',
+        1,
+        2021,
+        'Aaron Baldwin'
+    ),
+    (
+        559,
+        '2021-05-29 23:47:14',
+        'Instagram',
+        2,
+        2021,
+        'Thomas Smith'
+    ),
+    (
+        559,
+        '2021-05-29 23:47:14',
+        'Instagram',
+        3,
+        2021,
+        'Manuel Caldwell'
+    ),
+    (
+        186,
+        '2018-05-26 23:06:35',
+        'Facebook',
+        5,
+        2018,
+        'Laura Barnes'
+    ),
+    (
+        186,
+        '2018-05-26 23:06:35',
+        'Facebook',
+        3,
+        2018,
+        'Kimberly Davis'
+    ),
+    (
+        97,
+        '2022-05-28 22:27:29',
+        'Instagram',
+        3,
+        2022,
+        'Stephanie Smith'
+    ),
+    (
+        97,
+        '2022-05-28 22:27:29',
+        'Instagram',
+        5,
+        2022,
+        'Andre Burton'
+    ),
+    (
+        97,
+        '2022-05-28 22:27:29',
+        'Instagram',
+        1,
+        2022,
+        'Andrew Hodges'
+    ),
+    (
+        97,
+        '2022-05-28 22:27:29',
+        'Instagram',
+        2,
+        2022,
+        'Martin Moore'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        97,
+        '2022-05-28 22:27:29',
+        'Instagram',
+        4,
+        2022,
+        'Thomas Gregory'
+    ),
+    (
+        939,
+        '2024-05-25 22:14:26',
+        'Web',
+        5,
+        2024,
+        'Emily Buck'
+    ),
+    (
+        939,
+        '2024-05-25 22:14:26',
+        'Web',
+        3,
+        2024,
+        'Gabriel Arroyo'
+    ),
+    (
+        939,
+        '2024-05-25 22:14:26',
+        'Web',
+        2,
+        2024,
+        'Christopher Singh'
+    ),
+    (
+        939,
+        '2024-05-25 22:14:26',
+        'Web',
+        4,
+        2024,
+        'Taylor Lopez'
+    ),
+    (
+        939,
+        '2024-05-25 22:14:26',
+        'Web',
+        1,
+        2024,
+        'Alexis Fields'
+    ),
+    (
+        933,
+        '2016-05-28 22:36:48',
+        'Instagram',
+        1,
+        2016,
+        'Anne Mcfarland'
+    ),
+    (
+        933,
+        '2016-05-28 22:36:48',
+        'Instagram',
+        4,
+        2016,
+        'Derek Schwartz'
+    ),
+    (
+        933,
+        '2016-05-28 22:36:48',
+        'Instagram',
+        5,
+        2016,
+        'Melody Reese MD'
+    ),
+    (
+        933,
+        '2016-05-28 22:36:48',
+        'Instagram',
+        2,
+        2016,
+        'Steve Bennett'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        933,
+        '2016-05-28 22:36:48',
+        'Instagram',
+        3,
+        2016,
+        'Tara Mcgee'
+    ),
+    (
+        513,
+        '2016-05-28 23:40:54',
+        'Instagram',
+        3,
+        2016,
+        'Steve Bennett'
+    ),
+    (
+        513,
+        '2016-05-28 23:40:54',
+        'Instagram',
+        5,
+        2016,
+        'Cathy Lewis'
+    ),
+    (
+        513,
+        '2016-05-28 23:40:54',
+        'Instagram',
+        2,
+        2016,
+        'Kimberly Wilkins MD'
+    ),
+    (
+        513,
+        '2016-05-28 23:40:54',
+        'Instagram',
+        1,
+        2016,
+        'Tara Mcgee'
+    ),
+    (
+        513,
+        '2016-05-28 23:40:54',
+        'Instagram',
+        4,
+        2016,
+        'Alejandra Walter'
+    ),
+    (
+        901,
+        '2024-05-25 23:17:30',
+        'Instagram',
+        3,
+        2024,
+        'Christy Perry'
+    ),
+    (
+        901,
+        '2024-05-25 23:17:30',
+        'Instagram',
+        2,
+        2024,
+        'Amber Williams'
+    ),
+    (
+        901,
+        '2024-05-25 23:17:30',
+        'Instagram',
+        1,
+        2024,
+        'Jessica Murphy'
+    ),
+    (
+        901,
+        '2024-05-25 23:17:30',
+        'Instagram',
+        5,
+        2024,
+        'Emily Buck'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        901,
+        '2024-05-25 23:17:30',
+        'Instagram',
+        4,
+        2024,
+        'Alexis Fields'
+    ),
+    (
+        985,
+        '2021-05-29 22:11:31',
+        'Instagram',
+        4,
+        2021,
+        'Amber Mcdowell'
+    ),
+    (
+        985,
+        '2021-05-29 22:11:31',
+        'Instagram',
+        3,
+        2021,
+        'Caleb Ellison'
+    ),
+    (
+        985,
+        '2021-05-29 22:11:31',
+        'Instagram',
+        5,
+        2021,
+        'Aaron Baldwin'
+    ),
+    (
+        985,
+        '2021-05-29 22:11:31',
+        'Instagram',
+        1,
+        2021,
+        'Tamara Barnes'
+    ),
+    (
+        985,
+        '2021-05-29 22:11:31',
+        'Instagram',
+        2,
+        2021,
+        'Ann Perez'
+    ),
+    (
+        186,
+        '2016-05-28 22:33:04',
+        'Phone',
+        4,
+        2016,
+        'Kimberly Wilkins MD'
+    ),
+    (
+        186,
+        '2016-05-28 22:33:04',
+        'Phone',
+        5,
+        2016,
+        'Melody Reese MD'
+    ),
+    (
+        186,
+        '2016-05-28 22:33:04',
+        'Phone',
+        2,
+        2016,
+        'Steve Bennett'
+    ),
+    (
+        186,
+        '2016-05-28 22:33:04',
+        'Phone',
+        3,
+        2016,
+        'Anne Mcfarland'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        186,
+        '2016-05-28 22:33:04',
+        'Phone',
+        1,
+        2016,
+        'Amanda Patterson'
+    ),
+    (
+        778,
+        '2023-05-27 22:17:03',
+        'Facebook',
+        4,
+        2023,
+        'Leslie Lee'
+    ),
+    (
+        778,
+        '2023-05-27 22:17:03',
+        'Facebook',
+        1,
+        2023,
+        'Paula Henderson'
+    ),
+    (
+        778,
+        '2023-05-27 22:17:03',
+        'Facebook',
+        5,
+        2023,
+        'Scott Baker'
+    ),
+    (
+        778,
+        '2023-05-27 22:17:03',
+        'Facebook',
+        3,
+        2023,
+        'Samantha Erickson'
+    ),
+    (
+        778,
+        '2023-05-27 22:17:03',
+        'Facebook',
+        2,
+        2023,
+        'Jacqueline Wagner'
+    ),
+    (
+        327,
+        '2022-05-28 22:37:30',
+        'Instagram',
+        1,
+        2022,
+        'Stephanie Smith'
+    ),
+    (
+        327,
+        '2022-05-28 22:37:30',
+        'Instagram',
+        2,
+        2022,
+        'Thomas Gregory'
+    ),
+    (
+        327,
+        '2022-05-28 22:37:30',
+        'Instagram',
+        3,
+        2022,
+        'Michelle Martin'
+    ),
+    (
+        327,
+        '2022-05-28 22:37:30',
+        'Instagram',
+        5,
+        2022,
+        'Robert Curtis'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        327,
+        '2022-05-28 22:37:30',
+        'Instagram',
+        4,
+        2022,
+        'Michael Martinez'
+    ),
+    (
+        697,
+        '2016-05-28 23:58:15',
+        'Instagram',
+        1,
+        2016,
+        'Brian Ingram'
+    ),
+    (
+        697,
+        '2016-05-28 23:58:15',
+        'Instagram',
+        4,
+        2016,
+        'Alejandra Walter'
+    ),
+    (
+        697,
+        '2016-05-28 23:58:15',
+        'Instagram',
+        3,
+        2016,
+        'Anne Mcfarland'
+    ),
+    (
+        697,
+        '2016-05-28 23:58:15',
+        'Instagram',
+        2,
+        2016,
+        'Melody Reese MD'
+    ),
+    (
+        697,
+        '2016-05-28 23:58:15',
+        'Instagram',
+        5,
+        2016,
+        'Steve Bennett'
+    ),
+    (
+        934,
+        '2017-05-27 22:40:07',
+        'Phone',
+        2,
+        2017,
+        'Matthew Vaughn'
+    ),
+    (
+        934,
+        '2017-05-27 22:40:07',
+        'Phone',
+        1,
+        2017,
+        'Elizabeth Koch'
+    ),
+    (
+        934,
+        '2017-05-27 22:40:07',
+        'Phone',
+        4,
+        2017,
+        'Brandi Harris'
+    ),
+    (
+        934,
+        '2017-05-27 22:40:07',
+        'Phone',
+        3,
+        2017,
+        'Tina Roy'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        934,
+        '2017-05-27 22:40:07',
+        'Phone',
+        5,
+        2017,
+        'Andrea Hill'
+    ),
+    (
+        718,
+        '2024-05-25 22:01:36',
+        'Instagram',
+        1,
+        2024,
+        'Christopher Singh'
+    ),
+    (
+        718,
+        '2024-05-25 22:01:36',
+        'Instagram',
+        2,
+        2024,
+        'Christy Perry'
+    ),
+    (
+        718,
+        '2024-05-25 22:01:36',
+        'Instagram',
+        3,
+        2024,
+        'Austin Williams'
+    ),
+    (
+        718,
+        '2024-05-25 22:01:36',
+        'Instagram',
+        5,
+        2024,
+        'Richard Lewis'
+    ),
+    (
+        718,
+        '2024-05-25 22:01:36',
+        'Instagram',
+        4,
+        2024,
+        'Jessica Murphy'
+    ),
+    (
+        407,
+        '2019-05-25 23:46:42',
+        'Instagram',
+        1,
+        2019,
+        'Kathryn Alvarez'
+    ),
+    (
+        407,
+        '2019-05-25 23:46:42',
+        'Instagram',
+        4,
+        2019,
+        'Amanda Ingram'
+    ),
+    (
+        407,
+        '2019-05-25 23:46:42',
+        'Instagram',
+        5,
+        2019,
+        'Aaron Peterson'
+    ),
+    (
+        407,
+        '2019-05-25 23:46:42',
+        'Instagram',
+        2,
+        2019,
+        'Kyle Hernandez'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        407,
+        '2019-05-25 23:46:42',
+        'Instagram',
+        3,
+        2019,
+        'Sarah Hancock'
+    ),
+    (
+        650,
+        '2014-05-31 23:21:09',
+        'Web',
+        3,
+        2014,
+        'Melissa Williams'
+    ),
+    (
+        650,
+        '2014-05-31 23:21:09',
+        'Web',
+        4,
+        2014,
+        'Christopher Hodge'
+    ),
+    (
+        650,
+        '2014-05-31 23:21:09',
+        'Web',
+        2,
+        2014,
+        'Todd Miller'
+    ),
+    (
+        650,
+        '2014-05-31 23:21:09',
+        'Web',
+        1,
+        2014,
+        'Lisa Wright'
+    ),
+    (
+        650,
+        '2014-05-31 23:21:09',
+        'Web',
+        5,
+        2014,
+        'John Conner'
+    ),
+    (
+        986,
+        '2011-05-28 22:04:07',
+        'Facebook',
+        2,
+        2011,
+        'Andres Rubio'
+    ),
+    (
+        986,
+        '2011-05-28 22:04:07',
+        'Facebook',
+        1,
+        2011,
+        'Carmen Mitchell'
+    ),
+    (
+        986,
+        '2011-05-28 22:04:07',
+        'Facebook',
+        5,
+        2011,
+        'John Henderson'
+    ),
+    (
+        986,
+        '2011-05-28 22:04:07',
+        'Facebook',
+        4,
+        2011,
+        'Victoria Rosales PhD'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        986,
+        '2011-05-28 22:04:07',
+        'Facebook',
+        3,
+        2011,
+        'Ashley Lawson'
+    ),
+    (
+        179,
+        '2015-05-30 22:37:37',
+        'Facebook',
+        4,
+        2015,
+        'Nicholas Black'
+    ),
+    (
+        179,
+        '2015-05-30 22:37:37',
+        'Facebook',
+        2,
+        2015,
+        'Travis Hays'
+    ),
+    (
+        179,
+        '2015-05-30 22:37:37',
+        'Facebook',
+        3,
+        2015,
+        'Lisa Patrick'
+    ),
+    (
+        179,
+        '2015-05-30 22:37:37',
+        'Facebook',
+        5,
+        2015,
+        'Colleen White'
+    ),
+    (
+        179,
+        '2015-05-30 22:37:37',
+        'Facebook',
+        1,
+        2015,
+        'Robert White'
+    ),
+    (
+        76,
+        '2011-05-28 22:51:07',
+        'Phone',
+        1,
+        2011,
+        'Carmen Mitchell'
+    ),
+    (
+        76,
+        '2011-05-28 22:51:07',
+        'Phone',
+        4,
+        2011,
+        'Dr. Courtney Green MD'
+    ),
+    (
+        76,
+        '2011-05-28 22:51:07',
+        'Phone',
+        3,
+        2011,
+        'Keith Ingram'
+    ),
+    (
+        76,
+        '2011-05-28 22:51:07',
+        'Phone',
+        5,
+        2011,
+        'Ashley Lawson'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        76,
+        '2011-05-28 22:51:07',
+        'Phone',
+        2,
+        2011,
+        'Victoria Rosales PhD'
+    ),
+    (
+        631,
+        '2023-05-27 23:37:39',
+        'Instagram',
+        3,
+        2023,
+        'Thomas Ruiz'
+    ),
+    (
+        631,
+        '2023-05-27 23:37:39',
+        'Instagram',
+        5,
+        2023,
+        'Megan Saunders'
+    ),
+    (
+        631,
+        '2023-05-27 23:37:39',
+        'Instagram',
+        1,
+        2023,
+        'Christine Hayes'
+    ),
+    (
+        631,
+        '2023-05-27 23:37:39',
+        'Instagram',
+        2,
+        2023,
+        'Leslie Lee'
+    ),
+    (
+        631,
+        '2023-05-27 23:37:39',
+        'Instagram',
+        4,
+        2023,
+        'Paula Henderson'
+    ),
+    (
+        841,
+        '2013-05-25 23:36:27',
+        'Facebook',
+        3,
+        2013,
+        'Diane Cooper'
+    ),
+    (
+        841,
+        '2013-05-25 23:36:27',
+        'Facebook',
+        5,
+        2013,
+        'Anthony Villanueva'
+    ),
+    (
+        841,
+        '2013-05-25 23:36:27',
+        'Facebook',
+        2,
+        2013,
+        'Thomas Hess'
+    ),
+    (
+        841,
+        '2013-05-25 23:36:27',
+        'Facebook',
+        4,
+        2013,
+        'Kimberly Larsen'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        841,
+        '2013-05-25 23:36:27',
+        'Facebook',
+        1,
+        2013,
+        'Wendy Cunningham'
+    ),
+    (
+        595,
+        '2022-05-28 23:28:09',
+        'Phone',
+        4,
+        2022,
+        'Martin Moore'
+    ),
+    (
+        595,
+        '2022-05-28 23:28:09',
+        'Phone',
+        1,
+        2022,
+        'Robert Curtis'
+    ),
+    (
+        595,
+        '2022-05-28 23:28:09',
+        'Phone',
+        3,
+        2022,
+        'Michael Baker'
+    ),
+    (
+        595,
+        '2022-05-28 23:28:09',
+        'Phone',
+        5,
+        2022,
+        'Michelle Martin'
+    ),
+    (
+        595,
+        '2022-05-28 23:28:09',
+        'Phone',
+        2,
+        2022,
+        'Stephanie Smith'
+    ),
+    (
+        566,
+        '2014-05-31 22:12:26',
+        'Instagram',
+        2,
+        2014,
+        'Melissa Williams'
+    ),
+    (
+        566,
+        '2014-05-31 22:12:26',
+        'Instagram',
+        4,
+        2014,
+        'Zachary Fox'
+    ),
+    (
+        566,
+        '2014-05-31 22:12:26',
+        'Instagram',
+        5,
+        2014,
+        'John Conner'
+    ),
+    (
+        768,
+        '2017-05-27 23:49:04',
+        'Facebook',
+        5,
+        2017,
+        'Andrea Hill'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        768,
+        '2017-05-27 23:49:04',
+        'Facebook',
+        4,
+        2017,
+        'Denise Jones'
+    ),
+    (
+        768,
+        '2017-05-27 23:49:04',
+        'Facebook',
+        3,
+        2017,
+        'Matthew Vaughn'
+    ),
+    (
+        768,
+        '2017-05-27 23:49:04',
+        'Facebook',
+        1,
+        2017,
+        'Nathan Williams'
+    ),
+    (
+        768,
+        '2017-05-27 23:49:04',
+        'Facebook',
+        2,
+        2017,
+        'Elizabeth Koch'
+    ),
+    (
+        65,
+        '2021-05-29 23:07:48',
+        'Facebook',
+        1,
+        2021,
+        'Aaron Baldwin'
+    ),
+    (
+        65,
+        '2021-05-29 23:07:48',
+        'Facebook',
+        2,
+        2021,
+        'Thomas Smith'
+    ),
+    (
+        65,
+        '2021-05-29 23:07:48',
+        'Facebook',
+        4,
+        2021,
+        'Ann Perez'
+    ),
+    (
+        65,
+        '2021-05-29 23:07:48',
+        'Facebook',
+        3,
+        2021,
+        'Jack Singh'
+    ),
+    (
+        65,
+        '2021-05-29 23:07:48',
+        'Facebook',
+        5,
+        2021,
+        'Manuel Caldwell'
+    ),
+    (
+        523,
+        '2014-05-31 23:35:45',
+        'Facebook',
+        5,
+        2014,
+        'Luke Williams'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        523,
+        '2014-05-31 23:35:45',
+        'Facebook',
+        4,
+        2014,
+        'Todd Miller'
+    ),
+    (
+        523,
+        '2014-05-31 23:35:45',
+        'Facebook',
+        1,
+        2014,
+        'Christopher Hodge'
+    ),
+    (
+        523,
+        '2014-05-31 23:35:45',
+        'Facebook',
+        3,
+        2014,
+        'Zachary Fox'
+    ),
+    (
+        523,
+        '2014-05-31 23:35:45',
+        'Facebook',
+        2,
+        2014,
+        'Carol Garrett'
+    ),
+    (
+        784,
+        '2009-05-30 23:50:33',
+        'Instagram',
+        2,
+        2009,
+        'Olivia Nichols'
+    ),
+    (
+        784,
+        '2009-05-30 23:50:33',
+        'Instagram',
+        4,
+        2009,
+        'Kimberly Craig'
+    ),
+    (
+        784,
+        '2009-05-30 23:50:33',
+        'Instagram',
+        1,
+        2009,
+        'Carrie Bell'
+    ),
+    (
+        784,
+        '2009-05-30 23:50:33',
+        'Instagram',
+        5,
+        2009,
+        'Melanie Hall'
+    ),
+    (
+        784,
+        '2009-05-30 23:50:33',
+        'Instagram',
+        3,
+        2009,
+        'Wanda Smith'
+    ),
+    (
+        163,
+        '2014-05-31 22:02:35',
+        'Facebook',
+        2,
+        2014,
+        'Christopher Hodge'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        163,
+        '2014-05-31 22:02:35',
+        'Facebook',
+        1,
+        2014,
+        'Teresa Martin'
+    ),
+    (
+        163,
+        '2014-05-31 22:02:35',
+        'Facebook',
+        5,
+        2014,
+        'Carol Garrett'
+    ),
+    (
+        163,
+        '2014-05-31 22:02:35',
+        'Facebook',
+        3,
+        2014,
+        'Melissa Williams'
+    ),
+    (
+        163,
+        '2014-05-31 22:02:35',
+        'Facebook',
+        4,
+        2014,
+        'Zachary Fox'
+    ),
+    (
+        930,
+        '2013-05-25 23:21:59',
+        'Web',
+        4,
+        2013,
+        'Tony Prince'
+    ),
+    (
+        930,
+        '2013-05-25 23:21:59',
+        'Web',
+        5,
+        2013,
+        'Diane Cooper'
+    ),
+    (
+        930,
+        '2013-05-25 23:21:59',
+        'Web',
+        3,
+        2013,
+        'Angela Phillips'
+    ),
+    (
+        806,
+        '2018-05-26 22:50:56',
+        'Instagram',
+        4,
+        2018,
+        'Brandon Ruiz'
+    ),
+    (
+        806,
+        '2018-05-26 22:50:56',
+        'Instagram',
+        2,
+        2018,
+        'Charles Glover'
+    ),
+    (
+        7,
+        '2009-05-30 23:40:14',
+        'Facebook',
+        1,
+        2009,
+        'Leslie Saunders'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        7,
+        '2009-05-30 23:40:14',
+        'Facebook',
+        3,
+        2009,
+        'Theresa Castaneda'
+    ),
+    (
+        7,
+        '2009-05-30 23:40:14',
+        'Facebook',
+        4,
+        2009,
+        'Jason Hebert'
+    ),
+    (
+        7,
+        '2009-05-30 23:40:14',
+        'Facebook',
+        2,
+        2009,
+        'Carrie Bell'
+    ),
+    (
+        7,
+        '2009-05-30 23:40:14',
+        'Facebook',
+        5,
+        2009,
+        'Matthew Garcia'
+    ),
+    (
+        614,
+        '2016-05-28 22:10:20',
+        'Web',
+        5,
+        2016,
+        'Amanda Patterson'
+    ),
+    (
+        614,
+        '2016-05-28 22:10:20',
+        'Web',
+        2,
+        2016,
+        'Cathy Lewis'
+    ),
+    (
+        614,
+        '2016-05-28 22:10:20',
+        'Web',
+        3,
+        2016,
+        'Brian Ingram'
+    ),
+    (
+        614,
+        '2016-05-28 22:10:20',
+        'Web',
+        1,
+        2016,
+        'Alejandra Walter'
+    ),
+    (
+        614,
+        '2016-05-28 22:10:20',
+        'Web',
+        4,
+        2016,
+        'Tara Mcgee'
+    ),
+    (
+        499,
+        '2015-05-30 22:50:53',
+        'Phone',
+        4,
+        2015,
+        'Brett Benjamin'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        499,
+        '2015-05-30 22:50:53',
+        'Phone',
+        3,
+        2015,
+        'Louis Phillips'
+    ),
+    (
+        499,
+        '2015-05-30 22:50:53',
+        'Phone',
+        5,
+        2015,
+        'Colleen White'
+    ),
+    (
+        499,
+        '2015-05-30 22:50:53',
+        'Phone',
+        2,
+        2015,
+        'Lisa Patrick'
+    ),
+    (
+        499,
+        '2015-05-30 22:50:53',
+        'Phone',
+        1,
+        2015,
+        'Nathan Bailey'
+    ),
+    (
+        476,
+        '2014-05-31 23:08:22',
+        'Instagram',
+        5,
+        2014,
+        'Todd Miller'
+    ),
+    (
+        476,
+        '2014-05-31 23:08:22',
+        'Instagram',
+        2,
+        2014,
+        'Melissa Williams'
+    ),
+    (
+        476,
+        '2014-05-31 23:08:22',
+        'Instagram',
+        3,
+        2014,
+        'Christopher Hodge'
+    ),
+    (
+        476,
+        '2014-05-31 23:08:22',
+        'Instagram',
+        4,
+        2014,
+        'Carol Garrett'
+    ),
+    (
+        476,
+        '2014-05-31 23:08:22',
+        'Instagram',
+        1,
+        2014,
+        'Teresa Martin'
+    ),
+    (
+        154,
+        '2015-05-30 23:58:51',
+        'Web',
+        1,
+        2015,
+        'Travis Hays'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        154,
+        '2015-05-30 23:58:51',
+        'Web',
+        3,
+        2015,
+        'Heidi Barry'
+    ),
+    (
+        154,
+        '2015-05-30 23:58:51',
+        'Web',
+        4,
+        2015,
+        'Colleen White'
+    ),
+    (
+        154,
+        '2015-05-30 23:58:51',
+        'Web',
+        5,
+        2015,
+        'Deborah Sparks'
+    ),
+    (
+        154,
+        '2015-05-30 23:58:51',
+        'Web',
+        2,
+        2015,
+        'Brett Benjamin'
+    ),
+    (
+        806,
+        '2022-05-28 23:54:39',
+        'Facebook',
+        5,
+        2022,
+        'Michael Martinez'
+    ),
+    (
+        806,
+        '2022-05-28 23:54:39',
+        'Facebook',
+        4,
+        2022,
+        'Michael Baker'
+    ),
+    (
+        806,
+        '2022-05-28 23:54:39',
+        'Facebook',
+        2,
+        2022,
+        'Michelle Martin'
+    ),
+    (
+        806,
+        '2022-05-28 23:54:39',
+        'Facebook',
+        1,
+        2022,
+        'Gary Stone'
+    ),
+    (
+        806,
+        '2022-05-28 23:54:39',
+        'Facebook',
+        3,
+        2022,
+        'Thomas Gregory'
+    ),
+    (
+        897,
+        '2021-05-29 23:28:50',
+        'Phone',
+        5,
+        2021,
+        'Samantha Lee'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        897,
+        '2021-05-29 23:28:50',
+        'Phone',
+        4,
+        2021,
+        'Robin Myers'
+    ),
+    (
+        897,
+        '2021-05-29 23:28:50',
+        'Phone',
+        1,
+        2021,
+        'Tamara Barnes'
+    ),
+    (
+        897,
+        '2021-05-29 23:28:50',
+        'Phone',
+        2,
+        2021,
+        'Ann Perez'
+    ),
+    (
+        897,
+        '2021-05-29 23:28:50',
+        'Phone',
+        3,
+        2021,
+        'Aaron Baldwin'
+    ),
+    (
+        323,
+        '2020-05-30 22:38:33',
+        'Web',
+        4,
+        2020,
+        'Charles Maddox'
+    ),
+    (
+        323,
+        '2020-05-30 22:38:33',
+        'Web',
+        1,
+        2020,
+        'Charles Washington'
+    ),
+    (
+        323,
+        '2020-05-30 22:38:33',
+        'Web',
+        2,
+        2020,
+        'Juan Huerta'
+    ),
+    (
+        323,
+        '2020-05-30 22:38:33',
+        'Web',
+        5,
+        2020,
+        'Lisa Mcdaniel'
+    ),
+    (
+        323,
+        '2020-05-30 22:38:33',
+        'Web',
+        3,
+        2020,
+        'Mr. Steven Yoder'
+    ),
+    (
+        488,
+        '2022-05-28 22:07:59',
+        'Instagram',
+        3,
+        2022,
+        'Martin Moore'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        488,
+        '2022-05-28 22:07:59',
+        'Instagram',
+        1,
+        2022,
+        'Michael Martinez'
+    ),
+    (
+        488,
+        '2022-05-28 22:07:59',
+        'Instagram',
+        4,
+        2022,
+        'Michael Baker'
+    ),
+    (
+        488,
+        '2022-05-28 22:07:59',
+        'Instagram',
+        2,
+        2022,
+        'Stephanie Smith'
+    ),
+    (
+        488,
+        '2022-05-28 22:07:59',
+        'Instagram',
+        5,
+        2022,
+        'Andre Burton'
+    ),
+    (
+        938,
+        '2019-05-25 23:18:44',
+        'Instagram',
+        1,
+        2019,
+        'Samantha Jones'
+    ),
+    (
+        938,
+        '2019-05-25 23:18:44',
+        'Instagram',
+        5,
+        2019,
+        'Kathryn Alvarez'
+    ),
+    (
+        938,
+        '2019-05-25 23:18:44',
+        'Instagram',
+        3,
+        2019,
+        'Patrick Wilson'
+    ),
+    (
+        938,
+        '2019-05-25 23:18:44',
+        'Instagram',
+        2,
+        2019,
+        'Amanda Ingram'
+    ),
+    (
+        938,
+        '2019-05-25 23:18:44',
+        'Instagram',
+        4,
+        2019,
+        'Cameron Hawkins'
+    ),
+    (
+        926,
+        '2024-05-25 23:24:18',
+        'Web',
+        3,
+        2024,
+        'Emily Buck'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        926,
+        '2024-05-25 23:24:18',
+        'Web',
+        2,
+        2024,
+        'Christy Perry'
+    ),
+    (
+        926,
+        '2024-05-25 23:24:18',
+        'Web',
+        5,
+        2024,
+        'Taylor Lopez'
+    ),
+    (
+        926,
+        '2024-05-25 23:24:18',
+        'Web',
+        4,
+        2024,
+        'Alexis Fields'
+    ),
+    (
+        926,
+        '2024-05-25 23:24:18',
+        'Web',
+        1,
+        2024,
+        'Gabriel Arroyo'
+    ),
+    (
+        518,
+        '2023-05-27 22:22:03',
+        'Phone',
+        3,
+        2023,
+        'Manuel Graves'
+    ),
+    (
+        518,
+        '2023-05-27 22:22:03',
+        'Phone',
+        1,
+        2023,
+        'Samantha Erickson'
+    ),
+    (
+        518,
+        '2023-05-27 22:22:03',
+        'Phone',
+        4,
+        2023,
+        'Thomas Ruiz'
+    ),
+    (
+        518,
+        '2023-05-27 22:22:03',
+        'Phone',
+        2,
+        2023,
+        'Paula Henderson'
+    ),
+    (
+        518,
+        '2023-05-27 22:22:03',
+        'Phone',
+        5,
+        2023,
+        'Megan Saunders'
+    ),
+    (
+        448,
+        '2012-05-26 22:04:05',
+        'Phone',
+        5,
+        2012,
+        'Jennifer Wolfe'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        448,
+        '2012-05-26 22:04:05',
+        'Phone',
+        2,
+        2012,
+        'Tyler Jordan'
+    ),
+    (
+        448,
+        '2012-05-26 22:04:05',
+        'Phone',
+        4,
+        2012,
+        'Lynn Booth'
+    ),
+    (
+        448,
+        '2012-05-26 22:04:05',
+        'Phone',
+        1,
+        2012,
+        'Patrick Benson'
+    ),
+    (
+        448,
+        '2012-05-26 22:04:05',
+        'Phone',
+        3,
+        2012,
+        'Jose Smith Jr.'
+    ),
+    (
+        875,
+        '2020-05-30 22:31:16',
+        'Web',
+        3,
+        2020,
+        'Benjamin Thomas'
+    ),
+    (
+        875,
+        '2020-05-30 22:31:16',
+        'Web',
+        2,
+        2020,
+        'Jacob Hickman'
+    ),
+    (
+        875,
+        '2020-05-30 22:31:16',
+        'Web',
+        1,
+        2020,
+        'Danielle Berger'
+    ),
+    (
+        875,
+        '2020-05-30 22:31:16',
+        'Web',
+        5,
+        2020,
+        'Lisa Mcdaniel'
+    ),
+    (
+        875,
+        '2020-05-30 22:31:16',
+        'Web',
+        4,
+        2020,
+        'Travis Walker'
+    ),
+    (
+        740,
+        '2013-05-25 22:27:43',
+        'Instagram',
+        2,
+        2013,
+        'Cassandra Hooper'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        740,
+        '2013-05-25 22:27:43',
+        'Instagram',
+        5,
+        2013,
+        'Anthony Villanueva'
+    ),
+    (
+        740,
+        '2013-05-25 22:27:43',
+        'Instagram',
+        1,
+        2013,
+        'Kimberly Larsen'
+    ),
+    (
+        168,
+        '2020-05-30 23:09:14',
+        'Web',
+        4,
+        2020,
+        'Jacob Hickman'
+    ),
+    (
+        168,
+        '2020-05-30 23:09:14',
+        'Web',
+        1,
+        2020,
+        'Benjamin Thomas'
+    ),
+    (
+        168,
+        '2020-05-30 23:09:14',
+        'Web',
+        3,
+        2020,
+        'Travis Walker'
+    ),
+    (
+        168,
+        '2020-05-30 23:09:14',
+        'Web',
+        2,
+        2020,
+        'Lisa Mcdaniel'
+    ),
+    (
+        168,
+        '2020-05-30 23:09:14',
+        'Web',
+        5,
+        2020,
+        'Danielle Berger'
+    ),
+    (
+        459,
+        '2014-05-31 23:46:35',
+        'Phone',
+        1,
+        2014,
+        'Zachary Fox'
+    ),
+    (
+        459,
+        '2014-05-31 23:46:35',
+        'Phone',
+        3,
+        2014,
+        'John Conner'
+    ),
+    (
+        459,
+        '2014-05-31 23:46:35',
+        'Phone',
+        2,
+        2014,
+        'Melissa Williams'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        459,
+        '2014-05-31 23:46:35',
+        'Phone',
+        5,
+        2014,
+        'Todd Miller'
+    ),
+    (
+        459,
+        '2014-05-31 23:46:35',
+        'Phone',
+        4,
+        2014,
+        'Luke Williams'
+    ),
+    (
+        604,
+        '2009-05-30 23:19:12',
+        'Web',
+        2,
+        2009,
+        'Leslie Saunders'
+    ),
+    (
+        604,
+        '2009-05-30 23:19:12',
+        'Web',
+        4,
+        2009,
+        'Sandra Lopez'
+    ),
+    (
+        604,
+        '2009-05-30 23:19:12',
+        'Web',
+        3,
+        2009,
+        'Wanda Smith'
+    ),
+    (
+        604,
+        '2009-05-30 23:19:12',
+        'Web',
+        1,
+        2009,
+        'Matthew Garcia'
+    ),
+    (
+        604,
+        '2009-05-30 23:19:12',
+        'Web',
+        5,
+        2009,
+        'Melanie Hall'
+    ),
+    (
+        717,
+        '2017-05-27 23:40:26',
+        'Facebook',
+        1,
+        2017,
+        'Andrea Hill'
+    ),
+    (
+        717,
+        '2017-05-27 23:40:26',
+        'Facebook',
+        3,
+        2017,
+        'Rachel Cole'
+    ),
+    (
+        717,
+        '2017-05-27 23:40:26',
+        'Facebook',
+        5,
+        2017,
+        'Brandi Harris'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        717,
+        '2017-05-27 23:40:26',
+        'Facebook',
+        4,
+        2017,
+        'Elizabeth Koch'
+    ),
+    (
+        717,
+        '2017-05-27 23:40:26',
+        'Facebook',
+        2,
+        2017,
+        'Brian Mccall'
+    ),
+    (
+        197,
+        '2009-05-30 23:32:21',
+        'Facebook',
+        5,
+        2009,
+        'Wanda Smith'
+    ),
+    (
+        197,
+        '2009-05-30 23:32:21',
+        'Facebook',
+        4,
+        2009,
+        'Jason Hebert'
+    ),
+    (
+        197,
+        '2009-05-30 23:32:21',
+        'Facebook',
+        3,
+        2009,
+        'Leslie Saunders'
+    ),
+    (
+        197,
+        '2009-05-30 23:32:21',
+        'Facebook',
+        2,
+        2009,
+        'Kimberly Craig'
+    ),
+    (
+        197,
+        '2009-05-30 23:32:21',
+        'Facebook',
+        1,
+        2009,
+        'Theresa Castaneda'
+    ),
+    (
+        302,
+        '2021-05-29 22:34:07',
+        'Instagram',
+        3,
+        2021,
+        'Tamara Barnes'
+    ),
+    (
+        302,
+        '2021-05-29 22:34:07',
+        'Instagram',
+        1,
+        2021,
+        'Amber Mcdowell'
+    ),
+    (
+        302,
+        '2021-05-29 22:34:07',
+        'Instagram',
+        5,
+        2021,
+        'Robin Myers'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        302,
+        '2021-05-29 22:34:07',
+        'Instagram',
+        2,
+        2021,
+        'Ann Perez'
+    ),
+    (
+        302,
+        '2021-05-29 22:34:07',
+        'Instagram',
+        4,
+        2021,
+        'Samantha Lee'
+    ),
+    (
+        946,
+        '2013-05-25 23:51:19',
+        'Instagram',
+        4,
+        2013,
+        'Anthony Villanueva'
+    ),
+    (
+        946,
+        '2013-05-25 23:51:19',
+        'Instagram',
+        5,
+        2013,
+        'Diane Cooper'
+    ),
+    (
+        946,
+        '2013-05-25 23:51:19',
+        'Instagram',
+        3,
+        2013,
+        'Angela Phillips'
+    ),
+    (
+        946,
+        '2013-05-25 23:51:19',
+        'Instagram',
+        1,
+        2013,
+        'Kimberly Larsen'
+    ),
+    (
+        946,
+        '2013-05-25 23:51:19',
+        'Instagram',
+        2,
+        2013,
+        'Tony Prince'
+    ),
+    (
+        148,
+        '2023-05-27 23:10:57',
+        'Facebook',
+        4,
+        2023,
+        'Thomas Ruiz'
+    ),
+    (
+        148,
+        '2023-05-27 23:10:57',
+        'Facebook',
+        1,
+        2023,
+        'Megan Saunders'
+    ),
+    (
+        148,
+        '2023-05-27 23:10:57',
+        'Facebook',
+        3,
+        2023,
+        'Paula Henderson'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        148,
+        '2023-05-27 23:10:57',
+        'Facebook',
+        5,
+        2023,
+        'Samantha Erickson'
+    ),
+    (
+        148,
+        '2023-05-27 23:10:57',
+        'Facebook',
+        2,
+        2023,
+        'Manuel Graves'
+    ),
+    (
+        334,
+        '2021-05-29 23:27:56',
+        'Web',
+        4,
+        2021,
+        'Ann Perez'
+    ),
+    (
+        334,
+        '2021-05-29 23:27:56',
+        'Web',
+        3,
+        2021,
+        'Amber Mcdowell'
+    ),
+    (
+        334,
+        '2021-05-29 23:27:56',
+        'Web',
+        1,
+        2021,
+        'Manuel Caldwell'
+    ),
+    (
+        334,
+        '2021-05-29 23:27:56',
+        'Web',
+        2,
+        2021,
+        'Samantha Lee'
+    ),
+    (
+        334,
+        '2021-05-29 23:27:56',
+        'Web',
+        5,
+        2021,
+        'Caleb Ellison'
+    ),
+    (
+        172,
+        '2016-05-28 23:05:56',
+        'Instagram',
+        2,
+        2016,
+        'Tara Mcgee'
+    ),
+    (
+        172,
+        '2016-05-28 23:05:56',
+        'Instagram',
+        5,
+        2016,
+        'Brian Ingram'
+    ),
+    (
+        172,
+        '2016-05-28 23:05:56',
+        'Instagram',
+        3,
+        2016,
+        'Cathy Lewis'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        172,
+        '2016-05-28 23:05:56',
+        'Instagram',
+        4,
+        2016,
+        'Melody Reese MD'
+    ),
+    (
+        172,
+        '2016-05-28 23:05:56',
+        'Instagram',
+        1,
+        2016,
+        'Derek Schwartz'
+    ),
+    (
+        240,
+        '2012-05-26 22:58:12',
+        'Phone',
+        3,
+        2012,
+        'Jennifer Wolfe'
+    ),
+    (
+        240,
+        '2012-05-26 22:58:12',
+        'Phone',
+        4,
+        2012,
+        'Stacy White'
+    ),
+    (
+        240,
+        '2012-05-26 22:58:12',
+        'Phone',
+        2,
+        2012,
+        'Tyler Jordan'
+    ),
+    (
+        240,
+        '2012-05-26 22:58:12',
+        'Phone',
+        1,
+        2012,
+        'Kenneth Warner'
+    ),
+    (
+        240,
+        '2012-05-26 22:58:12',
+        'Phone',
+        5,
+        2012,
+        'Stephanie Patrick'
+    ),
+    (
+        561,
+        '2019-05-25 23:13:22',
+        'Facebook',
+        2,
+        2019,
+        'Jennifer Ford'
+    ),
+    (
+        561,
+        '2019-05-25 23:13:22',
+        'Facebook',
+        1,
+        2019,
+        'Kyle Hernandez'
+    ),
+    (
+        561,
+        '2019-05-25 23:13:22',
+        'Facebook',
+        5,
+        2019,
+        'Amanda Ingram'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        561,
+        '2019-05-25 23:13:22',
+        'Facebook',
+        3,
+        2019,
+        'Kathryn Alvarez'
+    ),
+    (
+        561,
+        '2019-05-25 23:13:22',
+        'Facebook',
+        4,
+        2019,
+        'Samantha Jones'
+    ),
+    (
+        839,
+        '2024-05-25 23:14:09',
+        'Web',
+        2,
+        2024,
+        'Christy Perry'
+    ),
+    (
+        839,
+        '2024-05-25 23:14:09',
+        'Web',
+        5,
+        2024,
+        'Jessica Murphy'
+    ),
+    (
+        839,
+        '2024-05-25 23:14:09',
+        'Web',
+        1,
+        2024,
+        'Alexis Fields'
+    ),
+    (
+        839,
+        '2024-05-25 23:14:09',
+        'Web',
+        3,
+        2024,
+        'Christopher Singh'
+    ),
+    (
+        839,
+        '2024-05-25 23:14:09',
+        'Web',
+        4,
+        2024,
+        'Richard Lewis'
+    ),
+    (
+        967,
+        '2014-05-31 23:12:57',
+        'Phone',
+        2,
+        2014,
+        'Melissa Williams'
+    ),
+    (
+        967,
+        '2014-05-31 23:12:57',
+        'Phone',
+        4,
+        2014,
+        'Mary Vance'
+    ),
+    (
+        967,
+        '2014-05-31 23:12:57',
+        'Phone',
+        1,
+        2014,
+        'Luke Williams'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        967,
+        '2014-05-31 23:12:57',
+        'Phone',
+        3,
+        2014,
+        'Zachary Fox'
+    ),
+    (
+        967,
+        '2014-05-31 23:12:57',
+        'Phone',
+        5,
+        2014,
+        'Todd Miller'
+    ),
+    (
+        726,
+        '2021-05-29 23:42:46',
+        'Phone',
+        4,
+        2021,
+        'Jack Singh'
+    ),
+    (
+        726,
+        '2021-05-29 23:42:46',
+        'Phone',
+        3,
+        2021,
+        'Thomas Smith'
+    ),
+    (
+        726,
+        '2021-05-29 23:42:46',
+        'Phone',
+        1,
+        2021,
+        'Ann Perez'
+    ),
+    (
+        726,
+        '2021-05-29 23:42:46',
+        'Phone',
+        2,
+        2021,
+        'Manuel Caldwell'
+    ),
+    (
+        726,
+        '2021-05-29 23:42:46',
+        'Phone',
+        5,
+        2021,
+        'Amber Mcdowell'
+    ),
+    (
+        861,
+        '2009-05-30 22:36:07',
+        'Web',
+        3,
+        2009,
+        'Jason Hebert'
+    ),
+    (
+        861,
+        '2009-05-30 22:36:07',
+        'Web',
+        2,
+        2009,
+        'Melanie Hall'
+    ),
+    (
+        861,
+        '2009-05-30 22:36:07',
+        'Web',
+        5,
+        2009,
+        'Olivia Nichols'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        861,
+        '2009-05-30 22:36:07',
+        'Web',
+        1,
+        2009,
+        'Matthew Garcia'
+    ),
+    (
+        861,
+        '2009-05-30 22:36:07',
+        'Web',
+        4,
+        2009,
+        'Leslie Saunders'
+    ),
+    (
+        236,
+        '2009-05-30 22:43:45',
+        'Web',
+        5,
+        2009,
+        'Carrie Bell'
+    ),
+    (
+        236,
+        '2009-05-30 22:43:45',
+        'Web',
+        1,
+        2009,
+        'Kimberly Craig'
+    ),
+    (
+        236,
+        '2009-05-30 22:43:45',
+        'Web',
+        2,
+        2009,
+        'Theresa Castaneda'
+    ),
+    (
+        236,
+        '2009-05-30 22:43:45',
+        'Web',
+        3,
+        2009,
+        'Olivia Nichols'
+    ),
+    (
+        236,
+        '2009-05-30 22:43:45',
+        'Web',
+        4,
+        2009,
+        'Matthew Garcia'
+    ),
+    (
+        682,
+        '2014-05-31 23:57:42',
+        'Web',
+        1,
+        2014,
+        'Carol Garrett'
+    ),
+    (
+        682,
+        '2014-05-31 23:57:42',
+        'Web',
+        5,
+        2014,
+        'Christopher Hodge'
+    ),
+    (
+        682,
+        '2014-05-31 23:57:42',
+        'Web',
+        4,
+        2014,
+        'Mary Vance'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        682,
+        '2014-05-31 23:57:42',
+        'Web',
+        3,
+        2014,
+        'John Conner'
+    ),
+    (
+        682,
+        '2014-05-31 23:57:42',
+        'Web',
+        2,
+        2014,
+        'Melissa Williams'
+    ),
+    (
+        821,
+        '2019-05-25 23:48:08',
+        'Facebook',
+        4,
+        2019,
+        'Sarah Hancock'
+    ),
+    (
+        821,
+        '2019-05-25 23:48:08',
+        'Facebook',
+        2,
+        2019,
+        'Patrick Wilson'
+    ),
+    (
+        821,
+        '2019-05-25 23:48:08',
+        'Facebook',
+        1,
+        2019,
+        'Amanda Ingram'
+    ),
+    (
+        821,
+        '2019-05-25 23:48:08',
+        'Facebook',
+        3,
+        2019,
+        'Terry Powell'
+    ),
+    (
+        821,
+        '2019-05-25 23:48:08',
+        'Facebook',
+        5,
+        2019,
+        'Samantha Jones'
+    ),
+    (
+        399,
+        '2021-05-29 22:16:13',
+        'Facebook',
+        4,
+        2021,
+        'Samantha Lee'
+    ),
+    (
+        399,
+        '2021-05-29 22:16:13',
+        'Facebook',
+        3,
+        2021,
+        'Caleb Ellison'
+    ),
+    (
+        399,
+        '2021-05-29 22:16:13',
+        'Facebook',
+        5,
+        2021,
+        'Robin Myers'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        399,
+        '2021-05-29 22:16:13',
+        'Facebook',
+        1,
+        2021,
+        'Aaron Baldwin'
+    ),
+    (
+        399,
+        '2021-05-29 22:16:13',
+        'Facebook',
+        2,
+        2021,
+        'Amber Mcdowell'
+    ),
+    (
+        687,
+        '2009-05-30 23:07:20',
+        'Phone',
+        1,
+        2009,
+        'Olivia Nichols'
+    ),
+    (
+        687,
+        '2009-05-30 23:07:20',
+        'Phone',
+        5,
+        2009,
+        'Carrie Bell'
+    ),
+    (
+        687,
+        '2009-05-30 23:07:20',
+        'Phone',
+        3,
+        2009,
+        'Leslie Saunders'
+    ),
+    (
+        687,
+        '2009-05-30 23:07:20',
+        'Phone',
+        2,
+        2009,
+        'Jason Hebert'
+    ),
+    (
+        687,
+        '2009-05-30 23:07:20',
+        'Phone',
+        4,
+        2009,
+        'Wanda Smith'
+    ),
+    (
+        596,
+        '2018-05-26 23:18:37',
+        'Facebook',
+        2,
+        2018,
+        'Steven Cox'
+    ),
+    (
+        596,
+        '2018-05-26 23:18:37',
+        'Facebook',
+        4,
+        2018,
+        'Jessica Williams'
+    ),
+    (
+        596,
+        '2018-05-26 23:18:37',
+        'Facebook',
+        3,
+        2018,
+        'Diane Harrison'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        596,
+        '2018-05-26 23:18:37',
+        'Facebook',
+        5,
+        2018,
+        'John Hubbard'
+    ),
+    (
+        596,
+        '2018-05-26 23:18:37',
+        'Facebook',
+        1,
+        2018,
+        'Charles Glover'
+    ),
+    (
+        57,
+        '2020-05-30 22:45:35',
+        'Instagram',
+        1,
+        2020,
+        'Benjamin Thomas'
+    ),
+    (
+        615,
+        '2011-05-28 22:38:57',
+        'Facebook',
+        5,
+        2011,
+        'Keith Ingram'
+    ),
+    (
+        615,
+        '2011-05-28 22:38:57',
+        'Facebook',
+        4,
+        2011,
+        'Ashley Lawson'
+    ),
+    (
+        615,
+        '2011-05-28 22:38:57',
+        'Facebook',
+        3,
+        2011,
+        'Wesley Garcia'
+    ),
+    (
+        615,
+        '2011-05-28 22:38:57',
+        'Facebook',
+        2,
+        2011,
+        'Andres Rubio'
+    ),
+    (
+        615,
+        '2011-05-28 22:38:57',
+        'Facebook',
+        1,
+        2011,
+        'Cody Davis'
+    ),
+    (
+        708,
+        '2016-05-28 23:16:02',
+        'Instagram',
+        2,
+        2016,
+        'Amanda Patterson'
+    ),
+    (
+        708,
+        '2016-05-28 23:16:02',
+        'Instagram',
+        3,
+        2016,
+        'Alejandra Walter'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        708,
+        '2016-05-28 23:16:02',
+        'Instagram',
+        5,
+        2016,
+        'Derek Schwartz'
+    ),
+    (
+        708,
+        '2016-05-28 23:16:02',
+        'Instagram',
+        4,
+        2016,
+        'Kimberly Wilkins MD'
+    ),
+    (
+        708,
+        '2016-05-28 23:16:02',
+        'Instagram',
+        1,
+        2016,
+        'Cathy Lewis'
+    ),
+    (
+        558,
+        '2014-05-31 23:19:46',
+        'Web',
+        1,
+        2014,
+        'Luke Williams'
+    ),
+    (
+        558,
+        '2014-05-31 23:19:46',
+        'Web',
+        5,
+        2014,
+        'Teresa Martin'
+    ),
+    (
+        558,
+        '2014-05-31 23:19:46',
+        'Web',
+        3,
+        2014,
+        'Carol Garrett'
+    ),
+    (
+        558,
+        '2014-05-31 23:19:46',
+        'Web',
+        4,
+        2014,
+        'John Conner'
+    ),
+    (
+        558,
+        '2014-05-31 23:19:46',
+        'Web',
+        2,
+        2014,
+        'Zachary Fox'
+    ),
+    (
+        238,
+        '2023-05-27 23:44:11',
+        'Web',
+        2,
+        2023,
+        'Leslie Lee'
+    ),
+    (
+        238,
+        '2023-05-27 23:44:11',
+        'Web',
+        3,
+        2023,
+        'Michael Butler'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        238,
+        '2023-05-27 23:44:11',
+        'Web',
+        1,
+        2023,
+        'Scott Baker'
+    ),
+    (
+        238,
+        '2023-05-27 23:44:11',
+        'Web',
+        4,
+        2023,
+        'Paula Henderson'
+    ),
+    (
+        226,
+        '2012-05-26 22:10:09',
+        'Facebook',
+        4,
+        2012,
+        'Tyler Jordan'
+    ),
+    (
+        226,
+        '2012-05-26 22:10:09',
+        'Facebook',
+        1,
+        2012,
+        'Anthony Bradford'
+    ),
+    (
+        226,
+        '2012-05-26 22:10:09',
+        'Facebook',
+        3,
+        2012,
+        'Jose Smith Jr.'
+    ),
+    (
+        813,
+        '2009-05-30 22:52:03',
+        'Instagram',
+        4,
+        2009,
+        'Olivia Nichols'
+    ),
+    (
+        813,
+        '2009-05-30 22:52:03',
+        'Instagram',
+        5,
+        2009,
+        'Matthew Garcia'
+    ),
+    (
+        813,
+        '2009-05-30 22:52:03',
+        'Instagram',
+        2,
+        2009,
+        'Carrie Bell'
+    ),
+    (
+        813,
+        '2009-05-30 22:52:03',
+        'Instagram',
+        1,
+        2009,
+        'Kimberly Craig'
+    ),
+    (
+        813,
+        '2009-05-30 22:52:03',
+        'Instagram',
+        3,
+        2009,
+        'Melanie Hall'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        83,
+        '2023-05-27 23:52:37',
+        'Web',
+        4,
+        2023,
+        'Leslie Lee'
+    ),
+    (
+        83,
+        '2023-05-27 23:52:37',
+        'Web',
+        3,
+        2023,
+        'Megan Saunders'
+    ),
+    (
+        83,
+        '2023-05-27 23:52:37',
+        'Web',
+        1,
+        2023,
+        'Thomas Ruiz'
+    ),
+    (
+        83,
+        '2023-05-27 23:52:37',
+        'Web',
+        5,
+        2023,
+        'Michael Butler'
+    ),
+    (
+        83,
+        '2023-05-27 23:52:37',
+        'Web',
+        2,
+        2023,
+        'Scott Baker'
+    ),
+    (
+        372,
+        '2021-05-29 22:09:37',
+        'Web',
+        5,
+        2021,
+        'Amber Mcdowell'
+    ),
+    (
+        372,
+        '2021-05-29 22:09:37',
+        'Web',
+        1,
+        2021,
+        'Samantha Lee'
+    ),
+    (
+        372,
+        '2021-05-29 22:09:37',
+        'Web',
+        4,
+        2021,
+        'Jack Singh'
+    ),
+    (
+        372,
+        '2021-05-29 22:09:37',
+        'Web',
+        2,
+        2021,
+        'Tamara Barnes'
+    ),
+    (
+        372,
+        '2021-05-29 22:09:37',
+        'Web',
+        3,
+        2021,
+        'Robin Myers'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        760,
+        '2010-05-29 23:42:38',
+        'Instagram',
+        4,
+        2010,
+        'Kayla Vargas'
+    ),
+    (
+        760,
+        '2010-05-29 23:42:38',
+        'Instagram',
+        1,
+        2010,
+        'David Williams'
+    ),
+    (
+        760,
+        '2010-05-29 23:42:38',
+        'Instagram',
+        3,
+        2010,
+        'Kyle Weiss'
+    ),
+    (
+        760,
+        '2010-05-29 23:42:38',
+        'Instagram',
+        2,
+        2010,
+        'Kevin Wilson'
+    ),
+    (
+        760,
+        '2010-05-29 23:42:38',
+        'Instagram',
+        5,
+        2010,
+        'Richard Dawson'
+    ),
+    (
+        795,
+        '2024-05-25 22:43:24',
+        'Phone',
+        2,
+        2024,
+        'Taylor Lopez'
+    ),
+    (
+        795,
+        '2024-05-25 22:43:24',
+        'Phone',
+        3,
+        2024,
+        'Gabriel Arroyo'
+    ),
+    (
+        795,
+        '2024-05-25 22:43:24',
+        'Phone',
+        5,
+        2024,
+        'Christopher Singh'
+    ),
+    (
+        795,
+        '2024-05-25 22:43:24',
+        'Phone',
+        4,
+        2024,
+        'Jessica Murphy'
+    ),
+    (
+        795,
+        '2024-05-25 22:43:24',
+        'Phone',
+        1,
+        2024,
+        'Emily Buck'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        335,
+        '2024-05-25 22:14:10',
+        'Facebook',
+        2,
+        2024,
+        'Richard Lewis'
+    ),
+    (
+        335,
+        '2024-05-25 22:14:10',
+        'Facebook',
+        4,
+        2024,
+        'Emily Buck'
+    ),
+    (
+        335,
+        '2024-05-25 22:14:10',
+        'Facebook',
+        1,
+        2024,
+        'Alexis Fields'
+    ),
+    (
+        335,
+        '2024-05-25 22:14:10',
+        'Facebook',
+        3,
+        2024,
+        'Christopher Singh'
+    ),
+    (
+        335,
+        '2024-05-25 22:14:10',
+        'Facebook',
+        5,
+        2024,
+        'Gabriel Arroyo'
+    ),
+    (
+        444,
+        '2016-05-28 22:17:27',
+        'Facebook',
+        1,
+        2016,
+        'Derek Schwartz'
+    ),
+    (
+        444,
+        '2016-05-28 22:17:27',
+        'Facebook',
+        2,
+        2016,
+        'Brian Ingram'
+    ),
+    (
+        444,
+        '2016-05-28 22:17:27',
+        'Facebook',
+        5,
+        2016,
+        'Tara Mcgee'
+    ),
+    (
+        444,
+        '2016-05-28 22:17:27',
+        'Facebook',
+        4,
+        2016,
+        'Kimberly Wilkins MD'
+    ),
+    (
+        444,
+        '2016-05-28 22:17:27',
+        'Facebook',
+        3,
+        2016,
+        'Cathy Lewis'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        787,
+        '2021-05-29 22:33:31',
+        'Phone',
+        2,
+        2021,
+        'Manuel Caldwell'
+    ),
+    (
+        787,
+        '2021-05-29 22:33:31',
+        'Phone',
+        1,
+        2021,
+        'Thomas Smith'
+    ),
+    (
+        787,
+        '2021-05-29 22:33:31',
+        'Phone',
+        3,
+        2021,
+        'Caleb Ellison'
+    ),
+    (
+        787,
+        '2021-05-29 22:33:31',
+        'Phone',
+        4,
+        2021,
+        'Aaron Baldwin'
+    ),
+    (
+        787,
+        '2021-05-29 22:33:31',
+        'Phone',
+        5,
+        2021,
+        'Robin Myers'
+    ),
+    (
+        723,
+        '2014-05-31 23:12:41',
+        'Instagram',
+        2,
+        2014,
+        'Christopher Hodge'
+    ),
+    (
+        723,
+        '2014-05-31 23:12:41',
+        'Instagram',
+        4,
+        2014,
+        'Zachary Fox'
+    ),
+    (
+        723,
+        '2014-05-31 23:12:41',
+        'Instagram',
+        3,
+        2014,
+        'Lisa Wright'
+    ),
+    (
+        723,
+        '2014-05-31 23:12:41',
+        'Instagram',
+        5,
+        2014,
+        'Mary Vance'
+    ),
+    (
+        723,
+        '2014-05-31 23:12:41',
+        'Instagram',
+        1,
+        2014,
+        'Melissa Williams'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        861,
+        '2017-05-27 23:01:30',
+        'Instagram',
+        4,
+        2017,
+        'Brandi Harris'
+    ),
+    (
+        861,
+        '2017-05-27 23:01:30',
+        'Instagram',
+        2,
+        2017,
+        'Nathan Williams'
+    ),
+    (
+        861,
+        '2017-05-27 23:01:30',
+        'Instagram',
+        3,
+        2017,
+        'Brian Mccall'
+    ),
+    (
+        861,
+        '2017-05-27 23:01:30',
+        'Instagram',
+        1,
+        2017,
+        'Denise Jones'
+    ),
+    (
+        861,
+        '2017-05-27 23:01:30',
+        'Instagram',
+        5,
+        2017,
+        'Matthew Vaughn'
+    ),
+    (
+        303,
+        '2014-05-31 23:47:56',
+        'Facebook',
+        2,
+        2014,
+        'Mary Vance'
+    ),
+    (
+        303,
+        '2014-05-31 23:47:56',
+        'Facebook',
+        5,
+        2014,
+        'Teresa Martin'
+    ),
+    (
+        303,
+        '2014-05-31 23:47:56',
+        'Facebook',
+        1,
+        2014,
+        'Zachary Fox'
+    ),
+    (
+        608,
+        '2013-05-25 22:36:59',
+        'Web',
+        2,
+        2013,
+        'Diane Cooper'
+    ),
+    (
+        608,
+        '2013-05-25 22:36:59',
+        'Web',
+        1,
+        2013,
+        'Angela Phillips'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        608,
+        '2013-05-25 22:36:59',
+        'Web',
+        5,
+        2013,
+        'Cassandra Hooper'
+    ),
+    (
+        608,
+        '2013-05-25 22:36:59',
+        'Web',
+        3,
+        2013,
+        'Wendy Cunningham'
+    ),
+    (
+        608,
+        '2013-05-25 22:36:59',
+        'Web',
+        4,
+        2013,
+        'Kimberly Larsen'
+    ),
+    (
+        846,
+        '2015-05-30 22:11:53',
+        'Facebook',
+        1,
+        2015,
+        'Lisa Patrick'
+    ),
+    (
+        846,
+        '2015-05-30 22:11:53',
+        'Facebook',
+        4,
+        2015,
+        'Nicholas Black'
+    ),
+    (
+        846,
+        '2015-05-30 22:11:53',
+        'Facebook',
+        3,
+        2015,
+        'Louis Phillips'
+    ),
+    (
+        846,
+        '2015-05-30 22:11:53',
+        'Facebook',
+        2,
+        2015,
+        'Colleen White'
+    ),
+    (
+        846,
+        '2015-05-30 22:11:53',
+        'Facebook',
+        5,
+        2015,
+        'Robert White'
+    ),
+    (
+        215,
+        '2017-05-27 23:08:18',
+        'Phone',
+        5,
+        2017,
+        'Rachel Cole'
+    ),
+    (
+        215,
+        '2017-05-27 23:08:18',
+        'Phone',
+        2,
+        2017,
+        'Nathan Williams'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        215,
+        '2017-05-27 23:08:18',
+        'Phone',
+        4,
+        2017,
+        'Denise Jones'
+    ),
+    (
+        215,
+        '2017-05-27 23:08:18',
+        'Phone',
+        1,
+        2017,
+        'Sean Ward'
+    ),
+    (
+        215,
+        '2017-05-27 23:08:18',
+        'Phone',
+        3,
+        2017,
+        'Brian Mccall'
+    ),
+    (
+        307,
+        '2023-05-27 22:14:45',
+        'Web',
+        1,
+        2023,
+        'Scott Baker'
+    ),
+    (
+        307,
+        '2023-05-27 22:14:45',
+        'Web',
+        3,
+        2023,
+        'Michael Butler'
+    ),
+    (
+        307,
+        '2023-05-27 22:14:45',
+        'Web',
+        5,
+        2023,
+        'Thomas Ruiz'
+    ),
+    (
+        307,
+        '2023-05-27 22:14:45',
+        'Web',
+        4,
+        2023,
+        'Paula Henderson'
+    ),
+    (
+        307,
+        '2023-05-27 22:14:45',
+        'Web',
+        2,
+        2023,
+        'Samantha Erickson'
+    ),
+    (
+        626,
+        '2011-05-28 23:55:51',
+        'Phone',
+        3,
+        2011,
+        'Cody Davis'
+    ),
+    (
+        626,
+        '2011-05-28 23:55:51',
+        'Phone',
+        1,
+        2011,
+        'Keith Ingram'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        626,
+        '2011-05-28 23:55:51',
+        'Phone',
+        4,
+        2011,
+        'Carmen Mitchell'
+    ),
+    (
+        626,
+        '2011-05-28 23:55:51',
+        'Phone',
+        5,
+        2011,
+        'Justin Kelly'
+    ),
+    (
+        626,
+        '2011-05-28 23:55:51',
+        'Phone',
+        2,
+        2011,
+        'John Henderson'
+    ),
+    (
+        267,
+        '2024-05-25 22:12:54',
+        'Web',
+        5,
+        2024,
+        'Christy Perry'
+    ),
+    (
+        267,
+        '2024-05-25 22:12:54',
+        'Web',
+        1,
+        2024,
+        'Emily Buck'
+    ),
+    (
+        267,
+        '2024-05-25 22:12:54',
+        'Web',
+        4,
+        2024,
+        'Christopher Singh'
+    ),
+    (
+        267,
+        '2024-05-25 22:12:54',
+        'Web',
+        3,
+        2024,
+        'Taylor Lopez'
+    ),
+    (
+        267,
+        '2024-05-25 22:12:54',
+        'Web',
+        2,
+        2024,
+        'Jessica Murphy'
+    ),
+    (
+        167,
+        '2016-05-28 22:46:33',
+        'Instagram',
+        3,
+        2016,
+        'Brian Ingram'
+    ),
+    (
+        167,
+        '2016-05-28 22:46:33',
+        'Instagram',
+        4,
+        2016,
+        'Amanda Patterson'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        167,
+        '2016-05-28 22:46:33',
+        'Instagram',
+        5,
+        2016,
+        'Derek Schwartz'
+    ),
+    (
+        167,
+        '2016-05-28 22:46:33',
+        'Instagram',
+        1,
+        2016,
+        'Melody Reese MD'
+    ),
+    (
+        167,
+        '2016-05-28 22:46:33',
+        'Instagram',
+        2,
+        2016,
+        'Alejandra Walter'
+    ),
+    (
+        683,
+        '2014-05-31 23:44:29',
+        'Facebook',
+        1,
+        2014,
+        'Zachary Fox'
+    ),
+    (
+        683,
+        '2014-05-31 23:44:29',
+        'Facebook',
+        2,
+        2014,
+        'Lisa Wright'
+    ),
+    (
+        683,
+        '2014-05-31 23:44:29',
+        'Facebook',
+        4,
+        2014,
+        'Todd Miller'
+    ),
+    (
+        683,
+        '2014-05-31 23:44:29',
+        'Facebook',
+        3,
+        2014,
+        'Christopher Hodge'
+    ),
+    (
+        683,
+        '2014-05-31 23:44:29',
+        'Facebook',
+        5,
+        2014,
+        'Carol Garrett'
+    ),
+    (
+        980,
+        '2018-05-26 22:58:54',
+        'Phone',
+        5,
+        2018,
+        'Danielle Miller'
+    ),
+    (
+        980,
+        '2018-05-26 22:58:54',
+        'Phone',
+        2,
+        2018,
+        'John Hubbard'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        980,
+        '2018-05-26 22:58:54',
+        'Phone',
+        3,
+        2018,
+        'Diane Harrison'
+    ),
+    (
+        980,
+        '2018-05-26 22:58:54',
+        'Phone',
+        1,
+        2018,
+        'Brandon Ruiz'
+    ),
+    (
+        980,
+        '2018-05-26 22:58:54',
+        'Phone',
+        4,
+        2018,
+        'Laura Barnes'
+    ),
+    (
+        641,
+        '2010-05-29 23:23:40',
+        'Web',
+        1,
+        2010,
+        'David Williams'
+    ),
+    (
+        641,
+        '2010-05-29 23:23:40',
+        'Web',
+        2,
+        2010,
+        'Courtney Barber'
+    ),
+    (
+        641,
+        '2010-05-29 23:23:40',
+        'Web',
+        3,
+        2010,
+        'Richard Dawson'
+    ),
+    (
+        239,
+        '2019-05-25 23:58:44',
+        'Phone',
+        1,
+        2019,
+        'Sarah Hancock'
+    ),
+    (
+        239,
+        '2019-05-25 23:58:44',
+        'Phone',
+        5,
+        2019,
+        'Jennifer Ford'
+    ),
+    (
+        223,
+        '2022-05-28 22:20:16',
+        'Instagram',
+        5,
+        2022,
+        'Andrew Hodges'
+    ),
+    (
+        223,
+        '2022-05-28 22:20:16',
+        'Instagram',
+        4,
+        2022,
+        'Gary Stone'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        223,
+        '2022-05-28 22:20:16',
+        'Instagram',
+        3,
+        2022,
+        'Robert Curtis'
+    ),
+    (
+        223,
+        '2022-05-28 22:20:16',
+        'Instagram',
+        1,
+        2022,
+        'Michael Baker'
+    ),
+    (
+        223,
+        '2022-05-28 22:20:16',
+        'Instagram',
+        2,
+        2022,
+        'Martin Moore'
+    ),
+    (
+        120,
+        '2011-05-28 23:34:58',
+        'Phone',
+        3,
+        2011,
+        'Carmen Mitchell'
+    ),
+    (
+        120,
+        '2011-05-28 23:34:58',
+        'Phone',
+        2,
+        2011,
+        'Dr. Courtney Green MD'
+    ),
+    (
+        120,
+        '2011-05-28 23:34:58',
+        'Phone',
+        1,
+        2011,
+        'Ashley Lawson'
+    ),
+    (
+        120,
+        '2011-05-28 23:34:58',
+        'Phone',
+        4,
+        2011,
+        'Cody Davis'
+    ),
+    (
+        120,
+        '2011-05-28 23:34:58',
+        'Phone',
+        5,
+        2011,
+        'Keith Ingram'
+    ),
+    (
+        400,
+        '2023-05-27 23:24:37',
+        'Web',
+        1,
+        2023,
+        'Megan Saunders'
+    ),
+    (
+        400,
+        '2023-05-27 23:24:37',
+        'Web',
+        2,
+        2023,
+        'Jacqueline Wagner'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        400,
+        '2023-05-27 23:24:37',
+        'Web',
+        3,
+        2023,
+        'Manuel Graves'
+    ),
+    (
+        400,
+        '2023-05-27 23:24:37',
+        'Web',
+        5,
+        2023,
+        'Scott Baker'
+    ),
+    (
+        400,
+        '2023-05-27 23:24:37',
+        'Web',
+        4,
+        2023,
+        'Christine Hayes'
+    ),
+    (
+        743,
+        '2022-05-28 23:13:59',
+        'Facebook',
+        2,
+        2022,
+        'Gary Stone'
+    ),
+    (
+        743,
+        '2022-05-28 23:13:59',
+        'Facebook',
+        3,
+        2022,
+        'Stephanie Smith'
+    ),
+    (
+        743,
+        '2022-05-28 23:13:59',
+        'Facebook',
+        5,
+        2022,
+        'Martin Moore'
+    ),
+    (
+        743,
+        '2022-05-28 23:13:59',
+        'Facebook',
+        1,
+        2022,
+        'Robert Curtis'
+    ),
+    (
+        743,
+        '2022-05-28 23:13:59',
+        'Facebook',
+        4,
+        2022,
+        'Michael Baker'
+    ),
+    (
+        510,
+        '2024-05-25 23:02:19',
+        'Instagram',
+        2,
+        2024,
+        'Richard Lewis'
+    ),
+    (
+        510,
+        '2024-05-25 23:02:19',
+        'Instagram',
+        3,
+        2024,
+        'Gabriel Arroyo'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        510,
+        '2024-05-25 23:02:19',
+        'Instagram',
+        1,
+        2024,
+        'Christy Perry'
+    ),
+    (
+        510,
+        '2024-05-25 23:02:19',
+        'Instagram',
+        4,
+        2024,
+        'Emily Buck'
+    ),
+    (
+        510,
+        '2024-05-25 23:02:19',
+        'Instagram',
+        5,
+        2024,
+        'Christopher Singh'
+    ),
+    (
+        352,
+        '2015-05-30 22:37:30',
+        'Instagram',
+        1,
+        2015,
+        'Deborah Sparks'
+    ),
+    (
+        352,
+        '2015-05-30 22:37:30',
+        'Instagram',
+        2,
+        2015,
+        'Brett Benjamin'
+    ),
+    (
+        352,
+        '2015-05-30 22:37:30',
+        'Instagram',
+        3,
+        2015,
+        'Nicholas Black'
+    ),
+    (
+        352,
+        '2015-05-30 22:37:30',
+        'Instagram',
+        5,
+        2015,
+        'Lisa Patrick'
+    ),
+    (
+        352,
+        '2015-05-30 22:37:30',
+        'Instagram',
+        4,
+        2015,
+        'Colleen White'
+    ),
+    (
+        714,
+        '2010-05-29 22:19:43',
+        'Facebook',
+        1,
+        2010,
+        'Timothy Sandoval'
+    ),
+    (
+        714,
+        '2010-05-29 22:19:43',
+        'Facebook',
+        3,
+        2010,
+        'Rachel Melton'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        714,
+        '2010-05-29 22:19:43',
+        'Facebook',
+        4,
+        2010,
+        'Kyle Weiss'
+    ),
+    (
+        714,
+        '2010-05-29 22:19:43',
+        'Facebook',
+        5,
+        2010,
+        'Kevin Wilson'
+    ),
+    (
+        714,
+        '2010-05-29 22:19:43',
+        'Facebook',
+        2,
+        2010,
+        'Courtney Barber'
+    ),
+    (
+        635,
+        '2013-05-25 23:06:48',
+        'Phone',
+        1,
+        2013,
+        'Tony Prince'
+    ),
+    (
+        777,
+        '2015-05-30 22:12:36',
+        'Facebook',
+        5,
+        2015,
+        'Colleen White'
+    ),
+    (
+        777,
+        '2015-05-30 22:12:36',
+        'Facebook',
+        1,
+        2015,
+        'Nathan Bailey'
+    ),
+    (
+        777,
+        '2015-05-30 22:12:36',
+        'Facebook',
+        4,
+        2015,
+        'Nicholas Black'
+    ),
+    (
+        777,
+        '2015-05-30 22:12:36',
+        'Facebook',
+        3,
+        2015,
+        'Heidi Barry'
+    ),
+    (
+        777,
+        '2015-05-30 22:12:36',
+        'Facebook',
+        2,
+        2015,
+        'Travis Hays'
+    ),
+    (
+        931,
+        '2016-05-28 22:47:21',
+        'Phone',
+        4,
+        2016,
+        'Cathy Lewis'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        931,
+        '2016-05-28 22:47:21',
+        'Phone',
+        3,
+        2016,
+        'Anne Mcfarland'
+    ),
+    (
+        931,
+        '2016-05-28 22:47:21',
+        'Phone',
+        1,
+        2016,
+        'Tara Mcgee'
+    ),
+    (
+        931,
+        '2016-05-28 22:47:21',
+        'Phone',
+        5,
+        2016,
+        'Derek Schwartz'
+    ),
+    (
+        931,
+        '2016-05-28 22:47:21',
+        'Phone',
+        2,
+        2016,
+        'Kimberly Wilkins MD'
+    ),
+    (
+        3,
+        '2009-05-30 22:30:26',
+        'Instagram',
+        4,
+        2009,
+        'Matthew Garcia'
+    ),
+    (
+        3,
+        '2009-05-30 22:30:26',
+        'Instagram',
+        1,
+        2009,
+        'Olivia Nichols'
+    ),
+    (
+        3,
+        '2009-05-30 22:30:26',
+        'Instagram',
+        2,
+        2009,
+        'Carrie Bell'
+    ),
+    (
+        3,
+        '2009-05-30 22:30:26',
+        'Instagram',
+        5,
+        2009,
+        'Sandra Lopez'
+    ),
+    (
+        3,
+        '2009-05-30 22:30:26',
+        'Instagram',
+        3,
+        2009,
+        'Jason Hebert'
+    ),
+    (
+        731,
+        '2023-05-27 23:57:08',
+        'Facebook',
+        4,
+        2023,
+        'Michael Butler'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        731,
+        '2023-05-27 23:57:08',
+        'Facebook',
+        2,
+        2023,
+        'Manuel Graves'
+    ),
+    (
+        731,
+        '2023-05-27 23:57:08',
+        'Facebook',
+        5,
+        2023,
+        'Scott Baker'
+    ),
+    (
+        731,
+        '2023-05-27 23:57:08',
+        'Facebook',
+        1,
+        2023,
+        'Samantha Erickson'
+    ),
+    (
+        731,
+        '2023-05-27 23:57:08',
+        'Facebook',
+        3,
+        2023,
+        'Christine Hayes'
+    ),
+    (
+        906,
+        '2021-05-29 22:54:37',
+        'Phone',
+        2,
+        2021,
+        'Jack Singh'
+    ),
+    (
+        906,
+        '2021-05-29 22:54:37',
+        'Phone',
+        3,
+        2021,
+        'Manuel Caldwell'
+    ),
+    (
+        906,
+        '2021-05-29 22:54:37',
+        'Phone',
+        1,
+        2021,
+        'Thomas Smith'
+    ),
+    (
+        906,
+        '2021-05-29 22:54:37',
+        'Phone',
+        5,
+        2021,
+        'Amber Mcdowell'
+    ),
+    (
+        906,
+        '2021-05-29 22:54:37',
+        'Phone',
+        4,
+        2021,
+        'Samantha Lee'
+    ),
+    (
+        318,
+        '2022-05-28 23:43:50',
+        'Phone',
+        2,
+        2022,
+        'Robert Curtis'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        318,
+        '2022-05-28 23:43:50',
+        'Phone',
+        1,
+        2022,
+        'Thomas Gregory'
+    ),
+    (
+        318,
+        '2022-05-28 23:43:50',
+        'Phone',
+        3,
+        2022,
+        'Michelle Martin'
+    ),
+    (
+        318,
+        '2022-05-28 23:43:50',
+        'Phone',
+        5,
+        2022,
+        'Michael Baker'
+    ),
+    (
+        318,
+        '2022-05-28 23:43:50',
+        'Phone',
+        4,
+        2022,
+        'Martin Moore'
+    ),
+    (
+        107,
+        '2024-05-25 22:28:49',
+        'Phone',
+        4,
+        2024,
+        'Jessica Murphy'
+    ),
+    (
+        107,
+        '2024-05-25 22:28:49',
+        'Phone',
+        3,
+        2024,
+        'Christopher Singh'
+    ),
+    (
+        107,
+        '2024-05-25 22:28:49',
+        'Phone',
+        5,
+        2024,
+        'Emily Buck'
+    ),
+    (
+        107,
+        '2024-05-25 22:28:49',
+        'Phone',
+        2,
+        2024,
+        'Christy Perry'
+    ),
+    (
+        107,
+        '2024-05-25 22:28:49',
+        'Phone',
+        1,
+        2024,
+        'Gabriel Arroyo'
+    ),
+    (
+        904,
+        '2016-05-28 22:52:36',
+        'Instagram',
+        2,
+        2016,
+        'Cathy Lewis'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        904,
+        '2016-05-28 22:52:36',
+        'Instagram',
+        4,
+        2016,
+        'Amanda Patterson'
+    ),
+    (
+        904,
+        '2016-05-28 22:52:36',
+        'Instagram',
+        5,
+        2016,
+        'Melody Reese MD'
+    ),
+    (
+        904,
+        '2016-05-28 22:52:36',
+        'Instagram',
+        3,
+        2016,
+        'Tara Mcgee'
+    ),
+    (
+        904,
+        '2016-05-28 22:52:36',
+        'Instagram',
+        1,
+        2016,
+        'Anne Mcfarland'
+    ),
+    (
+        74,
+        '2011-05-28 23:49:00',
+        'Instagram',
+        5,
+        2011,
+        'Carmen Mitchell'
+    ),
+    (
+        74,
+        '2011-05-28 23:49:00',
+        'Instagram',
+        4,
+        2011,
+        'Wesley Garcia'
+    ),
+    (
+        74,
+        '2011-05-28 23:49:00',
+        'Instagram',
+        3,
+        2011,
+        'Dr. Courtney Green MD'
+    ),
+    (
+        74,
+        '2011-05-28 23:49:00',
+        'Instagram',
+        1,
+        2011,
+        'Justin Kelly'
+    ),
+    (
+        74,
+        '2011-05-28 23:49:00',
+        'Instagram',
+        2,
+        2011,
+        'Cody Davis'
+    ),
+    (
+        838,
+        '2011-05-28 23:13:35',
+        'Facebook',
+        5,
+        2011,
+        'Victoria Rosales PhD'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        838,
+        '2011-05-28 23:13:35',
+        'Facebook',
+        4,
+        2011,
+        'Dr. Courtney Green MD'
+    ),
+    (
+        838,
+        '2011-05-28 23:13:35',
+        'Facebook',
+        3,
+        2011,
+        'Andres Rubio'
+    ),
+    (
+        838,
+        '2011-05-28 23:13:35',
+        'Facebook',
+        2,
+        2011,
+        'John Henderson'
+    ),
+    (
+        838,
+        '2011-05-28 23:13:35',
+        'Facebook',
+        1,
+        2011,
+        'Wesley Garcia'
+    ),
+    (
+        55,
+        '2015-05-30 22:00:55',
+        'Web',
+        3,
+        2015,
+        'Robert White'
+    ),
+    (
+        55,
+        '2015-05-30 22:00:55',
+        'Web',
+        4,
+        2015,
+        'Nicholas Black'
+    ),
+    (
+        55,
+        '2015-05-30 22:00:55',
+        'Web',
+        5,
+        2015,
+        'Louis Phillips'
+    ),
+    (
+        55,
+        '2015-05-30 22:00:55',
+        'Web',
+        1,
+        2015,
+        'Deborah Sparks'
+    ),
+    (
+        55,
+        '2015-05-30 22:00:55',
+        'Web',
+        2,
+        2015,
+        'Brett Benjamin'
+    ),
+    (
+        338,
+        '2016-05-28 23:34:53',
+        'Web',
+        4,
+        2016,
+        'Derek Schwartz'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        338,
+        '2016-05-28 23:34:53',
+        'Web',
+        3,
+        2016,
+        'Alejandra Walter'
+    ),
+    (
+        338,
+        '2016-05-28 23:34:53',
+        'Web',
+        2,
+        2016,
+        'Kimberly Wilkins MD'
+    ),
+    (
+        338,
+        '2016-05-28 23:34:53',
+        'Web',
+        5,
+        2016,
+        'Brian Ingram'
+    ),
+    (
+        338,
+        '2016-05-28 23:34:53',
+        'Web',
+        1,
+        2016,
+        'Cathy Lewis'
+    ),
+    (
+        658,
+        '2015-05-30 23:00:16',
+        'Web',
+        5,
+        2015,
+        'Louis Phillips'
+    ),
+    (
+        658,
+        '2015-05-30 23:00:16',
+        'Web',
+        2,
+        2015,
+        'Heidi Barry'
+    ),
+    (
+        658,
+        '2015-05-30 23:00:16',
+        'Web',
+        3,
+        2015,
+        'Colleen White'
+    ),
+    (
+        658,
+        '2015-05-30 23:00:16',
+        'Web',
+        4,
+        2015,
+        'Robert White'
+    ),
+    (
+        658,
+        '2015-05-30 23:00:16',
+        'Web',
+        1,
+        2015,
+        'Nicholas Black'
+    ),
+    (
+        944,
+        '2009-05-30 23:54:20',
+        'Instagram',
+        4,
+        2009,
+        'Leslie Saunders'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        944,
+        '2009-05-30 23:54:20',
+        'Instagram',
+        5,
+        2009,
+        'Wanda Smith'
+    ),
+    (
+        944,
+        '2009-05-30 23:54:20',
+        'Instagram',
+        1,
+        2009,
+        'Matthew Garcia'
+    ),
+    (
+        944,
+        '2009-05-30 23:54:20',
+        'Instagram',
+        3,
+        2009,
+        'Melanie Hall'
+    ),
+    (
+        944,
+        '2009-05-30 23:54:20',
+        'Instagram',
+        2,
+        2009,
+        'Olivia Nichols'
+    ),
+    (
+        692,
+        '2018-05-26 23:26:10',
+        'Instagram',
+        4,
+        2018,
+        'Jessica Williams'
+    ),
+    (
+        692,
+        '2018-05-26 23:26:10',
+        'Instagram',
+        5,
+        2018,
+        'Steven Cox'
+    ),
+    (
+        692,
+        '2018-05-26 23:26:10',
+        'Instagram',
+        2,
+        2018,
+        'Danielle Miller'
+    ),
+    (
+        692,
+        '2018-05-26 23:26:10',
+        'Instagram',
+        3,
+        2018,
+        'Brandon Ruiz'
+    ),
+    (
+        692,
+        '2018-05-26 23:26:10',
+        'Instagram',
+        1,
+        2018,
+        'Diane Harrison'
+    ),
+    (
+        167,
+        '2011-05-28 23:59:21',
+        'Web',
+        4,
+        2011,
+        'Andres Rubio'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        167,
+        '2011-05-28 23:59:21',
+        'Web',
+        5,
+        2011,
+        'Ashley Lawson'
+    ),
+    (
+        167,
+        '2011-05-28 23:59:21',
+        'Web',
+        3,
+        2011,
+        'Dr. Courtney Green MD'
+    ),
+    (
+        167,
+        '2011-05-28 23:59:21',
+        'Web',
+        2,
+        2011,
+        'Carmen Mitchell'
+    ),
+    (
+        167,
+        '2011-05-28 23:59:21',
+        'Web',
+        1,
+        2011,
+        'Wesley Garcia'
+    ),
+    (
+        732,
+        '2024-05-25 22:47:12',
+        'Web',
+        2,
+        2024,
+        'Jessica Murphy'
+    ),
+    (
+        732,
+        '2024-05-25 22:47:12',
+        'Web',
+        5,
+        2024,
+        'Christopher Singh'
+    ),
+    (
+        732,
+        '2024-05-25 22:47:12',
+        'Web',
+        3,
+        2024,
+        'Gabriel Arroyo'
+    ),
+    (
+        432,
+        '2011-05-28 23:18:07',
+        'Facebook',
+        1,
+        2011,
+        'Wesley Garcia'
+    ),
+    (
+        432,
+        '2011-05-28 23:18:07',
+        'Facebook',
+        3,
+        2011,
+        'Justin Kelly'
+    ),
+    (
+        432,
+        '2011-05-28 23:18:07',
+        'Facebook',
+        4,
+        2011,
+        'John Henderson'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        432,
+        '2011-05-28 23:18:07',
+        'Facebook',
+        5,
+        2011,
+        'Cody Davis'
+    ),
+    (
+        432,
+        '2011-05-28 23:18:07',
+        'Facebook',
+        2,
+        2011,
+        'Victoria Rosales PhD'
+    ),
+    (
+        192,
+        '2013-05-25 22:38:01',
+        'Web',
+        4,
+        2013,
+        'Nancy Mcmahon'
+    ),
+    (
+        192,
+        '2013-05-25 22:38:01',
+        'Web',
+        3,
+        2013,
+        'Tony Prince'
+    ),
+    (
+        192,
+        '2013-05-25 22:38:01',
+        'Web',
+        1,
+        2013,
+        'Cassandra Hooper'
+    ),
+    (
+        192,
+        '2013-05-25 22:38:01',
+        'Web',
+        5,
+        2013,
+        'Wendy Cunningham'
+    ),
+    (
+        192,
+        '2013-05-25 22:38:01',
+        'Web',
+        2,
+        2013,
+        'Thomas Hess'
+    ),
+    (
+        62,
+        '2022-05-28 22:27:51',
+        'Facebook',
+        4,
+        2022,
+        'Andrew Hodges'
+    ),
+    (
+        62,
+        '2022-05-28 22:27:51',
+        'Facebook',
+        3,
+        2022,
+        'Michael Baker'
+    ),
+    (
+        62,
+        '2022-05-28 22:27:51',
+        'Facebook',
+        5,
+        2022,
+        'Robert Curtis'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        62,
+        '2022-05-28 22:27:51',
+        'Facebook',
+        2,
+        2022,
+        'Martin Moore'
+    ),
+    (
+        62,
+        '2022-05-28 22:27:51',
+        'Facebook',
+        1,
+        2022,
+        'Andre Burton'
+    ),
+    (
+        504,
+        '2020-05-30 22:40:44',
+        'Facebook',
+        5,
+        2020,
+        'Danielle Berger'
+    ),
+    (
+        504,
+        '2020-05-30 22:40:44',
+        'Facebook',
+        3,
+        2020,
+        'Mr. Steven Yoder'
+    ),
+    (
+        504,
+        '2020-05-30 22:40:44',
+        'Facebook',
+        1,
+        2020,
+        'Charles Maddox'
+    ),
+    (
+        504,
+        '2020-05-30 22:40:44',
+        'Facebook',
+        2,
+        2020,
+        'Benjamin Thomas'
+    ),
+    (
+        504,
+        '2020-05-30 22:40:44',
+        'Facebook',
+        4,
+        2020,
+        'Travis Walker'
+    ),
+    (
+        218,
+        '2019-05-25 22:18:23',
+        'Phone',
+        5,
+        2019,
+        'Sarah Hancock'
+    ),
+    (
+        218,
+        '2019-05-25 22:18:23',
+        'Phone',
+        2,
+        2019,
+        'Aaron Peterson'
+    ),
+    (
+        218,
+        '2019-05-25 22:18:23',
+        'Phone',
+        3,
+        2019,
+        'Amanda Ingram'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        218,
+        '2019-05-25 22:18:23',
+        'Phone',
+        1,
+        2019,
+        'Patrick Wilson'
+    ),
+    (
+        218,
+        '2019-05-25 22:18:23',
+        'Phone',
+        4,
+        2019,
+        'Kathryn Alvarez'
+    ),
+    (
+        283,
+        '2012-05-26 22:37:38',
+        'Web',
+        2,
+        2012,
+        'Lynn Booth'
+    ),
+    (
+        283,
+        '2012-05-26 22:37:38',
+        'Web',
+        3,
+        2012,
+        'Anthony Bradford'
+    ),
+    (
+        283,
+        '2012-05-26 22:37:38',
+        'Web',
+        1,
+        2012,
+        'Patrick Benson'
+    ),
+    (
+        283,
+        '2012-05-26 22:37:38',
+        'Web',
+        5,
+        2012,
+        'Tyler Jordan'
+    ),
+    (
+        283,
+        '2012-05-26 22:37:38',
+        'Web',
+        4,
+        2012,
+        'Jennifer Wolfe'
+    ),
+    (
+        782,
+        '2016-05-28 23:34:58',
+        'Facebook',
+        5,
+        2016,
+        'Brian Ingram'
+    ),
+    (
+        782,
+        '2016-05-28 23:34:58',
+        'Facebook',
+        3,
+        2016,
+        'Amanda Patterson'
+    ),
+    (
+        782,
+        '2016-05-28 23:34:58',
+        'Facebook',
+        1,
+        2016,
+        'Melody Reese MD'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        782,
+        '2016-05-28 23:34:58',
+        'Facebook',
+        2,
+        2016,
+        'Alejandra Walter'
+    ),
+    (
+        782,
+        '2016-05-28 23:34:58',
+        'Facebook',
+        4,
+        2016,
+        'Kimberly Wilkins MD'
+    ),
+    (
+        793,
+        '2023-05-27 22:21:41',
+        'Web',
+        5,
+        2023,
+        'Thomas Ruiz'
+    ),
+    (
+        793,
+        '2023-05-27 22:21:41',
+        'Web',
+        3,
+        2023,
+        'Manuel Graves'
+    ),
+    (
+        793,
+        '2023-05-27 22:21:41',
+        'Web',
+        4,
+        2023,
+        'Jacqueline Wagner'
+    ),
+    (
+        684,
+        '2024-05-25 23:19:34',
+        'Instagram',
+        5,
+        2024,
+        'Emily Buck'
+    ),
+    (
+        684,
+        '2024-05-25 23:19:34',
+        'Instagram',
+        1,
+        2024,
+        'Jessica Murphy'
+    ),
+    (
+        684,
+        '2024-05-25 23:19:34',
+        'Instagram',
+        2,
+        2024,
+        'Taylor Lopez'
+    ),
+    (
+        684,
+        '2024-05-25 23:19:34',
+        'Instagram',
+        3,
+        2024,
+        'Richard Lewis'
+    ),
+    (
+        684,
+        '2024-05-25 23:19:34',
+        'Instagram',
+        4,
+        2024,
+        'Alexis Fields'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        877,
+        '2012-05-26 23:13:42',
+        'Instagram',
+        4,
+        2012,
+        'Kenneth Warner'
+    ),
+    (
+        877,
+        '2012-05-26 23:13:42',
+        'Instagram',
+        2,
+        2012,
+        'Patrick Benson'
+    ),
+    (
+        877,
+        '2012-05-26 23:13:42',
+        'Instagram',
+        3,
+        2012,
+        'Stephanie Patrick'
+    ),
+    (
+        877,
+        '2012-05-26 23:13:42',
+        'Instagram',
+        1,
+        2012,
+        'Stacy White'
+    ),
+    (
+        877,
+        '2012-05-26 23:13:42',
+        'Instagram',
+        5,
+        2012,
+        'Jose Smith Jr.'
+    ),
+    (
+        905,
+        '2022-05-28 23:39:25',
+        'Instagram',
+        1,
+        2022,
+        'Stephanie Smith'
+    ),
+    (
+        905,
+        '2022-05-28 23:39:25',
+        'Instagram',
+        4,
+        2022,
+        'Martin Moore'
+    ),
+    (
+        905,
+        '2022-05-28 23:39:25',
+        'Instagram',
+        5,
+        2022,
+        'Thomas Gregory'
+    ),
+    (
+        905,
+        '2022-05-28 23:39:25',
+        'Instagram',
+        3,
+        2022,
+        'Michelle Martin'
+    ),
+    (
+        905,
+        '2022-05-28 23:39:25',
+        'Instagram',
+        2,
+        2022,
+        'Andre Burton'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        388,
+        '2011-05-28 22:17:01',
+        'Phone',
+        3,
+        2011,
+        'Carmen Mitchell'
+    ),
+    (
+        388,
+        '2011-05-28 22:17:01',
+        'Phone',
+        2,
+        2011,
+        'Wesley Garcia'
+    ),
+    (
+        887,
+        '2009-05-30 23:21:42',
+        'Facebook',
+        5,
+        2009,
+        'Olivia Nichols'
+    ),
+    (
+        887,
+        '2009-05-30 23:21:42',
+        'Facebook',
+        3,
+        2009,
+        'Matthew Garcia'
+    ),
+    (
+        887,
+        '2009-05-30 23:21:42',
+        'Facebook',
+        2,
+        2009,
+        'Carrie Bell'
+    ),
+    (
+        887,
+        '2009-05-30 23:21:42',
+        'Facebook',
+        4,
+        2009,
+        'Kimberly Craig'
+    ),
+    (
+        887,
+        '2009-05-30 23:21:42',
+        'Facebook',
+        1,
+        2009,
+        'Jason Hebert'
+    ),
+    (
+        951,
+        '2013-05-25 22:51:22',
+        'Phone',
+        3,
+        2013,
+        'Angela Phillips'
+    ),
+    (
+        951,
+        '2013-05-25 22:51:22',
+        'Phone',
+        1,
+        2013,
+        'Thomas Hess'
+    ),
+    (
+        951,
+        '2013-05-25 22:51:22',
+        'Phone',
+        2,
+        2013,
+        'Wendy Cunningham'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        951,
+        '2013-05-25 22:51:22',
+        'Phone',
+        4,
+        2013,
+        'Anthony Villanueva'
+    ),
+    (
+        951,
+        '2013-05-25 22:51:22',
+        'Phone',
+        5,
+        2013,
+        'Blake Martinez'
+    ),
+    (
+        171,
+        '2011-05-28 23:44:01',
+        'Phone',
+        4,
+        2011,
+        'Victoria Rosales PhD'
+    ),
+    (
+        171,
+        '2011-05-28 23:44:01',
+        'Phone',
+        3,
+        2011,
+        'Justin Kelly'
+    ),
+    (
+        171,
+        '2011-05-28 23:44:01',
+        'Phone',
+        5,
+        2011,
+        'Ashley Lawson'
+    ),
+    (
+        171,
+        '2011-05-28 23:44:01',
+        'Phone',
+        1,
+        2011,
+        'Carmen Mitchell'
+    ),
+    (
+        171,
+        '2011-05-28 23:44:01',
+        'Phone',
+        2,
+        2011,
+        'John Henderson'
+    ),
+    (
+        943,
+        '2019-05-25 23:20:00',
+        'Facebook',
+        4,
+        2019,
+        'Aaron Peterson'
+    ),
+    (
+        943,
+        '2019-05-25 23:20:00',
+        'Facebook',
+        2,
+        2019,
+        'Amanda Ingram'
+    ),
+    (
+        943,
+        '2019-05-25 23:20:00',
+        'Facebook',
+        5,
+        2019,
+        'Samantha Jones'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        943,
+        '2019-05-25 23:20:00',
+        'Facebook',
+        1,
+        2019,
+        'Terry Powell'
+    ),
+    (
+        943,
+        '2019-05-25 23:20:00',
+        'Facebook',
+        3,
+        2019,
+        'Jennifer Ford'
+    ),
+    (
+        314,
+        '2009-05-30 22:11:53',
+        'Phone',
+        2,
+        2009,
+        'Jason Hebert'
+    ),
+    (
+        314,
+        '2009-05-30 22:11:53',
+        'Phone',
+        3,
+        2009,
+        'Olivia Nichols'
+    ),
+    (
+        314,
+        '2009-05-30 22:11:53',
+        'Phone',
+        1,
+        2009,
+        'Sandra Lopez'
+    ),
+    (
+        314,
+        '2009-05-30 22:11:53',
+        'Phone',
+        5,
+        2009,
+        'Wanda Smith'
+    ),
+    (
+        314,
+        '2009-05-30 22:11:53',
+        'Phone',
+        4,
+        2009,
+        'Matthew Garcia'
+    ),
+    (
+        579,
+        '2023-05-27 22:21:46',
+        'Phone',
+        4,
+        2023,
+        'Thomas Ruiz'
+    ),
+    (
+        579,
+        '2023-05-27 22:21:46',
+        'Phone',
+        1,
+        2023,
+        'Manuel Graves'
+    ),
+    (
+        579,
+        '2023-05-27 22:21:46',
+        'Phone',
+        5,
+        2023,
+        'Leslie Lee'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        579,
+        '2023-05-27 22:21:46',
+        'Phone',
+        3,
+        2023,
+        'Scott Baker'
+    ),
+    (
+        579,
+        '2023-05-27 22:21:46',
+        'Phone',
+        2,
+        2023,
+        'Michael Butler'
+    ),
+    (
+        764,
+        '2018-05-26 22:29:48',
+        'Instagram',
+        2,
+        2018,
+        'Steven Cox'
+    ),
+    (
+        764,
+        '2018-05-26 22:29:48',
+        'Instagram',
+        5,
+        2018,
+        'Carrie Clark'
+    ),
+    (
+        764,
+        '2018-05-26 22:29:48',
+        'Instagram',
+        4,
+        2018,
+        'John Hubbard'
+    ),
+    (
+        764,
+        '2018-05-26 22:29:48',
+        'Instagram',
+        1,
+        2018,
+        'Laura Barnes'
+    ),
+    (
+        764,
+        '2018-05-26 22:29:48',
+        'Instagram',
+        3,
+        2018,
+        'Danielle Miller'
+    ),
+    (
+        477,
+        '2009-05-30 22:46:38',
+        'Facebook',
+        2,
+        2009,
+        'Leslie Saunders'
+    ),
+    (
+        477,
+        '2009-05-30 22:46:38',
+        'Facebook',
+        3,
+        2009,
+        'Olivia Nichols'
+    ),
+    (
+        477,
+        '2009-05-30 22:46:38',
+        'Facebook',
+        1,
+        2009,
+        'Sandra Lopez'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        477,
+        '2009-05-30 22:46:38',
+        'Facebook',
+        4,
+        2009,
+        'Matthew Garcia'
+    ),
+    (
+        477,
+        '2009-05-30 22:46:38',
+        'Facebook',
+        5,
+        2009,
+        'Melanie Hall'
+    ),
+    (
+        336,
+        '2012-05-26 22:17:03',
+        'Web',
+        2,
+        2012,
+        'Tyler Jordan'
+    ),
+    (
+        336,
+        '2012-05-26 22:17:03',
+        'Web',
+        1,
+        2012,
+        'Jose Smith Jr.'
+    ),
+    (
+        763,
+        '2017-05-27 23:13:10',
+        'Facebook',
+        3,
+        2017,
+        'Matthew Vaughn'
+    ),
+    (
+        763,
+        '2017-05-27 23:13:10',
+        'Facebook',
+        4,
+        2017,
+        'Rachel Cole'
+    ),
+    (
+        763,
+        '2017-05-27 23:13:10',
+        'Facebook',
+        2,
+        2017,
+        'Brandi Harris'
+    ),
+    (
+        763,
+        '2017-05-27 23:13:10',
+        'Facebook',
+        1,
+        2017,
+        'Sean Ward'
+    ),
+    (
+        763,
+        '2017-05-27 23:13:10',
+        'Facebook',
+        5,
+        2017,
+        'Andrea Hill'
+    ),
+    (
+        914,
+        '2012-05-26 23:51:26',
+        'Phone',
+        4,
+        2012,
+        'Jennifer Wolfe'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        914,
+        '2012-05-26 23:51:26',
+        'Phone',
+        5,
+        2012,
+        'Jose Smith Jr.'
+    ),
+    (
+        914,
+        '2012-05-26 23:51:26',
+        'Phone',
+        2,
+        2012,
+        'Stephanie Patrick'
+    ),
+    (
+        914,
+        '2012-05-26 23:51:26',
+        'Phone',
+        3,
+        2012,
+        'Maria Robertson'
+    ),
+    (
+        914,
+        '2012-05-26 23:51:26',
+        'Phone',
+        1,
+        2012,
+        'Anthony Bradford'
+    ),
+    (
+        466,
+        '2011-05-28 23:04:23',
+        'Instagram',
+        2,
+        2011,
+        'Keith Ingram'
+    ),
+    (
+        466,
+        '2011-05-28 23:04:23',
+        'Instagram',
+        1,
+        2011,
+        'Carmen Mitchell'
+    ),
+    (
+        466,
+        '2011-05-28 23:04:23',
+        'Instagram',
+        3,
+        2011,
+        'Wesley Garcia'
+    ),
+    (
+        466,
+        '2011-05-28 23:04:23',
+        'Instagram',
+        5,
+        2011,
+        'Ashley Lawson'
+    ),
+    (
+        466,
+        '2011-05-28 23:04:23',
+        'Instagram',
+        4,
+        2011,
+        'Cody Davis'
+    ),
+    (
+        860,
+        '2018-05-26 22:29:46',
+        'Facebook',
+        4,
+        2018,
+        'Kimberly Davis'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        860,
+        '2018-05-26 22:29:46',
+        'Facebook',
+        3,
+        2018,
+        'John Hubbard'
+    ),
+    (
+        860,
+        '2018-05-26 22:29:46',
+        'Facebook',
+        1,
+        2018,
+        'Brandon Ruiz'
+    ),
+    (
+        860,
+        '2018-05-26 22:29:46',
+        'Facebook',
+        2,
+        2018,
+        'Danielle Miller'
+    ),
+    (
+        465,
+        '2024-05-25 23:31:51',
+        'Instagram',
+        1,
+        2024,
+        'Gabriel Arroyo'
+    ),
+    (
+        465,
+        '2024-05-25 23:31:51',
+        'Instagram',
+        5,
+        2024,
+        'Alexis Fields'
+    ),
+    (
+        465,
+        '2024-05-25 23:31:51',
+        'Instagram',
+        3,
+        2024,
+        'Emily Buck'
+    ),
+    (
+        465,
+        '2024-05-25 23:31:51',
+        'Instagram',
+        4,
+        2024,
+        'Christopher Singh'
+    ),
+    (
+        465,
+        '2024-05-25 23:31:51',
+        'Instagram',
+        2,
+        2024,
+        'Taylor Lopez'
+    ),
+    (
+        24,
+        '2014-05-31 23:07:53',
+        'Facebook',
+        2,
+        2014,
+        'Teresa Martin'
+    ),
+    (
+        24,
+        '2014-05-31 23:07:53',
+        'Facebook',
+        5,
+        2014,
+        'Mary Vance'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        24,
+        '2014-05-31 23:07:53',
+        'Facebook',
+        4,
+        2014,
+        'Lisa Wright'
+    ),
+    (
+        306,
+        '2011-05-28 23:50:56',
+        'Instagram',
+        2,
+        2011,
+        'Andres Rubio'
+    ),
+    (
+        306,
+        '2011-05-28 23:50:56',
+        'Instagram',
+        4,
+        2011,
+        'Wesley Garcia'
+    ),
+    (
+        306,
+        '2011-05-28 23:50:56',
+        'Instagram',
+        1,
+        2011,
+        'Keith Ingram'
+    ),
+    (
+        306,
+        '2011-05-28 23:50:56',
+        'Instagram',
+        5,
+        2011,
+        'Justin Kelly'
+    ),
+    (
+        306,
+        '2011-05-28 23:50:56',
+        'Instagram',
+        3,
+        2011,
+        'John Henderson'
+    ),
+    (
+        945,
+        '2013-05-25 22:34:27',
+        'Phone',
+        2,
+        2013,
+        'Thomas Hess'
+    ),
+    (
+        945,
+        '2013-05-25 22:34:27',
+        'Phone',
+        5,
+        2013,
+        'Cassandra Hooper'
+    ),
+    (
+        945,
+        '2013-05-25 22:34:27',
+        'Phone',
+        4,
+        2013,
+        'Wendy Cunningham'
+    ),
+    (
+        945,
+        '2013-05-25 22:34:27',
+        'Phone',
+        3,
+        2013,
+        'Diane Cooper'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        945,
+        '2013-05-25 22:34:27',
+        'Phone',
+        1,
+        2013,
+        'Nancy Mcmahon'
+    ),
+    (
+        992,
+        '2012-05-26 23:26:10',
+        'Facebook',
+        3,
+        2012,
+        'Maria Robertson'
+    ),
+    (
+        992,
+        '2012-05-26 23:26:10',
+        'Facebook',
+        2,
+        2012,
+        'Stephanie Patrick'
+    ),
+    (
+        992,
+        '2012-05-26 23:26:10',
+        'Facebook',
+        4,
+        2012,
+        'Anthony Bradford'
+    ),
+    (
+        992,
+        '2012-05-26 23:26:10',
+        'Facebook',
+        5,
+        2012,
+        'Jennifer Wolfe'
+    ),
+    (
+        992,
+        '2012-05-26 23:26:10',
+        'Facebook',
+        1,
+        2012,
+        'Kenneth Warner'
+    ),
+    (
+        639,
+        '2018-05-26 22:11:59',
+        'Instagram',
+        5,
+        2018,
+        'Charles Glover'
+    ),
+    (
+        639,
+        '2018-05-26 22:11:59',
+        'Instagram',
+        4,
+        2018,
+        'Steven Cox'
+    ),
+    (
+        639,
+        '2018-05-26 22:11:59',
+        'Instagram',
+        3,
+        2018,
+        'Kimberly Davis'
+    ),
+    (
+        639,
+        '2018-05-26 22:11:59',
+        'Instagram',
+        2,
+        2018,
+        'Danielle Miller'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        639,
+        '2018-05-26 22:11:59',
+        'Instagram',
+        1,
+        2018,
+        'John Hubbard'
+    ),
+    (
+        588,
+        '2015-05-30 22:42:02',
+        'Phone',
+        1,
+        2015,
+        'Robert White'
+    ),
+    (
+        588,
+        '2015-05-30 22:42:02',
+        'Phone',
+        5,
+        2015,
+        'Deborah Sparks'
+    ),
+    (
+        588,
+        '2015-05-30 22:42:02',
+        'Phone',
+        3,
+        2015,
+        'Heidi Barry'
+    ),
+    (
+        588,
+        '2015-05-30 22:42:02',
+        'Phone',
+        2,
+        2015,
+        'Nathan Bailey'
+    ),
+    (
+        588,
+        '2015-05-30 22:42:02',
+        'Phone',
+        4,
+        2015,
+        'Nicholas Black'
+    ),
+    (
+        904,
+        '2021-05-29 23:38:19',
+        'Phone',
+        1,
+        2021,
+        'Thomas Smith'
+    ),
+    (
+        748,
+        '2022-05-28 22:05:49',
+        'Phone',
+        2,
+        2022,
+        'Andre Burton'
+    ),
+    (
+        748,
+        '2022-05-28 22:05:49',
+        'Phone',
+        4,
+        2022,
+        'Michelle Martin'
+    ),
+    (
+        748,
+        '2022-05-28 22:05:49',
+        'Phone',
+        5,
+        2022,
+        'Andrew Hodges'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        748,
+        '2022-05-28 22:05:49',
+        'Phone',
+        3,
+        2022,
+        'Michael Baker'
+    ),
+    (
+        748,
+        '2022-05-28 22:05:49',
+        'Phone',
+        1,
+        2022,
+        'Martin Moore'
+    ),
+    (
+        671,
+        '2011-05-28 22:13:21',
+        'Phone',
+        3,
+        2011,
+        'Carmen Mitchell'
+    ),
+    (
+        671,
+        '2011-05-28 22:13:21',
+        'Phone',
+        1,
+        2011,
+        'Andres Rubio'
+    ),
+    (
+        671,
+        '2011-05-28 22:13:21',
+        'Phone',
+        5,
+        2011,
+        'Cody Davis'
+    ),
+    (
+        671,
+        '2011-05-28 22:13:21',
+        'Phone',
+        2,
+        2011,
+        'Victoria Rosales PhD'
+    ),
+    (
+        671,
+        '2011-05-28 22:13:21',
+        'Phone',
+        4,
+        2011,
+        'Ashley Lawson'
+    ),
+    (
+        514,
+        '2013-05-25 22:13:01',
+        'Instagram',
+        3,
+        2013,
+        'Nancy Mcmahon'
+    ),
+    (
+        514,
+        '2013-05-25 22:13:01',
+        'Instagram',
+        5,
+        2013,
+        'Kimberly Larsen'
+    ),
+    (
+        37,
+        '2011-05-28 22:55:28',
+        'Web',
+        2,
+        2011,
+        'Ashley Lawson'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        37,
+        '2011-05-28 22:55:28',
+        'Web',
+        4,
+        2011,
+        'Wesley Garcia'
+    ),
+    (
+        37,
+        '2011-05-28 22:55:28',
+        'Web',
+        3,
+        2011,
+        'John Henderson'
+    ),
+    (
+        37,
+        '2011-05-28 22:55:28',
+        'Web',
+        1,
+        2011,
+        'Victoria Rosales PhD'
+    ),
+    (
+        37,
+        '2011-05-28 22:55:28',
+        'Web',
+        5,
+        2011,
+        'Keith Ingram'
+    ),
+    (
+        713,
+        '2012-05-26 22:50:39',
+        'Phone',
+        3,
+        2012,
+        'Lynn Booth'
+    ),
+    (
+        713,
+        '2012-05-26 22:50:39',
+        'Phone',
+        5,
+        2012,
+        'Tyler Jordan'
+    ),
+    (
+        713,
+        '2012-05-26 22:50:39',
+        'Phone',
+        1,
+        2012,
+        'Stacy White'
+    ),
+    (
+        713,
+        '2012-05-26 22:50:39',
+        'Phone',
+        2,
+        2012,
+        'Patrick Benson'
+    ),
+    (
+        713,
+        '2012-05-26 22:50:39',
+        'Phone',
+        4,
+        2012,
+        'Kenneth Warner'
+    ),
+    (
+        588,
+        '2016-05-28 23:17:33',
+        'Web',
+        4,
+        2016,
+        'Tara Mcgee'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        588,
+        '2016-05-28 23:17:33',
+        'Web',
+        1,
+        2016,
+        'Derek Schwartz'
+    ),
+    (
+        588,
+        '2016-05-28 23:17:33',
+        'Web',
+        3,
+        2016,
+        'Steve Bennett'
+    ),
+    (
+        588,
+        '2016-05-28 23:17:33',
+        'Web',
+        2,
+        2016,
+        'Anne Mcfarland'
+    ),
+    (
+        588,
+        '2016-05-28 23:17:33',
+        'Web',
+        5,
+        2016,
+        'Alejandra Walter'
+    ),
+    (
+        531,
+        '2023-05-27 22:59:24',
+        'Facebook',
+        5,
+        2023,
+        'Christine Hayes'
+    ),
+    (
+        531,
+        '2023-05-27 22:59:24',
+        'Facebook',
+        3,
+        2023,
+        'Leslie Lee'
+    ),
+    (
+        531,
+        '2023-05-27 22:59:24',
+        'Facebook',
+        2,
+        2023,
+        'Jacqueline Wagner'
+    ),
+    (
+        531,
+        '2023-05-27 22:59:24',
+        'Facebook',
+        1,
+        2023,
+        'Thomas Ruiz'
+    ),
+    (
+        531,
+        '2023-05-27 22:59:24',
+        'Facebook',
+        4,
+        2023,
+        'Paula Henderson'
+    ),
+    (
+        665,
+        '2010-05-29 22:42:17',
+        'Instagram',
+        2,
+        2010,
+        'Courtney Barber'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        665,
+        '2010-05-29 22:42:17',
+        'Instagram',
+        5,
+        2010,
+        'Kevin Wilson'
+    ),
+    (
+        665,
+        '2010-05-29 22:42:17',
+        'Instagram',
+        4,
+        2010,
+        'David Williams'
+    ),
+    (
+        665,
+        '2010-05-29 22:42:17',
+        'Instagram',
+        3,
+        2010,
+        'Timothy Sandoval'
+    ),
+    (
+        665,
+        '2010-05-29 22:42:17',
+        'Instagram',
+        1,
+        2010,
+        'Katherine Li'
+    ),
+    (
+        884,
+        '2012-05-26 22:31:44',
+        'Facebook',
+        1,
+        2012,
+        'Patrick Benson'
+    ),
+    (
+        884,
+        '2012-05-26 22:31:44',
+        'Facebook',
+        2,
+        2012,
+        'Stacy White'
+    ),
+    (
+        884,
+        '2012-05-26 22:31:44',
+        'Facebook',
+        5,
+        2012,
+        'Jose Smith Jr.'
+    ),
+    (
+        884,
+        '2012-05-26 22:31:44',
+        'Facebook',
+        3,
+        2012,
+        'Tyler Jordan'
+    ),
+    (
+        884,
+        '2012-05-26 22:31:44',
+        'Facebook',
+        4,
+        2012,
+        'Maria Robertson'
+    ),
+    (
+        802,
+        '2019-05-25 23:12:22',
+        'Web',
+        2,
+        2019,
+        'Kyle Hernandez'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        802,
+        '2019-05-25 23:12:22',
+        'Web',
+        1,
+        2019,
+        'Samantha Jones'
+    ),
+    (
+        802,
+        '2019-05-25 23:12:22',
+        'Web',
+        3,
+        2019,
+        'Jennifer Ford'
+    ),
+    (
+        802,
+        '2019-05-25 23:12:22',
+        'Web',
+        5,
+        2019,
+        'Terry Powell'
+    ),
+    (
+        802,
+        '2019-05-25 23:12:22',
+        'Web',
+        4,
+        2019,
+        'Sarah Hancock'
+    ),
+    (
+        48,
+        '2022-05-28 23:08:24',
+        'Phone',
+        4,
+        2022,
+        'Stephanie Smith'
+    ),
+    (
+        48,
+        '2022-05-28 23:08:24',
+        'Phone',
+        2,
+        2022,
+        'Robert Curtis'
+    ),
+    (
+        48,
+        '2022-05-28 23:08:24',
+        'Phone',
+        3,
+        2022,
+        'Andre Burton'
+    ),
+    (
+        48,
+        '2022-05-28 23:08:24',
+        'Phone',
+        1,
+        2022,
+        'Martin Moore'
+    ),
+    (
+        48,
+        '2022-05-28 23:08:24',
+        'Phone',
+        5,
+        2022,
+        'Michelle Martin'
+    ),
+    (
+        148,
+        '2016-05-28 22:15:17',
+        'Instagram',
+        5,
+        2016,
+        'Derek Schwartz'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        148,
+        '2016-05-28 22:15:17',
+        'Instagram',
+        2,
+        2016,
+        'Alejandra Walter'
+    ),
+    (
+        148,
+        '2016-05-28 22:15:17',
+        'Instagram',
+        4,
+        2016,
+        'Tara Mcgee'
+    ),
+    (
+        148,
+        '2016-05-28 22:15:17',
+        'Instagram',
+        1,
+        2016,
+        'Brian Ingram'
+    ),
+    (
+        148,
+        '2016-05-28 22:15:17',
+        'Instagram',
+        3,
+        2016,
+        'Steve Bennett'
+    ),
+    (
+        949,
+        '2024-05-25 22:44:10',
+        'Phone',
+        4,
+        2024,
+        'Christopher Singh'
+    ),
+    (
+        949,
+        '2024-05-25 22:44:10',
+        'Phone',
+        5,
+        2024,
+        'Taylor Lopez'
+    ),
+    (
+        949,
+        '2024-05-25 22:44:10',
+        'Phone',
+        3,
+        2024,
+        'Amber Williams'
+    ),
+    (
+        949,
+        '2024-05-25 22:44:10',
+        'Phone',
+        2,
+        2024,
+        'Jessica Murphy'
+    ),
+    (
+        949,
+        '2024-05-25 22:44:10',
+        'Phone',
+        1,
+        2024,
+        'Emily Buck'
+    ),
+    (
+        390,
+        '2010-05-29 22:33:06',
+        'Instagram',
+        1,
+        2010,
+        'Timothy Sandoval'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        390,
+        '2010-05-29 22:33:06',
+        'Instagram',
+        4,
+        2010,
+        'David Williams'
+    ),
+    (
+        390,
+        '2010-05-29 22:33:06',
+        'Instagram',
+        3,
+        2010,
+        'Katherine Li'
+    ),
+    (
+        390,
+        '2010-05-29 22:33:06',
+        'Instagram',
+        5,
+        2010,
+        'Kayla Vargas'
+    ),
+    (
+        390,
+        '2010-05-29 22:33:06',
+        'Instagram',
+        2,
+        2010,
+        'Richard Dawson'
+    ),
+    (
+        800,
+        '2020-05-30 22:36:56',
+        'Facebook',
+        3,
+        2020,
+        'Lisa Mcdaniel'
+    ),
+    (
+        800,
+        '2020-05-30 22:36:56',
+        'Facebook',
+        4,
+        2020,
+        'Charles Washington'
+    ),
+    (
+        800,
+        '2020-05-30 22:36:56',
+        'Facebook',
+        5,
+        2020,
+        'Travis Walker'
+    ),
+    (
+        800,
+        '2020-05-30 22:36:56',
+        'Facebook',
+        2,
+        2020,
+        'Lisa Wood'
+    ),
+    (
+        800,
+        '2020-05-30 22:36:56',
+        'Facebook',
+        1,
+        2020,
+        'Mr. Steven Yoder'
+    ),
+    (
+        581,
+        '2016-05-28 23:26:05',
+        'Phone',
+        1,
+        2016,
+        'Cathy Lewis'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        581,
+        '2016-05-28 23:26:05',
+        'Phone',
+        4,
+        2016,
+        'Kimberly Wilkins MD'
+    ),
+    (
+        821,
+        '2024-05-25 23:46:51',
+        'Instagram',
+        2,
+        2024,
+        'Emily Buck'
+    ),
+    (
+        821,
+        '2024-05-25 23:46:51',
+        'Instagram',
+        5,
+        2024,
+        'Amber Williams'
+    ),
+    (
+        821,
+        '2024-05-25 23:46:51',
+        'Instagram',
+        3,
+        2024,
+        'Austin Williams'
+    ),
+    (
+        821,
+        '2024-05-25 23:46:51',
+        'Instagram',
+        4,
+        2024,
+        'Richard Lewis'
+    ),
+    (
+        821,
+        '2024-05-25 23:46:51',
+        'Instagram',
+        1,
+        2024,
+        'Christopher Singh'
+    ),
+    (
+        237,
+        '2018-05-26 23:06:50',
+        'Phone',
+        3,
+        2018,
+        'Laura Barnes'
+    ),
+    (
+        500,
+        '2012-05-26 22:20:17',
+        'Facebook',
+        2,
+        2012,
+        'Patrick Benson'
+    ),
+    (
+        500,
+        '2012-05-26 22:20:17',
+        'Facebook',
+        5,
+        2012,
+        'Stephanie Patrick'
+    ),
+    (
+        500,
+        '2012-05-26 22:20:17',
+        'Facebook',
+        4,
+        2012,
+        'Maria Robertson'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        500,
+        '2012-05-26 22:20:17',
+        'Facebook',
+        3,
+        2012,
+        'Lynn Booth'
+    ),
+    (
+        500,
+        '2012-05-26 22:20:17',
+        'Facebook',
+        1,
+        2012,
+        'Jose Smith Jr.'
+    ),
+    (
+        359,
+        '2013-05-25 22:14:33',
+        'Facebook',
+        5,
+        2013,
+        'Anthony Villanueva'
+    ),
+    (
+        359,
+        '2013-05-25 22:14:33',
+        'Facebook',
+        2,
+        2013,
+        'Tony Prince'
+    ),
+    (
+        359,
+        '2013-05-25 22:14:33',
+        'Facebook',
+        1,
+        2013,
+        'Diane Cooper'
+    ),
+    (
+        359,
+        '2013-05-25 22:14:33',
+        'Facebook',
+        3,
+        2013,
+        'Nancy Mcmahon'
+    ),
+    (
+        359,
+        '2013-05-25 22:14:33',
+        'Facebook',
+        4,
+        2013,
+        'Cassandra Hooper'
+    ),
+    (
+        348,
+        '2010-05-29 23:53:29',
+        'Facebook',
+        5,
+        2010,
+        'Timothy Sandoval'
+    ),
+    (
+        348,
+        '2010-05-29 23:53:29',
+        'Facebook',
+        1,
+        2010,
+        'Katherine Li'
+    ),
+    (
+        348,
+        '2010-05-29 23:53:29',
+        'Facebook',
+        2,
+        2010,
+        'Kyle Weiss'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        348,
+        '2010-05-29 23:53:29',
+        'Facebook',
+        3,
+        2010,
+        'Richard Dawson'
+    ),
+    (
+        348,
+        '2010-05-29 23:53:29',
+        'Facebook',
+        4,
+        2010,
+        'Kevin Wilson'
+    ),
+    (
+        591,
+        '2021-05-29 23:20:41',
+        'Phone',
+        2,
+        2021,
+        'Thomas Smith'
+    ),
+    (
+        591,
+        '2021-05-29 23:20:41',
+        'Phone',
+        1,
+        2021,
+        'Jack Singh'
+    ),
+    (
+        591,
+        '2021-05-29 23:20:41',
+        'Phone',
+        5,
+        2021,
+        'Robin Myers'
+    ),
+    (
+        663,
+        '2011-05-28 22:19:07',
+        'Phone',
+        5,
+        2011,
+        'Justin Kelly'
+    ),
+    (
+        663,
+        '2011-05-28 22:19:07',
+        'Phone',
+        3,
+        2011,
+        'Wesley Garcia'
+    ),
+    (
+        663,
+        '2011-05-28 22:19:07',
+        'Phone',
+        4,
+        2011,
+        'Cody Davis'
+    ),
+    (
+        663,
+        '2011-05-28 22:19:07',
+        'Phone',
+        2,
+        2011,
+        'Victoria Rosales PhD'
+    ),
+    (
+        663,
+        '2011-05-28 22:19:07',
+        'Phone',
+        1,
+        2011,
+        'Dr. Courtney Green MD'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        550,
+        '2020-05-30 23:45:52',
+        'Phone',
+        1,
+        2020,
+        'Jacob Hickman'
+    ),
+    (
+        550,
+        '2020-05-30 23:45:52',
+        'Phone',
+        3,
+        2020,
+        'Benjamin Thomas'
+    ),
+    (
+        550,
+        '2020-05-30 23:45:52',
+        'Phone',
+        5,
+        2020,
+        'Travis Walker'
+    ),
+    (
+        550,
+        '2020-05-30 23:45:52',
+        'Phone',
+        4,
+        2020,
+        'Charles Washington'
+    ),
+    (
+        550,
+        '2020-05-30 23:45:52',
+        'Phone',
+        2,
+        2020,
+        'Lisa Mcdaniel'
+    ),
+    (
+        536,
+        '2021-05-29 23:23:44',
+        'Facebook',
+        2,
+        2021,
+        'Caleb Ellison'
+    ),
+    (
+        536,
+        '2021-05-29 23:23:44',
+        'Facebook',
+        5,
+        2021,
+        'Amber Mcdowell'
+    ),
+    (
+        536,
+        '2021-05-29 23:23:44',
+        'Facebook',
+        1,
+        2021,
+        'Jack Singh'
+    ),
+    (
+        536,
+        '2021-05-29 23:23:44',
+        'Facebook',
+        4,
+        2021,
+        'Ann Perez'
+    ),
+    (
+        536,
+        '2021-05-29 23:23:44',
+        'Facebook',
+        3,
+        2021,
+        'Manuel Caldwell'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        363,
+        '2019-05-25 23:43:17',
+        'Facebook',
+        4,
+        2019,
+        'Kathryn Alvarez'
+    ),
+    (
+        363,
+        '2019-05-25 23:43:17',
+        'Facebook',
+        1,
+        2019,
+        'Jennifer Ford'
+    ),
+    (
+        363,
+        '2019-05-25 23:43:17',
+        'Facebook',
+        2,
+        2019,
+        'Patrick Wilson'
+    ),
+    (
+        363,
+        '2019-05-25 23:43:17',
+        'Facebook',
+        3,
+        2019,
+        'Samantha Jones'
+    ),
+    (
+        363,
+        '2019-05-25 23:43:17',
+        'Facebook',
+        5,
+        2019,
+        'Sarah Hancock'
+    ),
+    (
+        505,
+        '2013-05-25 22:37:17',
+        'Facebook',
+        5,
+        2013,
+        'Wendy Cunningham'
+    ),
+    (
+        505,
+        '2013-05-25 22:37:17',
+        'Facebook',
+        4,
+        2013,
+        'Angela Phillips'
+    ),
+    (
+        505,
+        '2013-05-25 22:37:17',
+        'Facebook',
+        3,
+        2013,
+        'Thomas Hess'
+    ),
+    (
+        505,
+        '2013-05-25 22:37:17',
+        'Facebook',
+        2,
+        2013,
+        'Diane Cooper'
+    ),
+    (
+        505,
+        '2013-05-25 22:37:17',
+        'Facebook',
+        1,
+        2013,
+        'Tony Prince'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        375,
+        '2012-05-26 23:29:52',
+        'Web',
+        4,
+        2012,
+        'Anthony Bradford'
+    ),
+    (
+        375,
+        '2012-05-26 23:29:52',
+        'Web',
+        3,
+        2012,
+        'Tyler Jordan'
+    ),
+    (
+        375,
+        '2012-05-26 23:29:52',
+        'Web',
+        5,
+        2012,
+        'Kenneth Warner'
+    ),
+    (
+        375,
+        '2012-05-26 23:29:52',
+        'Web',
+        2,
+        2012,
+        'Lynn Booth'
+    ),
+    (
+        375,
+        '2012-05-26 23:29:52',
+        'Web',
+        1,
+        2012,
+        'Stephanie Patrick'
+    ),
+    (
+        465,
+        '2014-05-31 23:55:16',
+        'Facebook',
+        1,
+        2014,
+        'Carol Garrett'
+    ),
+    (
+        465,
+        '2014-05-31 23:55:16',
+        'Facebook',
+        4,
+        2014,
+        'Lisa Wright'
+    ),
+    (
+        465,
+        '2014-05-31 23:55:16',
+        'Facebook',
+        5,
+        2014,
+        'Christopher Hodge'
+    ),
+    (
+        465,
+        '2014-05-31 23:55:16',
+        'Facebook',
+        3,
+        2014,
+        'John Conner'
+    ),
+    (
+        465,
+        '2014-05-31 23:55:16',
+        'Facebook',
+        2,
+        2014,
+        'Melissa Williams'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        270,
+        '2017-05-27 22:44:22',
+        'Web',
+        5,
+        2017,
+        'Tina Roy'
+    ),
+    (
+        270,
+        '2017-05-27 22:44:22',
+        'Web',
+        4,
+        2017,
+        'Denise Jones'
+    ),
+    (
+        270,
+        '2017-05-27 22:44:22',
+        'Web',
+        3,
+        2017,
+        'Matthew Vaughn'
+    ),
+    (
+        270,
+        '2017-05-27 22:44:22',
+        'Web',
+        1,
+        2017,
+        'Nathan Williams'
+    ),
+    (
+        270,
+        '2017-05-27 22:44:22',
+        'Web',
+        2,
+        2017,
+        'Brian Mccall'
+    ),
+    (
+        728,
+        '2013-05-25 23:01:53',
+        'Facebook',
+        5,
+        2013,
+        'Diane Cooper'
+    ),
+    (
+        728,
+        '2013-05-25 23:01:53',
+        'Facebook',
+        1,
+        2013,
+        'Wendy Cunningham'
+    ),
+    (
+        728,
+        '2013-05-25 23:01:53',
+        'Facebook',
+        2,
+        2013,
+        'Thomas Hess'
+    ),
+    (
+        728,
+        '2013-05-25 23:01:53',
+        'Facebook',
+        4,
+        2013,
+        'Nancy Mcmahon'
+    ),
+    (
+        728,
+        '2013-05-25 23:01:53',
+        'Facebook',
+        3,
+        2013,
+        'Tony Prince'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        742,
+        '2010-05-29 22:39:49',
+        'Phone',
+        3,
+        2010,
+        'Rachel Melton'
+    ),
+    (
+        742,
+        '2010-05-29 22:39:49',
+        'Phone',
+        4,
+        2010,
+        'Timothy Sandoval'
+    ),
+    (
+        742,
+        '2010-05-29 22:39:49',
+        'Phone',
+        2,
+        2010,
+        'Katherine Li'
+    ),
+    (
+        742,
+        '2010-05-29 22:39:49',
+        'Phone',
+        5,
+        2010,
+        'David Williams'
+    ),
+    (
+        742,
+        '2010-05-29 22:39:49',
+        'Phone',
+        1,
+        2010,
+        'Courtney Barber'
+    ),
+    (
+        454,
+        '2015-05-30 23:43:32',
+        'Web',
+        2,
+        2015,
+        'Robert White'
+    ),
+    (
+        454,
+        '2015-05-30 23:43:32',
+        'Web',
+        1,
+        2015,
+        'Travis Hays'
+    ),
+    (
+        454,
+        '2015-05-30 23:43:32',
+        'Web',
+        3,
+        2015,
+        'Heidi Barry'
+    ),
+    (
+        454,
+        '2015-05-30 23:43:32',
+        'Web',
+        5,
+        2015,
+        'Colleen White'
+    ),
+    (
+        454,
+        '2015-05-30 23:43:32',
+        'Web',
+        4,
+        2015,
+        'Lisa Patrick'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        868,
+        '2017-05-27 22:12:12',
+        'Instagram',
+        1,
+        2017,
+        'Brandi Harris'
+    ),
+    (
+        868,
+        '2017-05-27 22:12:12',
+        'Instagram',
+        5,
+        2017,
+        'Matthew Vaughn'
+    ),
+    (
+        868,
+        '2017-05-27 22:12:12',
+        'Instagram',
+        4,
+        2017,
+        'Tina Roy'
+    ),
+    (
+        868,
+        '2017-05-27 22:12:12',
+        'Instagram',
+        3,
+        2017,
+        'Elizabeth Koch'
+    ),
+    (
+        868,
+        '2017-05-27 22:12:12',
+        'Instagram',
+        2,
+        2017,
+        'Nathan Williams'
+    ),
+    (
+        51,
+        '2018-05-26 23:13:54',
+        'Phone',
+        5,
+        2018,
+        'Danielle Miller'
+    ),
+    (
+        51,
+        '2018-05-26 23:13:54',
+        'Phone',
+        1,
+        2018,
+        'Steven Cox'
+    ),
+    (
+        51,
+        '2018-05-26 23:13:54',
+        'Phone',
+        4,
+        2018,
+        'Laura Barnes'
+    ),
+    (
+        51,
+        '2018-05-26 23:13:54',
+        'Phone',
+        2,
+        2018,
+        'John Hubbard'
+    ),
+    (
+        51,
+        '2018-05-26 23:13:54',
+        'Phone',
+        3,
+        2018,
+        'Diane Harrison'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        44,
+        '2011-05-28 23:44:39',
+        'Instagram',
+        1,
+        2011,
+        'Dr. Courtney Green MD'
+    ),
+    (
+        44,
+        '2011-05-28 23:44:39',
+        'Instagram',
+        3,
+        2011,
+        'Cody Davis'
+    ),
+    (
+        44,
+        '2011-05-28 23:44:39',
+        'Instagram',
+        5,
+        2011,
+        'Wesley Garcia'
+    ),
+    (
+        44,
+        '2011-05-28 23:44:39',
+        'Instagram',
+        2,
+        2011,
+        'Keith Ingram'
+    ),
+    (
+        44,
+        '2011-05-28 23:44:39',
+        'Instagram',
+        4,
+        2011,
+        'John Henderson'
+    ),
+    (
+        871,
+        '2014-05-31 22:54:16',
+        'Phone',
+        5,
+        2014,
+        'Lisa Wright'
+    ),
+    (
+        871,
+        '2014-05-31 22:54:16',
+        'Phone',
+        1,
+        2014,
+        'Teresa Martin'
+    ),
+    (
+        871,
+        '2014-05-31 22:54:16',
+        'Phone',
+        3,
+        2014,
+        'Mary Vance'
+    ),
+    (
+        871,
+        '2014-05-31 22:54:16',
+        'Phone',
+        4,
+        2014,
+        'Todd Miller'
+    ),
+    (
+        871,
+        '2014-05-31 22:54:16',
+        'Phone',
+        2,
+        2014,
+        'John Conner'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        52,
+        '2024-05-25 22:53:52',
+        'Web',
+        4,
+        2024,
+        'Emily Buck'
+    ),
+    (
+        52,
+        '2024-05-25 22:53:52',
+        'Web',
+        1,
+        2024,
+        'Amber Williams'
+    ),
+    (
+        52,
+        '2024-05-25 22:53:52',
+        'Web',
+        3,
+        2024,
+        'Christopher Singh'
+    ),
+    (
+        273,
+        '2021-05-29 23:54:39',
+        'Web',
+        1,
+        2021,
+        'Thomas Smith'
+    ),
+    (
+        273,
+        '2021-05-29 23:54:39',
+        'Web',
+        4,
+        2021,
+        'Aaron Baldwin'
+    ),
+    (
+        273,
+        '2021-05-29 23:54:39',
+        'Web',
+        5,
+        2021,
+        'Amber Mcdowell'
+    ),
+    (
+        273,
+        '2021-05-29 23:54:39',
+        'Web',
+        3,
+        2021,
+        'Jack Singh'
+    ),
+    (
+        273,
+        '2021-05-29 23:54:39',
+        'Web',
+        2,
+        2021,
+        'Robin Myers'
+    ),
+    (
+        746,
+        '2021-05-29 22:39:45',
+        'Web',
+        2,
+        2021,
+        'Caleb Ellison'
+    ),
+    (
+        746,
+        '2021-05-29 22:39:45',
+        'Web',
+        3,
+        2021,
+        'Samantha Lee'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        746,
+        '2021-05-29 22:39:45',
+        'Web',
+        4,
+        2021,
+        'Aaron Baldwin'
+    ),
+    (
+        746,
+        '2021-05-29 22:39:45',
+        'Web',
+        5,
+        2021,
+        'Tamara Barnes'
+    ),
+    (
+        746,
+        '2021-05-29 22:39:45',
+        'Web',
+        1,
+        2021,
+        'Amber Mcdowell'
+    ),
+    (
+        656,
+        '2024-05-25 22:28:28',
+        'Instagram',
+        2,
+        2024,
+        'Christopher Singh'
+    ),
+    (
+        656,
+        '2024-05-25 22:28:28',
+        'Instagram',
+        4,
+        2024,
+        'Taylor Lopez'
+    ),
+    (
+        656,
+        '2024-05-25 22:28:28',
+        'Instagram',
+        1,
+        2024,
+        'Amber Williams'
+    ),
+    (
+        656,
+        '2024-05-25 22:28:28',
+        'Instagram',
+        5,
+        2024,
+        'Gabriel Arroyo'
+    ),
+    (
+        656,
+        '2024-05-25 22:28:28',
+        'Instagram',
+        3,
+        2024,
+        'Alexis Fields'
+    ),
+    (
+        42,
+        '2024-05-25 22:26:50',
+        'Instagram',
+        5,
+        2024,
+        'Richard Lewis'
+    ),
+    (
+        190,
+        '2024-05-25 22:03:54',
+        'Instagram',
+        3,
+        2024,
+        'Taylor Lopez'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        190,
+        '2024-05-25 22:03:54',
+        'Instagram',
+        4,
+        2024,
+        'Austin Williams'
+    ),
+    (
+        190,
+        '2024-05-25 22:03:54',
+        'Instagram',
+        1,
+        2024,
+        'Christy Perry'
+    ),
+    (
+        190,
+        '2024-05-25 22:03:54',
+        'Instagram',
+        5,
+        2024,
+        'Amber Williams'
+    ),
+    (
+        190,
+        '2024-05-25 22:03:54',
+        'Instagram',
+        2,
+        2024,
+        'Christopher Singh'
+    ),
+    (
+        807,
+        '2022-05-28 23:08:41',
+        'Web',
+        1,
+        2022,
+        'Martin Moore'
+    ),
+    (
+        807,
+        '2022-05-28 23:08:41',
+        'Web',
+        4,
+        2022,
+        'Michelle Martin'
+    ),
+    (
+        807,
+        '2022-05-28 23:08:41',
+        'Web',
+        3,
+        2022,
+        'Andrew Hodges'
+    ),
+    (
+        807,
+        '2022-05-28 23:08:41',
+        'Web',
+        5,
+        2022,
+        'Robert Curtis'
+    ),
+    (
+        807,
+        '2022-05-28 23:08:41',
+        'Web',
+        2,
+        2022,
+        'Michael Baker'
+    ),
+    (
+        223,
+        '2011-05-28 22:17:08',
+        'Facebook',
+        1,
+        2011,
+        'John Henderson'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        223,
+        '2011-05-28 22:17:08',
+        'Facebook',
+        3,
+        2011,
+        'Andres Rubio'
+    ),
+    (
+        223,
+        '2011-05-28 22:17:08',
+        'Facebook',
+        2,
+        2011,
+        'Cody Davis'
+    ),
+    (
+        223,
+        '2011-05-28 22:17:08',
+        'Facebook',
+        5,
+        2011,
+        'Keith Ingram'
+    ),
+    (
+        223,
+        '2011-05-28 22:17:08',
+        'Facebook',
+        4,
+        2011,
+        'Ashley Lawson'
+    ),
+    (
+        958,
+        '2023-05-27 23:19:44',
+        'Phone',
+        3,
+        2023,
+        'Michael Butler'
+    ),
+    (
+        958,
+        '2023-05-27 23:19:44',
+        'Phone',
+        2,
+        2023,
+        'Manuel Graves'
+    ),
+    (
+        958,
+        '2023-05-27 23:19:44',
+        'Phone',
+        1,
+        2023,
+        'Megan Saunders'
+    ),
+    (
+        958,
+        '2023-05-27 23:19:44',
+        'Phone',
+        5,
+        2023,
+        'Paula Henderson'
+    ),
+    (
+        958,
+        '2023-05-27 23:19:44',
+        'Phone',
+        4,
+        2023,
+        'Thomas Ruiz'
+    ),
+    (
+        128,
+        '2018-05-26 22:35:20',
+        'Instagram',
+        5,
+        2018,
+        'Charles Glover'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        128,
+        '2018-05-26 22:35:20',
+        'Instagram',
+        4,
+        2018,
+        'Danielle Miller'
+    ),
+    (
+        128,
+        '2018-05-26 22:35:20',
+        'Instagram',
+        3,
+        2018,
+        'Laura Barnes'
+    ),
+    (
+        128,
+        '2018-05-26 22:35:20',
+        'Instagram',
+        2,
+        2018,
+        'Diane Harrison'
+    ),
+    (
+        128,
+        '2018-05-26 22:35:20',
+        'Instagram',
+        1,
+        2018,
+        'Jessica Williams'
+    ),
+    (
+        457,
+        '2021-05-29 22:07:09',
+        'Web',
+        2,
+        2021,
+        'Samantha Lee'
+    ),
+    (
+        457,
+        '2021-05-29 22:07:09',
+        'Web',
+        1,
+        2021,
+        'Thomas Smith'
+    ),
+    (
+        457,
+        '2021-05-29 22:07:09',
+        'Web',
+        3,
+        2021,
+        'Manuel Caldwell'
+    ),
+    (
+        457,
+        '2021-05-29 22:07:09',
+        'Web',
+        4,
+        2021,
+        'Ann Perez'
+    ),
+    (
+        457,
+        '2021-05-29 22:07:09',
+        'Web',
+        5,
+        2021,
+        'Robin Myers'
+    ),
+    (
+        53,
+        '2017-05-27 22:31:47',
+        'Phone',
+        4,
+        2017,
+        'Brandi Harris'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        53,
+        '2017-05-27 22:31:47',
+        'Phone',
+        2,
+        2017,
+        'Tina Roy'
+    ),
+    (
+        53,
+        '2017-05-27 22:31:47',
+        'Phone',
+        3,
+        2017,
+        'Elizabeth Koch'
+    ),
+    (
+        53,
+        '2017-05-27 22:31:47',
+        'Phone',
+        5,
+        2017,
+        'Brian Mccall'
+    ),
+    (
+        53,
+        '2017-05-27 22:31:47',
+        'Phone',
+        1,
+        2017,
+        'Matthew Vaughn'
+    ),
+    (
+        317,
+        '2018-05-26 23:10:30',
+        'Phone',
+        3,
+        2018,
+        'Diane Harrison'
+    ),
+    (
+        317,
+        '2018-05-26 23:10:30',
+        'Phone',
+        2,
+        2018,
+        'Kimberly Davis'
+    ),
+    (
+        317,
+        '2018-05-26 23:10:30',
+        'Phone',
+        4,
+        2018,
+        'Carrie Clark'
+    ),
+    (
+        317,
+        '2018-05-26 23:10:30',
+        'Phone',
+        5,
+        2018,
+        'Laura Barnes'
+    ),
+    (
+        317,
+        '2018-05-26 23:10:30',
+        'Phone',
+        1,
+        2018,
+        'Brandon Ruiz'
+    ),
+    (
+        39,
+        '2010-05-29 22:35:45',
+        'Web',
+        3,
+        2010,
+        'Timothy Sandoval'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        39,
+        '2010-05-29 22:35:45',
+        'Web',
+        1,
+        2010,
+        'Katherine Li'
+    ),
+    (
+        39,
+        '2010-05-29 22:35:45',
+        'Web',
+        2,
+        2010,
+        'Richard Dawson'
+    ),
+    (
+        39,
+        '2010-05-29 22:35:45',
+        'Web',
+        5,
+        2010,
+        'David Williams'
+    ),
+    (
+        39,
+        '2010-05-29 22:35:45',
+        'Web',
+        4,
+        2010,
+        'Rachel Melton'
+    ),
+    (
+        593,
+        '2015-05-30 23:32:27',
+        'Facebook',
+        4,
+        2015,
+        'Colleen White'
+    ),
+    (
+        593,
+        '2015-05-30 23:32:27',
+        'Facebook',
+        5,
+        2015,
+        'Louis Phillips'
+    ),
+    (
+        593,
+        '2015-05-30 23:32:27',
+        'Facebook',
+        1,
+        2015,
+        'Brett Benjamin'
+    ),
+    (
+        593,
+        '2015-05-30 23:32:27',
+        'Facebook',
+        2,
+        2015,
+        'Nicholas Black'
+    ),
+    (
+        593,
+        '2015-05-30 23:32:27',
+        'Facebook',
+        3,
+        2015,
+        'Heidi Barry'
+    ),
+    (
+        931,
+        '2020-05-30 23:06:42',
+        'Phone',
+        4,
+        2020,
+        'Travis Walker'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        931,
+        '2020-05-30 23:06:42',
+        'Phone',
+        2,
+        2020,
+        'Jacob Hickman'
+    ),
+    (
+        931,
+        '2020-05-30 23:06:42',
+        'Phone',
+        5,
+        2020,
+        'Benjamin Thomas'
+    ),
+    (
+        931,
+        '2020-05-30 23:06:42',
+        'Phone',
+        1,
+        2020,
+        'Lisa Wood'
+    ),
+    (
+        931,
+        '2020-05-30 23:06:42',
+        'Phone',
+        3,
+        2020,
+        'Mr. Steven Yoder'
+    ),
+    (
+        836,
+        '2022-05-28 23:22:15',
+        'Facebook',
+        5,
+        2022,
+        'Michael Martinez'
+    ),
+    (
+        836,
+        '2022-05-28 23:22:15',
+        'Facebook',
+        3,
+        2022,
+        'Andrew Hodges'
+    ),
+    (
+        836,
+        '2022-05-28 23:22:15',
+        'Facebook',
+        2,
+        2022,
+        'Martin Moore'
+    ),
+    (
+        836,
+        '2022-05-28 23:22:15',
+        'Facebook',
+        1,
+        2022,
+        'Andre Burton'
+    ),
+    (
+        836,
+        '2022-05-28 23:22:15',
+        'Facebook',
+        4,
+        2022,
+        'Thomas Gregory'
+    ),
+    (
+        734,
+        '2017-05-27 22:39:13',
+        'Web',
+        3,
+        2017,
+        'Nathan Williams'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        734,
+        '2017-05-27 22:39:13',
+        'Web',
+        2,
+        2017,
+        'Andrea Hill'
+    ),
+    (
+        915,
+        '2019-05-25 22:39:43',
+        'Facebook',
+        4,
+        2019,
+        'Kyle Hernandez'
+    ),
+    (
+        915,
+        '2019-05-25 22:39:43',
+        'Facebook',
+        2,
+        2019,
+        'Patrick Wilson'
+    ),
+    (
+        915,
+        '2019-05-25 22:39:43',
+        'Facebook',
+        1,
+        2019,
+        'Cameron Hawkins'
+    ),
+    (
+        915,
+        '2019-05-25 22:39:43',
+        'Facebook',
+        5,
+        2019,
+        'Aaron Peterson'
+    ),
+    (
+        915,
+        '2019-05-25 22:39:43',
+        'Facebook',
+        3,
+        2019,
+        'Samantha Jones'
+    ),
+    (
+        564,
+        '2018-05-26 23:42:47',
+        'Web',
+        3,
+        2018,
+        'Jessica Williams'
+    ),
+    (
+        564,
+        '2018-05-26 23:42:47',
+        'Web',
+        1,
+        2018,
+        'Danielle Miller'
+    ),
+    (
+        564,
+        '2018-05-26 23:42:47',
+        'Web',
+        4,
+        2018,
+        'Brandon Ruiz'
+    ),
+    (
+        564,
+        '2018-05-26 23:42:47',
+        'Web',
+        2,
+        2018,
+        'Kimberly Davis'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        564,
+        '2018-05-26 23:42:47',
+        'Web',
+        5,
+        2018,
+        'Carrie Clark'
+    ),
+    (
+        174,
+        '2017-05-27 22:09:30',
+        'Phone',
+        5,
+        2017,
+        'Denise Jones'
+    ),
+    (
+        174,
+        '2017-05-27 22:09:30',
+        'Phone',
+        3,
+        2017,
+        'Andrea Hill'
+    ),
+    (
+        174,
+        '2017-05-27 22:09:30',
+        'Phone',
+        1,
+        2017,
+        'Matthew Vaughn'
+    ),
+    (
+        174,
+        '2017-05-27 22:09:30',
+        'Phone',
+        4,
+        2017,
+        'Tina Roy'
+    ),
+    (
+        174,
+        '2017-05-27 22:09:30',
+        'Phone',
+        2,
+        2017,
+        'Rachel Cole'
+    ),
+    (
+        525,
+        '2012-05-26 23:14:03',
+        'Instagram',
+        1,
+        2012,
+        'Stacy White'
+    ),
+    (
+        525,
+        '2012-05-26 23:14:03',
+        'Instagram',
+        2,
+        2012,
+        'Patrick Benson'
+    ),
+    (
+        525,
+        '2012-05-26 23:14:03',
+        'Instagram',
+        4,
+        2012,
+        'Maria Robertson'
+    ),
+    (
+        1,
+        '2020-05-30 22:09:28',
+        'Web',
+        4,
+        2020,
+        'Travis Walker'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        1,
+        '2020-05-30 22:09:28',
+        'Web',
+        1,
+        2020,
+        'Jacob Hickman'
+    ),
+    (
+        682,
+        '2011-05-28 23:57:41',
+        'Phone',
+        5,
+        2011,
+        'Wesley Garcia'
+    ),
+    (
+        682,
+        '2011-05-28 23:57:41',
+        'Phone',
+        2,
+        2011,
+        'Justin Kelly'
+    ),
+    (
+        682,
+        '2011-05-28 23:57:41',
+        'Phone',
+        4,
+        2011,
+        'Carmen Mitchell'
+    ),
+    (
+        682,
+        '2011-05-28 23:57:41',
+        'Phone',
+        3,
+        2011,
+        'Dr. Courtney Green MD'
+    ),
+    (
+        682,
+        '2011-05-28 23:57:41',
+        'Phone',
+        1,
+        2011,
+        'Ashley Lawson'
+    ),
+    (
+        973,
+        '2024-05-25 22:31:44',
+        'Phone',
+        4,
+        2024,
+        'Amber Williams'
+    ),
+    (
+        973,
+        '2024-05-25 22:31:44',
+        'Phone',
+        2,
+        2024,
+        'Richard Lewis'
+    ),
+    (
+        973,
+        '2024-05-25 22:31:44',
+        'Phone',
+        1,
+        2024,
+        'Austin Williams'
+    ),
+    (
+        973,
+        '2024-05-25 22:31:44',
+        'Phone',
+        5,
+        2024,
+        'Taylor Lopez'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        973,
+        '2024-05-25 22:31:44',
+        'Phone',
+        3,
+        2024,
+        'Emily Buck'
+    ),
+    (
+        779,
+        '2022-05-28 22:30:56',
+        'Phone',
+        1,
+        2022,
+        'Gary Stone'
+    ),
+    (
+        779,
+        '2022-05-28 22:30:56',
+        'Phone',
+        5,
+        2022,
+        'Martin Moore'
+    ),
+    (
+        779,
+        '2022-05-28 22:30:56',
+        'Phone',
+        2,
+        2022,
+        'Michael Baker'
+    ),
+    (
+        779,
+        '2022-05-28 22:30:56',
+        'Phone',
+        3,
+        2022,
+        'Andrew Hodges'
+    ),
+    (
+        779,
+        '2022-05-28 22:30:56',
+        'Phone',
+        4,
+        2022,
+        'Thomas Gregory'
+    ),
+    (
+        612,
+        '2019-05-25 23:50:46',
+        'Instagram',
+        2,
+        2019,
+        'Kathryn Alvarez'
+    ),
+    (
+        612,
+        '2019-05-25 23:50:46',
+        'Instagram',
+        5,
+        2019,
+        'Cameron Hawkins'
+    ),
+    (
+        612,
+        '2019-05-25 23:50:46',
+        'Instagram',
+        4,
+        2019,
+        'Terry Powell'
+    ),
+    (
+        612,
+        '2019-05-25 23:50:46',
+        'Instagram',
+        1,
+        2019,
+        'Amanda Ingram'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        612,
+        '2019-05-25 23:50:46',
+        'Instagram',
+        3,
+        2019,
+        'Jennifer Ford'
+    ),
+    (
+        943,
+        '2018-05-26 23:16:02',
+        'Instagram',
+        4,
+        2018,
+        'John Hubbard'
+    ),
+    (
+        943,
+        '2018-05-26 23:16:02',
+        'Instagram',
+        5,
+        2018,
+        'Brandon Ruiz'
+    ),
+    (
+        943,
+        '2018-05-26 23:16:02',
+        'Instagram',
+        3,
+        2018,
+        'Danielle Miller'
+    ),
+    (
+        943,
+        '2018-05-26 23:16:02',
+        'Instagram',
+        1,
+        2018,
+        'Steven Cox'
+    ),
+    (
+        943,
+        '2018-05-26 23:16:02',
+        'Instagram',
+        2,
+        2018,
+        'Laura Barnes'
+    ),
+    (
+        380,
+        '2011-05-28 23:34:15',
+        'Phone',
+        2,
+        2011,
+        'John Henderson'
+    ),
+    (
+        380,
+        '2011-05-28 23:34:15',
+        'Phone',
+        5,
+        2011,
+        'Cody Davis'
+    ),
+    (
+        380,
+        '2011-05-28 23:34:15',
+        'Phone',
+        4,
+        2011,
+        'Justin Kelly'
+    ),
+    (
+        380,
+        '2011-05-28 23:34:15',
+        'Phone',
+        3,
+        2011,
+        'Andres Rubio'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        380,
+        '2011-05-28 23:34:15',
+        'Phone',
+        1,
+        2011,
+        'Wesley Garcia'
+    ),
+    (
+        132,
+        '2011-05-28 23:18:25',
+        'Facebook',
+        1,
+        2011,
+        'John Henderson'
+    ),
+    (
+        132,
+        '2011-05-28 23:18:25',
+        'Facebook',
+        5,
+        2011,
+        'Carmen Mitchell'
+    ),
+    (
+        132,
+        '2011-05-28 23:18:25',
+        'Facebook',
+        2,
+        2011,
+        'Keith Ingram'
+    ),
+    (
+        132,
+        '2011-05-28 23:18:25',
+        'Facebook',
+        4,
+        2011,
+        'Justin Kelly'
+    ),
+    (
+        132,
+        '2011-05-28 23:18:25',
+        'Facebook',
+        3,
+        2011,
+        'Wesley Garcia'
+    ),
+    (
+        643,
+        '2009-05-30 23:32:26',
+        'Phone',
+        5,
+        2009,
+        'Carrie Bell'
+    ),
+    (
+        643,
+        '2009-05-30 23:32:26',
+        'Phone',
+        2,
+        2009,
+        'Kimberly Craig'
+    ),
+    (
+        643,
+        '2009-05-30 23:32:26',
+        'Phone',
+        3,
+        2009,
+        'Melanie Hall'
+    ),
+    (
+        643,
+        '2009-05-30 23:32:26',
+        'Phone',
+        1,
+        2009,
+        'Matthew Garcia'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        643,
+        '2009-05-30 23:32:26',
+        'Phone',
+        4,
+        2009,
+        'Leslie Saunders'
+    ),
+    (
+        330,
+        '2010-05-29 23:28:05',
+        'Facebook',
+        2,
+        2010,
+        'Rachel Melton'
+    ),
+    (
+        330,
+        '2010-05-29 23:28:05',
+        'Facebook',
+        5,
+        2010,
+        'Kevin Wilson'
+    ),
+    (
+        330,
+        '2010-05-29 23:28:05',
+        'Facebook',
+        3,
+        2010,
+        'Kayla Vargas'
+    ),
+    (
+        330,
+        '2010-05-29 23:28:05',
+        'Facebook',
+        4,
+        2010,
+        'Katherine Li'
+    ),
+    (
+        330,
+        '2010-05-29 23:28:05',
+        'Facebook',
+        1,
+        2010,
+        'Matthew Rice'
+    ),
+    (
+        798,
+        '2010-05-29 22:15:17',
+        'Instagram',
+        2,
+        2010,
+        'David Williams'
+    ),
+    (
+        798,
+        '2010-05-29 22:15:17',
+        'Instagram',
+        1,
+        2010,
+        'Rachel Melton'
+    ),
+    (
+        798,
+        '2010-05-29 22:15:17',
+        'Instagram',
+        4,
+        2010,
+        'Matthew Rice'
+    ),
+    (
+        798,
+        '2010-05-29 22:15:17',
+        'Instagram',
+        5,
+        2010,
+        'Richard Dawson'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        798,
+        '2010-05-29 22:15:17',
+        'Instagram',
+        3,
+        2010,
+        'Courtney Barber'
+    ),
+    (
+        641,
+        '2021-05-29 22:14:46',
+        'Web',
+        1,
+        2021,
+        'Jack Singh'
+    ),
+    (
+        641,
+        '2021-05-29 22:14:46',
+        'Web',
+        5,
+        2021,
+        'Manuel Caldwell'
+    ),
+    (
+        641,
+        '2021-05-29 22:14:46',
+        'Web',
+        3,
+        2021,
+        'Ann Perez'
+    ),
+    (
+        641,
+        '2021-05-29 22:14:46',
+        'Web',
+        2,
+        2021,
+        'Caleb Ellison'
+    ),
+    (
+        641,
+        '2021-05-29 22:14:46',
+        'Web',
+        4,
+        2021,
+        'Aaron Baldwin'
+    ),
+    (
+        858,
+        '2009-05-30 22:55:07',
+        'Instagram',
+        4,
+        2009,
+        'Carrie Bell'
+    ),
+    (
+        858,
+        '2009-05-30 22:55:07',
+        'Instagram',
+        2,
+        2009,
+        'Matthew Garcia'
+    ),
+    (
+        858,
+        '2009-05-30 22:55:07',
+        'Instagram',
+        5,
+        2009,
+        'Wanda Smith'
+    ),
+    (
+        858,
+        '2009-05-30 22:55:07',
+        'Instagram',
+        1,
+        2009,
+        'Theresa Castaneda'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        858,
+        '2009-05-30 22:55:07',
+        'Instagram',
+        3,
+        2009,
+        'Sandra Lopez'
+    ),
+    (
+        380,
+        '2022-05-28 23:27:49',
+        'Phone',
+        3,
+        2022,
+        'Andre Burton'
+    ),
+    (
+        380,
+        '2022-05-28 23:27:49',
+        'Phone',
+        2,
+        2022,
+        'Michael Martinez'
+    ),
+    (
+        380,
+        '2022-05-28 23:27:49',
+        'Phone',
+        1,
+        2022,
+        'Michelle Martin'
+    ),
+    (
+        380,
+        '2022-05-28 23:27:49',
+        'Phone',
+        4,
+        2022,
+        'Robert Curtis'
+    ),
+    (
+        380,
+        '2022-05-28 23:27:49',
+        'Phone',
+        5,
+        2022,
+        'Andrew Hodges'
+    ),
+    (
+        884,
+        '2009-05-30 23:22:24',
+        'Facebook',
+        1,
+        2009,
+        'Sandra Lopez'
+    ),
+    (
+        884,
+        '2009-05-30 23:22:24',
+        'Facebook',
+        2,
+        2009,
+        'Jason Hebert'
+    ),
+    (
+        884,
+        '2009-05-30 23:22:24',
+        'Facebook',
+        4,
+        2009,
+        'Theresa Castaneda'
+    ),
+    (
+        884,
+        '2009-05-30 23:22:24',
+        'Facebook',
+        5,
+        2009,
+        'Matthew Garcia'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        884,
+        '2009-05-30 23:22:24',
+        'Facebook',
+        3,
+        2009,
+        'Melanie Hall'
+    ),
+    (
+        164,
+        '2012-05-26 22:57:19',
+        'Facebook',
+        2,
+        2012,
+        'Tyler Jordan'
+    ),
+    (
+        164,
+        '2012-05-26 22:57:19',
+        'Facebook',
+        5,
+        2012,
+        'Maria Robertson'
+    ),
+    (
+        164,
+        '2012-05-26 22:57:19',
+        'Facebook',
+        4,
+        2012,
+        'Jose Smith Jr.'
+    ),
+    (
+        164,
+        '2012-05-26 22:57:19',
+        'Facebook',
+        3,
+        2012,
+        'Lynn Booth'
+    ),
+    (
+        164,
+        '2012-05-26 22:57:19',
+        'Facebook',
+        1,
+        2012,
+        'Anthony Bradford'
+    ),
+    (
+        561,
+        '2009-05-30 22:46:48',
+        'Facebook',
+        3,
+        2009,
+        'Olivia Nichols'
+    ),
+    (
+        561,
+        '2009-05-30 22:46:48',
+        'Facebook',
+        4,
+        2009,
+        'Theresa Castaneda'
+    ),
+    (
+        561,
+        '2009-05-30 22:46:48',
+        'Facebook',
+        1,
+        2009,
+        'Wanda Smith'
+    ),
+    (
+        508,
+        '2012-05-26 23:32:50',
+        'Web',
+        2,
+        2012,
+        'Kenneth Warner'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        508,
+        '2012-05-26 23:32:50',
+        'Web',
+        1,
+        2012,
+        'Anthony Bradford'
+    ),
+    (
+        508,
+        '2012-05-26 23:32:50',
+        'Web',
+        3,
+        2012,
+        'Patrick Benson'
+    ),
+    (
+        508,
+        '2012-05-26 23:32:50',
+        'Web',
+        4,
+        2012,
+        'Jose Smith Jr.'
+    ),
+    (
+        508,
+        '2012-05-26 23:32:50',
+        'Web',
+        5,
+        2012,
+        'Lynn Booth'
+    ),
+    (
+        265,
+        '2012-05-26 23:35:06',
+        'Facebook',
+        3,
+        2012,
+        'Jose Smith Jr.'
+    ),
+    (
+        265,
+        '2012-05-26 23:35:06',
+        'Facebook',
+        4,
+        2012,
+        'Stacy White'
+    ),
+    (
+        265,
+        '2012-05-26 23:35:06',
+        'Facebook',
+        1,
+        2012,
+        'Tyler Jordan'
+    ),
+    (
+        265,
+        '2012-05-26 23:35:06',
+        'Facebook',
+        5,
+        2012,
+        'Lynn Booth'
+    ),
+    (
+        265,
+        '2012-05-26 23:35:06',
+        'Facebook',
+        2,
+        2012,
+        'Stephanie Patrick'
+    ),
+    (
+        432,
+        '2021-05-29 22:23:43',
+        'Phone',
+        1,
+        2021,
+        'Amber Mcdowell'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        432,
+        '2021-05-29 22:23:43',
+        'Phone',
+        5,
+        2021,
+        'Aaron Baldwin'
+    ),
+    (
+        432,
+        '2021-05-29 22:23:43',
+        'Phone',
+        4,
+        2021,
+        'Jack Singh'
+    ),
+    (
+        432,
+        '2021-05-29 22:23:43',
+        'Phone',
+        2,
+        2021,
+        'Caleb Ellison'
+    ),
+    (
+        432,
+        '2021-05-29 22:23:43',
+        'Phone',
+        3,
+        2021,
+        'Samantha Lee'
+    ),
+    (
+        869,
+        '2015-05-30 23:05:19',
+        'Facebook',
+        4,
+        2015,
+        'Lisa Patrick'
+    ),
+    (
+        939,
+        '2019-05-25 23:06:49',
+        'Phone',
+        1,
+        2019,
+        'Aaron Peterson'
+    ),
+    (
+        939,
+        '2019-05-25 23:06:49',
+        'Phone',
+        5,
+        2019,
+        'Kathryn Alvarez'
+    ),
+    (
+        939,
+        '2019-05-25 23:06:49',
+        'Phone',
+        4,
+        2019,
+        'Patrick Wilson'
+    ),
+    (
+        939,
+        '2019-05-25 23:06:49',
+        'Phone',
+        2,
+        2019,
+        'Terry Powell'
+    ),
+    (
+        939,
+        '2019-05-25 23:06:49',
+        'Phone',
+        3,
+        2019,
+        'Cameron Hawkins'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        568,
+        '2009-05-30 22:04:24',
+        'Facebook',
+        2,
+        2009,
+        'Matthew Garcia'
+    ),
+    (
+        568,
+        '2009-05-30 22:04:24',
+        'Facebook',
+        3,
+        2009,
+        'Olivia Nichols'
+    ),
+    (
+        568,
+        '2009-05-30 22:04:24',
+        'Facebook',
+        4,
+        2009,
+        'Leslie Saunders'
+    ),
+    (
+        568,
+        '2009-05-30 22:04:24',
+        'Facebook',
+        5,
+        2009,
+        'Kimberly Craig'
+    ),
+    (
+        568,
+        '2009-05-30 22:04:24',
+        'Facebook',
+        1,
+        2009,
+        'Jason Hebert'
+    ),
+    (
+        569,
+        '2020-05-30 23:38:31',
+        'Phone',
+        3,
+        2020,
+        'Charles Washington'
+    ),
+    (
+        569,
+        '2020-05-30 23:38:31',
+        'Phone',
+        2,
+        2020,
+        'Jacob Hickman'
+    ),
+    (
+        569,
+        '2020-05-30 23:38:31',
+        'Phone',
+        4,
+        2020,
+        'Mr. Steven Yoder'
+    ),
+    (
+        126,
+        '2017-05-27 22:47:12',
+        'Phone',
+        1,
+        2017,
+        'Rachel Cole'
+    ),
+    (
+        126,
+        '2017-05-27 22:47:12',
+        'Phone',
+        2,
+        2017,
+        'Nathan Williams'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        126,
+        '2017-05-27 22:47:12',
+        'Phone',
+        3,
+        2017,
+        'Denise Jones'
+    ),
+    (
+        126,
+        '2017-05-27 22:47:12',
+        'Phone',
+        5,
+        2017,
+        'Brian Mccall'
+    ),
+    (
+        126,
+        '2017-05-27 22:47:12',
+        'Phone',
+        4,
+        2017,
+        'Tina Roy'
+    ),
+    (
+        832,
+        '2017-05-27 23:35:44',
+        'Facebook',
+        3,
+        2017,
+        'Tina Roy'
+    ),
+    (
+        832,
+        '2017-05-27 23:35:44',
+        'Facebook',
+        5,
+        2017,
+        'Denise Jones'
+    ),
+    (
+        832,
+        '2017-05-27 23:35:44',
+        'Facebook',
+        1,
+        2017,
+        'Elizabeth Koch'
+    ),
+    (
+        832,
+        '2017-05-27 23:35:44',
+        'Facebook',
+        2,
+        2017,
+        'Rachel Cole'
+    ),
+    (
+        832,
+        '2017-05-27 23:35:44',
+        'Facebook',
+        4,
+        2017,
+        'Sean Ward'
+    ),
+    (
+        229,
+        '2019-05-25 23:14:25',
+        'Facebook',
+        4,
+        2019,
+        'Samantha Jones'
+    ),
+    (
+        229,
+        '2019-05-25 23:14:25',
+        'Facebook',
+        5,
+        2019,
+        'Terry Powell'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        229,
+        '2019-05-25 23:14:25',
+        'Facebook',
+        2,
+        2019,
+        'Aaron Peterson'
+    ),
+    (
+        229,
+        '2019-05-25 23:14:25',
+        'Facebook',
+        1,
+        2019,
+        'Kathryn Alvarez'
+    ),
+    (
+        229,
+        '2019-05-25 23:14:25',
+        'Facebook',
+        3,
+        2019,
+        'Kyle Hernandez'
+    ),
+    (
+        291,
+        '2013-05-25 22:54:35',
+        'Facebook',
+        2,
+        2013,
+        'Wendy Cunningham'
+    ),
+    (
+        291,
+        '2013-05-25 22:54:35',
+        'Facebook',
+        4,
+        2013,
+        'Anthony Villanueva'
+    ),
+    (
+        291,
+        '2013-05-25 22:54:35',
+        'Facebook',
+        3,
+        2013,
+        'Cassandra Hooper'
+    ),
+    (
+        291,
+        '2013-05-25 22:54:35',
+        'Facebook',
+        5,
+        2013,
+        'Kimberly Larsen'
+    ),
+    (
+        291,
+        '2013-05-25 22:54:35',
+        'Facebook',
+        1,
+        2013,
+        'Blake Martinez'
+    ),
+    (
+        686,
+        '2015-05-30 22:18:14',
+        'Web',
+        1,
+        2015,
+        'Nathan Bailey'
+    ),
+    (
+        686,
+        '2015-05-30 22:18:14',
+        'Web',
+        3,
+        2015,
+        'Heidi Barry'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        686,
+        '2015-05-30 22:18:14',
+        'Web',
+        2,
+        2015,
+        'Travis Hays'
+    ),
+    (
+        686,
+        '2015-05-30 22:18:14',
+        'Web',
+        5,
+        2015,
+        'Deborah Sparks'
+    ),
+    (
+        686,
+        '2015-05-30 22:18:14',
+        'Web',
+        4,
+        2015,
+        'Lisa Patrick'
+    ),
+    (
+        687,
+        '2018-05-26 23:19:27',
+        'Facebook',
+        2,
+        2018,
+        'Charles Glover'
+    ),
+    (
+        687,
+        '2018-05-26 23:19:27',
+        'Facebook',
+        5,
+        2018,
+        'Laura Barnes'
+    ),
+    (
+        687,
+        '2018-05-26 23:19:27',
+        'Facebook',
+        1,
+        2018,
+        'Steven Cox'
+    ),
+    (
+        687,
+        '2018-05-26 23:19:27',
+        'Facebook',
+        3,
+        2018,
+        'John Hubbard'
+    ),
+    (
+        687,
+        '2018-05-26 23:19:27',
+        'Facebook',
+        4,
+        2018,
+        'Carrie Clark'
+    ),
+    (
+        580,
+        '2017-05-27 23:18:03',
+        'Facebook',
+        5,
+        2017,
+        'Sean Ward'
+    ),
+    (
+        580,
+        '2017-05-27 23:18:03',
+        'Facebook',
+        2,
+        2017,
+        'Andrea Hill'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        580,
+        '2017-05-27 23:18:03',
+        'Facebook',
+        4,
+        2017,
+        'Brian Mccall'
+    ),
+    (
+        580,
+        '2017-05-27 23:18:03',
+        'Facebook',
+        1,
+        2017,
+        'Denise Jones'
+    ),
+    (
+        580,
+        '2017-05-27 23:18:03',
+        'Facebook',
+        3,
+        2017,
+        'Nathan Williams'
+    ),
+    (
+        620,
+        '2013-05-25 22:03:13',
+        'Phone',
+        3,
+        2013,
+        'Wendy Cunningham'
+    ),
+    (
+        620,
+        '2013-05-25 22:03:13',
+        'Phone',
+        4,
+        2013,
+        'Diane Cooper'
+    ),
+    (
+        620,
+        '2013-05-25 22:03:13',
+        'Phone',
+        5,
+        2013,
+        'Kimberly Larsen'
+    ),
+    (
+        620,
+        '2013-05-25 22:03:13',
+        'Phone',
+        1,
+        2013,
+        'Angela Phillips'
+    ),
+    (
+        620,
+        '2013-05-25 22:03:13',
+        'Phone',
+        2,
+        2013,
+        'Thomas Hess'
+    ),
+    (
+        785,
+        '2017-05-27 23:31:39',
+        'Web',
+        2,
+        2017,
+        'Matthew Vaughn'
+    ),
+    (
+        785,
+        '2017-05-27 23:31:39',
+        'Web',
+        5,
+        2017,
+        'Brandi Harris'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        785,
+        '2017-05-27 23:31:39',
+        'Web',
+        1,
+        2017,
+        'Andrea Hill'
+    ),
+    (
+        785,
+        '2017-05-27 23:31:39',
+        'Web',
+        4,
+        2017,
+        'Denise Jones'
+    ),
+    (
+        785,
+        '2017-05-27 23:31:39',
+        'Web',
+        3,
+        2017,
+        'Nathan Williams'
+    ),
+    (
+        994,
+        '2024-05-25 23:37:44',
+        'Facebook',
+        4,
+        2024,
+        'Richard Lewis'
+    ),
+    (
+        994,
+        '2024-05-25 23:37:44',
+        'Facebook',
+        5,
+        2024,
+        'Austin Williams'
+    ),
+    (
+        994,
+        '2024-05-25 23:37:44',
+        'Facebook',
+        3,
+        2024,
+        'Taylor Lopez'
+    ),
+    (
+        241,
+        '2014-05-31 22:03:10',
+        'Phone',
+        5,
+        2014,
+        'Carol Garrett'
+    ),
+    (
+        241,
+        '2014-05-31 22:03:10',
+        'Phone',
+        2,
+        2014,
+        'John Conner'
+    ),
+    (
+        241,
+        '2014-05-31 22:03:10',
+        'Phone',
+        1,
+        2014,
+        'Lisa Wright'
+    ),
+    (
+        241,
+        '2014-05-31 22:03:10',
+        'Phone',
+        4,
+        2014,
+        'Todd Miller'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        241,
+        '2014-05-31 22:03:10',
+        'Phone',
+        3,
+        2014,
+        'Luke Williams'
+    ),
+    (
+        458,
+        '2021-05-29 23:26:04',
+        'Instagram',
+        3,
+        2021,
+        'Jack Singh'
+    ),
+    (
+        458,
+        '2021-05-29 23:26:04',
+        'Instagram',
+        2,
+        2021,
+        'Tamara Barnes'
+    ),
+    (
+        458,
+        '2021-05-29 23:26:04',
+        'Instagram',
+        4,
+        2021,
+        'Manuel Caldwell'
+    ),
+    (
+        458,
+        '2021-05-29 23:26:04',
+        'Instagram',
+        1,
+        2021,
+        'Robin Myers'
+    ),
+    (
+        458,
+        '2021-05-29 23:26:04',
+        'Instagram',
+        5,
+        2021,
+        'Ann Perez'
+    ),
+    (
+        513,
+        '2012-05-26 23:27:27',
+        'Web',
+        1,
+        2012,
+        'Jose Smith Jr.'
+    ),
+    (
+        513,
+        '2012-05-26 23:27:27',
+        'Web',
+        2,
+        2012,
+        'Patrick Benson'
+    ),
+    (
+        513,
+        '2012-05-26 23:27:27',
+        'Web',
+        5,
+        2012,
+        'Jennifer Wolfe'
+    ),
+    (
+        513,
+        '2012-05-26 23:27:27',
+        'Web',
+        4,
+        2012,
+        'Kenneth Warner'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        513,
+        '2012-05-26 23:27:27',
+        'Web',
+        3,
+        2012,
+        'Anthony Bradford'
+    ),
+    (
+        26,
+        '2015-05-30 23:39:49',
+        'Facebook',
+        3,
+        2015,
+        'Louis Phillips'
+    ),
+    (
+        26,
+        '2015-05-30 23:39:49',
+        'Facebook',
+        5,
+        2015,
+        'Nicholas Black'
+    ),
+    (
+        26,
+        '2015-05-30 23:39:49',
+        'Facebook',
+        4,
+        2015,
+        'Lisa Patrick'
+    ),
+    (
+        26,
+        '2015-05-30 23:39:49',
+        'Facebook',
+        1,
+        2015,
+        'Deborah Sparks'
+    ),
+    (
+        26,
+        '2015-05-30 23:39:49',
+        'Facebook',
+        2,
+        2015,
+        'Travis Hays'
+    ),
+    (
+        705,
+        '2010-05-29 22:50:01',
+        'Facebook',
+        4,
+        2010,
+        'Timothy Sandoval'
+    ),
+    (
+        705,
+        '2010-05-29 22:50:01',
+        'Facebook',
+        3,
+        2010,
+        'Matthew Rice'
+    ),
+    (
+        705,
+        '2010-05-29 22:50:01',
+        'Facebook',
+        2,
+        2010,
+        'Rachel Melton'
+    ),
+    (
+        705,
+        '2010-05-29 22:50:01',
+        'Facebook',
+        5,
+        2010,
+        'Courtney Barber'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        705,
+        '2010-05-29 22:50:01',
+        'Facebook',
+        1,
+        2010,
+        'David Williams'
+    ),
+    (
+        274,
+        '2020-05-30 22:24:42',
+        'Web',
+        3,
+        2020,
+        'Lisa Mcdaniel'
+    ),
+    (
+        274,
+        '2020-05-30 22:24:42',
+        'Web',
+        4,
+        2020,
+        'Juan Huerta'
+    ),
+    (
+        274,
+        '2020-05-30 22:24:42',
+        'Web',
+        5,
+        2020,
+        'Mr. Steven Yoder'
+    ),
+    (
+        274,
+        '2020-05-30 22:24:42',
+        'Web',
+        2,
+        2020,
+        'Jacob Hickman'
+    ),
+    (
+        274,
+        '2020-05-30 22:24:42',
+        'Web',
+        1,
+        2020,
+        'Charles Washington'
+    ),
+    (
+        438,
+        '2011-05-28 23:37:23',
+        'Web',
+        4,
+        2011,
+        'Carmen Mitchell'
+    ),
+    (
+        438,
+        '2011-05-28 23:37:23',
+        'Web',
+        3,
+        2011,
+        'Dr. Courtney Green MD'
+    ),
+    (
+        438,
+        '2011-05-28 23:37:23',
+        'Web',
+        1,
+        2011,
+        'Victoria Rosales PhD'
+    ),
+    (
+        438,
+        '2011-05-28 23:37:23',
+        'Web',
+        5,
+        2011,
+        'Justin Kelly'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        438,
+        '2011-05-28 23:37:23',
+        'Web',
+        2,
+        2011,
+        'Keith Ingram'
+    ),
+    (
+        854,
+        '2024-05-25 22:52:12',
+        'Instagram',
+        3,
+        2024,
+        'Amber Williams'
+    ),
+    (
+        854,
+        '2024-05-25 22:52:12',
+        'Instagram',
+        4,
+        2024,
+        'Jessica Murphy'
+    ),
+    (
+        854,
+        '2024-05-25 22:52:12',
+        'Instagram',
+        2,
+        2024,
+        'Taylor Lopez'
+    ),
+    (
+        854,
+        '2024-05-25 22:52:12',
+        'Instagram',
+        5,
+        2024,
+        'Alexis Fields'
+    ),
+    (
+        854,
+        '2024-05-25 22:52:12',
+        'Instagram',
+        1,
+        2024,
+        'Austin Williams'
+    ),
+    (
+        770,
+        '2015-05-30 23:37:52',
+        'Facebook',
+        4,
+        2015,
+        'Travis Hays'
+    ),
+    (
+        770,
+        '2015-05-30 23:37:52',
+        'Facebook',
+        2,
+        2015,
+        'Lisa Patrick'
+    ),
+    (
+        876,
+        '2019-05-25 22:23:53',
+        'Web',
+        3,
+        2019,
+        'Cameron Hawkins'
+    ),
+    (
+        876,
+        '2019-05-25 22:23:53',
+        'Web',
+        1,
+        2019,
+        'Terry Powell'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        876,
+        '2019-05-25 22:23:53',
+        'Web',
+        2,
+        2019,
+        'Sarah Hancock'
+    ),
+    (
+        876,
+        '2019-05-25 22:23:53',
+        'Web',
+        4,
+        2019,
+        'Kathryn Alvarez'
+    ),
+    (
+        876,
+        '2019-05-25 22:23:53',
+        'Web',
+        5,
+        2019,
+        'Kyle Hernandez'
+    ),
+    (
+        964,
+        '2010-05-29 22:39:44',
+        'Web',
+        4,
+        2010,
+        'David Williams'
+    ),
+    (
+        964,
+        '2010-05-29 22:39:44',
+        'Web',
+        5,
+        2010,
+        'Timothy Sandoval'
+    ),
+    (
+        964,
+        '2010-05-29 22:39:44',
+        'Web',
+        2,
+        2010,
+        'Matthew Rice'
+    ),
+    (
+        964,
+        '2010-05-29 22:39:44',
+        'Web',
+        1,
+        2010,
+        'Kyle Weiss'
+    ),
+    (
+        964,
+        '2010-05-29 22:39:44',
+        'Web',
+        3,
+        2010,
+        'Katherine Li'
+    ),
+    (
+        575,
+        '2013-05-25 23:42:31',
+        'Phone',
+        3,
+        2013,
+        'Tony Prince'
+    ),
+    (
+        575,
+        '2013-05-25 23:42:31',
+        'Phone',
+        1,
+        2013,
+        'Cassandra Hooper'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        575,
+        '2013-05-25 23:42:31',
+        'Phone',
+        4,
+        2013,
+        'Kimberly Larsen'
+    ),
+    (
+        575,
+        '2013-05-25 23:42:31',
+        'Phone',
+        5,
+        2013,
+        'Thomas Hess'
+    ),
+    (
+        575,
+        '2013-05-25 23:42:31',
+        'Phone',
+        2,
+        2013,
+        'Blake Martinez'
+    ),
+    (
+        167,
+        '2016-05-28 22:37:35',
+        'Facebook',
+        5,
+        2016,
+        'Anne Mcfarland'
+    ),
+    (
+        167,
+        '2016-05-28 22:37:35',
+        'Facebook',
+        2,
+        2016,
+        'Kimberly Wilkins MD'
+    ),
+    (
+        167,
+        '2016-05-28 22:37:35',
+        'Facebook',
+        3,
+        2016,
+        'Steve Bennett'
+    ),
+    (
+        199,
+        '2020-05-30 23:37:10',
+        'Web',
+        5,
+        2020,
+        'Charles Maddox'
+    ),
+    (
+        199,
+        '2020-05-30 23:37:10',
+        'Web',
+        2,
+        2020,
+        'Lisa Wood'
+    ),
+    (
+        199,
+        '2020-05-30 23:37:10',
+        'Web',
+        3,
+        2020,
+        'Benjamin Thomas'
+    ),
+    (
+        199,
+        '2020-05-30 23:37:10',
+        'Web',
+        4,
+        2020,
+        'Charles Washington'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        199,
+        '2020-05-30 23:37:10',
+        'Web',
+        1,
+        2020,
+        'Travis Walker'
+    ),
+    (
+        116,
+        '2018-05-26 22:15:32',
+        'Phone',
+        2,
+        2018,
+        'John Hubbard'
+    ),
+    (
+        116,
+        '2018-05-26 22:15:32',
+        'Phone',
+        5,
+        2018,
+        'Laura Barnes'
+    ),
+    (
+        116,
+        '2018-05-26 22:15:32',
+        'Phone',
+        3,
+        2018,
+        'Carrie Clark'
+    ),
+    (
+        116,
+        '2018-05-26 22:15:32',
+        'Phone',
+        4,
+        2018,
+        'Brandon Ruiz'
+    ),
+    (
+        116,
+        '2018-05-26 22:15:32',
+        'Phone',
+        1,
+        2018,
+        'Jessica Williams'
+    ),
+    (
+        263,
+        '2021-05-29 22:39:29',
+        'Facebook',
+        1,
+        2021,
+        'Thomas Smith'
+    ),
+    (
+        263,
+        '2021-05-29 22:39:29',
+        'Facebook',
+        2,
+        2021,
+        'Ann Perez'
+    ),
+    (
+        263,
+        '2021-05-29 22:39:29',
+        'Facebook',
+        3,
+        2021,
+        'Samantha Lee'
+    ),
+    (
+        263,
+        '2021-05-29 22:39:29',
+        'Facebook',
+        5,
+        2021,
+        'Tamara Barnes'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        263,
+        '2021-05-29 22:39:29',
+        'Facebook',
+        4,
+        2021,
+        'Amber Mcdowell'
+    ),
+    (
+        646,
+        '2014-05-31 22:59:38',
+        'Phone',
+        1,
+        2014,
+        'Carol Garrett'
+    ),
+    (
+        646,
+        '2014-05-31 22:59:38',
+        'Phone',
+        5,
+        2014,
+        'Todd Miller'
+    ),
+    (
+        646,
+        '2014-05-31 22:59:38',
+        'Phone',
+        3,
+        2014,
+        'Zachary Fox'
+    ),
+    (
+        646,
+        '2014-05-31 22:59:38',
+        'Phone',
+        2,
+        2014,
+        'Teresa Martin'
+    ),
+    (
+        646,
+        '2014-05-31 22:59:38',
+        'Phone',
+        4,
+        2014,
+        'Luke Williams'
+    ),
+    (
+        579,
+        '2021-05-29 22:03:10',
+        'Facebook',
+        1,
+        2021,
+        'Ann Perez'
+    ),
+    (
+        579,
+        '2021-05-29 22:03:10',
+        'Facebook',
+        4,
+        2021,
+        'Jack Singh'
+    ),
+    (
+        579,
+        '2021-05-29 22:03:10',
+        'Facebook',
+        2,
+        2021,
+        'Caleb Ellison'
+    ),
+    (
+        579,
+        '2021-05-29 22:03:10',
+        'Facebook',
+        5,
+        2021,
+        'Manuel Caldwell'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        579,
+        '2021-05-29 22:03:10',
+        'Facebook',
+        3,
+        2021,
+        'Samantha Lee'
+    ),
+    (
+        382,
+        '2019-05-25 23:22:23',
+        'Phone',
+        2,
+        2019,
+        'Terry Powell'
+    ),
+    (
+        382,
+        '2019-05-25 23:22:23',
+        'Phone',
+        1,
+        2019,
+        'Kathryn Alvarez'
+    ),
+    (
+        382,
+        '2019-05-25 23:22:23',
+        'Phone',
+        3,
+        2019,
+        'Cameron Hawkins'
+    ),
+    (
+        382,
+        '2019-05-25 23:22:23',
+        'Phone',
+        5,
+        2019,
+        'Amanda Ingram'
+    ),
+    (
+        382,
+        '2019-05-25 23:22:23',
+        'Phone',
+        4,
+        2019,
+        'Kyle Hernandez'
+    ),
+    (
+        191,
+        '2020-05-30 23:43:54',
+        'Web',
+        3,
+        2020,
+        'Mr. Steven Yoder'
+    ),
+    (
+        191,
+        '2020-05-30 23:43:54',
+        'Web',
+        5,
+        2020,
+        'Jacob Hickman'
+    ),
+    (
+        191,
+        '2020-05-30 23:43:54',
+        'Web',
+        4,
+        2020,
+        'Charles Washington'
+    ),
+    (
+        191,
+        '2020-05-30 23:43:54',
+        'Web',
+        2,
+        2020,
+        'Travis Walker'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        191,
+        '2020-05-30 23:43:54',
+        'Web',
+        1,
+        2020,
+        'Charles Maddox'
+    ),
+    (
+        63,
+        '2018-05-26 22:09:09',
+        'Instagram',
+        5,
+        2018,
+        'Brandon Ruiz'
+    ),
+    (
+        63,
+        '2018-05-26 22:09:09',
+        'Instagram',
+        4,
+        2018,
+        'Danielle Miller'
+    ),
+    (
+        63,
+        '2018-05-26 22:09:09',
+        'Instagram',
+        2,
+        2018,
+        'Carrie Clark'
+    ),
+    (
+        63,
+        '2018-05-26 22:09:09',
+        'Instagram',
+        1,
+        2018,
+        'Laura Barnes'
+    ),
+    (
+        63,
+        '2018-05-26 22:09:09',
+        'Instagram',
+        3,
+        2018,
+        'Charles Glover'
+    ),
+    (
+        225,
+        '2018-05-26 22:52:34',
+        'Facebook',
+        3,
+        2018,
+        'Diane Harrison'
+    ),
+    (
+        225,
+        '2018-05-26 22:52:34',
+        'Facebook',
+        2,
+        2018,
+        'Brandon Ruiz'
+    ),
+    (
+        225,
+        '2018-05-26 22:52:34',
+        'Facebook',
+        5,
+        2018,
+        'Jessica Williams'
+    ),
+    (
+        225,
+        '2018-05-26 22:52:34',
+        'Facebook',
+        4,
+        2018,
+        'Steven Cox'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        225,
+        '2018-05-26 22:52:34',
+        'Facebook',
+        1,
+        2018,
+        'Charles Glover'
+    ),
+    (
+        792,
+        '2009-05-30 23:57:03',
+        'Web',
+        2,
+        2009,
+        'Olivia Nichols'
+    ),
+    (
+        792,
+        '2009-05-30 23:57:03',
+        'Web',
+        4,
+        2009,
+        'Leslie Saunders'
+    ),
+    (
+        792,
+        '2009-05-30 23:57:03',
+        'Web',
+        3,
+        2009,
+        'Theresa Castaneda'
+    ),
+    (
+        792,
+        '2009-05-30 23:57:03',
+        'Web',
+        5,
+        2009,
+        'Jason Hebert'
+    ),
+    (
+        792,
+        '2009-05-30 23:57:03',
+        'Web',
+        1,
+        2009,
+        'Melanie Hall'
+    ),
+    (
+        535,
+        '2013-05-25 23:27:54',
+        'Facebook',
+        3,
+        2013,
+        'Tony Prince'
+    ),
+    (
+        535,
+        '2013-05-25 23:27:54',
+        'Facebook',
+        2,
+        2013,
+        'Blake Martinez'
+    ),
+    (
+        535,
+        '2013-05-25 23:27:54',
+        'Facebook',
+        4,
+        2013,
+        'Anthony Villanueva'
+    ),
+    (
+        535,
+        '2013-05-25 23:27:54',
+        'Facebook',
+        1,
+        2013,
+        'Thomas Hess'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        535,
+        '2013-05-25 23:27:54',
+        'Facebook',
+        5,
+        2013,
+        'Angela Phillips'
+    ),
+    (
+        558,
+        '2015-05-30 22:18:30',
+        'Web',
+        3,
+        2015,
+        'Nicholas Black'
+    ),
+    (
+        558,
+        '2015-05-30 22:18:30',
+        'Web',
+        5,
+        2015,
+        'Colleen White'
+    ),
+    (
+        558,
+        '2015-05-30 22:18:30',
+        'Web',
+        2,
+        2015,
+        'Nathan Bailey'
+    ),
+    (
+        558,
+        '2015-05-30 22:18:30',
+        'Web',
+        1,
+        2015,
+        'Deborah Sparks'
+    ),
+    (
+        558,
+        '2015-05-30 22:18:30',
+        'Web',
+        4,
+        2015,
+        'Heidi Barry'
+    ),
+    (
+        805,
+        '2009-05-30 22:09:48',
+        'Web',
+        4,
+        2009,
+        'Theresa Castaneda'
+    ),
+    (
+        805,
+        '2009-05-30 22:09:48',
+        'Web',
+        5,
+        2009,
+        'Jason Hebert'
+    ),
+    (
+        805,
+        '2009-05-30 22:09:48',
+        'Web',
+        3,
+        2009,
+        'Leslie Saunders'
+    ),
+    (
+        805,
+        '2009-05-30 22:09:48',
+        'Web',
+        2,
+        2009,
+        'Wanda Smith'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        805,
+        '2009-05-30 22:09:48',
+        'Web',
+        1,
+        2009,
+        'Kimberly Craig'
+    ),
+    (
+        559,
+        '2009-05-30 22:26:49',
+        'Phone',
+        1,
+        2009,
+        'Carrie Bell'
+    ),
+    (
+        559,
+        '2009-05-30 22:26:49',
+        'Phone',
+        4,
+        2009,
+        'Wanda Smith'
+    ),
+    (
+        559,
+        '2009-05-30 22:26:49',
+        'Phone',
+        5,
+        2009,
+        'Sandra Lopez'
+    ),
+    (
+        559,
+        '2009-05-30 22:26:49',
+        'Phone',
+        3,
+        2009,
+        'Theresa Castaneda'
+    ),
+    (
+        559,
+        '2009-05-30 22:26:49',
+        'Phone',
+        2,
+        2009,
+        'Matthew Garcia'
+    ),
+    (
+        873,
+        '2015-05-30 23:35:06',
+        'Facebook',
+        5,
+        2015,
+        'Heidi Barry'
+    ),
+    (
+        873,
+        '2015-05-30 23:35:06',
+        'Facebook',
+        2,
+        2015,
+        'Lisa Patrick'
+    ),
+    (
+        873,
+        '2015-05-30 23:35:06',
+        'Facebook',
+        4,
+        2015,
+        'Colleen White'
+    ),
+    (
+        873,
+        '2015-05-30 23:35:06',
+        'Facebook',
+        1,
+        2015,
+        'Deborah Sparks'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        873,
+        '2015-05-30 23:35:06',
+        'Facebook',
+        3,
+        2015,
+        'Brett Benjamin'
+    ),
+    (
+        741,
+        '2010-05-29 22:07:25',
+        'Web',
+        5,
+        2010,
+        'Richard Dawson'
+    ),
+    (
+        741,
+        '2010-05-29 22:07:25',
+        'Web',
+        4,
+        2010,
+        'Rachel Melton'
+    ),
+    (
+        741,
+        '2010-05-29 22:07:25',
+        'Web',
+        3,
+        2010,
+        'Kevin Wilson'
+    ),
+    (
+        741,
+        '2010-05-29 22:07:25',
+        'Web',
+        1,
+        2010,
+        'David Williams'
+    ),
+    (
+        741,
+        '2010-05-29 22:07:25',
+        'Web',
+        2,
+        2010,
+        'Courtney Barber'
+    ),
+    (
+        890,
+        '2009-05-30 22:06:23',
+        'Instagram',
+        1,
+        2009,
+        'Theresa Castaneda'
+    ),
+    (
+        890,
+        '2009-05-30 22:06:23',
+        'Instagram',
+        2,
+        2009,
+        'Sandra Lopez'
+    ),
+    (
+        890,
+        '2009-05-30 22:06:23',
+        'Instagram',
+        5,
+        2009,
+        'Olivia Nichols'
+    ),
+    (
+        522,
+        '2011-05-28 23:50:51',
+        'Instagram',
+        3,
+        2011,
+        'Cody Davis'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        522,
+        '2011-05-28 23:50:51',
+        'Instagram',
+        5,
+        2011,
+        'Andres Rubio'
+    ),
+    (
+        522,
+        '2011-05-28 23:50:51',
+        'Instagram',
+        4,
+        2011,
+        'Ashley Lawson'
+    ),
+    (
+        522,
+        '2011-05-28 23:50:51',
+        'Instagram',
+        2,
+        2011,
+        'John Henderson'
+    ),
+    (
+        522,
+        '2011-05-28 23:50:51',
+        'Instagram',
+        1,
+        2011,
+        'Victoria Rosales PhD'
+    ),
+    (
+        283,
+        '2015-05-30 23:00:00',
+        'Instagram',
+        1,
+        2015,
+        'Brett Benjamin'
+    ),
+    (
+        283,
+        '2015-05-30 23:00:00',
+        'Instagram',
+        3,
+        2015,
+        'Louis Phillips'
+    ),
+    (
+        283,
+        '2015-05-30 23:00:00',
+        'Instagram',
+        2,
+        2015,
+        'Deborah Sparks'
+    ),
+    (
+        283,
+        '2015-05-30 23:00:00',
+        'Instagram',
+        4,
+        2015,
+        'Colleen White'
+    ),
+    (
+        283,
+        '2015-05-30 23:00:00',
+        'Instagram',
+        5,
+        2015,
+        'Nicholas Black'
+    ),
+    (
+        139,
+        '2013-05-25 22:09:37',
+        'Instagram',
+        1,
+        2013,
+        'Blake Martinez'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        139,
+        '2013-05-25 22:09:37',
+        'Instagram',
+        2,
+        2013,
+        'Anthony Villanueva'
+    ),
+    (
+        139,
+        '2013-05-25 22:09:37',
+        'Instagram',
+        4,
+        2013,
+        'Cassandra Hooper'
+    ),
+    (
+        139,
+        '2013-05-25 22:09:37',
+        'Instagram',
+        3,
+        2013,
+        'Nancy Mcmahon'
+    ),
+    (
+        139,
+        '2013-05-25 22:09:37',
+        'Instagram',
+        5,
+        2013,
+        'Diane Cooper'
+    ),
+    (
+        341,
+        '2017-05-27 22:31:14',
+        'Instagram',
+        3,
+        2017,
+        'Brian Mccall'
+    ),
+    (
+        341,
+        '2017-05-27 22:31:14',
+        'Instagram',
+        1,
+        2017,
+        'Tina Roy'
+    ),
+    (
+        341,
+        '2017-05-27 22:31:14',
+        'Instagram',
+        2,
+        2017,
+        'Rachel Cole'
+    ),
+    (
+        341,
+        '2017-05-27 22:31:14',
+        'Instagram',
+        5,
+        2017,
+        'Sean Ward'
+    ),
+    (
+        341,
+        '2017-05-27 22:31:14',
+        'Instagram',
+        4,
+        2017,
+        'Denise Jones'
+    ),
+    (
+        712,
+        '2018-05-26 23:21:29',
+        'Web',
+        4,
+        2018,
+        'Diane Harrison'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        712,
+        '2018-05-26 23:21:29',
+        'Web',
+        3,
+        2018,
+        'Carrie Clark'
+    ),
+    (
+        712,
+        '2018-05-26 23:21:29',
+        'Web',
+        2,
+        2018,
+        'Brandon Ruiz'
+    ),
+    (
+        712,
+        '2018-05-26 23:21:29',
+        'Web',
+        5,
+        2018,
+        'Kimberly Davis'
+    ),
+    (
+        712,
+        '2018-05-26 23:21:29',
+        'Web',
+        1,
+        2018,
+        'Charles Glover'
+    ),
+    (
+        832,
+        '2021-05-29 22:17:39',
+        'Instagram',
+        4,
+        2021,
+        'Robin Myers'
+    ),
+    (
+        832,
+        '2021-05-29 22:17:39',
+        'Instagram',
+        1,
+        2021,
+        'Jack Singh'
+    ),
+    (
+        832,
+        '2021-05-29 22:17:39',
+        'Instagram',
+        5,
+        2021,
+        'Manuel Caldwell'
+    ),
+    (
+        832,
+        '2021-05-29 22:17:39',
+        'Instagram',
+        3,
+        2021,
+        'Ann Perez'
+    ),
+    (
+        832,
+        '2021-05-29 22:17:39',
+        'Instagram',
+        2,
+        2021,
+        'Thomas Smith'
+    ),
+    (
+        797,
+        '2023-05-27 22:22:44',
+        'Facebook',
+        5,
+        2023,
+        'Michael Butler'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        797,
+        '2023-05-27 22:22:44',
+        'Facebook',
+        1,
+        2023,
+        'Christine Hayes'
+    ),
+    (
+        797,
+        '2023-05-27 22:22:44',
+        'Facebook',
+        2,
+        2023,
+        'Scott Baker'
+    ),
+    (
+        797,
+        '2023-05-27 22:22:44',
+        'Facebook',
+        3,
+        2023,
+        'Paula Henderson'
+    ),
+    (
+        797,
+        '2023-05-27 22:22:44',
+        'Facebook',
+        4,
+        2023,
+        'Jacqueline Wagner'
+    ),
+    (
+        844,
+        '2010-05-29 23:38:36',
+        'Phone',
+        4,
+        2010,
+        'Richard Dawson'
+    ),
+    (
+        844,
+        '2010-05-29 23:38:36',
+        'Phone',
+        3,
+        2010,
+        'Matthew Rice'
+    ),
+    (
+        416,
+        '2015-05-30 22:53:26',
+        'Web',
+        3,
+        2015,
+        'Lisa Patrick'
+    ),
+    (
+        416,
+        '2015-05-30 22:53:26',
+        'Web',
+        4,
+        2015,
+        'Heidi Barry'
+    ),
+    (
+        416,
+        '2015-05-30 22:53:26',
+        'Web',
+        2,
+        2015,
+        'Robert White'
+    ),
+    (
+        416,
+        '2015-05-30 22:53:26',
+        'Web',
+        5,
+        2015,
+        'Louis Phillips'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        416,
+        '2015-05-30 22:53:26',
+        'Web',
+        1,
+        2015,
+        'Travis Hays'
+    ),
+    (
+        131,
+        '2014-05-31 22:35:52',
+        'Phone',
+        5,
+        2014,
+        'John Conner'
+    ),
+    (
+        131,
+        '2014-05-31 22:35:52',
+        'Phone',
+        2,
+        2014,
+        'Carol Garrett'
+    ),
+    (
+        131,
+        '2014-05-31 22:35:52',
+        'Phone',
+        4,
+        2014,
+        'Zachary Fox'
+    ),
+    (
+        131,
+        '2014-05-31 22:35:52',
+        'Phone',
+        1,
+        2014,
+        'Lisa Wright'
+    ),
+    (
+        131,
+        '2014-05-31 22:35:52',
+        'Phone',
+        3,
+        2014,
+        'Mary Vance'
+    ),
+    (
+        466,
+        '2015-05-30 23:49:42',
+        'Phone',
+        2,
+        2015,
+        'Colleen White'
+    ),
+    (
+        466,
+        '2015-05-30 23:49:42',
+        'Phone',
+        5,
+        2015,
+        'Deborah Sparks'
+    ),
+    (
+        466,
+        '2015-05-30 23:49:42',
+        'Phone',
+        1,
+        2015,
+        'Travis Hays'
+    ),
+    (
+        466,
+        '2015-05-30 23:49:42',
+        'Phone',
+        3,
+        2015,
+        'Robert White'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        466,
+        '2015-05-30 23:49:42',
+        'Phone',
+        4,
+        2015,
+        'Brett Benjamin'
+    ),
+    (
+        657,
+        '2011-05-28 23:39:20',
+        'Instagram',
+        3,
+        2011,
+        'Ashley Lawson'
+    ),
+    (
+        657,
+        '2011-05-28 23:39:20',
+        'Instagram',
+        1,
+        2011,
+        'Andres Rubio'
+    ),
+    (
+        657,
+        '2011-05-28 23:39:20',
+        'Instagram',
+        4,
+        2011,
+        'Carmen Mitchell'
+    ),
+    (
+        657,
+        '2011-05-28 23:39:20',
+        'Instagram',
+        5,
+        2011,
+        'Victoria Rosales PhD'
+    ),
+    (
+        657,
+        '2011-05-28 23:39:20',
+        'Instagram',
+        2,
+        2011,
+        'Cody Davis'
+    ),
+    (
+        88,
+        '2009-05-30 23:34:42',
+        'Phone',
+        1,
+        2009,
+        'Jason Hebert'
+    ),
+    (
+        88,
+        '2009-05-30 23:34:42',
+        'Phone',
+        5,
+        2009,
+        'Theresa Castaneda'
+    ),
+    (
+        88,
+        '2009-05-30 23:34:42',
+        'Phone',
+        4,
+        2009,
+        'Olivia Nichols'
+    ),
+    (
+        88,
+        '2009-05-30 23:34:42',
+        'Phone',
+        3,
+        2009,
+        'Wanda Smith'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        88,
+        '2009-05-30 23:34:42',
+        'Phone',
+        2,
+        2009,
+        'Leslie Saunders'
+    ),
+    (
+        89,
+        '2015-05-30 22:33:19',
+        'Instagram',
+        5,
+        2015,
+        'Robert White'
+    ),
+    (
+        89,
+        '2015-05-30 22:33:19',
+        'Instagram',
+        1,
+        2015,
+        'Lisa Patrick'
+    ),
+    (
+        89,
+        '2015-05-30 22:33:19',
+        'Instagram',
+        3,
+        2015,
+        'Louis Phillips'
+    ),
+    (
+        89,
+        '2015-05-30 22:33:19',
+        'Instagram',
+        2,
+        2015,
+        'Travis Hays'
+    ),
+    (
+        89,
+        '2015-05-30 22:33:19',
+        'Instagram',
+        4,
+        2015,
+        'Deborah Sparks'
+    ),
+    (
+        914,
+        '2019-05-25 22:54:02',
+        'Facebook',
+        4,
+        2019,
+        'Kyle Hernandez'
+    ),
+    (
+        914,
+        '2019-05-25 22:54:02',
+        'Facebook',
+        5,
+        2019,
+        'Kathryn Alvarez'
+    ),
+    (
+        914,
+        '2019-05-25 22:54:02',
+        'Facebook',
+        2,
+        2019,
+        'Sarah Hancock'
+    ),
+    (
+        914,
+        '2019-05-25 22:54:02',
+        'Facebook',
+        1,
+        2019,
+        'Amanda Ingram'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        914,
+        '2019-05-25 22:54:02',
+        'Facebook',
+        3,
+        2019,
+        'Samantha Jones'
+    ),
+    (
+        925,
+        '2020-05-30 22:30:32',
+        'Instagram',
+        5,
+        2020,
+        'Mr. Steven Yoder'
+    ),
+    (
+        925,
+        '2020-05-30 22:30:32',
+        'Instagram',
+        4,
+        2020,
+        'Charles Washington'
+    ),
+    (
+        925,
+        '2020-05-30 22:30:32',
+        'Instagram',
+        1,
+        2020,
+        'Travis Walker'
+    ),
+    (
+        925,
+        '2020-05-30 22:30:32',
+        'Instagram',
+        3,
+        2020,
+        'Danielle Berger'
+    ),
+    (
+        925,
+        '2020-05-30 22:30:32',
+        'Instagram',
+        2,
+        2020,
+        'Charles Maddox'
+    ),
+    (
+        957,
+        '2009-05-30 22:25:50',
+        'Phone',
+        4,
+        2009,
+        'Theresa Castaneda'
+    ),
+    (
+        957,
+        '2009-05-30 22:25:50',
+        'Phone',
+        2,
+        2009,
+        'Olivia Nichols'
+    ),
+    (
+        957,
+        '2009-05-30 22:25:50',
+        'Phone',
+        1,
+        2009,
+        'Sandra Lopez'
+    ),
+    (
+        957,
+        '2009-05-30 22:25:50',
+        'Phone',
+        5,
+        2009,
+        'Matthew Garcia'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        957,
+        '2009-05-30 22:25:50',
+        'Phone',
+        3,
+        2009,
+        'Leslie Saunders'
+    ),
+    (
+        936,
+        '2023-05-27 22:25:45',
+        'Instagram',
+        3,
+        2023,
+        'Christine Hayes'
+    ),
+    (
+        936,
+        '2023-05-27 22:25:45',
+        'Instagram',
+        4,
+        2023,
+        'Samantha Erickson'
+    ),
+    (
+        936,
+        '2023-05-27 22:25:45',
+        'Instagram',
+        5,
+        2023,
+        'Leslie Lee'
+    ),
+    (
+        936,
+        '2023-05-27 22:25:45',
+        'Instagram',
+        1,
+        2023,
+        'Scott Baker'
+    ),
+    (
+        936,
+        '2023-05-27 22:25:45',
+        'Instagram',
+        2,
+        2023,
+        'Manuel Graves'
+    ),
+    (
+        380,
+        '2016-05-28 22:37:53',
+        'Web',
+        3,
+        2016,
+        'Steve Bennett'
+    ),
+    (
+        380,
+        '2016-05-28 22:37:53',
+        'Web',
+        2,
+        2016,
+        'Derek Schwartz'
+    ),
+    (
+        380,
+        '2016-05-28 22:37:53',
+        'Web',
+        1,
+        2016,
+        'Kimberly Wilkins MD'
+    ),
+    (
+        619,
+        '2018-05-26 22:17:51',
+        'Web',
+        5,
+        2018,
+        'Diane Harrison'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        619,
+        '2018-05-26 22:17:51',
+        'Web',
+        3,
+        2018,
+        'Laura Barnes'
+    ),
+    (
+        619,
+        '2018-05-26 22:17:51',
+        'Web',
+        4,
+        2018,
+        'Steven Cox'
+    ),
+    (
+        619,
+        '2018-05-26 22:17:51',
+        'Web',
+        1,
+        2018,
+        'Brandon Ruiz'
+    ),
+    (
+        619,
+        '2018-05-26 22:17:51',
+        'Web',
+        2,
+        2018,
+        'Jessica Williams'
+    ),
+    (
+        256,
+        '2012-05-26 23:09:12',
+        'Instagram',
+        4,
+        2012,
+        'Stephanie Patrick'
+    ),
+    (
+        256,
+        '2012-05-26 23:09:12',
+        'Instagram',
+        5,
+        2012,
+        'Lynn Booth'
+    ),
+    (
+        256,
+        '2012-05-26 23:09:12',
+        'Instagram',
+        2,
+        2012,
+        'Kenneth Warner'
+    ),
+    (
+        256,
+        '2012-05-26 23:09:12',
+        'Instagram',
+        1,
+        2012,
+        'Tyler Jordan'
+    ),
+    (
+        256,
+        '2012-05-26 23:09:12',
+        'Instagram',
+        3,
+        2012,
+        'Patrick Benson'
+    ),
+    (
+        571,
+        '2021-05-29 23:42:52',
+        'Instagram',
+        3,
+        2021,
+        'Ann Perez'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        571,
+        '2021-05-29 23:42:52',
+        'Instagram',
+        5,
+        2021,
+        'Jack Singh'
+    ),
+    (
+        571,
+        '2021-05-29 23:42:52',
+        'Instagram',
+        2,
+        2021,
+        'Thomas Smith'
+    ),
+    (
+        571,
+        '2021-05-29 23:42:52',
+        'Instagram',
+        1,
+        2021,
+        'Samantha Lee'
+    ),
+    (
+        571,
+        '2021-05-29 23:42:52',
+        'Instagram',
+        4,
+        2021,
+        'Caleb Ellison'
+    ),
+    (
+        295,
+        '2016-05-28 23:33:49',
+        'Phone',
+        1,
+        2016,
+        'Derek Schwartz'
+    ),
+    (
+        295,
+        '2016-05-28 23:33:49',
+        'Phone',
+        3,
+        2016,
+        'Brian Ingram'
+    ),
+    (
+        295,
+        '2016-05-28 23:33:49',
+        'Phone',
+        5,
+        2016,
+        'Tara Mcgee'
+    ),
+    (
+        295,
+        '2016-05-28 23:33:49',
+        'Phone',
+        4,
+        2016,
+        'Melody Reese MD'
+    ),
+    (
+        295,
+        '2016-05-28 23:33:49',
+        'Phone',
+        2,
+        2016,
+        'Amanda Patterson'
+    ),
+    (
+        828,
+        '2017-05-27 23:11:51',
+        'Facebook',
+        3,
+        2017,
+        'Andrea Hill'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        828,
+        '2017-05-27 23:11:51',
+        'Facebook',
+        5,
+        2017,
+        'Denise Jones'
+    ),
+    (
+        828,
+        '2017-05-27 23:11:51',
+        'Facebook',
+        2,
+        2017,
+        'Brian Mccall'
+    ),
+    (
+        828,
+        '2017-05-27 23:11:51',
+        'Facebook',
+        4,
+        2017,
+        'Elizabeth Koch'
+    ),
+    (
+        828,
+        '2017-05-27 23:11:51',
+        'Facebook',
+        1,
+        2017,
+        'Brandi Harris'
+    ),
+    (
+        898,
+        '2020-05-30 23:34:31',
+        'Facebook',
+        3,
+        2020,
+        'Juan Huerta'
+    ),
+    (
+        898,
+        '2020-05-30 23:34:31',
+        'Facebook',
+        5,
+        2020,
+        'Charles Maddox'
+    ),
+    (
+        105,
+        '2020-05-30 22:07:33',
+        'Phone',
+        1,
+        2020,
+        'Charles Maddox'
+    ),
+    (
+        105,
+        '2020-05-30 22:07:33',
+        'Phone',
+        5,
+        2020,
+        'Danielle Berger'
+    ),
+    (
+        105,
+        '2020-05-30 22:07:33',
+        'Phone',
+        3,
+        2020,
+        'Mr. Steven Yoder'
+    ),
+    (
+        105,
+        '2020-05-30 22:07:33',
+        'Phone',
+        2,
+        2020,
+        'Travis Walker'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        105,
+        '2020-05-30 22:07:33',
+        'Phone',
+        4,
+        2020,
+        'Jacob Hickman'
+    ),
+    (
+        48,
+        '2020-05-30 23:00:49',
+        'Instagram',
+        5,
+        2020,
+        'Travis Walker'
+    ),
+    (
+        48,
+        '2020-05-30 23:00:49',
+        'Instagram',
+        1,
+        2020,
+        'Lisa Wood'
+    ),
+    (
+        48,
+        '2020-05-30 23:00:49',
+        'Instagram',
+        4,
+        2020,
+        'Lisa Mcdaniel'
+    ),
+    (
+        904,
+        '2020-05-30 22:21:57',
+        'Web',
+        5,
+        2020,
+        'Charles Maddox'
+    ),
+    (
+        904,
+        '2020-05-30 22:21:57',
+        'Web',
+        2,
+        2020,
+        'Danielle Berger'
+    ),
+    (
+        592,
+        '2015-05-30 23:07:09',
+        'Web',
+        2,
+        2015,
+        'Colleen White'
+    ),
+    (
+        592,
+        '2015-05-30 23:07:09',
+        'Web',
+        3,
+        2015,
+        'Deborah Sparks'
+    ),
+    (
+        517,
+        '2011-05-28 22:36:41',
+        'Phone',
+        4,
+        2011,
+        'Carmen Mitchell'
+    ),
+    (
+        517,
+        '2011-05-28 22:36:41',
+        'Phone',
+        5,
+        2011,
+        'Wesley Garcia'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        517,
+        '2011-05-28 22:36:41',
+        'Phone',
+        3,
+        2011,
+        'Cody Davis'
+    ),
+    (
+        517,
+        '2011-05-28 22:36:41',
+        'Phone',
+        2,
+        2011,
+        'Keith Ingram'
+    ),
+    (
+        517,
+        '2011-05-28 22:36:41',
+        'Phone',
+        1,
+        2011,
+        'Dr. Courtney Green MD'
+    ),
+    (
+        269,
+        '2012-05-26 22:38:38',
+        'Phone',
+        3,
+        2012,
+        'Anthony Bradford'
+    ),
+    (
+        269,
+        '2012-05-26 22:38:38',
+        'Phone',
+        4,
+        2012,
+        'Stephanie Patrick'
+    ),
+    (
+        269,
+        '2012-05-26 22:38:38',
+        'Phone',
+        2,
+        2012,
+        'Jennifer Wolfe'
+    ),
+    (
+        269,
+        '2012-05-26 22:38:38',
+        'Phone',
+        5,
+        2012,
+        'Kenneth Warner'
+    ),
+    (
+        269,
+        '2012-05-26 22:38:38',
+        'Phone',
+        1,
+        2012,
+        'Lynn Booth'
+    ),
+    (
+        32,
+        '2021-05-29 22:13:37',
+        'Facebook',
+        3,
+        2021,
+        'Robin Myers'
+    ),
+    (
+        32,
+        '2021-05-29 22:13:37',
+        'Facebook',
+        2,
+        2021,
+        'Amber Mcdowell'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        32,
+        '2021-05-29 22:13:37',
+        'Facebook',
+        4,
+        2021,
+        'Caleb Ellison'
+    ),
+    (
+        32,
+        '2021-05-29 22:13:37',
+        'Facebook',
+        5,
+        2021,
+        'Aaron Baldwin'
+    ),
+    (
+        32,
+        '2021-05-29 22:13:37',
+        'Facebook',
+        1,
+        2021,
+        'Manuel Caldwell'
+    ),
+    (
+        591,
+        '2011-05-28 23:32:32',
+        'Facebook',
+        1,
+        2011,
+        'Ashley Lawson'
+    ),
+    (
+        591,
+        '2011-05-28 23:32:32',
+        'Facebook',
+        2,
+        2011,
+        'Keith Ingram'
+    ),
+    (
+        591,
+        '2011-05-28 23:32:32',
+        'Facebook',
+        5,
+        2011,
+        'John Henderson'
+    ),
+    (
+        591,
+        '2011-05-28 23:32:32',
+        'Facebook',
+        3,
+        2011,
+        'Victoria Rosales PhD'
+    ),
+    (
+        591,
+        '2011-05-28 23:32:32',
+        'Facebook',
+        4,
+        2011,
+        'Wesley Garcia'
+    ),
+    (
+        185,
+        '2022-05-28 23:39:28',
+        'Phone',
+        2,
+        2022,
+        'Michael Martinez'
+    ),
+    (
+        185,
+        '2022-05-28 23:39:28',
+        'Phone',
+        4,
+        2022,
+        'Andrew Hodges'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        185,
+        '2022-05-28 23:39:28',
+        'Phone',
+        5,
+        2022,
+        'Martin Moore'
+    ),
+    (
+        185,
+        '2022-05-28 23:39:28',
+        'Phone',
+        3,
+        2022,
+        'Stephanie Smith'
+    ),
+    (
+        185,
+        '2022-05-28 23:39:28',
+        'Phone',
+        1,
+        2022,
+        'Gary Stone'
+    ),
+    (
+        723,
+        '2019-05-25 23:02:19',
+        'Facebook',
+        1,
+        2019,
+        'Kathryn Alvarez'
+    ),
+    (
+        723,
+        '2019-05-25 23:02:19',
+        'Facebook',
+        3,
+        2019,
+        'Jennifer Ford'
+    ),
+    (
+        723,
+        '2019-05-25 23:02:19',
+        'Facebook',
+        5,
+        2019,
+        'Samantha Jones'
+    ),
+    (
+        723,
+        '2019-05-25 23:02:19',
+        'Facebook',
+        4,
+        2019,
+        'Sarah Hancock'
+    ),
+    (
+        723,
+        '2019-05-25 23:02:19',
+        'Facebook',
+        2,
+        2019,
+        'Patrick Wilson'
+    ),
+    (
+        474,
+        '2022-05-28 22:24:42',
+        'Facebook',
+        2,
+        2022,
+        'Michelle Martin'
+    ),
+    (
+        474,
+        '2022-05-28 22:24:42',
+        'Facebook',
+        3,
+        2022,
+        'Andre Burton'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        474,
+        '2022-05-28 22:24:42',
+        'Facebook',
+        4,
+        2022,
+        'Thomas Gregory'
+    ),
+    (
+        474,
+        '2022-05-28 22:24:42',
+        'Facebook',
+        5,
+        2022,
+        'Michael Baker'
+    ),
+    (
+        474,
+        '2022-05-28 22:24:42',
+        'Facebook',
+        1,
+        2022,
+        'Andrew Hodges'
+    ),
+    (
+        840,
+        '2019-05-25 23:06:16',
+        'Phone',
+        5,
+        2019,
+        'Cameron Hawkins'
+    ),
+    (
+        840,
+        '2019-05-25 23:06:16',
+        'Phone',
+        2,
+        2019,
+        'Kyle Hernandez'
+    ),
+    (
+        840,
+        '2019-05-25 23:06:16',
+        'Phone',
+        3,
+        2019,
+        'Terry Powell'
+    ),
+    (
+        840,
+        '2019-05-25 23:06:16',
+        'Phone',
+        4,
+        2019,
+        'Samantha Jones'
+    ),
+    (
+        840,
+        '2019-05-25 23:06:16',
+        'Phone',
+        1,
+        2019,
+        'Kathryn Alvarez'
+    ),
+    (
+        749,
+        '2022-05-28 23:15:34',
+        'Instagram',
+        5,
+        2022,
+        'Andrew Hodges'
+    ),
+    (
+        749,
+        '2022-05-28 23:15:34',
+        'Instagram',
+        2,
+        2022,
+        'Stephanie Smith'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        749,
+        '2022-05-28 23:15:34',
+        'Instagram',
+        3,
+        2022,
+        'Martin Moore'
+    ),
+    (
+        749,
+        '2022-05-28 23:15:34',
+        'Instagram',
+        1,
+        2022,
+        'Michael Martinez'
+    ),
+    (
+        749,
+        '2022-05-28 23:15:34',
+        'Instagram',
+        4,
+        2022,
+        'Robert Curtis'
+    ),
+    (
+        745,
+        '2013-05-25 23:30:46',
+        'Web',
+        5,
+        2013,
+        'Angela Phillips'
+    ),
+    (
+        745,
+        '2013-05-25 23:30:46',
+        'Web',
+        2,
+        2013,
+        'Kimberly Larsen'
+    ),
+    (
+        745,
+        '2013-05-25 23:30:46',
+        'Web',
+        4,
+        2013,
+        'Blake Martinez'
+    ),
+    (
+        745,
+        '2013-05-25 23:30:46',
+        'Web',
+        3,
+        2013,
+        'Thomas Hess'
+    ),
+    (
+        745,
+        '2013-05-25 23:30:46',
+        'Web',
+        1,
+        2013,
+        'Cassandra Hooper'
+    ),
+    (
+        781,
+        '2019-05-25 22:07:57',
+        'Phone',
+        1,
+        2019,
+        'Terry Powell'
+    ),
+    (
+        781,
+        '2019-05-25 22:07:57',
+        'Phone',
+        2,
+        2019,
+        'Kathryn Alvarez'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        781,
+        '2019-05-25 22:07:57',
+        'Phone',
+        5,
+        2019,
+        'Amanda Ingram'
+    ),
+    (
+        781,
+        '2019-05-25 22:07:57',
+        'Phone',
+        3,
+        2019,
+        'Jennifer Ford'
+    ),
+    (
+        781,
+        '2019-05-25 22:07:57',
+        'Phone',
+        4,
+        2019,
+        'Aaron Peterson'
+    ),
+    (
+        404,
+        '2013-05-25 23:26:18',
+        'Facebook',
+        3,
+        2013,
+        'Wendy Cunningham'
+    ),
+    (
+        404,
+        '2013-05-25 23:26:18',
+        'Facebook',
+        2,
+        2013,
+        'Tony Prince'
+    ),
+    (
+        404,
+        '2013-05-25 23:26:18',
+        'Facebook',
+        4,
+        2013,
+        'Kimberly Larsen'
+    ),
+    (
+        404,
+        '2013-05-25 23:26:18',
+        'Facebook',
+        5,
+        2013,
+        'Diane Cooper'
+    ),
+    (
+        404,
+        '2013-05-25 23:26:18',
+        'Facebook',
+        1,
+        2013,
+        'Thomas Hess'
+    ),
+    (
+        219,
+        '2012-05-26 23:58:30',
+        'Web',
+        2,
+        2012,
+        'Maria Robertson'
+    ),
+    (
+        219,
+        '2012-05-26 23:58:30',
+        'Web',
+        1,
+        2012,
+        'Stacy White'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        219,
+        '2012-05-26 23:58:30',
+        'Web',
+        3,
+        2012,
+        'Anthony Bradford'
+    ),
+    (
+        219,
+        '2012-05-26 23:58:30',
+        'Web',
+        5,
+        2012,
+        'Kenneth Warner'
+    ),
+    (
+        219,
+        '2012-05-26 23:58:30',
+        'Web',
+        4,
+        2012,
+        'Tyler Jordan'
+    ),
+    (
+        501,
+        '2024-05-25 22:00:21',
+        'Facebook',
+        2,
+        2024,
+        'Gabriel Arroyo'
+    ),
+    (
+        501,
+        '2024-05-25 22:00:21',
+        'Facebook',
+        1,
+        2024,
+        'Emily Buck'
+    ),
+    (
+        501,
+        '2024-05-25 22:00:21',
+        'Facebook',
+        5,
+        2024,
+        'Jessica Murphy'
+    ),
+    (
+        501,
+        '2024-05-25 22:00:21',
+        'Facebook',
+        4,
+        2024,
+        'Christopher Singh'
+    ),
+    (
+        501,
+        '2024-05-25 22:00:21',
+        'Facebook',
+        3,
+        2024,
+        'Richard Lewis'
+    ),
+    (
+        725,
+        '2024-05-25 22:36:49',
+        'Instagram',
+        3,
+        2024,
+        'Christopher Singh'
+    ),
+    (
+        725,
+        '2024-05-25 22:36:49',
+        'Instagram',
+        5,
+        2024,
+        'Richard Lewis'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        725,
+        '2024-05-25 22:36:49',
+        'Instagram',
+        1,
+        2024,
+        'Emily Buck'
+    ),
+    (
+        725,
+        '2024-05-25 22:36:49',
+        'Instagram',
+        4,
+        2024,
+        'Jessica Murphy'
+    ),
+    (
+        725,
+        '2024-05-25 22:36:49',
+        'Instagram',
+        2,
+        2024,
+        'Amber Williams'
+    ),
+    (
+        854,
+        '2021-05-29 22:47:28',
+        'Instagram',
+        5,
+        2021,
+        'Aaron Baldwin'
+    ),
+    (
+        854,
+        '2021-05-29 22:47:28',
+        'Instagram',
+        2,
+        2021,
+        'Tamara Barnes'
+    ),
+    (
+        854,
+        '2021-05-29 22:47:28',
+        'Instagram',
+        3,
+        2021,
+        'Jack Singh'
+    ),
+    (
+        854,
+        '2021-05-29 22:47:28',
+        'Instagram',
+        1,
+        2021,
+        'Samantha Lee'
+    ),
+    (
+        854,
+        '2021-05-29 22:47:28',
+        'Instagram',
+        4,
+        2021,
+        'Robin Myers'
+    ),
+    (
+        701,
+        '2013-05-25 23:49:57',
+        'Instagram',
+        3,
+        2013,
+        'Wendy Cunningham'
+    ),
+    (
+        701,
+        '2013-05-25 23:49:57',
+        'Instagram',
+        1,
+        2013,
+        'Blake Martinez'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        701,
+        '2013-05-25 23:49:57',
+        'Instagram',
+        4,
+        2013,
+        'Kimberly Larsen'
+    ),
+    (
+        701,
+        '2013-05-25 23:49:57',
+        'Instagram',
+        5,
+        2013,
+        'Diane Cooper'
+    ),
+    (
+        701,
+        '2013-05-25 23:49:57',
+        'Instagram',
+        2,
+        2013,
+        'Anthony Villanueva'
+    ),
+    (
+        162,
+        '2012-05-26 23:48:37',
+        'Facebook',
+        5,
+        2012,
+        'Anthony Bradford'
+    ),
+    (
+        162,
+        '2012-05-26 23:48:37',
+        'Facebook',
+        2,
+        2012,
+        'Stephanie Patrick'
+    ),
+    (
+        162,
+        '2012-05-26 23:48:37',
+        'Facebook',
+        4,
+        2012,
+        'Jennifer Wolfe'
+    ),
+    (
+        162,
+        '2012-05-26 23:48:37',
+        'Facebook',
+        1,
+        2012,
+        'Maria Robertson'
+    ),
+    (
+        162,
+        '2012-05-26 23:48:37',
+        'Facebook',
+        3,
+        2012,
+        'Tyler Jordan'
+    ),
+    (
+        467,
+        '2023-05-27 23:01:38',
+        'Facebook',
+        3,
+        2023,
+        'Michael Butler'
+    ),
+    (
+        467,
+        '2023-05-27 23:01:38',
+        'Facebook',
+        4,
+        2023,
+        'Christine Hayes'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        467,
+        '2023-05-27 23:01:38',
+        'Facebook',
+        1,
+        2023,
+        'Thomas Ruiz'
+    ),
+    (
+        467,
+        '2023-05-27 23:01:38',
+        'Facebook',
+        2,
+        2023,
+        'Leslie Lee'
+    ),
+    (
+        467,
+        '2023-05-27 23:01:38',
+        'Facebook',
+        5,
+        2023,
+        'Manuel Graves'
+    ),
+    (
+        224,
+        '2020-05-30 23:08:28',
+        'Instagram',
+        4,
+        2020,
+        'Travis Walker'
+    ),
+    (
+        224,
+        '2020-05-30 23:08:28',
+        'Instagram',
+        5,
+        2020,
+        'Mr. Steven Yoder'
+    ),
+    (
+        224,
+        '2020-05-30 23:08:28',
+        'Instagram',
+        3,
+        2020,
+        'Benjamin Thomas'
+    ),
+    (
+        224,
+        '2020-05-30 23:08:28',
+        'Instagram',
+        2,
+        2020,
+        'Danielle Berger'
+    ),
+    (
+        224,
+        '2020-05-30 23:08:28',
+        'Instagram',
+        1,
+        2020,
+        'Lisa Wood'
+    ),
+    (
+        604,
+        '2015-05-30 22:58:20',
+        'Facebook',
+        5,
+        2015,
+        'Louis Phillips'
+    ),
+    (
+        604,
+        '2015-05-30 22:58:20',
+        'Facebook',
+        2,
+        2015,
+        'Travis Hays'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        604,
+        '2015-05-30 22:58:20',
+        'Facebook',
+        4,
+        2015,
+        'Heidi Barry'
+    ),
+    (
+        604,
+        '2015-05-30 22:58:20',
+        'Facebook',
+        3,
+        2015,
+        'Brett Benjamin'
+    ),
+    (
+        604,
+        '2015-05-30 22:58:20',
+        'Facebook',
+        1,
+        2015,
+        'Colleen White'
+    ),
+    (
+        794,
+        '2016-05-28 23:46:00',
+        'Facebook',
+        3,
+        2016,
+        'Derek Schwartz'
+    ),
+    (
+        794,
+        '2016-05-28 23:46:00',
+        'Facebook',
+        1,
+        2016,
+        'Alejandra Walter'
+    ),
+    (
+        794,
+        '2016-05-28 23:46:00',
+        'Facebook',
+        4,
+        2016,
+        'Kimberly Wilkins MD'
+    ),
+    (
+        794,
+        '2016-05-28 23:46:00',
+        'Facebook',
+        2,
+        2016,
+        'Melody Reese MD'
+    ),
+    (
+        794,
+        '2016-05-28 23:46:00',
+        'Facebook',
+        5,
+        2016,
+        'Tara Mcgee'
+    ),
+    (
+        186,
+        '2018-05-26 23:37:35',
+        'Web',
+        1,
+        2018,
+        'Diane Harrison'
+    ),
+    (
+        186,
+        '2018-05-26 23:37:35',
+        'Web',
+        2,
+        2018,
+        'John Hubbard'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        84,
+        '2024-05-25 23:50:48',
+        'Facebook',
+        2,
+        2024,
+        'Taylor Lopez'
+    ),
+    (
+        84,
+        '2024-05-25 23:50:48',
+        'Facebook',
+        5,
+        2024,
+        'Amber Williams'
+    ),
+    (
+        84,
+        '2024-05-25 23:50:48',
+        'Facebook',
+        4,
+        2024,
+        'Richard Lewis'
+    ),
+    (
+        84,
+        '2024-05-25 23:50:48',
+        'Facebook',
+        3,
+        2024,
+        'Gabriel Arroyo'
+    ),
+    (
+        84,
+        '2024-05-25 23:50:48',
+        'Facebook',
+        1,
+        2024,
+        'Emily Buck'
+    ),
+    (
+        99,
+        '2016-05-28 22:59:07',
+        'Web',
+        1,
+        2016,
+        'Steve Bennett'
+    ),
+    (
+        99,
+        '2016-05-28 22:59:07',
+        'Web',
+        5,
+        2016,
+        'Cathy Lewis'
+    ),
+    (
+        99,
+        '2016-05-28 22:59:07',
+        'Web',
+        2,
+        2016,
+        'Melody Reese MD'
+    ),
+    (
+        99,
+        '2016-05-28 22:59:07',
+        'Web',
+        3,
+        2016,
+        'Derek Schwartz'
+    ),
+    (
+        99,
+        '2016-05-28 22:59:07',
+        'Web',
+        4,
+        2016,
+        'Anne Mcfarland'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        856,
+        '2016-05-28 23:29:44',
+        'Web',
+        2,
+        2016,
+        'Amanda Patterson'
+    ),
+    (
+        856,
+        '2016-05-28 23:29:44',
+        'Web',
+        5,
+        2016,
+        'Brian Ingram'
+    ),
+    (
+        856,
+        '2016-05-28 23:29:44',
+        'Web',
+        3,
+        2016,
+        'Kimberly Wilkins MD'
+    ),
+    (
+        856,
+        '2016-05-28 23:29:44',
+        'Web',
+        4,
+        2016,
+        'Tara Mcgee'
+    ),
+    (
+        856,
+        '2016-05-28 23:29:44',
+        'Web',
+        1,
+        2016,
+        'Alejandra Walter'
+    ),
+    (
+        900,
+        '2014-05-31 22:50:48',
+        'Facebook',
+        2,
+        2014,
+        'Lisa Wright'
+    ),
+    (
+        900,
+        '2014-05-31 22:50:48',
+        'Facebook',
+        4,
+        2014,
+        'Christopher Hodge'
+    ),
+    (
+        426,
+        '2010-05-29 22:22:57',
+        'Web',
+        1,
+        2010,
+        'David Williams'
+    ),
+    (
+        426,
+        '2010-05-29 22:22:57',
+        'Web',
+        2,
+        2010,
+        'Richard Dawson'
+    ),
+    (
+        426,
+        '2010-05-29 22:22:57',
+        'Web',
+        4,
+        2010,
+        'Timothy Sandoval'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        426,
+        '2010-05-29 22:22:57',
+        'Web',
+        5,
+        2010,
+        'Kayla Vargas'
+    ),
+    (
+        426,
+        '2010-05-29 22:22:57',
+        'Web',
+        3,
+        2010,
+        'Matthew Rice'
+    ),
+    (
+        892,
+        '2009-05-30 23:53:20',
+        'Instagram',
+        1,
+        2009,
+        'Theresa Castaneda'
+    ),
+    (
+        892,
+        '2009-05-30 23:53:20',
+        'Instagram',
+        2,
+        2009,
+        'Matthew Garcia'
+    ),
+    (
+        892,
+        '2009-05-30 23:53:20',
+        'Instagram',
+        5,
+        2009,
+        'Sandra Lopez'
+    ),
+    (
+        892,
+        '2009-05-30 23:53:20',
+        'Instagram',
+        3,
+        2009,
+        'Olivia Nichols'
+    ),
+    (
+        892,
+        '2009-05-30 23:53:20',
+        'Instagram',
+        4,
+        2009,
+        'Jason Hebert'
+    ),
+    (
+        282,
+        '2022-05-28 22:59:51',
+        'Instagram',
+        4,
+        2022,
+        'Michael Martinez'
+    ),
+    (
+        282,
+        '2022-05-28 22:59:51',
+        'Instagram',
+        1,
+        2022,
+        'Michael Baker'
+    ),
+    (
+        282,
+        '2022-05-28 22:59:51',
+        'Instagram',
+        5,
+        2022,
+        'Andrew Hodges'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        282,
+        '2022-05-28 22:59:51',
+        'Instagram',
+        3,
+        2022,
+        'Stephanie Smith'
+    ),
+    (
+        282,
+        '2022-05-28 22:59:51',
+        'Instagram',
+        2,
+        2022,
+        'Andre Burton'
+    ),
+    (
+        499,
+        '2015-05-30 23:23:07',
+        'Web',
+        1,
+        2015,
+        'Robert White'
+    ),
+    (
+        499,
+        '2015-05-30 23:23:07',
+        'Web',
+        5,
+        2015,
+        'Heidi Barry'
+    ),
+    (
+        499,
+        '2015-05-30 23:23:07',
+        'Web',
+        4,
+        2015,
+        'Travis Hays'
+    ),
+    (
+        524,
+        '2018-05-26 23:19:37',
+        'Facebook',
+        3,
+        2018,
+        'Jessica Williams'
+    ),
+    (
+        823,
+        '2019-05-25 23:58:00',
+        'Web',
+        5,
+        2019,
+        'Aaron Peterson'
+    ),
+    (
+        823,
+        '2019-05-25 23:58:00',
+        'Web',
+        2,
+        2019,
+        'Amanda Ingram'
+    ),
+    (
+        823,
+        '2019-05-25 23:58:00',
+        'Web',
+        4,
+        2019,
+        'Samantha Jones'
+    ),
+    (
+        823,
+        '2019-05-25 23:58:00',
+        'Web',
+        1,
+        2019,
+        'Patrick Wilson'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        823,
+        '2019-05-25 23:58:00',
+        'Web',
+        3,
+        2019,
+        'Sarah Hancock'
+    ),
+    (
+        609,
+        '2020-05-30 22:21:51',
+        'Phone',
+        5,
+        2020,
+        'Lisa Wood'
+    ),
+    (
+        609,
+        '2020-05-30 22:21:51',
+        'Phone',
+        3,
+        2020,
+        'Charles Maddox'
+    ),
+    (
+        609,
+        '2020-05-30 22:21:51',
+        'Phone',
+        4,
+        2020,
+        'Jacob Hickman'
+    ),
+    (
+        609,
+        '2020-05-30 22:21:51',
+        'Phone',
+        2,
+        2020,
+        'Benjamin Thomas'
+    ),
+    (
+        609,
+        '2020-05-30 22:21:51',
+        'Phone',
+        1,
+        2020,
+        'Lisa Mcdaniel'
+    ),
+    (
+        360,
+        '2009-05-30 23:27:04',
+        'Instagram',
+        5,
+        2009,
+        'Sandra Lopez'
+    ),
+    (
+        360,
+        '2009-05-30 23:27:04',
+        'Instagram',
+        2,
+        2009,
+        'Theresa Castaneda'
+    ),
+    (
+        360,
+        '2009-05-30 23:27:04',
+        'Instagram',
+        4,
+        2009,
+        'Leslie Saunders'
+    ),
+    (
+        360,
+        '2009-05-30 23:27:04',
+        'Instagram',
+        3,
+        2009,
+        'Jason Hebert'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        360,
+        '2009-05-30 23:27:04',
+        'Instagram',
+        1,
+        2009,
+        'Matthew Garcia'
+    ),
+    (
+        937,
+        '2016-05-28 23:02:19',
+        'Facebook',
+        2,
+        2016,
+        'Cathy Lewis'
+    ),
+    (
+        937,
+        '2016-05-28 23:02:19',
+        'Facebook',
+        4,
+        2016,
+        'Kimberly Wilkins MD'
+    ),
+    (
+        937,
+        '2016-05-28 23:02:19',
+        'Facebook',
+        5,
+        2016,
+        'Amanda Patterson'
+    ),
+    (
+        937,
+        '2016-05-28 23:02:19',
+        'Facebook',
+        3,
+        2016,
+        'Derek Schwartz'
+    ),
+    (
+        937,
+        '2016-05-28 23:02:19',
+        'Facebook',
+        1,
+        2016,
+        'Tara Mcgee'
+    ),
+    (
+        3,
+        '2021-05-29 22:52:06',
+        'Phone',
+        1,
+        2021,
+        'Amber Mcdowell'
+    ),
+    (
+        3,
+        '2021-05-29 22:52:06',
+        'Phone',
+        2,
+        2021,
+        'Jack Singh'
+    ),
+    (
+        3,
+        '2021-05-29 22:52:06',
+        'Phone',
+        5,
+        2021,
+        'Tamara Barnes'
+    ),
+    (
+        3,
+        '2021-05-29 22:52:06',
+        'Phone',
+        4,
+        2021,
+        'Aaron Baldwin'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        3,
+        '2021-05-29 22:52:06',
+        'Phone',
+        3,
+        2021,
+        'Robin Myers'
+    ),
+    (
+        933,
+        '2021-05-29 22:36:00',
+        'Instagram',
+        5,
+        2021,
+        'Jack Singh'
+    ),
+    (
+        933,
+        '2021-05-29 22:36:00',
+        'Instagram',
+        1,
+        2021,
+        'Ann Perez'
+    ),
+    (
+        933,
+        '2021-05-29 22:36:00',
+        'Instagram',
+        2,
+        2021,
+        'Amber Mcdowell'
+    ),
+    (
+        933,
+        '2021-05-29 22:36:00',
+        'Instagram',
+        4,
+        2021,
+        'Thomas Smith'
+    ),
+    (
+        933,
+        '2021-05-29 22:36:00',
+        'Instagram',
+        3,
+        2021,
+        'Caleb Ellison'
+    ),
+    (
+        193,
+        '2023-05-27 22:09:21',
+        'Phone',
+        4,
+        2023,
+        'Michael Butler'
+    ),
+    (
+        193,
+        '2023-05-27 22:09:21',
+        'Phone',
+        2,
+        2023,
+        'Leslie Lee'
+    ),
+    (
+        193,
+        '2023-05-27 22:09:21',
+        'Phone',
+        1,
+        2023,
+        'Paula Henderson'
+    ),
+    (
+        193,
+        '2023-05-27 22:09:21',
+        'Phone',
+        3,
+        2023,
+        'Christine Hayes'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        193,
+        '2023-05-27 22:09:21',
+        'Phone',
+        5,
+        2023,
+        'Megan Saunders'
+    ),
+    (
+        724,
+        '2022-05-28 22:44:29',
+        'Instagram',
+        4,
+        2022,
+        'Stephanie Smith'
+    ),
+    (
+        724,
+        '2022-05-28 22:44:29',
+        'Instagram',
+        1,
+        2022,
+        'Thomas Gregory'
+    ),
+    (
+        724,
+        '2022-05-28 22:44:29',
+        'Instagram',
+        2,
+        2022,
+        'Robert Curtis'
+    ),
+    (
+        724,
+        '2022-05-28 22:44:29',
+        'Instagram',
+        5,
+        2022,
+        'Gary Stone'
+    ),
+    (
+        724,
+        '2022-05-28 22:44:29',
+        'Instagram',
+        3,
+        2022,
+        'Andre Burton'
+    ),
+    (
+        759,
+        '2018-05-26 23:09:32',
+        'Web',
+        3,
+        2018,
+        'Jessica Williams'
+    ),
+    (
+        759,
+        '2018-05-26 23:09:32',
+        'Web',
+        4,
+        2018,
+        'Danielle Miller'
+    ),
+    (
+        759,
+        '2018-05-26 23:09:32',
+        'Web',
+        1,
+        2018,
+        'Brandon Ruiz'
+    ),
+    (
+        759,
+        '2018-05-26 23:09:32',
+        'Web',
+        5,
+        2018,
+        'Steven Cox'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        759,
+        '2018-05-26 23:09:32',
+        'Web',
+        2,
+        2018,
+        'John Hubbard'
+    ),
+    (
+        189,
+        '2018-05-26 22:28:33',
+        'Instagram',
+        1,
+        2018,
+        'Charles Glover'
+    ),
+    (
+        189,
+        '2018-05-26 22:28:33',
+        'Instagram',
+        4,
+        2018,
+        'Diane Harrison'
+    ),
+    (
+        189,
+        '2018-05-26 22:28:33',
+        'Instagram',
+        3,
+        2018,
+        'John Hubbard'
+    ),
+    (
+        189,
+        '2018-05-26 22:28:33',
+        'Instagram',
+        5,
+        2018,
+        'Steven Cox'
+    ),
+    (
+        189,
+        '2018-05-26 22:28:33',
+        'Instagram',
+        2,
+        2018,
+        'Danielle Miller'
+    ),
+    (
+        539,
+        '2023-05-27 23:38:49',
+        'Facebook',
+        1,
+        2023,
+        'Megan Saunders'
+    ),
+    (
+        539,
+        '2023-05-27 23:38:49',
+        'Facebook',
+        4,
+        2023,
+        'Christine Hayes'
+    ),
+    (
+        539,
+        '2023-05-27 23:38:49',
+        'Facebook',
+        5,
+        2023,
+        'Scott Baker'
+    ),
+    (
+        539,
+        '2023-05-27 23:38:49',
+        'Facebook',
+        3,
+        2023,
+        'Samantha Erickson'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        539,
+        '2023-05-27 23:38:49',
+        'Facebook',
+        2,
+        2023,
+        'Jacqueline Wagner'
+    ),
+    (
+        289,
+        '2010-05-29 22:20:04',
+        'Facebook',
+        4,
+        2010,
+        'Rachel Melton'
+    ),
+    (
+        289,
+        '2010-05-29 22:20:04',
+        'Facebook',
+        3,
+        2010,
+        'Kayla Vargas'
+    ),
+    (
+        289,
+        '2010-05-29 22:20:04',
+        'Facebook',
+        2,
+        2010,
+        'Katherine Li'
+    ),
+    (
+        289,
+        '2010-05-29 22:20:04',
+        'Facebook',
+        5,
+        2010,
+        'Matthew Rice'
+    ),
+    (
+        289,
+        '2010-05-29 22:20:04',
+        'Facebook',
+        1,
+        2010,
+        'Courtney Barber'
+    ),
+    (
+        91,
+        '2017-05-27 22:56:44',
+        'Facebook',
+        5,
+        2017,
+        'Elizabeth Koch'
+    ),
+    (
+        91,
+        '2017-05-27 22:56:44',
+        'Facebook',
+        1,
+        2017,
+        'Matthew Vaughn'
+    ),
+    (
+        91,
+        '2017-05-27 22:56:44',
+        'Facebook',
+        4,
+        2017,
+        'Rachel Cole'
+    ),
+    (
+        91,
+        '2017-05-27 22:56:44',
+        'Facebook',
+        2,
+        2017,
+        'Brian Mccall'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        91,
+        '2017-05-27 22:56:44',
+        'Facebook',
+        3,
+        2017,
+        'Sean Ward'
+    ),
+    (
+        499,
+        '2015-05-30 22:50:59',
+        'Web',
+        5,
+        2015,
+        'Deborah Sparks'
+    ),
+    (
+        989,
+        '2020-05-30 22:21:20',
+        'Facebook',
+        1,
+        2020,
+        'Charles Washington'
+    ),
+    (
+        989,
+        '2020-05-30 22:21:20',
+        'Facebook',
+        4,
+        2020,
+        'Lisa Mcdaniel'
+    ),
+    (
+        989,
+        '2020-05-30 22:21:20',
+        'Facebook',
+        5,
+        2020,
+        'Juan Huerta'
+    ),
+    (
+        989,
+        '2020-05-30 22:21:20',
+        'Facebook',
+        2,
+        2020,
+        'Danielle Berger'
+    ),
+    (
+        989,
+        '2020-05-30 22:21:20',
+        'Facebook',
+        3,
+        2020,
+        'Travis Walker'
+    ),
+    (
+        14,
+        '2024-05-25 23:46:54',
+        'Instagram',
+        4,
+        2024,
+        'Christy Perry'
+    ),
+    (
+        14,
+        '2024-05-25 23:46:54',
+        'Instagram',
+        5,
+        2024,
+        'Alexis Fields'
+    ),
+    (
+        14,
+        '2024-05-25 23:46:54',
+        'Instagram',
+        3,
+        2024,
+        'Richard Lewis'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        14,
+        '2024-05-25 23:46:54',
+        'Instagram',
+        1,
+        2024,
+        'Austin Williams'
+    ),
+    (
+        14,
+        '2024-05-25 23:46:54',
+        'Instagram',
+        2,
+        2024,
+        'Amber Williams'
+    ),
+    (
+        544,
+        '2019-05-25 23:46:59',
+        'Facebook',
+        1,
+        2019,
+        'Aaron Peterson'
+    ),
+    (
+        544,
+        '2019-05-25 23:46:59',
+        'Facebook',
+        3,
+        2019,
+        'Cameron Hawkins'
+    ),
+    (
+        544,
+        '2019-05-25 23:46:59',
+        'Facebook',
+        4,
+        2019,
+        'Kyle Hernandez'
+    ),
+    (
+        544,
+        '2019-05-25 23:46:59',
+        'Facebook',
+        5,
+        2019,
+        'Jennifer Ford'
+    ),
+    (
+        544,
+        '2019-05-25 23:46:59',
+        'Facebook',
+        2,
+        2019,
+        'Sarah Hancock'
+    ),
+    (
+        986,
+        '2020-05-30 22:56:37',
+        'Web',
+        1,
+        2020,
+        'Charles Maddox'
+    ),
+    (
+        986,
+        '2020-05-30 22:56:37',
+        'Web',
+        2,
+        2020,
+        'Travis Walker'
+    ),
+    (
+        986,
+        '2020-05-30 22:56:37',
+        'Web',
+        4,
+        2020,
+        'Jacob Hickman'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        986,
+        '2020-05-30 22:56:37',
+        'Web',
+        3,
+        2020,
+        'Lisa Wood'
+    ),
+    (
+        986,
+        '2020-05-30 22:56:37',
+        'Web',
+        5,
+        2020,
+        'Lisa Mcdaniel'
+    ),
+    (
+        836,
+        '2009-05-30 23:29:33',
+        'Instagram',
+        1,
+        2009,
+        'Leslie Saunders'
+    ),
+    (
+        836,
+        '2009-05-30 23:29:33',
+        'Instagram',
+        4,
+        2009,
+        'Melanie Hall'
+    ),
+    (
+        836,
+        '2009-05-30 23:29:33',
+        'Instagram',
+        5,
+        2009,
+        'Olivia Nichols'
+    ),
+    (
+        836,
+        '2009-05-30 23:29:33',
+        'Instagram',
+        2,
+        2009,
+        'Matthew Garcia'
+    ),
+    (
+        836,
+        '2009-05-30 23:29:33',
+        'Instagram',
+        3,
+        2009,
+        'Carrie Bell'
+    ),
+    (
+        513,
+        '2023-05-27 22:42:13',
+        'Facebook',
+        2,
+        2023,
+        'Scott Baker'
+    ),
+    (
+        513,
+        '2023-05-27 22:42:13',
+        'Facebook',
+        5,
+        2023,
+        'Jacqueline Wagner'
+    ),
+    (
+        513,
+        '2023-05-27 22:42:13',
+        'Facebook',
+        1,
+        2023,
+        'Megan Saunders'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        513,
+        '2023-05-27 22:42:13',
+        'Facebook',
+        3,
+        2023,
+        'Samantha Erickson'
+    ),
+    (
+        513,
+        '2023-05-27 22:42:13',
+        'Facebook',
+        4,
+        2023,
+        'Thomas Ruiz'
+    ),
+    (
+        827,
+        '2012-05-26 22:30:20',
+        'Instagram',
+        5,
+        2012,
+        'Lynn Booth'
+    ),
+    (
+        827,
+        '2012-05-26 22:30:20',
+        'Instagram',
+        3,
+        2012,
+        'Jennifer Wolfe'
+    ),
+    (
+        827,
+        '2012-05-26 22:30:20',
+        'Instagram',
+        2,
+        2012,
+        'Kenneth Warner'
+    ),
+    (
+        827,
+        '2012-05-26 22:30:20',
+        'Instagram',
+        4,
+        2012,
+        'Anthony Bradford'
+    ),
+    (
+        827,
+        '2012-05-26 22:30:20',
+        'Instagram',
+        1,
+        2012,
+        'Maria Robertson'
+    ),
+    (
+        511,
+        '2017-05-27 22:17:12',
+        'Instagram',
+        1,
+        2017,
+        'Tina Roy'
+    ),
+    (
+        511,
+        '2017-05-27 22:17:12',
+        'Instagram',
+        2,
+        2017,
+        'Brian Mccall'
+    ),
+    (
+        511,
+        '2017-05-27 22:17:12',
+        'Instagram',
+        4,
+        2017,
+        'Brandi Harris'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        511,
+        '2017-05-27 22:17:12',
+        'Instagram',
+        3,
+        2017,
+        'Nathan Williams'
+    ),
+    (
+        511,
+        '2017-05-27 22:17:12',
+        'Instagram',
+        5,
+        2017,
+        'Elizabeth Koch'
+    ),
+    (
+        222,
+        '2018-05-26 22:04:27',
+        'Phone',
+        2,
+        2018,
+        'Brandon Ruiz'
+    ),
+    (
+        222,
+        '2018-05-26 22:04:27',
+        'Phone',
+        3,
+        2018,
+        'Jessica Williams'
+    ),
+    (
+        870,
+        '2009-05-30 23:08:25',
+        'Instagram',
+        3,
+        2009,
+        'Sandra Lopez'
+    ),
+    (
+        870,
+        '2009-05-30 23:08:25',
+        'Instagram',
+        2,
+        2009,
+        'Melanie Hall'
+    ),
+    (
+        870,
+        '2009-05-30 23:08:25',
+        'Instagram',
+        1,
+        2009,
+        'Wanda Smith'
+    ),
+    (
+        870,
+        '2009-05-30 23:08:25',
+        'Instagram',
+        5,
+        2009,
+        'Kimberly Craig'
+    ),
+    (
+        870,
+        '2009-05-30 23:08:25',
+        'Instagram',
+        4,
+        2009,
+        'Olivia Nichols'
+    ),
+    (
+        678,
+        '2012-05-26 23:31:34',
+        'Phone',
+        2,
+        2012,
+        'Patrick Benson'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        678,
+        '2012-05-26 23:31:34',
+        'Phone',
+        4,
+        2012,
+        'Stephanie Patrick'
+    ),
+    (
+        678,
+        '2012-05-26 23:31:34',
+        'Phone',
+        3,
+        2012,
+        'Kenneth Warner'
+    ),
+    (
+        678,
+        '2012-05-26 23:31:34',
+        'Phone',
+        1,
+        2012,
+        'Jennifer Wolfe'
+    ),
+    (
+        678,
+        '2012-05-26 23:31:34',
+        'Phone',
+        5,
+        2012,
+        'Tyler Jordan'
+    ),
+    (
+        335,
+        '2018-05-26 23:25:20',
+        'Facebook',
+        4,
+        2018,
+        'Diane Harrison'
+    ),
+    (
+        335,
+        '2018-05-26 23:25:20',
+        'Facebook',
+        2,
+        2018,
+        'John Hubbard'
+    ),
+    (
+        335,
+        '2018-05-26 23:25:20',
+        'Facebook',
+        1,
+        2018,
+        'Carrie Clark'
+    ),
+    (
+        335,
+        '2018-05-26 23:25:20',
+        'Facebook',
+        3,
+        2018,
+        'Jessica Williams'
+    ),
+    (
+        335,
+        '2018-05-26 23:25:20',
+        'Facebook',
+        5,
+        2018,
+        'Charles Glover'
+    ),
+    (
+        635,
+        '2018-05-26 22:17:39',
+        'Instagram',
+        4,
+        2018,
+        'John Hubbard'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        635,
+        '2018-05-26 22:17:39',
+        'Instagram',
+        5,
+        2018,
+        'Charles Glover'
+    ),
+    (
+        635,
+        '2018-05-26 22:17:39',
+        'Instagram',
+        3,
+        2018,
+        'Kimberly Davis'
+    ),
+    (
+        635,
+        '2018-05-26 22:17:39',
+        'Instagram',
+        1,
+        2018,
+        'Brandon Ruiz'
+    ),
+    (
+        635,
+        '2018-05-26 22:17:39',
+        'Instagram',
+        2,
+        2018,
+        'Laura Barnes'
+    ),
+    (
+        410,
+        '2012-05-26 23:33:28',
+        'Phone',
+        2,
+        2012,
+        'Maria Robertson'
+    ),
+    (
+        410,
+        '2012-05-26 23:33:28',
+        'Phone',
+        4,
+        2012,
+        'Jose Smith Jr.'
+    ),
+    (
+        410,
+        '2012-05-26 23:33:28',
+        'Phone',
+        3,
+        2012,
+        'Jennifer Wolfe'
+    ),
+    (
+        410,
+        '2012-05-26 23:33:28',
+        'Phone',
+        5,
+        2012,
+        'Tyler Jordan'
+    ),
+    (
+        410,
+        '2012-05-26 23:33:28',
+        'Phone',
+        1,
+        2012,
+        'Patrick Benson'
+    ),
+    (
+        137,
+        '2017-05-27 22:09:41',
+        'Instagram',
+        1,
+        2017,
+        'Denise Jones'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        137,
+        '2017-05-27 22:09:41',
+        'Instagram',
+        4,
+        2017,
+        'Brian Mccall'
+    ),
+    (
+        137,
+        '2017-05-27 22:09:41',
+        'Instagram',
+        2,
+        2017,
+        'Matthew Vaughn'
+    ),
+    (
+        137,
+        '2017-05-27 22:09:41',
+        'Instagram',
+        3,
+        2017,
+        'Tina Roy'
+    ),
+    (
+        137,
+        '2017-05-27 22:09:41',
+        'Instagram',
+        5,
+        2017,
+        'Sean Ward'
+    ),
+    (
+        900,
+        '2021-05-29 22:23:41',
+        'Web',
+        4,
+        2021,
+        'Tamara Barnes'
+    ),
+    (
+        900,
+        '2021-05-29 22:23:41',
+        'Web',
+        2,
+        2021,
+        'Manuel Caldwell'
+    ),
+    (
+        900,
+        '2021-05-29 22:23:41',
+        'Web',
+        3,
+        2021,
+        'Aaron Baldwin'
+    ),
+    (
+        900,
+        '2021-05-29 22:23:41',
+        'Web',
+        5,
+        2021,
+        'Samantha Lee'
+    ),
+    (
+        900,
+        '2021-05-29 22:23:41',
+        'Web',
+        1,
+        2021,
+        'Thomas Smith'
+    ),
+    (
+        910,
+        '2022-05-28 22:05:16',
+        'Phone',
+        1,
+        2022,
+        'Michael Martinez'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        910,
+        '2022-05-28 22:05:16',
+        'Phone',
+        3,
+        2022,
+        'Michael Baker'
+    ),
+    (
+        910,
+        '2022-05-28 22:05:16',
+        'Phone',
+        4,
+        2022,
+        'Robert Curtis'
+    ),
+    (
+        910,
+        '2022-05-28 22:05:16',
+        'Phone',
+        2,
+        2022,
+        'Andrew Hodges'
+    ),
+    (
+        910,
+        '2022-05-28 22:05:16',
+        'Phone',
+        5,
+        2022,
+        'Gary Stone'
+    ),
+    (
+        130,
+        '2023-05-27 22:37:09',
+        'Facebook',
+        3,
+        2023,
+        'Samantha Erickson'
+    ),
+    (
+        130,
+        '2023-05-27 22:37:09',
+        'Facebook',
+        2,
+        2023,
+        'Scott Baker'
+    ),
+    (
+        130,
+        '2023-05-27 22:37:09',
+        'Facebook',
+        4,
+        2023,
+        'Paula Henderson'
+    ),
+    (
+        130,
+        '2023-05-27 22:37:09',
+        'Facebook',
+        1,
+        2023,
+        'Michael Butler'
+    ),
+    (
+        130,
+        '2023-05-27 22:37:09',
+        'Facebook',
+        5,
+        2023,
+        'Manuel Graves'
+    ),
+    (
+        141,
+        '2011-05-28 23:53:40',
+        'Facebook',
+        3,
+        2011,
+        'Wesley Garcia'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        141,
+        '2011-05-28 23:53:40',
+        'Facebook',
+        2,
+        2011,
+        'Ashley Lawson'
+    ),
+    (
+        141,
+        '2011-05-28 23:53:40',
+        'Facebook',
+        1,
+        2011,
+        'Dr. Courtney Green MD'
+    ),
+    (
+        141,
+        '2011-05-28 23:53:40',
+        'Facebook',
+        5,
+        2011,
+        'Keith Ingram'
+    ),
+    (
+        141,
+        '2011-05-28 23:53:40',
+        'Facebook',
+        4,
+        2011,
+        'John Henderson'
+    ),
+    (
+        198,
+        '2014-05-31 23:48:01',
+        'Facebook',
+        5,
+        2014,
+        'Luke Williams'
+    ),
+    (
+        198,
+        '2014-05-31 23:48:01',
+        'Facebook',
+        2,
+        2014,
+        'John Conner'
+    ),
+    (
+        198,
+        '2014-05-31 23:48:01',
+        'Facebook',
+        1,
+        2014,
+        'Mary Vance'
+    ),
+    (
+        198,
+        '2014-05-31 23:48:01',
+        'Facebook',
+        3,
+        2014,
+        'Todd Miller'
+    ),
+    (
+        198,
+        '2014-05-31 23:48:01',
+        'Facebook',
+        4,
+        2014,
+        'Teresa Martin'
+    ),
+    (
+        812,
+        '2022-05-28 22:27:30',
+        'Web',
+        4,
+        2022,
+        'Michael Martinez'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        812,
+        '2022-05-28 22:27:30',
+        'Web',
+        1,
+        2022,
+        'Robert Curtis'
+    ),
+    (
+        812,
+        '2022-05-28 22:27:30',
+        'Web',
+        2,
+        2022,
+        'Andre Burton'
+    ),
+    (
+        812,
+        '2022-05-28 22:27:30',
+        'Web',
+        3,
+        2022,
+        'Andrew Hodges'
+    ),
+    (
+        812,
+        '2022-05-28 22:27:30',
+        'Web',
+        5,
+        2022,
+        'Thomas Gregory'
+    ),
+    (
+        551,
+        '2010-05-29 23:25:37',
+        'Web',
+        4,
+        2010,
+        'Courtney Barber'
+    ),
+    (
+        551,
+        '2010-05-29 23:25:37',
+        'Web',
+        1,
+        2010,
+        'Timothy Sandoval'
+    ),
+    (
+        551,
+        '2010-05-29 23:25:37',
+        'Web',
+        3,
+        2010,
+        'Katherine Li'
+    ),
+    (
+        174,
+        '2016-05-28 23:19:05',
+        'Phone',
+        1,
+        2016,
+        'Steve Bennett'
+    ),
+    (
+        174,
+        '2016-05-28 23:19:05',
+        'Phone',
+        5,
+        2016,
+        'Anne Mcfarland'
+    ),
+    (
+        174,
+        '2016-05-28 23:19:05',
+        'Phone',
+        2,
+        2016,
+        'Cathy Lewis'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        174,
+        '2016-05-28 23:19:05',
+        'Phone',
+        3,
+        2016,
+        'Derek Schwartz'
+    ),
+    (
+        174,
+        '2016-05-28 23:19:05',
+        'Phone',
+        4,
+        2016,
+        'Alejandra Walter'
+    ),
+    (
+        850,
+        '2014-05-31 22:12:05',
+        'Instagram',
+        2,
+        2014,
+        'John Conner'
+    ),
+    (
+        850,
+        '2014-05-31 22:12:05',
+        'Instagram',
+        5,
+        2014,
+        'Christopher Hodge'
+    ),
+    (
+        850,
+        '2014-05-31 22:12:05',
+        'Instagram',
+        3,
+        2014,
+        'Teresa Martin'
+    ),
+    (
+        850,
+        '2014-05-31 22:12:05',
+        'Instagram',
+        4,
+        2014,
+        'Zachary Fox'
+    ),
+    (
+        850,
+        '2014-05-31 22:12:05',
+        'Instagram',
+        1,
+        2014,
+        'Melissa Williams'
+    ),
+    (
+        613,
+        '2018-05-26 23:52:22',
+        'Web',
+        3,
+        2018,
+        'Laura Barnes'
+    ),
+    (
+        613,
+        '2018-05-26 23:52:22',
+        'Web',
+        2,
+        2018,
+        'Brandon Ruiz'
+    ),
+    (
+        613,
+        '2018-05-26 23:52:22',
+        'Web',
+        4,
+        2018,
+        'Steven Cox'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        613,
+        '2018-05-26 23:52:22',
+        'Web',
+        1,
+        2018,
+        'Carrie Clark'
+    ),
+    (
+        613,
+        '2018-05-26 23:52:22',
+        'Web',
+        5,
+        2018,
+        'Charles Glover'
+    ),
+    (
+        363,
+        '2023-05-27 22:44:18',
+        'Facebook',
+        1,
+        2023,
+        'Manuel Graves'
+    ),
+    (
+        363,
+        '2023-05-27 22:44:18',
+        'Facebook',
+        2,
+        2023,
+        'Thomas Ruiz'
+    ),
+    (
+        363,
+        '2023-05-27 22:44:18',
+        'Facebook',
+        4,
+        2023,
+        'Samantha Erickson'
+    ),
+    (
+        363,
+        '2023-05-27 22:44:18',
+        'Facebook',
+        3,
+        2023,
+        'Paula Henderson'
+    ),
+    (
+        363,
+        '2023-05-27 22:44:18',
+        'Facebook',
+        5,
+        2023,
+        'Leslie Lee'
+    ),
+    (
+        567,
+        '2009-05-30 22:20:40',
+        'Phone',
+        1,
+        2009,
+        'Olivia Nichols'
+    ),
+    (
+        567,
+        '2009-05-30 22:20:40',
+        'Phone',
+        2,
+        2009,
+        'Leslie Saunders'
+    ),
+    (
+        567,
+        '2009-05-30 22:20:40',
+        'Phone',
+        5,
+        2009,
+        'Kimberly Craig'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        567,
+        '2009-05-30 22:20:40',
+        'Phone',
+        3,
+        2009,
+        'Sandra Lopez'
+    ),
+    (
+        567,
+        '2009-05-30 22:20:40',
+        'Phone',
+        4,
+        2009,
+        'Theresa Castaneda'
+    ),
+    (
+        781,
+        '2017-05-27 22:23:46',
+        'Phone',
+        3,
+        2017,
+        'Tina Roy'
+    ),
+    (
+        781,
+        '2017-05-27 22:23:46',
+        'Phone',
+        5,
+        2017,
+        'Brandi Harris'
+    ),
+    (
+        781,
+        '2017-05-27 22:23:46',
+        'Phone',
+        2,
+        2017,
+        'Matthew Vaughn'
+    ),
+    (
+        781,
+        '2017-05-27 22:23:46',
+        'Phone',
+        1,
+        2017,
+        'Elizabeth Koch'
+    ),
+    (
+        781,
+        '2017-05-27 22:23:46',
+        'Phone',
+        4,
+        2017,
+        'Denise Jones'
+    ),
+    (
+        953,
+        '2013-05-25 23:39:42',
+        'Facebook',
+        2,
+        2013,
+        'Angela Phillips'
+    ),
+    (
+        953,
+        '2013-05-25 23:39:42',
+        'Facebook',
+        4,
+        2013,
+        'Tony Prince'
+    ),
+    (
+        953,
+        '2013-05-25 23:39:42',
+        'Facebook',
+        5,
+        2013,
+        'Cassandra Hooper'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        953,
+        '2013-05-25 23:39:42',
+        'Facebook',
+        3,
+        2013,
+        'Thomas Hess'
+    ),
+    (
+        953,
+        '2013-05-25 23:39:42',
+        'Facebook',
+        1,
+        2013,
+        'Nancy Mcmahon'
+    ),
+    (
+        146,
+        '2021-05-29 23:12:44',
+        'Instagram',
+        3,
+        2021,
+        'Robin Myers'
+    ),
+    (
+        146,
+        '2021-05-29 23:12:44',
+        'Instagram',
+        1,
+        2021,
+        'Thomas Smith'
+    ),
+    (
+        146,
+        '2021-05-29 23:12:44',
+        'Instagram',
+        2,
+        2021,
+        'Amber Mcdowell'
+    ),
+    (
+        146,
+        '2021-05-29 23:12:44',
+        'Instagram',
+        5,
+        2021,
+        'Manuel Caldwell'
+    ),
+    (
+        146,
+        '2021-05-29 23:12:44',
+        'Instagram',
+        4,
+        2021,
+        'Tamara Barnes'
+    ),
+    (
+        937,
+        '2020-05-30 23:23:02',
+        'Phone',
+        4,
+        2020,
+        'Benjamin Thomas'
+    ),
+    (
+        937,
+        '2020-05-30 23:23:02',
+        'Phone',
+        3,
+        2020,
+        'Juan Huerta'
+    ),
+    (
+        937,
+        '2020-05-30 23:23:02',
+        'Phone',
+        5,
+        2020,
+        'Travis Walker'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        937,
+        '2020-05-30 23:23:02',
+        'Phone',
+        2,
+        2020,
+        'Lisa Mcdaniel'
+    ),
+    (
+        937,
+        '2020-05-30 23:23:02',
+        'Phone',
+        1,
+        2020,
+        'Jacob Hickman'
+    ),
+    (
+        999,
+        '2022-05-28 22:55:04',
+        'Phone',
+        3,
+        2022,
+        'Thomas Gregory'
+    ),
+    (
+        951,
+        '2022-05-28 23:21:57',
+        'Phone',
+        2,
+        2022,
+        'Michael Martinez'
+    ),
+    (
+        951,
+        '2022-05-28 23:21:57',
+        'Phone',
+        1,
+        2022,
+        'Thomas Gregory'
+    ),
+    (
+        951,
+        '2022-05-28 23:21:57',
+        'Phone',
+        5,
+        2022,
+        'Andrew Hodges'
+    ),
+    (
+        951,
+        '2022-05-28 23:21:57',
+        'Phone',
+        3,
+        2022,
+        'Martin Moore'
+    ),
+    (
+        951,
+        '2022-05-28 23:21:57',
+        'Phone',
+        4,
+        2022,
+        'Andre Burton'
+    ),
+    (
+        127,
+        '2024-05-25 22:22:06',
+        'Phone',
+        2,
+        2024,
+        'Alexis Fields'
+    ),
+    (
+        127,
+        '2024-05-25 22:22:06',
+        'Phone',
+        3,
+        2024,
+        'Emily Buck'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        127,
+        '2024-05-25 22:22:06',
+        'Phone',
+        1,
+        2024,
+        'Christy Perry'
+    ),
+    (
+        127,
+        '2024-05-25 22:22:06',
+        'Phone',
+        4,
+        2024,
+        'Amber Williams'
+    ),
+    (
+        127,
+        '2024-05-25 22:22:06',
+        'Phone',
+        5,
+        2024,
+        'Richard Lewis'
+    ),
+    (
+        495,
+        '2024-05-25 23:29:36',
+        'Instagram',
+        3,
+        2024,
+        'Emily Buck'
+    ),
+    (
+        495,
+        '2024-05-25 23:29:36',
+        'Instagram',
+        4,
+        2024,
+        'Taylor Lopez'
+    ),
+    (
+        495,
+        '2024-05-25 23:29:36',
+        'Instagram',
+        1,
+        2024,
+        'Gabriel Arroyo'
+    ),
+    (
+        495,
+        '2024-05-25 23:29:36',
+        'Instagram',
+        2,
+        2024,
+        'Richard Lewis'
+    ),
+    (
+        495,
+        '2024-05-25 23:29:36',
+        'Instagram',
+        5,
+        2024,
+        'Christy Perry'
+    ),
+    (
+        835,
+        '2009-05-30 23:47:28',
+        'Instagram',
+        3,
+        2009,
+        'Wanda Smith'
+    ),
+    (
+        835,
+        '2009-05-30 23:47:28',
+        'Instagram',
+        5,
+        2009,
+        'Sandra Lopez'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        835,
+        '2009-05-30 23:47:28',
+        'Instagram',
+        4,
+        2009,
+        'Melanie Hall'
+    ),
+    (
+        835,
+        '2009-05-30 23:47:28',
+        'Instagram',
+        2,
+        2009,
+        'Olivia Nichols'
+    ),
+    (
+        835,
+        '2009-05-30 23:47:28',
+        'Instagram',
+        1,
+        2009,
+        'Leslie Saunders'
+    ),
+    (
+        371,
+        '2014-05-31 22:58:41',
+        'Web',
+        1,
+        2014,
+        'Melissa Williams'
+    ),
+    (
+        371,
+        '2014-05-31 22:58:41',
+        'Web',
+        5,
+        2014,
+        'John Conner'
+    ),
+    (
+        371,
+        '2014-05-31 22:58:41',
+        'Web',
+        2,
+        2014,
+        'Christopher Hodge'
+    ),
+    (
+        371,
+        '2014-05-31 22:58:41',
+        'Web',
+        4,
+        2014,
+        'Mary Vance'
+    ),
+    (
+        371,
+        '2014-05-31 22:58:41',
+        'Web',
+        3,
+        2014,
+        'Teresa Martin'
+    ),
+    (
+        803,
+        '2011-05-28 23:53:33',
+        'Instagram',
+        1,
+        2011,
+        'Wesley Garcia'
+    ),
+    (
+        714,
+        '2013-05-25 22:21:34',
+        'Phone',
+        4,
+        2013,
+        'Diane Cooper'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        714,
+        '2013-05-25 22:21:34',
+        'Phone',
+        1,
+        2013,
+        'Angela Phillips'
+    ),
+    (
+        714,
+        '2013-05-25 22:21:34',
+        'Phone',
+        2,
+        2013,
+        'Anthony Villanueva'
+    ),
+    (
+        714,
+        '2013-05-25 22:21:34',
+        'Phone',
+        3,
+        2013,
+        'Tony Prince'
+    ),
+    (
+        714,
+        '2013-05-25 22:21:34',
+        'Phone',
+        5,
+        2013,
+        'Thomas Hess'
+    ),
+    (
+        235,
+        '2024-05-25 23:07:12',
+        'Facebook',
+        4,
+        2024,
+        'Alexis Fields'
+    ),
+    (
+        235,
+        '2024-05-25 23:07:12',
+        'Facebook',
+        2,
+        2024,
+        'Christopher Singh'
+    ),
+    (
+        235,
+        '2024-05-25 23:07:12',
+        'Facebook',
+        3,
+        2024,
+        'Austin Williams'
+    ),
+    (
+        235,
+        '2024-05-25 23:07:12',
+        'Facebook',
+        5,
+        2024,
+        'Gabriel Arroyo'
+    ),
+    (
+        235,
+        '2024-05-25 23:07:12',
+        'Facebook',
+        1,
+        2024,
+        'Jessica Murphy'
+    ),
+    (
+        78,
+        '2022-05-28 23:26:34',
+        'Instagram',
+        1,
+        2022,
+        'Robert Curtis'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        78,
+        '2022-05-28 23:26:34',
+        'Instagram',
+        4,
+        2022,
+        'Stephanie Smith'
+    ),
+    (
+        78,
+        '2022-05-28 23:26:34',
+        'Instagram',
+        2,
+        2022,
+        'Andrew Hodges'
+    ),
+    (
+        78,
+        '2022-05-28 23:26:34',
+        'Instagram',
+        3,
+        2022,
+        'Michael Martinez'
+    ),
+    (
+        78,
+        '2022-05-28 23:26:34',
+        'Instagram',
+        5,
+        2022,
+        'Martin Moore'
+    ),
+    (
+        992,
+        '2011-05-28 22:20:58',
+        'Phone',
+        5,
+        2011,
+        'Cody Davis'
+    ),
+    (
+        992,
+        '2011-05-28 22:20:58',
+        'Phone',
+        2,
+        2011,
+        'Ashley Lawson'
+    ),
+    (
+        992,
+        '2011-05-28 22:20:58',
+        'Phone',
+        1,
+        2011,
+        'Justin Kelly'
+    ),
+    (
+        992,
+        '2011-05-28 22:20:58',
+        'Phone',
+        3,
+        2011,
+        'Wesley Garcia'
+    ),
+    (
+        992,
+        '2011-05-28 22:20:58',
+        'Phone',
+        4,
+        2011,
+        'Dr. Courtney Green MD'
+    ),
+    (
+        899,
+        '2019-05-25 22:16:39',
+        'Instagram',
+        3,
+        2019,
+        'Amanda Ingram'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        899,
+        '2019-05-25 22:16:39',
+        'Instagram',
+        1,
+        2019,
+        'Kathryn Alvarez'
+    ),
+    (
+        899,
+        '2019-05-25 22:16:39',
+        'Instagram',
+        2,
+        2019,
+        'Aaron Peterson'
+    ),
+    (
+        899,
+        '2019-05-25 22:16:39',
+        'Instagram',
+        5,
+        2019,
+        'Cameron Hawkins'
+    ),
+    (
+        899,
+        '2019-05-25 22:16:39',
+        'Instagram',
+        4,
+        2019,
+        'Terry Powell'
+    ),
+    (
+        243,
+        '2023-05-27 23:59:09',
+        'Web',
+        3,
+        2023,
+        'Leslie Lee'
+    ),
+    (
+        243,
+        '2023-05-27 23:59:09',
+        'Web',
+        1,
+        2023,
+        'Christine Hayes'
+    ),
+    (
+        243,
+        '2023-05-27 23:59:09',
+        'Web',
+        4,
+        2023,
+        'Paula Henderson'
+    ),
+    (
+        243,
+        '2023-05-27 23:59:09',
+        'Web',
+        2,
+        2023,
+        'Michael Butler'
+    ),
+    (
+        243,
+        '2023-05-27 23:59:09',
+        'Web',
+        5,
+        2023,
+        'Megan Saunders'
+    ),
+    (
+        440,
+        '2020-05-30 22:17:17',
+        'Web',
+        5,
+        2020,
+        'Benjamin Thomas'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        440,
+        '2020-05-30 22:17:17',
+        'Web',
+        2,
+        2020,
+        'Charles Maddox'
+    ),
+    (
+        440,
+        '2020-05-30 22:17:17',
+        'Web',
+        4,
+        2020,
+        'Charles Washington'
+    ),
+    (
+        440,
+        '2020-05-30 22:17:17',
+        'Web',
+        1,
+        2020,
+        'Danielle Berger'
+    ),
+    (
+        440,
+        '2020-05-30 22:17:17',
+        'Web',
+        3,
+        2020,
+        'Lisa Wood'
+    ),
+    (
+        516,
+        '2009-05-30 23:54:29',
+        'Phone',
+        1,
+        2009,
+        'Leslie Saunders'
+    ),
+    (
+        516,
+        '2009-05-30 23:54:29',
+        'Phone',
+        3,
+        2009,
+        'Matthew Garcia'
+    ),
+    (
+        516,
+        '2009-05-30 23:54:29',
+        'Phone',
+        5,
+        2009,
+        'Melanie Hall'
+    ),
+    (
+        516,
+        '2009-05-30 23:54:29',
+        'Phone',
+        2,
+        2009,
+        'Sandra Lopez'
+    ),
+    (
+        516,
+        '2009-05-30 23:54:29',
+        'Phone',
+        4,
+        2009,
+        'Jason Hebert'
+    ),
+    (
+        816,
+        '2012-05-26 22:00:53',
+        'Facebook',
+        5,
+        2012,
+        'Stacy White'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        816,
+        '2012-05-26 22:00:53',
+        'Facebook',
+        2,
+        2012,
+        'Jennifer Wolfe'
+    ),
+    (
+        816,
+        '2012-05-26 22:00:53',
+        'Facebook',
+        3,
+        2012,
+        'Anthony Bradford'
+    ),
+    (
+        816,
+        '2012-05-26 22:00:53',
+        'Facebook',
+        4,
+        2012,
+        'Lynn Booth'
+    ),
+    (
+        816,
+        '2012-05-26 22:00:53',
+        'Facebook',
+        1,
+        2012,
+        'Stephanie Patrick'
+    ),
+    (
+        880,
+        '2016-05-28 23:06:47',
+        'Web',
+        2,
+        2016,
+        'Anne Mcfarland'
+    ),
+    (
+        880,
+        '2016-05-28 23:06:47',
+        'Web',
+        3,
+        2016,
+        'Alejandra Walter'
+    ),
+    (
+        880,
+        '2016-05-28 23:06:47',
+        'Web',
+        5,
+        2016,
+        'Kimberly Wilkins MD'
+    ),
+    (
+        880,
+        '2016-05-28 23:06:47',
+        'Web',
+        1,
+        2016,
+        'Melody Reese MD'
+    ),
+    (
+        880,
+        '2016-05-28 23:06:47',
+        'Web',
+        4,
+        2016,
+        'Brian Ingram'
+    ),
+    (
+        174,
+        '2019-05-25 23:55:17',
+        'Web',
+        2,
+        2019,
+        'Samantha Jones'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        174,
+        '2019-05-25 23:55:17',
+        'Web',
+        3,
+        2019,
+        'Aaron Peterson'
+    ),
+    (
+        174,
+        '2019-05-25 23:55:17',
+        'Web',
+        4,
+        2019,
+        'Kathryn Alvarez'
+    ),
+    (
+        174,
+        '2019-05-25 23:55:17',
+        'Web',
+        5,
+        2019,
+        'Patrick Wilson'
+    ),
+    (
+        174,
+        '2019-05-25 23:55:17',
+        'Web',
+        1,
+        2019,
+        'Terry Powell'
+    ),
+    (
+        427,
+        '2020-05-30 23:36:42',
+        'Instagram',
+        3,
+        2020,
+        'Lisa Mcdaniel'
+    ),
+    (
+        427,
+        '2020-05-30 23:36:42',
+        'Instagram',
+        4,
+        2020,
+        'Jacob Hickman'
+    ),
+    (
+        427,
+        '2020-05-30 23:36:42',
+        'Instagram',
+        2,
+        2020,
+        'Charles Maddox'
+    ),
+    (
+        427,
+        '2020-05-30 23:36:42',
+        'Instagram',
+        1,
+        2020,
+        'Charles Washington'
+    ),
+    (
+        427,
+        '2020-05-30 23:36:42',
+        'Instagram',
+        5,
+        2020,
+        'Benjamin Thomas'
+    ),
+    (
+        525,
+        '2022-05-28 23:10:25',
+        'Web',
+        3,
+        2022,
+        'Michael Martinez'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        525,
+        '2022-05-28 23:10:25',
+        'Web',
+        2,
+        2022,
+        'Andre Burton'
+    ),
+    (
+        525,
+        '2022-05-28 23:10:25',
+        'Web',
+        1,
+        2022,
+        'Robert Curtis'
+    ),
+    (
+        525,
+        '2022-05-28 23:10:25',
+        'Web',
+        5,
+        2022,
+        'Thomas Gregory'
+    ),
+    (
+        525,
+        '2022-05-28 23:10:25',
+        'Web',
+        4,
+        2022,
+        'Stephanie Smith'
+    ),
+    (
+        836,
+        '2013-05-25 22:25:48',
+        'Facebook',
+        2,
+        2013,
+        'Thomas Hess'
+    ),
+    (
+        836,
+        '2013-05-25 22:25:48',
+        'Facebook',
+        1,
+        2013,
+        'Nancy Mcmahon'
+    ),
+    (
+        836,
+        '2013-05-25 22:25:48',
+        'Facebook',
+        4,
+        2013,
+        'Angela Phillips'
+    ),
+    (
+        836,
+        '2013-05-25 22:25:48',
+        'Facebook',
+        3,
+        2013,
+        'Tony Prince'
+    ),
+    (
+        836,
+        '2013-05-25 22:25:48',
+        'Facebook',
+        5,
+        2013,
+        'Cassandra Hooper'
+    ),
+    (
+        101,
+        '2017-05-27 22:10:42',
+        'Instagram',
+        4,
+        2017,
+        'Andrea Hill'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        101,
+        '2017-05-27 22:10:42',
+        'Instagram',
+        3,
+        2017,
+        'Denise Jones'
+    ),
+    (
+        101,
+        '2017-05-27 22:10:42',
+        'Instagram',
+        1,
+        2017,
+        'Brian Mccall'
+    ),
+    (
+        101,
+        '2017-05-27 22:10:42',
+        'Instagram',
+        5,
+        2017,
+        'Sean Ward'
+    ),
+    (
+        101,
+        '2017-05-27 22:10:42',
+        'Instagram',
+        2,
+        2017,
+        'Elizabeth Koch'
+    ),
+    (
+        421,
+        '2011-05-28 23:18:18',
+        'Phone',
+        1,
+        2011,
+        'John Henderson'
+    ),
+    (
+        421,
+        '2011-05-28 23:18:18',
+        'Phone',
+        5,
+        2011,
+        'Ashley Lawson'
+    ),
+    (
+        421,
+        '2011-05-28 23:18:18',
+        'Phone',
+        3,
+        2011,
+        'Victoria Rosales PhD'
+    ),
+    (
+        421,
+        '2011-05-28 23:18:18',
+        'Phone',
+        4,
+        2011,
+        'Keith Ingram'
+    ),
+    (
+        421,
+        '2011-05-28 23:18:18',
+        'Phone',
+        2,
+        2011,
+        'Carmen Mitchell'
+    ),
+    (
+        878,
+        '2018-05-26 23:32:10',
+        'Instagram',
+        5,
+        2018,
+        'Kimberly Davis'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        878,
+        '2018-05-26 23:32:10',
+        'Instagram',
+        2,
+        2018,
+        'Jessica Williams'
+    ),
+    (
+        878,
+        '2018-05-26 23:32:10',
+        'Instagram',
+        3,
+        2018,
+        'Steven Cox'
+    ),
+    (
+        878,
+        '2018-05-26 23:32:10',
+        'Instagram',
+        1,
+        2018,
+        'Danielle Miller'
+    ),
+    (
+        878,
+        '2018-05-26 23:32:10',
+        'Instagram',
+        4,
+        2018,
+        'Laura Barnes'
+    ),
+    (
+        32,
+        '2020-05-30 23:40:46',
+        'Web',
+        1,
+        2020,
+        'Travis Walker'
+    ),
+    (
+        32,
+        '2020-05-30 23:40:46',
+        'Web',
+        4,
+        2020,
+        'Juan Huerta'
+    ),
+    (
+        32,
+        '2020-05-30 23:40:46',
+        'Web',
+        3,
+        2020,
+        'Charles Maddox'
+    ),
+    (
+        32,
+        '2020-05-30 23:40:46',
+        'Web',
+        5,
+        2020,
+        'Charles Washington'
+    ),
+    (
+        32,
+        '2020-05-30 23:40:46',
+        'Web',
+        2,
+        2020,
+        'Lisa Mcdaniel'
+    ),
+    (
+        740,
+        '2012-05-26 23:37:38',
+        'Phone',
+        2,
+        2012,
+        'Anthony Bradford'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        740,
+        '2012-05-26 23:37:38',
+        'Phone',
+        5,
+        2012,
+        'Stephanie Patrick'
+    ),
+    (
+        740,
+        '2012-05-26 23:37:38',
+        'Phone',
+        3,
+        2012,
+        'Kenneth Warner'
+    ),
+    (
+        740,
+        '2012-05-26 23:37:38',
+        'Phone',
+        4,
+        2012,
+        'Stacy White'
+    ),
+    (
+        740,
+        '2012-05-26 23:37:38',
+        'Phone',
+        1,
+        2012,
+        'Jose Smith Jr.'
+    ),
+    (
+        27,
+        '2010-05-29 23:10:29',
+        'Facebook',
+        3,
+        2010,
+        'Kyle Weiss'
+    ),
+    (
+        648,
+        '2021-05-29 22:21:55',
+        'Phone',
+        3,
+        2021,
+        'Samantha Lee'
+    ),
+    (
+        648,
+        '2021-05-29 22:21:55',
+        'Phone',
+        1,
+        2021,
+        'Ann Perez'
+    ),
+    (
+        648,
+        '2021-05-29 22:21:55',
+        'Phone',
+        5,
+        2021,
+        'Thomas Smith'
+    ),
+    (
+        648,
+        '2021-05-29 22:21:55',
+        'Phone',
+        2,
+        2021,
+        'Aaron Baldwin'
+    ),
+    (
+        648,
+        '2021-05-29 22:21:55',
+        'Phone',
+        4,
+        2021,
+        'Robin Myers'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        277,
+        '2023-05-27 22:16:37',
+        'Phone',
+        4,
+        2023,
+        'Manuel Graves'
+    ),
+    (
+        277,
+        '2023-05-27 22:16:37',
+        'Phone',
+        1,
+        2023,
+        'Christine Hayes'
+    ),
+    (
+        277,
+        '2023-05-27 22:16:37',
+        'Phone',
+        5,
+        2023,
+        'Samantha Erickson'
+    ),
+    (
+        277,
+        '2023-05-27 22:16:37',
+        'Phone',
+        2,
+        2023,
+        'Michael Butler'
+    ),
+    (
+        277,
+        '2023-05-27 22:16:37',
+        'Phone',
+        3,
+        2023,
+        'Jacqueline Wagner'
+    ),
+    (
+        345,
+        '2017-05-27 23:41:34',
+        'Instagram',
+        4,
+        2017,
+        'Denise Jones'
+    ),
+    (
+        345,
+        '2017-05-27 23:41:34',
+        'Instagram',
+        1,
+        2017,
+        'Tina Roy'
+    ),
+    (
+        345,
+        '2017-05-27 23:41:34',
+        'Instagram',
+        3,
+        2017,
+        'Matthew Vaughn'
+    ),
+    (
+        345,
+        '2017-05-27 23:41:34',
+        'Instagram',
+        2,
+        2017,
+        'Elizabeth Koch'
+    ),
+    (
+        345,
+        '2017-05-27 23:41:34',
+        'Instagram',
+        5,
+        2017,
+        'Andrea Hill'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        359,
+        '2019-05-25 23:54:11',
+        'Web',
+        3,
+        2019,
+        'Terry Powell'
+    ),
+    (
+        359,
+        '2019-05-25 23:54:11',
+        'Web',
+        4,
+        2019,
+        'Cameron Hawkins'
+    ),
+    (
+        359,
+        '2019-05-25 23:54:11',
+        'Web',
+        2,
+        2019,
+        'Kathryn Alvarez'
+    ),
+    (
+        359,
+        '2019-05-25 23:54:11',
+        'Web',
+        1,
+        2019,
+        'Patrick Wilson'
+    ),
+    (
+        713,
+        '2015-05-30 22:12:06',
+        'Web',
+        4,
+        2015,
+        'Brett Benjamin'
+    ),
+    (
+        713,
+        '2015-05-30 22:12:06',
+        'Web',
+        2,
+        2015,
+        'Robert White'
+    ),
+    (
+        713,
+        '2015-05-30 22:12:06',
+        'Web',
+        1,
+        2015,
+        'Nathan Bailey'
+    ),
+    (
+        713,
+        '2015-05-30 22:12:06',
+        'Web',
+        5,
+        2015,
+        'Travis Hays'
+    ),
+    (
+        713,
+        '2015-05-30 22:12:06',
+        'Web',
+        3,
+        2015,
+        'Nicholas Black'
+    ),
+    (
+        62,
+        '2009-05-30 22:12:16',
+        'Instagram',
+        1,
+        2009,
+        'Leslie Saunders'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        62,
+        '2009-05-30 22:12:16',
+        'Instagram',
+        3,
+        2009,
+        'Melanie Hall'
+    ),
+    (
+        62,
+        '2009-05-30 22:12:16',
+        'Instagram',
+        4,
+        2009,
+        'Wanda Smith'
+    ),
+    (
+        62,
+        '2009-05-30 22:12:16',
+        'Instagram',
+        5,
+        2009,
+        'Theresa Castaneda'
+    ),
+    (
+        62,
+        '2009-05-30 22:12:16',
+        'Instagram',
+        2,
+        2009,
+        'Olivia Nichols'
+    ),
+    (
+        903,
+        '2010-05-29 23:31:16',
+        'Web',
+        1,
+        2010,
+        'Courtney Barber'
+    ),
+    (
+        903,
+        '2010-05-29 23:31:16',
+        'Web',
+        4,
+        2010,
+        'Kayla Vargas'
+    ),
+    (
+        903,
+        '2010-05-29 23:31:16',
+        'Web',
+        3,
+        2010,
+        'Matthew Rice'
+    ),
+    (
+        903,
+        '2010-05-29 23:31:16',
+        'Web',
+        2,
+        2010,
+        'Kevin Wilson'
+    ),
+    (
+        903,
+        '2010-05-29 23:31:16',
+        'Web',
+        5,
+        2010,
+        'Rachel Melton'
+    ),
+    (
+        216,
+        '2015-05-30 22:59:46',
+        'Instagram',
+        1,
+        2015,
+        'Deborah Sparks'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        216,
+        '2015-05-30 22:59:46',
+        'Instagram',
+        5,
+        2015,
+        'Travis Hays'
+    ),
+    (
+        216,
+        '2015-05-30 22:59:46',
+        'Instagram',
+        4,
+        2015,
+        'Lisa Patrick'
+    ),
+    (
+        216,
+        '2015-05-30 22:59:46',
+        'Instagram',
+        2,
+        2015,
+        'Nathan Bailey'
+    ),
+    (
+        216,
+        '2015-05-30 22:59:46',
+        'Instagram',
+        3,
+        2015,
+        'Louis Phillips'
+    ),
+    (
+        874,
+        '2022-05-28 22:42:11',
+        'Phone',
+        2,
+        2022,
+        'Michelle Martin'
+    ),
+    (
+        874,
+        '2022-05-28 22:42:11',
+        'Phone',
+        4,
+        2022,
+        'Michael Martinez'
+    ),
+    (
+        874,
+        '2022-05-28 22:42:11',
+        'Phone',
+        3,
+        2022,
+        'Martin Moore'
+    ),
+    (
+        874,
+        '2022-05-28 22:42:11',
+        'Phone',
+        5,
+        2022,
+        'Gary Stone'
+    ),
+    (
+        874,
+        '2022-05-28 22:42:11',
+        'Phone',
+        1,
+        2022,
+        'Michael Baker'
+    ),
+    (
+        24,
+        '2023-05-27 23:30:40',
+        'Phone',
+        1,
+        2023,
+        'Manuel Graves'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        24,
+        '2023-05-27 23:30:40',
+        'Phone',
+        5,
+        2023,
+        'Michael Butler'
+    ),
+    (
+        668,
+        '2021-05-29 22:39:45',
+        'Instagram',
+        1,
+        2021,
+        'Tamara Barnes'
+    ),
+    (
+        668,
+        '2021-05-29 22:39:45',
+        'Instagram',
+        3,
+        2021,
+        'Ann Perez'
+    ),
+    (
+        668,
+        '2021-05-29 22:39:45',
+        'Instagram',
+        4,
+        2021,
+        'Jack Singh'
+    ),
+    (
+        668,
+        '2021-05-29 22:39:45',
+        'Instagram',
+        2,
+        2021,
+        'Thomas Smith'
+    ),
+    (
+        668,
+        '2021-05-29 22:39:45',
+        'Instagram',
+        5,
+        2021,
+        'Robin Myers'
+    ),
+    (
+        312,
+        '2019-05-25 23:50:02',
+        'Instagram',
+        4,
+        2019,
+        'Patrick Wilson'
+    ),
+    (
+        312,
+        '2019-05-25 23:50:02',
+        'Instagram',
+        5,
+        2019,
+        'Aaron Peterson'
+    ),
+    (
+        312,
+        '2019-05-25 23:50:02',
+        'Instagram',
+        1,
+        2019,
+        'Kathryn Alvarez'
+    ),
+    (
+        312,
+        '2019-05-25 23:50:02',
+        'Instagram',
+        3,
+        2019,
+        'Samantha Jones'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        312,
+        '2019-05-25 23:50:02',
+        'Instagram',
+        2,
+        2019,
+        'Amanda Ingram'
+    ),
+    (
+        851,
+        '2018-05-26 23:02:26',
+        'Phone',
+        4,
+        2018,
+        'John Hubbard'
+    ),
+    (
+        851,
+        '2018-05-26 23:02:26',
+        'Phone',
+        5,
+        2018,
+        'Danielle Miller'
+    ),
+    (
+        851,
+        '2018-05-26 23:02:26',
+        'Phone',
+        1,
+        2018,
+        'Steven Cox'
+    ),
+    (
+        851,
+        '2018-05-26 23:02:26',
+        'Phone',
+        2,
+        2018,
+        'Charles Glover'
+    ),
+    (
+        851,
+        '2018-05-26 23:02:26',
+        'Phone',
+        3,
+        2018,
+        'Diane Harrison'
+    ),
+    (
+        564,
+        '2024-05-25 23:18:46',
+        'Phone',
+        2,
+        2024,
+        'Amber Williams'
+    ),
+    (
+        564,
+        '2024-05-25 23:18:46',
+        'Phone',
+        4,
+        2024,
+        'Emily Buck'
+    ),
+    (
+        564,
+        '2024-05-25 23:18:46',
+        'Phone',
+        1,
+        2024,
+        'Richard Lewis'
+    ),
+    (
+        564,
+        '2024-05-25 23:18:46',
+        'Phone',
+        3,
+        2024,
+        'Gabriel Arroyo'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        564,
+        '2024-05-25 23:18:46',
+        'Phone',
+        5,
+        2024,
+        'Taylor Lopez'
+    ),
+    (
+        837,
+        '2013-05-25 23:02:44',
+        'Facebook',
+        5,
+        2013,
+        'Kimberly Larsen'
+    ),
+    (
+        837,
+        '2013-05-25 23:02:44',
+        'Facebook',
+        3,
+        2013,
+        'Anthony Villanueva'
+    ),
+    (
+        837,
+        '2013-05-25 23:02:44',
+        'Facebook',
+        2,
+        2013,
+        'Blake Martinez'
+    ),
+    (
+        837,
+        '2013-05-25 23:02:44',
+        'Facebook',
+        1,
+        2013,
+        'Angela Phillips'
+    ),
+    (
+        837,
+        '2013-05-25 23:02:44',
+        'Facebook',
+        4,
+        2013,
+        'Tony Prince'
+    ),
+    (
+        602,
+        '2017-05-27 22:21:58',
+        'Web',
+        2,
+        2017,
+        'Brian Mccall'
+    ),
+    (
+        602,
+        '2017-05-27 22:21:58',
+        'Web',
+        4,
+        2017,
+        'Rachel Cole'
+    ),
+    (
+        602,
+        '2017-05-27 22:21:58',
+        'Web',
+        5,
+        2017,
+        'Andrea Hill'
+    ),
+    (
+        602,
+        '2017-05-27 22:21:58',
+        'Web',
+        1,
+        2017,
+        'Nathan Williams'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        602,
+        '2017-05-27 22:21:58',
+        'Web',
+        3,
+        2017,
+        'Denise Jones'
+    ),
+    (
+        337,
+        '2017-05-27 22:03:14',
+        'Phone',
+        3,
+        2017,
+        'Brian Mccall'
+    ),
+    (
+        337,
+        '2017-05-27 22:03:14',
+        'Phone',
+        4,
+        2017,
+        'Brandi Harris'
+    ),
+    (
+        337,
+        '2017-05-27 22:03:14',
+        'Phone',
+        5,
+        2017,
+        'Rachel Cole'
+    ),
+    (
+        337,
+        '2017-05-27 22:03:14',
+        'Phone',
+        2,
+        2017,
+        'Tina Roy'
+    ),
+    (
+        337,
+        '2017-05-27 22:03:14',
+        'Phone',
+        1,
+        2017,
+        'Denise Jones'
+    ),
+    (
+        526,
+        '2015-05-30 22:29:41',
+        'Web',
+        5,
+        2015,
+        'Colleen White'
+    ),
+    (
+        526,
+        '2015-05-30 22:29:41',
+        'Web',
+        3,
+        2015,
+        'Travis Hays'
+    ),
+    (
+        526,
+        '2015-05-30 22:29:41',
+        'Web',
+        2,
+        2015,
+        'Robert White'
+    ),
+    (
+        526,
+        '2015-05-30 22:29:41',
+        'Web',
+        4,
+        2015,
+        'Nicholas Black'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        526,
+        '2015-05-30 22:29:41',
+        'Web',
+        1,
+        2015,
+        'Louis Phillips'
+    ),
+    (
+        304,
+        '2019-05-25 23:33:26',
+        'Phone',
+        3,
+        2019,
+        'Kyle Hernandez'
+    ),
+    (
+        304,
+        '2019-05-25 23:33:26',
+        'Phone',
+        1,
+        2019,
+        'Samantha Jones'
+    ),
+    (
+        304,
+        '2019-05-25 23:33:26',
+        'Phone',
+        2,
+        2019,
+        'Terry Powell'
+    ),
+    (
+        304,
+        '2019-05-25 23:33:26',
+        'Phone',
+        5,
+        2019,
+        'Sarah Hancock'
+    ),
+    (
+        304,
+        '2019-05-25 23:33:26',
+        'Phone',
+        4,
+        2019,
+        'Amanda Ingram'
+    ),
+    (
+        358,
+        '2009-05-30 22:36:55',
+        'Web',
+        2,
+        2009,
+        'Jason Hebert'
+    ),
+    (
+        358,
+        '2009-05-30 22:36:55',
+        'Web',
+        5,
+        2009,
+        'Theresa Castaneda'
+    ),
+    (
+        358,
+        '2009-05-30 22:36:55',
+        'Web',
+        4,
+        2009,
+        'Wanda Smith'
+    ),
+    (
+        358,
+        '2009-05-30 22:36:55',
+        'Web',
+        1,
+        2009,
+        'Leslie Saunders'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        358,
+        '2009-05-30 22:36:55',
+        'Web',
+        3,
+        2009,
+        'Carrie Bell'
+    ),
+    (
+        873,
+        '2019-05-25 22:55:18',
+        'Phone',
+        5,
+        2019,
+        'Samantha Jones'
+    ),
+    (
+        873,
+        '2019-05-25 22:55:18',
+        'Phone',
+        3,
+        2019,
+        'Aaron Peterson'
+    ),
+    (
+        873,
+        '2019-05-25 22:55:18',
+        'Phone',
+        2,
+        2019,
+        'Patrick Wilson'
+    ),
+    (
+        873,
+        '2019-05-25 22:55:18',
+        'Phone',
+        1,
+        2019,
+        'Kyle Hernandez'
+    ),
+    (
+        873,
+        '2019-05-25 22:55:18',
+        'Phone',
+        4,
+        2019,
+        'Jennifer Ford'
+    ),
+    (
+        157,
+        '2023-05-27 23:28:37',
+        'Phone',
+        4,
+        2023,
+        'Manuel Graves'
+    ),
+    (
+        157,
+        '2023-05-27 23:28:37',
+        'Phone',
+        1,
+        2023,
+        'Scott Baker'
+    ),
+    (
+        157,
+        '2023-05-27 23:28:37',
+        'Phone',
+        5,
+        2023,
+        'Megan Saunders'
+    ),
+    (
+        157,
+        '2023-05-27 23:28:37',
+        'Phone',
+        3,
+        2023,
+        'Paula Henderson'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        157,
+        '2023-05-27 23:28:37',
+        'Phone',
+        2,
+        2023,
+        'Thomas Ruiz'
+    ),
+    (
+        395,
+        '2019-05-25 23:24:55',
+        'Instagram',
+        4,
+        2019,
+        'Kyle Hernandez'
+    ),
+    (
+        395,
+        '2019-05-25 23:24:55',
+        'Instagram',
+        5,
+        2019,
+        'Kathryn Alvarez'
+    ),
+    (
+        395,
+        '2019-05-25 23:24:55',
+        'Instagram',
+        2,
+        2019,
+        'Cameron Hawkins'
+    ),
+    (
+        395,
+        '2019-05-25 23:24:55',
+        'Instagram',
+        1,
+        2019,
+        'Jennifer Ford'
+    ),
+    (
+        395,
+        '2019-05-25 23:24:55',
+        'Instagram',
+        3,
+        2019,
+        'Sarah Hancock'
+    ),
+    (
+        875,
+        '2012-05-26 22:01:29',
+        'Instagram',
+        4,
+        2012,
+        'Stephanie Patrick'
+    ),
+    (
+        875,
+        '2012-05-26 22:01:29',
+        'Instagram',
+        2,
+        2012,
+        'Jose Smith Jr.'
+    ),
+    (
+        875,
+        '2012-05-26 22:01:29',
+        'Instagram',
+        1,
+        2012,
+        'Kenneth Warner'
+    ),
+    (
+        875,
+        '2012-05-26 22:01:29',
+        'Instagram',
+        5,
+        2012,
+        'Anthony Bradford'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        875,
+        '2012-05-26 22:01:29',
+        'Instagram',
+        3,
+        2012,
+        'Tyler Jordan'
+    ),
+    (
+        392,
+        '2009-05-30 22:40:11',
+        'Facebook',
+        4,
+        2009,
+        'Melanie Hall'
+    ),
+    (
+        392,
+        '2009-05-30 22:40:11',
+        'Facebook',
+        1,
+        2009,
+        'Sandra Lopez'
+    ),
+    (
+        842,
+        '2015-05-30 23:00:12',
+        'Instagram',
+        5,
+        2015,
+        'Brett Benjamin'
+    ),
+    (
+        842,
+        '2015-05-30 23:00:12',
+        'Instagram',
+        2,
+        2015,
+        'Travis Hays'
+    ),
+    (
+        842,
+        '2015-05-30 23:00:12',
+        'Instagram',
+        3,
+        2015,
+        'Louis Phillips'
+    ),
+    (
+        842,
+        '2015-05-30 23:00:12',
+        'Instagram',
+        4,
+        2015,
+        'Lisa Patrick'
+    ),
+    (
+        842,
+        '2015-05-30 23:00:12',
+        'Instagram',
+        1,
+        2015,
+        'Colleen White'
+    ),
+    (
+        536,
+        '2009-05-30 22:44:33',
+        'Facebook',
+        5,
+        2009,
+        'Matthew Garcia'
+    ),
+    (
+        536,
+        '2009-05-30 22:44:33',
+        'Facebook',
+        4,
+        2009,
+        'Leslie Saunders'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        536,
+        '2009-05-30 22:44:33',
+        'Facebook',
+        2,
+        2009,
+        'Wanda Smith'
+    ),
+    (
+        536,
+        '2009-05-30 22:44:33',
+        'Facebook',
+        3,
+        2009,
+        'Olivia Nichols'
+    ),
+    (
+        536,
+        '2009-05-30 22:44:33',
+        'Facebook',
+        1,
+        2009,
+        'Sandra Lopez'
+    ),
+    (
+        445,
+        '2012-05-26 23:54:35',
+        'Phone',
+        3,
+        2012,
+        'Kenneth Warner'
+    ),
+    (
+        445,
+        '2012-05-26 23:54:35',
+        'Phone',
+        4,
+        2012,
+        'Stacy White'
+    ),
+    (
+        445,
+        '2012-05-26 23:54:35',
+        'Phone',
+        1,
+        2012,
+        'Jose Smith Jr.'
+    ),
+    (
+        445,
+        '2012-05-26 23:54:35',
+        'Phone',
+        2,
+        2012,
+        'Stephanie Patrick'
+    ),
+    (
+        445,
+        '2012-05-26 23:54:35',
+        'Phone',
+        5,
+        2012,
+        'Tyler Jordan'
+    ),
+    (
+        210,
+        '2013-05-25 23:33:51',
+        'Instagram',
+        3,
+        2013,
+        'Thomas Hess'
+    ),
+    (
+        210,
+        '2013-05-25 23:33:51',
+        'Instagram',
+        4,
+        2013,
+        'Anthony Villanueva'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        210,
+        '2013-05-25 23:33:51',
+        'Instagram',
+        5,
+        2013,
+        'Kimberly Larsen'
+    ),
+    (
+        210,
+        '2013-05-25 23:33:51',
+        'Instagram',
+        2,
+        2013,
+        'Wendy Cunningham'
+    ),
+    (
+        210,
+        '2013-05-25 23:33:51',
+        'Instagram',
+        1,
+        2013,
+        'Tony Prince'
+    ),
+    (
+        195,
+        '2018-05-26 22:21:16',
+        'Phone',
+        5,
+        2018,
+        'Steven Cox'
+    ),
+    (
+        195,
+        '2018-05-26 22:21:16',
+        'Phone',
+        3,
+        2018,
+        'Laura Barnes'
+    ),
+    (
+        195,
+        '2018-05-26 22:21:16',
+        'Phone',
+        1,
+        2018,
+        'Danielle Miller'
+    ),
+    (
+        195,
+        '2018-05-26 22:21:16',
+        'Phone',
+        4,
+        2018,
+        'Diane Harrison'
+    ),
+    (
+        195,
+        '2018-05-26 22:21:16',
+        'Phone',
+        2,
+        2018,
+        'John Hubbard'
+    ),
+    (
+        696,
+        '2009-05-30 22:25:13',
+        'Web',
+        4,
+        2009,
+        'Olivia Nichols'
+    ),
+    (
+        696,
+        '2009-05-30 22:25:13',
+        'Web',
+        3,
+        2009,
+        'Leslie Saunders'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        696,
+        '2009-05-30 22:25:13',
+        'Web',
+        1,
+        2009,
+        'Matthew Garcia'
+    ),
+    (
+        696,
+        '2009-05-30 22:25:13',
+        'Web',
+        5,
+        2009,
+        'Jason Hebert'
+    ),
+    (
+        696,
+        '2009-05-30 22:25:13',
+        'Web',
+        2,
+        2009,
+        'Kimberly Craig'
+    ),
+    (
+        219,
+        '2022-05-28 23:21:27',
+        'Web',
+        4,
+        2022,
+        'Michael Baker'
+    ),
+    (
+        219,
+        '2022-05-28 23:21:27',
+        'Web',
+        3,
+        2022,
+        'Michael Martinez'
+    ),
+    (
+        219,
+        '2022-05-28 23:21:27',
+        'Web',
+        2,
+        2022,
+        'Andrew Hodges'
+    ),
+    (
+        219,
+        '2022-05-28 23:21:27',
+        'Web',
+        5,
+        2022,
+        'Stephanie Smith'
+    ),
+    (
+        219,
+        '2022-05-28 23:21:27',
+        'Web',
+        1,
+        2022,
+        'Robert Curtis'
+    ),
+    (
+        892,
+        '2022-05-28 22:52:04',
+        'Instagram',
+        3,
+        2022,
+        'Michael Baker'
+    ),
+    (
+        892,
+        '2022-05-28 22:52:04',
+        'Instagram',
+        2,
+        2022,
+        'Robert Curtis'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        892,
+        '2022-05-28 22:52:04',
+        'Instagram',
+        5,
+        2022,
+        'Gary Stone'
+    ),
+    (
+        892,
+        '2022-05-28 22:52:04',
+        'Instagram',
+        4,
+        2022,
+        'Michael Martinez'
+    ),
+    (
+        892,
+        '2022-05-28 22:52:04',
+        'Instagram',
+        1,
+        2022,
+        'Stephanie Smith'
+    ),
+    (
+        320,
+        '2022-05-28 23:43:59',
+        'Phone',
+        2,
+        2022,
+        'Michelle Martin'
+    ),
+    (
+        320,
+        '2022-05-28 23:43:59',
+        'Phone',
+        5,
+        2022,
+        'Michael Baker'
+    ),
+    (
+        320,
+        '2022-05-28 23:43:59',
+        'Phone',
+        3,
+        2022,
+        'Martin Moore'
+    ),
+    (
+        320,
+        '2022-05-28 23:43:59',
+        'Phone',
+        1,
+        2022,
+        'Thomas Gregory'
+    ),
+    (
+        320,
+        '2022-05-28 23:43:59',
+        'Phone',
+        4,
+        2022,
+        'Gary Stone'
+    ),
+    (
+        523,
+        '2024-05-25 23:36:24',
+        'Facebook',
+        3,
+        2024,
+        'Taylor Lopez'
+    ),
+    (
+        523,
+        '2024-05-25 23:36:24',
+        'Facebook',
+        1,
+        2024,
+        'Austin Williams'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        523,
+        '2024-05-25 23:36:24',
+        'Facebook',
+        5,
+        2024,
+        'Christy Perry'
+    ),
+    (
+        523,
+        '2024-05-25 23:36:24',
+        'Facebook',
+        2,
+        2024,
+        'Christopher Singh'
+    ),
+    (
+        523,
+        '2024-05-25 23:36:24',
+        'Facebook',
+        4,
+        2024,
+        'Gabriel Arroyo'
+    ),
+    (
+        749,
+        '2012-05-26 23:20:04',
+        'Facebook',
+        5,
+        2012,
+        'Maria Robertson'
+    ),
+    (
+        749,
+        '2012-05-26 23:20:04',
+        'Facebook',
+        2,
+        2012,
+        'Jose Smith Jr.'
+    ),
+    (
+        749,
+        '2012-05-26 23:20:04',
+        'Facebook',
+        4,
+        2012,
+        'Stacy White'
+    ),
+    (
+        749,
+        '2012-05-26 23:20:04',
+        'Facebook',
+        3,
+        2012,
+        'Kenneth Warner'
+    ),
+    (
+        749,
+        '2012-05-26 23:20:04',
+        'Facebook',
+        1,
+        2012,
+        'Tyler Jordan'
+    ),
+    (
+        73,
+        '2018-05-26 23:08:08',
+        'Phone',
+        5,
+        2018,
+        'Laura Barnes'
+    ),
+    (
+        73,
+        '2018-05-26 23:08:08',
+        'Phone',
+        4,
+        2018,
+        'Diane Harrison'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        73,
+        '2018-05-26 23:08:08',
+        'Phone',
+        1,
+        2018,
+        'John Hubbard'
+    ),
+    (
+        73,
+        '2018-05-26 23:08:08',
+        'Phone',
+        3,
+        2018,
+        'Jessica Williams'
+    ),
+    (
+        73,
+        '2018-05-26 23:08:08',
+        'Phone',
+        2,
+        2018,
+        'Brandon Ruiz'
+    ),
+    (
+        353,
+        '2022-05-28 22:19:06',
+        'Instagram',
+        3,
+        2022,
+        'Michelle Martin'
+    ),
+    (
+        353,
+        '2022-05-28 22:19:06',
+        'Instagram',
+        2,
+        2022,
+        'Martin Moore'
+    ),
+    (
+        353,
+        '2022-05-28 22:19:06',
+        'Instagram',
+        1,
+        2022,
+        'Michael Baker'
+    ),
+    (
+        353,
+        '2022-05-28 22:19:06',
+        'Instagram',
+        5,
+        2022,
+        'Robert Curtis'
+    ),
+    (
+        353,
+        '2022-05-28 22:19:06',
+        'Instagram',
+        4,
+        2022,
+        'Stephanie Smith'
+    ),
+    (
+        547,
+        '2023-05-27 23:47:52',
+        'Phone',
+        4,
+        2023,
+        'Thomas Ruiz'
+    ),
+    (
+        547,
+        '2023-05-27 23:47:52',
+        'Phone',
+        5,
+        2023,
+        'Paula Henderson'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        547,
+        '2023-05-27 23:47:52',
+        'Phone',
+        2,
+        2023,
+        'Manuel Graves'
+    ),
+    (
+        547,
+        '2023-05-27 23:47:52',
+        'Phone',
+        1,
+        2023,
+        'Christine Hayes'
+    ),
+    (
+        547,
+        '2023-05-27 23:47:52',
+        'Phone',
+        3,
+        2023,
+        'Samantha Erickson'
+    ),
+    (
+        525,
+        '2017-05-27 23:50:10',
+        'Facebook',
+        2,
+        2017,
+        'Brandi Harris'
+    ),
+    (
+        525,
+        '2017-05-27 23:50:10',
+        'Facebook',
+        4,
+        2017,
+        'Elizabeth Koch'
+    ),
+    (
+        525,
+        '2017-05-27 23:50:10',
+        'Facebook',
+        1,
+        2017,
+        'Andrea Hill'
+    ),
+    (
+        525,
+        '2017-05-27 23:50:10',
+        'Facebook',
+        5,
+        2017,
+        'Denise Jones'
+    ),
+    (
+        525,
+        '2017-05-27 23:50:10',
+        'Facebook',
+        3,
+        2017,
+        'Rachel Cole'
+    ),
+    (
+        878,
+        '2011-05-28 23:42:58',
+        'Phone',
+        5,
+        2011,
+        'Victoria Rosales PhD'
+    ),
+    (
+        878,
+        '2011-05-28 23:42:58',
+        'Phone',
+        4,
+        2011,
+        'Carmen Mitchell'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        878,
+        '2011-05-28 23:42:58',
+        'Phone',
+        2,
+        2011,
+        'Wesley Garcia'
+    ),
+    (
+        878,
+        '2011-05-28 23:42:58',
+        'Phone',
+        1,
+        2011,
+        'Keith Ingram'
+    ),
+    (
+        878,
+        '2011-05-28 23:42:58',
+        'Phone',
+        3,
+        2011,
+        'Cody Davis'
+    ),
+    (
+        741,
+        '2024-05-25 23:20:22',
+        'Facebook',
+        1,
+        2024,
+        'Christy Perry'
+    ),
+    (
+        741,
+        '2024-05-25 23:20:22',
+        'Facebook',
+        2,
+        2024,
+        'Emily Buck'
+    ),
+    (
+        741,
+        '2024-05-25 23:20:22',
+        'Facebook',
+        3,
+        2024,
+        'Jessica Murphy'
+    ),
+    (
+        751,
+        '2012-05-26 22:03:49',
+        'Web',
+        1,
+        2012,
+        'Kenneth Warner'
+    ),
+    (
+        751,
+        '2012-05-26 22:03:49',
+        'Web',
+        2,
+        2012,
+        'Jose Smith Jr.'
+    ),
+    (
+        751,
+        '2012-05-26 22:03:49',
+        'Web',
+        3,
+        2012,
+        'Stacy White'
+    ),
+    (
+        751,
+        '2012-05-26 22:03:49',
+        'Web',
+        4,
+        2012,
+        'Anthony Bradford'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        751,
+        '2012-05-26 22:03:49',
+        'Web',
+        5,
+        2012,
+        'Jennifer Wolfe'
+    ),
+    (
+        777,
+        '2016-05-28 22:28:08',
+        'Facebook',
+        3,
+        2016,
+        'Kimberly Wilkins MD'
+    ),
+    (
+        777,
+        '2016-05-28 22:28:08',
+        'Facebook',
+        2,
+        2016,
+        'Tara Mcgee'
+    ),
+    (
+        777,
+        '2016-05-28 22:28:08',
+        'Facebook',
+        5,
+        2016,
+        'Anne Mcfarland'
+    ),
+    (
+        777,
+        '2016-05-28 22:28:08',
+        'Facebook',
+        1,
+        2016,
+        'Steve Bennett'
+    ),
+    (
+        777,
+        '2016-05-28 22:28:08',
+        'Facebook',
+        4,
+        2016,
+        'Brian Ingram'
+    ),
+    (
+        284,
+        '2022-05-28 23:32:40',
+        'Phone',
+        1,
+        2022,
+        'Robert Curtis'
+    ),
+    (
+        284,
+        '2022-05-28 23:32:40',
+        'Phone',
+        2,
+        2022,
+        'Michael Baker'
+    ),
+    (
+        284,
+        '2022-05-28 23:32:40',
+        'Phone',
+        3,
+        2022,
+        'Andre Burton'
+    ),
+    (
+        284,
+        '2022-05-28 23:32:40',
+        'Phone',
+        4,
+        2022,
+        'Martin Moore'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        284,
+        '2022-05-28 23:32:40',
+        'Phone',
+        5,
+        2022,
+        'Michelle Martin'
+    ),
+    (
+        847,
+        '2013-05-25 22:11:14',
+        'Web',
+        1,
+        2013,
+        'Thomas Hess'
+    ),
+    (
+        847,
+        '2013-05-25 22:11:14',
+        'Web',
+        2,
+        2013,
+        'Cassandra Hooper'
+    ),
+    (
+        847,
+        '2013-05-25 22:11:14',
+        'Web',
+        4,
+        2013,
+        'Tony Prince'
+    ),
+    (
+        847,
+        '2013-05-25 22:11:14',
+        'Web',
+        3,
+        2013,
+        'Nancy Mcmahon'
+    ),
+    (
+        847,
+        '2013-05-25 22:11:14',
+        'Web',
+        5,
+        2013,
+        'Blake Martinez'
+    ),
+    (
+        559,
+        '2023-05-27 22:27:38',
+        'Web',
+        4,
+        2023,
+        'Leslie Lee'
+    ),
+    (
+        559,
+        '2023-05-27 22:27:38',
+        'Web',
+        5,
+        2023,
+        'Thomas Ruiz'
+    ),
+    (
+        559,
+        '2023-05-27 22:27:38',
+        'Web',
+        2,
+        2023,
+        'Megan Saunders'
+    ),
+    (
+        559,
+        '2023-05-27 22:27:38',
+        'Web',
+        1,
+        2023,
+        'Michael Butler'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        559,
+        '2023-05-27 22:27:38',
+        'Web',
+        3,
+        2023,
+        'Jacqueline Wagner'
+    ),
+    (
+        582,
+        '2011-05-28 23:27:49',
+        'Web',
+        3,
+        2011,
+        'Cody Davis'
+    ),
+    (
+        582,
+        '2011-05-28 23:27:49',
+        'Web',
+        5,
+        2011,
+        'John Henderson'
+    ),
+    (
+        582,
+        '2011-05-28 23:27:49',
+        'Web',
+        2,
+        2011,
+        'Carmen Mitchell'
+    ),
+    (
+        347,
+        '2018-05-26 23:51:29',
+        'Facebook',
+        4,
+        2018,
+        'Steven Cox'
+    ),
+    (
+        347,
+        '2018-05-26 23:51:29',
+        'Facebook',
+        2,
+        2018,
+        'Carrie Clark'
+    ),
+    (
+        347,
+        '2018-05-26 23:51:29',
+        'Facebook',
+        5,
+        2018,
+        'Laura Barnes'
+    ),
+    (
+        347,
+        '2018-05-26 23:51:29',
+        'Facebook',
+        1,
+        2018,
+        'Brandon Ruiz'
+    ),
+    (
+        347,
+        '2018-05-26 23:51:29',
+        'Facebook',
+        3,
+        2018,
+        'Charles Glover'
+    ),
+    (
+        711,
+        '2015-05-30 23:45:06',
+        'Facebook',
+        3,
+        2015,
+        'Robert White'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        711,
+        '2015-05-30 23:45:06',
+        'Facebook',
+        1,
+        2015,
+        'Nathan Bailey'
+    ),
+    (
+        711,
+        '2015-05-30 23:45:06',
+        'Facebook',
+        2,
+        2015,
+        'Brett Benjamin'
+    ),
+    (
+        711,
+        '2015-05-30 23:45:06',
+        'Facebook',
+        4,
+        2015,
+        'Nicholas Black'
+    ),
+    (
+        711,
+        '2015-05-30 23:45:06',
+        'Facebook',
+        5,
+        2015,
+        'Heidi Barry'
+    ),
+    (
+        41,
+        '2016-05-28 23:15:37',
+        'Facebook',
+        5,
+        2016,
+        'Alejandra Walter'
+    ),
+    (
+        41,
+        '2016-05-28 23:15:37',
+        'Facebook',
+        1,
+        2016,
+        'Melody Reese MD'
+    ),
+    (
+        41,
+        '2016-05-28 23:15:37',
+        'Facebook',
+        4,
+        2016,
+        'Brian Ingram'
+    ),
+    (
+        41,
+        '2016-05-28 23:15:37',
+        'Facebook',
+        2,
+        2016,
+        'Amanda Patterson'
+    ),
+    (
+        41,
+        '2016-05-28 23:15:37',
+        'Facebook',
+        3,
+        2016,
+        'Cathy Lewis'
+    ),
+    (
+        737,
+        '2017-05-27 22:35:11',
+        'Facebook',
+        4,
+        2017,
+        'Brandi Harris'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        737,
+        '2017-05-27 22:35:11',
+        'Facebook',
+        3,
+        2017,
+        'Elizabeth Koch'
+    ),
+    (
+        737,
+        '2017-05-27 22:35:11',
+        'Facebook',
+        5,
+        2017,
+        'Nathan Williams'
+    ),
+    (
+        737,
+        '2017-05-27 22:35:11',
+        'Facebook',
+        2,
+        2017,
+        'Rachel Cole'
+    ),
+    (
+        737,
+        '2017-05-27 22:35:11',
+        'Facebook',
+        1,
+        2017,
+        'Brian Mccall'
+    ),
+    (
+        949,
+        '2016-05-28 22:41:12',
+        'Facebook',
+        4,
+        2016,
+        'Brian Ingram'
+    ),
+    (
+        949,
+        '2016-05-28 22:41:12',
+        'Facebook',
+        3,
+        2016,
+        'Alejandra Walter'
+    ),
+    (
+        949,
+        '2016-05-28 22:41:12',
+        'Facebook',
+        1,
+        2016,
+        'Steve Bennett'
+    ),
+    (
+        949,
+        '2016-05-28 22:41:12',
+        'Facebook',
+        5,
+        2016,
+        'Tara Mcgee'
+    ),
+    (
+        949,
+        '2016-05-28 22:41:12',
+        'Facebook',
+        2,
+        2016,
+        'Derek Schwartz'
+    ),
+    (
+        571,
+        '2024-05-25 23:47:12',
+        'Phone',
+        5,
+        2024,
+        'Gabriel Arroyo'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        571,
+        '2024-05-25 23:47:12',
+        'Phone',
+        4,
+        2024,
+        'Emily Buck'
+    ),
+    (
+        571,
+        '2024-05-25 23:47:12',
+        'Phone',
+        1,
+        2024,
+        'Richard Lewis'
+    ),
+    (
+        571,
+        '2024-05-25 23:47:12',
+        'Phone',
+        2,
+        2024,
+        'Christopher Singh'
+    ),
+    (
+        571,
+        '2024-05-25 23:47:12',
+        'Phone',
+        3,
+        2024,
+        'Jessica Murphy'
+    ),
+    (
+        590,
+        '2009-05-30 23:22:34',
+        'Phone',
+        2,
+        2009,
+        'Kimberly Craig'
+    ),
+    (
+        635,
+        '2023-05-27 23:36:21',
+        'Instagram',
+        1,
+        2023,
+        'Samantha Erickson'
+    ),
+    (
+        635,
+        '2023-05-27 23:36:21',
+        'Instagram',
+        5,
+        2023,
+        'Paula Henderson'
+    ),
+    (
+        635,
+        '2023-05-27 23:36:21',
+        'Instagram',
+        2,
+        2023,
+        'Leslie Lee'
+    ),
+    (
+        635,
+        '2023-05-27 23:36:21',
+        'Instagram',
+        3,
+        2023,
+        'Michael Butler'
+    ),
+    (
+        635,
+        '2023-05-27 23:36:21',
+        'Instagram',
+        4,
+        2023,
+        'Manuel Graves'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        881,
+        '2020-05-30 23:14:02',
+        'Phone',
+        4,
+        2020,
+        'Lisa Mcdaniel'
+    ),
+    (
+        881,
+        '2020-05-30 23:14:02',
+        'Phone',
+        3,
+        2020,
+        'Travis Walker'
+    ),
+    (
+        881,
+        '2020-05-30 23:14:02',
+        'Phone',
+        5,
+        2020,
+        'Charles Washington'
+    ),
+    (
+        881,
+        '2020-05-30 23:14:02',
+        'Phone',
+        2,
+        2020,
+        'Benjamin Thomas'
+    ),
+    (
+        881,
+        '2020-05-30 23:14:02',
+        'Phone',
+        1,
+        2020,
+        'Juan Huerta'
+    ),
+    (
+        621,
+        '2009-05-30 22:50:57',
+        'Phone',
+        3,
+        2009,
+        'Kimberly Craig'
+    ),
+    (
+        621,
+        '2009-05-30 22:50:57',
+        'Phone',
+        5,
+        2009,
+        'Jason Hebert'
+    ),
+    (
+        621,
+        '2009-05-30 22:50:57',
+        'Phone',
+        1,
+        2009,
+        'Carrie Bell'
+    ),
+    (
+        621,
+        '2009-05-30 22:50:57',
+        'Phone',
+        4,
+        2009,
+        'Leslie Saunders'
+    ),
+    (
+        621,
+        '2009-05-30 22:50:57',
+        'Phone',
+        2,
+        2009,
+        'Wanda Smith'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        123,
+        '2012-05-26 23:37:57',
+        'Web',
+        2,
+        2012,
+        'Kenneth Warner'
+    ),
+    (
+        123,
+        '2012-05-26 23:37:57',
+        'Web',
+        5,
+        2012,
+        'Jose Smith Jr.'
+    ),
+    (
+        123,
+        '2012-05-26 23:37:57',
+        'Web',
+        4,
+        2012,
+        'Anthony Bradford'
+    ),
+    (
+        123,
+        '2012-05-26 23:37:57',
+        'Web',
+        3,
+        2012,
+        'Jennifer Wolfe'
+    ),
+    (
+        123,
+        '2012-05-26 23:37:57',
+        'Web',
+        1,
+        2012,
+        'Tyler Jordan'
+    ),
+    (
+        399,
+        '2015-05-30 23:37:40',
+        'Facebook',
+        3,
+        2015,
+        'Louis Phillips'
+    ),
+    (
+        399,
+        '2015-05-30 23:37:40',
+        'Facebook',
+        2,
+        2015,
+        'Robert White'
+    ),
+    (
+        399,
+        '2015-05-30 23:37:40',
+        'Facebook',
+        4,
+        2015,
+        'Brett Benjamin'
+    ),
+    (
+        399,
+        '2015-05-30 23:37:40',
+        'Facebook',
+        1,
+        2015,
+        'Heidi Barry'
+    ),
+    (
+        399,
+        '2015-05-30 23:37:40',
+        'Facebook',
+        5,
+        2015,
+        'Deborah Sparks'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        722,
+        '2017-05-27 22:28:35',
+        'Phone',
+        3,
+        2017,
+        'Denise Jones'
+    ),
+    (
+        722,
+        '2017-05-27 22:28:35',
+        'Phone',
+        5,
+        2017,
+        'Elizabeth Koch'
+    ),
+    (
+        722,
+        '2017-05-27 22:28:35',
+        'Phone',
+        2,
+        2017,
+        'Brandi Harris'
+    ),
+    (
+        722,
+        '2017-05-27 22:28:35',
+        'Phone',
+        4,
+        2017,
+        'Brian Mccall'
+    ),
+    (
+        722,
+        '2017-05-27 22:28:35',
+        'Phone',
+        1,
+        2017,
+        'Andrea Hill'
+    ),
+    (
+        417,
+        '2018-05-26 23:23:44',
+        'Phone',
+        2,
+        2018,
+        'Danielle Miller'
+    ),
+    (
+        417,
+        '2018-05-26 23:23:44',
+        'Phone',
+        5,
+        2018,
+        'Diane Harrison'
+    ),
+    (
+        417,
+        '2018-05-26 23:23:44',
+        'Phone',
+        1,
+        2018,
+        'Charles Glover'
+    ),
+    (
+        417,
+        '2018-05-26 23:23:44',
+        'Phone',
+        3,
+        2018,
+        'Kimberly Davis'
+    ),
+    (
+        417,
+        '2018-05-26 23:23:44',
+        'Phone',
+        4,
+        2018,
+        'Steven Cox'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        968,
+        '2024-05-25 22:17:43',
+        'Web',
+        4,
+        2024,
+        'Emily Buck'
+    ),
+    (
+        968,
+        '2024-05-25 22:17:43',
+        'Web',
+        1,
+        2024,
+        'Taylor Lopez'
+    ),
+    (
+        968,
+        '2024-05-25 22:17:43',
+        'Web',
+        5,
+        2024,
+        'Gabriel Arroyo'
+    ),
+    (
+        777,
+        '2020-05-30 22:20:30',
+        'Facebook',
+        5,
+        2020,
+        'Mr. Steven Yoder'
+    ),
+    (
+        777,
+        '2020-05-30 22:20:30',
+        'Facebook',
+        4,
+        2020,
+        'Travis Walker'
+    ),
+    (
+        777,
+        '2020-05-30 22:20:30',
+        'Facebook',
+        3,
+        2020,
+        'Benjamin Thomas'
+    ),
+    (
+        777,
+        '2020-05-30 22:20:30',
+        'Facebook',
+        1,
+        2020,
+        'Danielle Berger'
+    ),
+    (
+        777,
+        '2020-05-30 22:20:30',
+        'Facebook',
+        2,
+        2020,
+        'Lisa Mcdaniel'
+    ),
+    (
+        883,
+        '2021-05-29 23:06:51',
+        'Web',
+        4,
+        2021,
+        'Manuel Caldwell'
+    ),
+    (
+        883,
+        '2021-05-29 23:06:51',
+        'Web',
+        1,
+        2021,
+        'Samantha Lee'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        883,
+        '2021-05-29 23:06:51',
+        'Web',
+        3,
+        2021,
+        'Robin Myers'
+    ),
+    (
+        883,
+        '2021-05-29 23:06:51',
+        'Web',
+        2,
+        2021,
+        'Amber Mcdowell'
+    ),
+    (
+        883,
+        '2021-05-29 23:06:51',
+        'Web',
+        5,
+        2021,
+        'Tamara Barnes'
+    ),
+    (
+        924,
+        '2014-05-31 22:44:11',
+        'Phone',
+        2,
+        2014,
+        'Lisa Wright'
+    ),
+    (
+        924,
+        '2014-05-31 22:44:11',
+        'Phone',
+        5,
+        2014,
+        'Todd Miller'
+    ),
+    (
+        924,
+        '2014-05-31 22:44:11',
+        'Phone',
+        4,
+        2014,
+        'John Conner'
+    ),
+    (
+        924,
+        '2014-05-31 22:44:11',
+        'Phone',
+        3,
+        2014,
+        'Christopher Hodge'
+    ),
+    (
+        924,
+        '2014-05-31 22:44:11',
+        'Phone',
+        1,
+        2014,
+        'Melissa Williams'
+    ),
+    (
+        677,
+        '2012-05-26 23:42:16',
+        'Facebook',
+        4,
+        2012,
+        'Stacy White'
+    ),
+    (
+        677,
+        '2012-05-26 23:42:16',
+        'Facebook',
+        5,
+        2012,
+        'Anthony Bradford'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        677,
+        '2012-05-26 23:42:16',
+        'Facebook',
+        1,
+        2012,
+        'Lynn Booth'
+    ),
+    (
+        677,
+        '2012-05-26 23:42:16',
+        'Facebook',
+        3,
+        2012,
+        'Maria Robertson'
+    ),
+    (
+        677,
+        '2012-05-26 23:42:16',
+        'Facebook',
+        2,
+        2012,
+        'Jennifer Wolfe'
+    ),
+    (
+        41,
+        '2011-05-28 22:30:21',
+        'Web',
+        2,
+        2011,
+        'Dr. Courtney Green MD'
+    ),
+    (
+        41,
+        '2011-05-28 22:30:21',
+        'Web',
+        4,
+        2011,
+        'Victoria Rosales PhD'
+    ),
+    (
+        41,
+        '2011-05-28 22:30:21',
+        'Web',
+        5,
+        2011,
+        'Keith Ingram'
+    ),
+    (
+        41,
+        '2011-05-28 22:30:21',
+        'Web',
+        1,
+        2011,
+        'Cody Davis'
+    ),
+    (
+        41,
+        '2011-05-28 22:30:21',
+        'Web',
+        3,
+        2011,
+        'John Henderson'
+    ),
+    (
+        131,
+        '2009-05-30 23:37:21',
+        'Web',
+        4,
+        2009,
+        'Wanda Smith'
+    ),
+    (
+        131,
+        '2009-05-30 23:37:21',
+        'Web',
+        5,
+        2009,
+        'Theresa Castaneda'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        131,
+        '2009-05-30 23:37:21',
+        'Web',
+        2,
+        2009,
+        'Kimberly Craig'
+    ),
+    (
+        131,
+        '2009-05-30 23:37:21',
+        'Web',
+        1,
+        2009,
+        'Leslie Saunders'
+    ),
+    (
+        131,
+        '2009-05-30 23:37:21',
+        'Web',
+        3,
+        2009,
+        'Melanie Hall'
+    ),
+    (
+        494,
+        '2021-05-29 23:43:45',
+        'Phone',
+        5,
+        2021,
+        'Jack Singh'
+    ),
+    (
+        494,
+        '2021-05-29 23:43:45',
+        'Phone',
+        3,
+        2021,
+        'Tamara Barnes'
+    ),
+    (
+        494,
+        '2021-05-29 23:43:45',
+        'Phone',
+        4,
+        2021,
+        'Caleb Ellison'
+    ),
+    (
+        494,
+        '2021-05-29 23:43:45',
+        'Phone',
+        2,
+        2021,
+        'Thomas Smith'
+    ),
+    (
+        494,
+        '2021-05-29 23:43:45',
+        'Phone',
+        1,
+        2021,
+        'Ann Perez'
+    ),
+    (
+        117,
+        '2022-05-28 23:12:30',
+        'Web',
+        2,
+        2022,
+        'Thomas Gregory'
+    ),
+    (
+        117,
+        '2022-05-28 23:12:30',
+        'Web',
+        3,
+        2022,
+        'Michael Baker'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        117,
+        '2022-05-28 23:12:30',
+        'Web',
+        5,
+        2022,
+        'Andre Burton'
+    ),
+    (
+        117,
+        '2022-05-28 23:12:30',
+        'Web',
+        1,
+        2022,
+        'Robert Curtis'
+    ),
+    (
+        117,
+        '2022-05-28 23:12:30',
+        'Web',
+        4,
+        2022,
+        'Michael Martinez'
+    ),
+    (
+        740,
+        '2019-05-25 23:32:41',
+        'Web',
+        1,
+        2019,
+        'Samantha Jones'
+    ),
+    (
+        740,
+        '2019-05-25 23:32:41',
+        'Web',
+        3,
+        2019,
+        'Kyle Hernandez'
+    ),
+    (
+        740,
+        '2019-05-25 23:32:41',
+        'Web',
+        4,
+        2019,
+        'Cameron Hawkins'
+    ),
+    (
+        740,
+        '2019-05-25 23:32:41',
+        'Web',
+        5,
+        2019,
+        'Amanda Ingram'
+    ),
+    (
+        740,
+        '2019-05-25 23:32:41',
+        'Web',
+        2,
+        2019,
+        'Jennifer Ford'
+    ),
+    (
+        910,
+        '2012-05-26 22:24:57',
+        'Web',
+        4,
+        2012,
+        'Lynn Booth'
+    ),
+    (
+        910,
+        '2012-05-26 22:24:57',
+        'Web',
+        2,
+        2012,
+        'Patrick Benson'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        80,
+        '2021-05-29 22:30:38',
+        'Phone',
+        3,
+        2021,
+        'Aaron Baldwin'
+    ),
+    (
+        80,
+        '2021-05-29 22:30:38',
+        'Phone',
+        1,
+        2021,
+        'Manuel Caldwell'
+    ),
+    (
+        80,
+        '2021-05-29 22:30:38',
+        'Phone',
+        4,
+        2021,
+        'Amber Mcdowell'
+    ),
+    (
+        80,
+        '2021-05-29 22:30:38',
+        'Phone',
+        5,
+        2021,
+        'Caleb Ellison'
+    ),
+    (
+        80,
+        '2021-05-29 22:30:38',
+        'Phone',
+        2,
+        2021,
+        'Samantha Lee'
+    ),
+    (
+        601,
+        '2016-05-28 23:01:44',
+        'Web',
+        1,
+        2016,
+        'Anne Mcfarland'
+    ),
+    (
+        601,
+        '2016-05-28 23:01:44',
+        'Web',
+        4,
+        2016,
+        'Steve Bennett'
+    ),
+    (
+        601,
+        '2016-05-28 23:01:44',
+        'Web',
+        5,
+        2016,
+        'Tara Mcgee'
+    ),
+    (
+        660,
+        '2022-05-28 22:35:13',
+        'Web',
+        1,
+        2022,
+        'Stephanie Smith'
+    ),
+    (
+        660,
+        '2022-05-28 22:35:13',
+        'Web',
+        2,
+        2022,
+        'Michelle Martin'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        660,
+        '2022-05-28 22:35:13',
+        'Web',
+        5,
+        2022,
+        'Michael Martinez'
+    ),
+    (
+        660,
+        '2022-05-28 22:35:13',
+        'Web',
+        4,
+        2022,
+        'Andre Burton'
+    ),
+    (
+        660,
+        '2022-05-28 22:35:13',
+        'Web',
+        3,
+        2022,
+        'Gary Stone'
+    ),
+    (
+        343,
+        '2009-05-30 23:23:13',
+        'Facebook',
+        5,
+        2009,
+        'Sandra Lopez'
+    ),
+    (
+        343,
+        '2009-05-30 23:23:13',
+        'Facebook',
+        2,
+        2009,
+        'Melanie Hall'
+    ),
+    (
+        343,
+        '2009-05-30 23:23:13',
+        'Facebook',
+        1,
+        2009,
+        'Carrie Bell'
+    ),
+    (
+        343,
+        '2009-05-30 23:23:13',
+        'Facebook',
+        3,
+        2009,
+        'Jason Hebert'
+    ),
+    (
+        343,
+        '2009-05-30 23:23:13',
+        'Facebook',
+        4,
+        2009,
+        'Wanda Smith'
+    ),
+    (
+        769,
+        '2013-05-25 22:11:22',
+        'Phone',
+        3,
+        2013,
+        'Kimberly Larsen'
+    ),
+    (
+        769,
+        '2013-05-25 22:11:22',
+        'Phone',
+        4,
+        2013,
+        'Thomas Hess'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        885,
+        '2016-05-28 22:24:19',
+        'Facebook',
+        2,
+        2016,
+        'Steve Bennett'
+    ),
+    (
+        885,
+        '2016-05-28 22:24:19',
+        'Facebook',
+        3,
+        2016,
+        'Kimberly Wilkins MD'
+    ),
+    (
+        885,
+        '2016-05-28 22:24:19',
+        'Facebook',
+        1,
+        2016,
+        'Melody Reese MD'
+    ),
+    (
+        885,
+        '2016-05-28 22:24:19',
+        'Facebook',
+        5,
+        2016,
+        'Derek Schwartz'
+    ),
+    (
+        885,
+        '2016-05-28 22:24:19',
+        'Facebook',
+        4,
+        2016,
+        'Alejandra Walter'
+    ),
+    (
+        996,
+        '2010-05-29 22:00:20',
+        'Instagram',
+        5,
+        2010,
+        'Richard Dawson'
+    ),
+    (
+        996,
+        '2010-05-29 22:00:20',
+        'Instagram',
+        1,
+        2010,
+        'Courtney Barber'
+    ),
+    (
+        996,
+        '2010-05-29 22:00:20',
+        'Instagram',
+        2,
+        2010,
+        'Timothy Sandoval'
+    ),
+    (
+        996,
+        '2010-05-29 22:00:20',
+        'Instagram',
+        4,
+        2010,
+        'Rachel Melton'
+    ),
+    (
+        996,
+        '2010-05-29 22:00:20',
+        'Instagram',
+        3,
+        2010,
+        'Kyle Weiss'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        115,
+        '2017-05-27 22:40:03',
+        'Instagram',
+        3,
+        2017,
+        'Brian Mccall'
+    ),
+    (
+        115,
+        '2017-05-27 22:40:03',
+        'Instagram',
+        2,
+        2017,
+        'Elizabeth Koch'
+    ),
+    (
+        115,
+        '2017-05-27 22:40:03',
+        'Instagram',
+        4,
+        2017,
+        'Tina Roy'
+    ),
+    (
+        115,
+        '2017-05-27 22:40:03',
+        'Instagram',
+        5,
+        2017,
+        'Denise Jones'
+    ),
+    (
+        115,
+        '2017-05-27 22:40:03',
+        'Instagram',
+        1,
+        2017,
+        'Nathan Williams'
+    ),
+    (
+        855,
+        '2018-05-26 23:10:35',
+        'Phone',
+        3,
+        2018,
+        'John Hubbard'
+    ),
+    (
+        855,
+        '2018-05-26 23:10:35',
+        'Phone',
+        2,
+        2018,
+        'Charles Glover'
+    ),
+    (
+        855,
+        '2018-05-26 23:10:35',
+        'Phone',
+        1,
+        2018,
+        'Kimberly Davis'
+    ),
+    (
+        855,
+        '2018-05-26 23:10:35',
+        'Phone',
+        4,
+        2018,
+        'Laura Barnes'
+    ),
+    (
+        855,
+        '2018-05-26 23:10:35',
+        'Phone',
+        5,
+        2018,
+        'Brandon Ruiz'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        804,
+        '2009-05-30 23:29:42',
+        'Facebook',
+        4,
+        2009,
+        'Matthew Garcia'
+    ),
+    (
+        804,
+        '2009-05-30 23:29:42',
+        'Facebook',
+        5,
+        2009,
+        'Sandra Lopez'
+    ),
+    (
+        804,
+        '2009-05-30 23:29:42',
+        'Facebook',
+        1,
+        2009,
+        'Carrie Bell'
+    ),
+    (
+        804,
+        '2009-05-30 23:29:42',
+        'Facebook',
+        3,
+        2009,
+        'Melanie Hall'
+    ),
+    (
+        804,
+        '2009-05-30 23:29:42',
+        'Facebook',
+        2,
+        2009,
+        'Olivia Nichols'
+    ),
+    (
+        276,
+        '2017-05-27 23:45:08',
+        'Instagram',
+        4,
+        2017,
+        'Nathan Williams'
+    ),
+    (
+        276,
+        '2017-05-27 23:45:08',
+        'Instagram',
+        5,
+        2017,
+        'Brian Mccall'
+    ),
+    (
+        276,
+        '2017-05-27 23:45:08',
+        'Instagram',
+        2,
+        2017,
+        'Elizabeth Koch'
+    ),
+    (
+        276,
+        '2017-05-27 23:45:08',
+        'Instagram',
+        3,
+        2017,
+        'Rachel Cole'
+    ),
+    (
+        276,
+        '2017-05-27 23:45:08',
+        'Instagram',
+        1,
+        2017,
+        'Tina Roy'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        565,
+        '2010-05-29 22:59:32',
+        'Facebook',
+        1,
+        2010,
+        'Courtney Barber'
+    ),
+    (
+        565,
+        '2010-05-29 22:59:32',
+        'Facebook',
+        5,
+        2010,
+        'Kyle Weiss'
+    ),
+    (
+        565,
+        '2010-05-29 22:59:32',
+        'Facebook',
+        4,
+        2010,
+        'Richard Dawson'
+    ),
+    (
+        565,
+        '2010-05-29 22:59:32',
+        'Facebook',
+        3,
+        2010,
+        'Katherine Li'
+    ),
+    (
+        565,
+        '2010-05-29 22:59:32',
+        'Facebook',
+        2,
+        2010,
+        'Kevin Wilson'
+    ),
+    (
+        446,
+        '2017-05-27 22:08:48',
+        'Phone',
+        5,
+        2017,
+        'Rachel Cole'
+    ),
+    (
+        446,
+        '2017-05-27 22:08:48',
+        'Phone',
+        3,
+        2017,
+        'Elizabeth Koch'
+    ),
+    (
+        446,
+        '2017-05-27 22:08:48',
+        'Phone',
+        2,
+        2017,
+        'Denise Jones'
+    ),
+    (
+        446,
+        '2017-05-27 22:08:48',
+        'Phone',
+        4,
+        2017,
+        'Andrea Hill'
+    ),
+    (
+        446,
+        '2017-05-27 22:08:48',
+        'Phone',
+        1,
+        2017,
+        'Matthew Vaughn'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        514,
+        '2018-05-26 23:57:23',
+        'Facebook',
+        3,
+        2018,
+        'John Hubbard'
+    ),
+    (
+        514,
+        '2018-05-26 23:57:23',
+        'Facebook',
+        5,
+        2018,
+        'Steven Cox'
+    ),
+    (
+        514,
+        '2018-05-26 23:57:23',
+        'Facebook',
+        2,
+        2018,
+        'Charles Glover'
+    ),
+    (
+        514,
+        '2018-05-26 23:57:23',
+        'Facebook',
+        4,
+        2018,
+        'Kimberly Davis'
+    ),
+    (
+        514,
+        '2018-05-26 23:57:23',
+        'Facebook',
+        1,
+        2018,
+        'Jessica Williams'
+    ),
+    (
+        381,
+        '2020-05-30 23:38:42',
+        'Web',
+        4,
+        2020,
+        'Travis Walker'
+    ),
+    (
+        381,
+        '2020-05-30 23:38:42',
+        'Web',
+        1,
+        2020,
+        'Benjamin Thomas'
+    ),
+    (
+        381,
+        '2020-05-30 23:38:42',
+        'Web',
+        5,
+        2020,
+        'Mr. Steven Yoder'
+    ),
+    (
+        381,
+        '2020-05-30 23:38:42',
+        'Web',
+        3,
+        2020,
+        'Jacob Hickman'
+    ),
+    (
+        381,
+        '2020-05-30 23:38:42',
+        'Web',
+        2,
+        2020,
+        'Danielle Berger'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        914,
+        '2016-05-28 23:55:48',
+        'Instagram',
+        4,
+        2016,
+        'Tara Mcgee'
+    ),
+    (
+        914,
+        '2016-05-28 23:55:48',
+        'Instagram',
+        3,
+        2016,
+        'Derek Schwartz'
+    ),
+    (
+        579,
+        '2018-05-26 23:31:57',
+        'Facebook',
+        1,
+        2018,
+        'Jessica Williams'
+    ),
+    (
+        579,
+        '2018-05-26 23:31:57',
+        'Facebook',
+        5,
+        2018,
+        'Laura Barnes'
+    ),
+    (
+        579,
+        '2018-05-26 23:31:57',
+        'Facebook',
+        2,
+        2018,
+        'Brandon Ruiz'
+    ),
+    (
+        579,
+        '2018-05-26 23:31:57',
+        'Facebook',
+        4,
+        2018,
+        'Carrie Clark'
+    ),
+    (
+        579,
+        '2018-05-26 23:31:57',
+        'Facebook',
+        3,
+        2018,
+        'John Hubbard'
+    ),
+    (
+        748,
+        '2009-05-30 22:05:30',
+        'Facebook',
+        2,
+        2009,
+        'Melanie Hall'
+    ),
+    (
+        748,
+        '2009-05-30 22:05:30',
+        'Facebook',
+        3,
+        2009,
+        'Theresa Castaneda'
+    ),
+    (
+        748,
+        '2009-05-30 22:05:30',
+        'Facebook',
+        4,
+        2009,
+        'Matthew Garcia'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        748,
+        '2009-05-30 22:05:30',
+        'Facebook',
+        1,
+        2009,
+        'Wanda Smith'
+    ),
+    (
+        748,
+        '2009-05-30 22:05:30',
+        'Facebook',
+        5,
+        2009,
+        'Sandra Lopez'
+    ),
+    (
+        299,
+        '2021-05-29 23:05:12',
+        'Web',
+        3,
+        2021,
+        'Amber Mcdowell'
+    ),
+    (
+        299,
+        '2021-05-29 23:05:12',
+        'Web',
+        5,
+        2021,
+        'Thomas Smith'
+    ),
+    (
+        299,
+        '2021-05-29 23:05:12',
+        'Web',
+        1,
+        2021,
+        'Samantha Lee'
+    ),
+    (
+        299,
+        '2021-05-29 23:05:12',
+        'Web',
+        4,
+        2021,
+        'Manuel Caldwell'
+    ),
+    (
+        299,
+        '2021-05-29 23:05:12',
+        'Web',
+        2,
+        2021,
+        'Aaron Baldwin'
+    ),
+    (
+        796,
+        '2016-05-28 23:16:27',
+        'Facebook',
+        3,
+        2016,
+        'Melody Reese MD'
+    ),
+    (
+        796,
+        '2016-05-28 23:16:27',
+        'Facebook',
+        2,
+        2016,
+        'Anne Mcfarland'
+    ),
+    (
+        796,
+        '2016-05-28 23:16:27',
+        'Facebook',
+        1,
+        2016,
+        'Brian Ingram'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        796,
+        '2016-05-28 23:16:27',
+        'Facebook',
+        4,
+        2016,
+        'Alejandra Walter'
+    ),
+    (
+        796,
+        '2016-05-28 23:16:27',
+        'Facebook',
+        5,
+        2016,
+        'Tara Mcgee'
+    ),
+    (
+        598,
+        '2023-05-27 23:02:54',
+        'Phone',
+        5,
+        2023,
+        'Samantha Erickson'
+    ),
+    (
+        598,
+        '2023-05-27 23:02:54',
+        'Phone',
+        2,
+        2023,
+        'Manuel Graves'
+    ),
+    (
+        598,
+        '2023-05-27 23:02:54',
+        'Phone',
+        3,
+        2023,
+        'Megan Saunders'
+    ),
+    (
+        598,
+        '2023-05-27 23:02:54',
+        'Phone',
+        4,
+        2023,
+        'Thomas Ruiz'
+    ),
+    (
+        598,
+        '2023-05-27 23:02:54',
+        'Phone',
+        1,
+        2023,
+        'Christine Hayes'
+    ),
+    (
+        650,
+        '2024-05-25 22:54:19',
+        'Instagram',
+        2,
+        2024,
+        'Gabriel Arroyo'
+    ),
+    (
+        650,
+        '2024-05-25 22:54:19',
+        'Instagram',
+        4,
+        2024,
+        'Jessica Murphy'
+    ),
+    (
+        650,
+        '2024-05-25 22:54:19',
+        'Instagram',
+        1,
+        2024,
+        'Alexis Fields'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        650,
+        '2024-05-25 22:54:19',
+        'Instagram',
+        3,
+        2024,
+        'Christopher Singh'
+    ),
+    (
+        650,
+        '2024-05-25 22:54:19',
+        'Instagram',
+        5,
+        2024,
+        'Emily Buck'
+    ),
+    (
+        189,
+        '2010-05-29 23:31:43',
+        'Phone',
+        4,
+        2010,
+        'Kayla Vargas'
+    ),
+    (
+        189,
+        '2010-05-29 23:31:43',
+        'Phone',
+        1,
+        2010,
+        'Katherine Li'
+    ),
+    (
+        189,
+        '2010-05-29 23:31:43',
+        'Phone',
+        2,
+        2010,
+        'Richard Dawson'
+    ),
+    (
+        189,
+        '2010-05-29 23:31:43',
+        'Phone',
+        5,
+        2010,
+        'Kyle Weiss'
+    ),
+    (
+        454,
+        '2022-05-28 22:38:01',
+        'Web',
+        5,
+        2022,
+        'Andrew Hodges'
+    ),
+    (
+        454,
+        '2022-05-28 22:38:01',
+        'Web',
+        1,
+        2022,
+        'Stephanie Smith'
+    ),
+    (
+        454,
+        '2022-05-28 22:38:01',
+        'Web',
+        4,
+        2022,
+        'Gary Stone'
+    ),
+    (
+        454,
+        '2022-05-28 22:38:01',
+        'Web',
+        3,
+        2022,
+        'Robert Curtis'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        454,
+        '2022-05-28 22:38:01',
+        'Web',
+        2,
+        2022,
+        'Michael Baker'
+    ),
+    (
+        121,
+        '2016-05-28 22:27:05',
+        'Instagram',
+        2,
+        2016,
+        'Alejandra Walter'
+    ),
+    (
+        121,
+        '2016-05-28 22:27:05',
+        'Instagram',
+        5,
+        2016,
+        'Steve Bennett'
+    ),
+    (
+        121,
+        '2016-05-28 22:27:05',
+        'Instagram',
+        4,
+        2016,
+        'Cathy Lewis'
+    ),
+    (
+        121,
+        '2016-05-28 22:27:05',
+        'Instagram',
+        3,
+        2016,
+        'Amanda Patterson'
+    ),
+    (
+        121,
+        '2016-05-28 22:27:05',
+        'Instagram',
+        1,
+        2016,
+        'Tara Mcgee'
+    ),
+    (
+        617,
+        '2017-05-27 22:28:58',
+        'Facebook',
+        3,
+        2017,
+        'Denise Jones'
+    ),
+    (
+        617,
+        '2017-05-27 22:28:58',
+        'Facebook',
+        4,
+        2017,
+        'Elizabeth Koch'
+    ),
+    (
+        617,
+        '2017-05-27 22:28:58',
+        'Facebook',
+        5,
+        2017,
+        'Rachel Cole'
+    ),
+    (
+        617,
+        '2017-05-27 22:28:58',
+        'Facebook',
+        2,
+        2017,
+        'Sean Ward'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        617,
+        '2017-05-27 22:28:58',
+        'Facebook',
+        1,
+        2017,
+        'Andrea Hill'
+    ),
+    (
+        295,
+        '2020-05-30 23:37:06',
+        'Web',
+        3,
+        2020,
+        'Danielle Berger'
+    ),
+    (
+        295,
+        '2020-05-30 23:37:06',
+        'Web',
+        5,
+        2020,
+        'Lisa Wood'
+    ),
+    (
+        295,
+        '2020-05-30 23:37:06',
+        'Web',
+        1,
+        2020,
+        'Mr. Steven Yoder'
+    ),
+    (
+        295,
+        '2020-05-30 23:37:06',
+        'Web',
+        4,
+        2020,
+        'Benjamin Thomas'
+    ),
+    (
+        295,
+        '2020-05-30 23:37:06',
+        'Web',
+        2,
+        2020,
+        'Travis Walker'
+    ),
+    (
+        118,
+        '2016-05-28 22:17:17',
+        'Web',
+        5,
+        2016,
+        'Amanda Patterson'
+    ),
+    (
+        118,
+        '2016-05-28 22:17:17',
+        'Web',
+        1,
+        2016,
+        'Tara Mcgee'
+    ),
+    (
+        118,
+        '2016-05-28 22:17:17',
+        'Web',
+        2,
+        2016,
+        'Alejandra Walter'
+    ),
+    (
+        118,
+        '2016-05-28 22:17:17',
+        'Web',
+        4,
+        2016,
+        'Steve Bennett'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        118,
+        '2016-05-28 22:17:17',
+        'Web',
+        3,
+        2016,
+        'Cathy Lewis'
+    ),
+    (
+        406,
+        '2021-05-29 22:08:47',
+        'Web',
+        3,
+        2021,
+        'Thomas Smith'
+    ),
+    (
+        406,
+        '2021-05-29 22:08:47',
+        'Web',
+        4,
+        2021,
+        'Jack Singh'
+    ),
+    (
+        406,
+        '2021-05-29 22:08:47',
+        'Web',
+        2,
+        2021,
+        'Caleb Ellison'
+    ),
+    (
+        406,
+        '2021-05-29 22:08:47',
+        'Web',
+        5,
+        2021,
+        'Manuel Caldwell'
+    ),
+    (
+        406,
+        '2021-05-29 22:08:47',
+        'Web',
+        1,
+        2021,
+        'Robin Myers'
+    ),
+    (
+        144,
+        '2010-05-29 22:43:14',
+        'Phone',
+        1,
+        2010,
+        'Rachel Melton'
+    ),
+    (
+        144,
+        '2010-05-29 22:43:14',
+        'Phone',
+        3,
+        2010,
+        'Kyle Weiss'
+    ),
+    (
+        144,
+        '2010-05-29 22:43:14',
+        'Phone',
+        2,
+        2010,
+        'Matthew Rice'
+    ),
+    (
+        144,
+        '2010-05-29 22:43:14',
+        'Phone',
+        5,
+        2010,
+        'Courtney Barber'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        144,
+        '2010-05-29 22:43:14',
+        'Phone',
+        4,
+        2010,
+        'Richard Dawson'
+    ),
+    (
+        688,
+        '2020-05-30 22:37:00',
+        'Web',
+        2,
+        2020,
+        'Charles Maddox'
+    ),
+    (
+        688,
+        '2020-05-30 22:37:00',
+        'Web',
+        1,
+        2020,
+        'Benjamin Thomas'
+    ),
+    (
+        688,
+        '2020-05-30 22:37:00',
+        'Web',
+        5,
+        2020,
+        'Mr. Steven Yoder'
+    ),
+    (
+        688,
+        '2020-05-30 22:37:00',
+        'Web',
+        3,
+        2020,
+        'Travis Walker'
+    ),
+    (
+        688,
+        '2020-05-30 22:37:00',
+        'Web',
+        4,
+        2020,
+        'Lisa Mcdaniel'
+    ),
+    (
+        565,
+        '2023-05-27 23:56:03',
+        'Facebook',
+        2,
+        2023,
+        'Paula Henderson'
+    ),
+    (
+        565,
+        '2023-05-27 23:56:03',
+        'Facebook',
+        4,
+        2023,
+        'Scott Baker'
+    ),
+    (
+        565,
+        '2023-05-27 23:56:03',
+        'Facebook',
+        1,
+        2023,
+        'Christine Hayes'
+    ),
+    (
+        565,
+        '2023-05-27 23:56:03',
+        'Facebook',
+        3,
+        2023,
+        'Thomas Ruiz'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        565,
+        '2023-05-27 23:56:03',
+        'Facebook',
+        5,
+        2023,
+        'Megan Saunders'
+    ),
+    (
+        222,
+        '2010-05-29 23:42:12',
+        'Phone',
+        3,
+        2010,
+        'Kyle Weiss'
+    ),
+    (
+        222,
+        '2010-05-29 23:42:12',
+        'Phone',
+        1,
+        2010,
+        'Rachel Melton'
+    ),
+    (
+        222,
+        '2010-05-29 23:42:12',
+        'Phone',
+        4,
+        2010,
+        'Katherine Li'
+    ),
+    (
+        222,
+        '2010-05-29 23:42:12',
+        'Phone',
+        2,
+        2010,
+        'Courtney Barber'
+    ),
+    (
+        222,
+        '2010-05-29 23:42:12',
+        'Phone',
+        5,
+        2010,
+        'Richard Dawson'
+    ),
+    (
+        917,
+        '2018-05-26 23:38:42',
+        'Web',
+        1,
+        2018,
+        'Danielle Miller'
+    ),
+    (
+        917,
+        '2018-05-26 23:38:42',
+        'Web',
+        2,
+        2018,
+        'Carrie Clark'
+    ),
+    (
+        917,
+        '2018-05-26 23:38:42',
+        'Web',
+        5,
+        2018,
+        'Laura Barnes'
+    ),
+    (
+        917,
+        '2018-05-26 23:38:42',
+        'Web',
+        4,
+        2018,
+        'John Hubbard'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        917,
+        '2018-05-26 23:38:42',
+        'Web',
+        3,
+        2018,
+        'Brandon Ruiz'
+    ),
+    (
+        148,
+        '2020-05-30 22:02:29',
+        'Phone',
+        5,
+        2020,
+        'Jacob Hickman'
+    ),
+    (
+        148,
+        '2020-05-30 22:02:29',
+        'Phone',
+        3,
+        2020,
+        'Danielle Berger'
+    ),
+    (
+        148,
+        '2020-05-30 22:02:29',
+        'Phone',
+        1,
+        2020,
+        'Travis Walker'
+    ),
+    (
+        923,
+        '2010-05-29 23:30:51',
+        'Phone',
+        2,
+        2010,
+        'Kyle Weiss'
+    ),
+    (
+        923,
+        '2010-05-29 23:30:51',
+        'Phone',
+        5,
+        2010,
+        'Kevin Wilson'
+    ),
+    (
+        923,
+        '2010-05-29 23:30:51',
+        'Phone',
+        1,
+        2010,
+        'David Williams'
+    ),
+    (
+        923,
+        '2010-05-29 23:30:51',
+        'Phone',
+        4,
+        2010,
+        'Katherine Li'
+    ),
+    (
+        923,
+        '2010-05-29 23:30:51',
+        'Phone',
+        3,
+        2010,
+        'Timothy Sandoval'
+    ),
+    (
+        430,
+        '2014-05-31 22:04:17',
+        'Facebook',
+        5,
+        2014,
+        'John Conner'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        430,
+        '2014-05-31 22:04:17',
+        'Facebook',
+        4,
+        2014,
+        'Zachary Fox'
+    ),
+    (
+        430,
+        '2014-05-31 22:04:17',
+        'Facebook',
+        2,
+        2014,
+        'Carol Garrett'
+    ),
+    (
+        430,
+        '2014-05-31 22:04:17',
+        'Facebook',
+        1,
+        2014,
+        'Christopher Hodge'
+    ),
+    (
+        430,
+        '2014-05-31 22:04:17',
+        'Facebook',
+        3,
+        2014,
+        'Mary Vance'
+    ),
+    (
+        558,
+        '2021-05-29 22:27:24',
+        'Facebook',
+        2,
+        2021,
+        'Samantha Lee'
+    ),
+    (
+        558,
+        '2021-05-29 22:27:24',
+        'Facebook',
+        1,
+        2021,
+        'Manuel Caldwell'
+    ),
+    (
+        558,
+        '2021-05-29 22:27:24',
+        'Facebook',
+        5,
+        2021,
+        'Amber Mcdowell'
+    ),
+    (
+        558,
+        '2021-05-29 22:27:24',
+        'Facebook',
+        4,
+        2021,
+        'Tamara Barnes'
+    ),
+    (
+        558,
+        '2021-05-29 22:27:24',
+        'Facebook',
+        3,
+        2021,
+        'Caleb Ellison'
+    ),
+    (
+        807,
+        '2016-05-28 23:47:21',
+        'Web',
+        4,
+        2016,
+        'Tara Mcgee'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        807,
+        '2016-05-28 23:47:21',
+        'Web',
+        2,
+        2016,
+        'Kimberly Wilkins MD'
+    ),
+    (
+        807,
+        '2016-05-28 23:47:21',
+        'Web',
+        3,
+        2016,
+        'Steve Bennett'
+    ),
+    (
+        807,
+        '2016-05-28 23:47:21',
+        'Web',
+        5,
+        2016,
+        'Anne Mcfarland'
+    ),
+    (
+        807,
+        '2016-05-28 23:47:21',
+        'Web',
+        1,
+        2016,
+        'Alejandra Walter'
+    ),
+    (
+        685,
+        '2016-05-28 22:51:11',
+        'Instagram',
+        1,
+        2016,
+        'Brian Ingram'
+    ),
+    (
+        685,
+        '2016-05-28 22:51:11',
+        'Instagram',
+        4,
+        2016,
+        'Melody Reese MD'
+    ),
+    (
+        349,
+        '2018-05-26 22:56:15',
+        'Facebook',
+        5,
+        2018,
+        'Charles Glover'
+    ),
+    (
+        349,
+        '2018-05-26 22:56:15',
+        'Facebook',
+        3,
+        2018,
+        'Danielle Miller'
+    ),
+    (
+        349,
+        '2018-05-26 22:56:15',
+        'Facebook',
+        1,
+        2018,
+        'Jessica Williams'
+    ),
+    (
+        349,
+        '2018-05-26 22:56:15',
+        'Facebook',
+        4,
+        2018,
+        'Diane Harrison'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        349,
+        '2018-05-26 22:56:15',
+        'Facebook',
+        2,
+        2018,
+        'Steven Cox'
+    ),
+    (
+        689,
+        '2012-05-26 23:18:19',
+        'Phone',
+        2,
+        2012,
+        'Jennifer Wolfe'
+    ),
+    (
+        689,
+        '2012-05-26 23:18:19',
+        'Phone',
+        4,
+        2012,
+        'Jose Smith Jr.'
+    ),
+    (
+        689,
+        '2012-05-26 23:18:19',
+        'Phone',
+        5,
+        2012,
+        'Patrick Benson'
+    ),
+    (
+        689,
+        '2012-05-26 23:18:19',
+        'Phone',
+        1,
+        2012,
+        'Stephanie Patrick'
+    ),
+    (
+        689,
+        '2012-05-26 23:18:19',
+        'Phone',
+        3,
+        2012,
+        'Maria Robertson'
+    ),
+    (
+        357,
+        '2020-05-30 22:41:20',
+        'Facebook',
+        3,
+        2020,
+        'Travis Walker'
+    ),
+    (
+        357,
+        '2020-05-30 22:41:20',
+        'Facebook',
+        2,
+        2020,
+        'Lisa Mcdaniel'
+    ),
+    (
+        357,
+        '2020-05-30 22:41:20',
+        'Facebook',
+        1,
+        2020,
+        'Charles Washington'
+    ),
+    (
+        357,
+        '2020-05-30 22:41:20',
+        'Facebook',
+        4,
+        2020,
+        'Mr. Steven Yoder'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        357,
+        '2020-05-30 22:41:20',
+        'Facebook',
+        5,
+        2020,
+        'Juan Huerta'
+    ),
+    (
+        961,
+        '2009-05-30 22:22:23',
+        'Web',
+        4,
+        2009,
+        'Carrie Bell'
+    ),
+    (
+        961,
+        '2009-05-30 22:22:23',
+        'Web',
+        2,
+        2009,
+        'Kimberly Craig'
+    ),
+    (
+        961,
+        '2009-05-30 22:22:23',
+        'Web',
+        3,
+        2009,
+        'Olivia Nichols'
+    ),
+    (
+        961,
+        '2009-05-30 22:22:23',
+        'Web',
+        5,
+        2009,
+        'Leslie Saunders'
+    ),
+    (
+        961,
+        '2009-05-30 22:22:23',
+        'Web',
+        1,
+        2009,
+        'Matthew Garcia'
+    ),
+    (
+        992,
+        '2017-05-27 22:16:27',
+        'Facebook',
+        4,
+        2017,
+        'Brandi Harris'
+    ),
+    (
+        992,
+        '2017-05-27 22:16:27',
+        'Facebook',
+        1,
+        2017,
+        'Rachel Cole'
+    ),
+    (
+        992,
+        '2017-05-27 22:16:27',
+        'Facebook',
+        5,
+        2017,
+        'Matthew Vaughn'
+    ),
+    (
+        992,
+        '2017-05-27 22:16:27',
+        'Facebook',
+        2,
+        2017,
+        'Andrea Hill'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        992,
+        '2017-05-27 22:16:27',
+        'Facebook',
+        3,
+        2017,
+        'Tina Roy'
+    ),
+    (
+        358,
+        '2021-05-29 22:13:43',
+        'Phone',
+        1,
+        2021,
+        'Samantha Lee'
+    ),
+    (
+        358,
+        '2021-05-29 22:13:43',
+        'Phone',
+        3,
+        2021,
+        'Thomas Smith'
+    ),
+    (
+        358,
+        '2021-05-29 22:13:43',
+        'Phone',
+        5,
+        2021,
+        'Manuel Caldwell'
+    ),
+    (
+        358,
+        '2021-05-29 22:13:43',
+        'Phone',
+        2,
+        2021,
+        'Caleb Ellison'
+    ),
+    (
+        358,
+        '2021-05-29 22:13:43',
+        'Phone',
+        4,
+        2021,
+        'Amber Mcdowell'
+    ),
+    (
+        699,
+        '2021-05-29 22:40:57',
+        'Phone',
+        5,
+        2021,
+        'Ann Perez'
+    ),
+    (
+        699,
+        '2021-05-29 22:40:57',
+        'Phone',
+        1,
+        2021,
+        'Caleb Ellison'
+    ),
+    (
+        699,
+        '2021-05-29 22:40:57',
+        'Phone',
+        2,
+        2021,
+        'Robin Myers'
+    ),
+    (
+        699,
+        '2021-05-29 22:40:57',
+        'Phone',
+        4,
+        2021,
+        'Jack Singh'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        699,
+        '2021-05-29 22:40:57',
+        'Phone',
+        3,
+        2021,
+        'Amber Mcdowell'
+    ),
+    (
+        322,
+        '2013-05-25 22:08:06',
+        'Instagram',
+        5,
+        2013,
+        'Angela Phillips'
+    ),
+    (
+        322,
+        '2013-05-25 22:08:06',
+        'Instagram',
+        3,
+        2013,
+        'Thomas Hess'
+    ),
+    (
+        322,
+        '2013-05-25 22:08:06',
+        'Instagram',
+        1,
+        2013,
+        'Diane Cooper'
+    ),
+    (
+        322,
+        '2013-05-25 22:08:06',
+        'Instagram',
+        4,
+        2013,
+        'Nancy Mcmahon'
+    ),
+    (
+        322,
+        '2013-05-25 22:08:06',
+        'Instagram',
+        2,
+        2013,
+        'Blake Martinez'
+    ),
+    (
+        514,
+        '2011-05-28 23:49:09',
+        'Instagram',
+        3,
+        2011,
+        'Dr. Courtney Green MD'
+    ),
+    (
+        514,
+        '2011-05-28 23:49:09',
+        'Instagram',
+        1,
+        2011,
+        'Carmen Mitchell'
+    ),
+    (
+        514,
+        '2011-05-28 23:49:09',
+        'Instagram',
+        5,
+        2011,
+        'Keith Ingram'
+    ),
+    (
+        514,
+        '2011-05-28 23:49:09',
+        'Instagram',
+        4,
+        2011,
+        'Andres Rubio'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        514,
+        '2011-05-28 23:49:09',
+        'Instagram',
+        2,
+        2011,
+        'Victoria Rosales PhD'
+    ),
+    (
+        896,
+        '2009-05-30 22:08:08',
+        'Facebook',
+        2,
+        2009,
+        'Wanda Smith'
+    ),
+    (
+        896,
+        '2009-05-30 22:08:08',
+        'Facebook',
+        1,
+        2009,
+        'Sandra Lopez'
+    ),
+    (
+        896,
+        '2009-05-30 22:08:08',
+        'Facebook',
+        5,
+        2009,
+        'Jason Hebert'
+    ),
+    (
+        896,
+        '2009-05-30 22:08:08',
+        'Facebook',
+        4,
+        2009,
+        'Kimberly Craig'
+    ),
+    (
+        896,
+        '2009-05-30 22:08:08',
+        'Facebook',
+        3,
+        2009,
+        'Leslie Saunders'
+    ),
+    (
+        65,
+        '2017-05-27 23:33:21',
+        'Web',
+        1,
+        2017,
+        'Andrea Hill'
+    ),
+    (
+        65,
+        '2017-05-27 23:33:21',
+        'Web',
+        2,
+        2017,
+        'Rachel Cole'
+    ),
+    (
+        65,
+        '2017-05-27 23:33:21',
+        'Web',
+        5,
+        2017,
+        'Nathan Williams'
+    ),
+    (
+        65,
+        '2017-05-27 23:33:21',
+        'Web',
+        4,
+        2017,
+        'Sean Ward'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        65,
+        '2017-05-27 23:33:21',
+        'Web',
+        3,
+        2017,
+        'Brian Mccall'
+    ),
+    (
+        989,
+        '2009-05-30 23:52:06',
+        'Instagram',
+        5,
+        2009,
+        'Jason Hebert'
+    ),
+    (
+        989,
+        '2009-05-30 23:52:06',
+        'Instagram',
+        4,
+        2009,
+        'Melanie Hall'
+    ),
+    (
+        989,
+        '2009-05-30 23:52:06',
+        'Instagram',
+        3,
+        2009,
+        'Leslie Saunders'
+    ),
+    (
+        274,
+        '2018-05-26 23:48:13',
+        'Instagram',
+        5,
+        2018,
+        'Brandon Ruiz'
+    ),
+    (
+        274,
+        '2018-05-26 23:48:13',
+        'Instagram',
+        1,
+        2018,
+        'Kimberly Davis'
+    ),
+    (
+        987,
+        '2024-05-25 23:35:56',
+        'Web',
+        4,
+        2024,
+        'Jessica Murphy'
+    ),
+    (
+        987,
+        '2024-05-25 23:35:56',
+        'Web',
+        5,
+        2024,
+        'Emily Buck'
+    ),
+    (
+        987,
+        '2024-05-25 23:35:56',
+        'Web',
+        1,
+        2024,
+        'Christy Perry'
+    ),
+    (
+        987,
+        '2024-05-25 23:35:56',
+        'Web',
+        3,
+        2024,
+        'Richard Lewis'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        987,
+        '2024-05-25 23:35:56',
+        'Web',
+        2,
+        2024,
+        'Amber Williams'
+    ),
+    (
+        619,
+        '2016-05-28 23:26:23',
+        'Web',
+        1,
+        2016,
+        'Derek Schwartz'
+    ),
+    (
+        619,
+        '2016-05-28 23:26:23',
+        'Web',
+        2,
+        2016,
+        'Alejandra Walter'
+    ),
+    (
+        619,
+        '2016-05-28 23:26:23',
+        'Web',
+        3,
+        2016,
+        'Amanda Patterson'
+    ),
+    (
+        619,
+        '2016-05-28 23:26:23',
+        'Web',
+        4,
+        2016,
+        'Steve Bennett'
+    ),
+    (
+        619,
+        '2016-05-28 23:26:23',
+        'Web',
+        5,
+        2016,
+        'Tara Mcgee'
+    ),
+    (
+        258,
+        '2022-05-28 22:35:18',
+        'Facebook',
+        4,
+        2022,
+        'Stephanie Smith'
+    ),
+    (
+        258,
+        '2022-05-28 22:35:18',
+        'Facebook',
+        2,
+        2022,
+        'Michael Martinez'
+    ),
+    (
+        258,
+        '2022-05-28 22:35:18',
+        'Facebook',
+        5,
+        2022,
+        'Michael Baker'
+    ),
+    (
+        258,
+        '2022-05-28 22:35:18',
+        'Facebook',
+        1,
+        2022,
+        'Martin Moore'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        258,
+        '2022-05-28 22:35:18',
+        'Facebook',
+        3,
+        2022,
+        'Gary Stone'
+    ),
+    (
+        581,
+        '2013-05-25 22:35:02',
+        'Facebook',
+        1,
+        2013,
+        'Diane Cooper'
+    ),
+    (
+        581,
+        '2013-05-25 22:35:02',
+        'Facebook',
+        3,
+        2013,
+        'Thomas Hess'
+    ),
+    (
+        581,
+        '2013-05-25 22:35:02',
+        'Facebook',
+        4,
+        2013,
+        'Anthony Villanueva'
+    ),
+    (
+        581,
+        '2013-05-25 22:35:02',
+        'Facebook',
+        2,
+        2013,
+        'Angela Phillips'
+    ),
+    (
+        581,
+        '2013-05-25 22:35:02',
+        'Facebook',
+        5,
+        2013,
+        'Wendy Cunningham'
+    ),
+    (
+        814,
+        '2012-05-26 22:07:17',
+        'Instagram',
+        5,
+        2012,
+        'Patrick Benson'
+    ),
+    (
+        814,
+        '2012-05-26 22:07:17',
+        'Instagram',
+        4,
+        2012,
+        'Maria Robertson'
+    ),
+    (
+        814,
+        '2012-05-26 22:07:17',
+        'Instagram',
+        2,
+        2012,
+        'Tyler Jordan'
+    ),
+    (
+        814,
+        '2012-05-26 22:07:17',
+        'Instagram',
+        1,
+        2012,
+        'Stacy White'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        814,
+        '2012-05-26 22:07:17',
+        'Instagram',
+        3,
+        2012,
+        'Jennifer Wolfe'
+    ),
+    (
+        367,
+        '2017-05-27 22:41:40',
+        'Instagram',
+        4,
+        2017,
+        'Brian Mccall'
+    ),
+    (
+        367,
+        '2017-05-27 22:41:40',
+        'Instagram',
+        2,
+        2017,
+        'Tina Roy'
+    ),
+    (
+        367,
+        '2017-05-27 22:41:40',
+        'Instagram',
+        5,
+        2017,
+        'Denise Jones'
+    ),
+    (
+        367,
+        '2017-05-27 22:41:40',
+        'Instagram',
+        3,
+        2017,
+        'Elizabeth Koch'
+    ),
+    (
+        367,
+        '2017-05-27 22:41:40',
+        'Instagram',
+        1,
+        2017,
+        'Matthew Vaughn'
+    ),
+    (
+        589,
+        '2010-05-29 22:34:07',
+        'Phone',
+        3,
+        2010,
+        'Timothy Sandoval'
+    ),
+    (
+        589,
+        '2010-05-29 22:34:07',
+        'Phone',
+        1,
+        2010,
+        'Kayla Vargas'
+    ),
+    (
+        589,
+        '2010-05-29 22:34:07',
+        'Phone',
+        5,
+        2010,
+        'David Williams'
+    ),
+    (
+        589,
+        '2010-05-29 22:34:07',
+        'Phone',
+        4,
+        2010,
+        'Katherine Li'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        589,
+        '2010-05-29 22:34:07',
+        'Phone',
+        2,
+        2010,
+        'Courtney Barber'
+    ),
+    (
+        209,
+        '2019-05-25 22:16:30',
+        'Instagram',
+        3,
+        2019,
+        'Terry Powell'
+    ),
+    (
+        209,
+        '2019-05-25 22:16:30',
+        'Instagram',
+        1,
+        2019,
+        'Cameron Hawkins'
+    ),
+    (
+        555,
+        '2009-05-30 23:04:59',
+        'Web',
+        1,
+        2009,
+        'Jason Hebert'
+    ),
+    (
+        555,
+        '2009-05-30 23:04:59',
+        'Web',
+        3,
+        2009,
+        'Leslie Saunders'
+    ),
+    (
+        555,
+        '2009-05-30 23:04:59',
+        'Web',
+        2,
+        2009,
+        'Wanda Smith'
+    ),
+    (
+        555,
+        '2009-05-30 23:04:59',
+        'Web',
+        4,
+        2009,
+        'Melanie Hall'
+    ),
+    (
+        555,
+        '2009-05-30 23:04:59',
+        'Web',
+        5,
+        2009,
+        'Matthew Garcia'
+    ),
+    (
+        187,
+        '2018-05-26 22:34:09',
+        'Instagram',
+        4,
+        2018,
+        'Brandon Ruiz'
+    ),
+    (
+        187,
+        '2018-05-26 22:34:09',
+        'Instagram',
+        3,
+        2018,
+        'Steven Cox'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        187,
+        '2018-05-26 22:34:09',
+        'Instagram',
+        1,
+        2018,
+        'Jessica Williams'
+    ),
+    (
+        187,
+        '2018-05-26 22:34:09',
+        'Instagram',
+        2,
+        2018,
+        'Diane Harrison'
+    ),
+    (
+        187,
+        '2018-05-26 22:34:09',
+        'Instagram',
+        5,
+        2018,
+        'John Hubbard'
+    ),
+    (
+        624,
+        '2019-05-25 22:18:23',
+        'Facebook',
+        3,
+        2019,
+        'Aaron Peterson'
+    ),
+    (
+        624,
+        '2019-05-25 22:18:23',
+        'Facebook',
+        5,
+        2019,
+        'Terry Powell'
+    ),
+    (
+        624,
+        '2019-05-25 22:18:23',
+        'Facebook',
+        1,
+        2019,
+        'Kyle Hernandez'
+    ),
+    (
+        624,
+        '2019-05-25 22:18:23',
+        'Facebook',
+        4,
+        2019,
+        'Jennifer Ford'
+    ),
+    (
+        624,
+        '2019-05-25 22:18:23',
+        'Facebook',
+        2,
+        2019,
+        'Cameron Hawkins'
+    ),
+    (
+        631,
+        '2022-05-28 22:30:33',
+        'Instagram',
+        2,
+        2022,
+        'Michael Martinez'
+    ),
+    (
+        631,
+        '2022-05-28 22:30:33',
+        'Instagram',
+        1,
+        2022,
+        'Robert Curtis'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        631,
+        '2022-05-28 22:30:33',
+        'Instagram',
+        3,
+        2022,
+        'Thomas Gregory'
+    ),
+    (
+        25,
+        '2019-05-25 22:08:46',
+        'Phone',
+        3,
+        2019,
+        'Cameron Hawkins'
+    ),
+    (
+        25,
+        '2019-05-25 22:08:46',
+        'Phone',
+        5,
+        2019,
+        'Aaron Peterson'
+    ),
+    (
+        25,
+        '2019-05-25 22:08:46',
+        'Phone',
+        4,
+        2019,
+        'Terry Powell'
+    ),
+    (
+        25,
+        '2019-05-25 22:08:46',
+        'Phone',
+        2,
+        2019,
+        'Jennifer Ford'
+    ),
+    (
+        25,
+        '2019-05-25 22:08:46',
+        'Phone',
+        1,
+        2019,
+        'Patrick Wilson'
+    ),
+    (
+        451,
+        '2019-05-25 23:37:08',
+        'Web',
+        3,
+        2019,
+        'Jennifer Ford'
+    ),
+    (
+        451,
+        '2019-05-25 23:37:08',
+        'Web',
+        1,
+        2019,
+        'Aaron Peterson'
+    ),
+    (
+        752,
+        '2022-05-28 22:36:30',
+        'Phone',
+        4,
+        2022,
+        'Stephanie Smith'
+    ),
+    (
+        752,
+        '2022-05-28 22:36:30',
+        'Phone',
+        3,
+        2022,
+        'Michelle Martin'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        752,
+        '2022-05-28 22:36:30',
+        'Phone',
+        2,
+        2022,
+        'Martin Moore'
+    ),
+    (
+        752,
+        '2022-05-28 22:36:30',
+        'Phone',
+        5,
+        2022,
+        'Michael Martinez'
+    ),
+    (
+        752,
+        '2022-05-28 22:36:30',
+        'Phone',
+        1,
+        2022,
+        'Thomas Gregory'
+    ),
+    (
+        837,
+        '2021-05-29 22:27:48',
+        'Web',
+        2,
+        2021,
+        'Ann Perez'
+    ),
+    (
+        837,
+        '2021-05-29 22:27:48',
+        'Web',
+        4,
+        2021,
+        'Manuel Caldwell'
+    ),
+    (
+        837,
+        '2021-05-29 22:27:48',
+        'Web',
+        5,
+        2021,
+        'Thomas Smith'
+    ),
+    (
+        837,
+        '2021-05-29 22:27:48',
+        'Web',
+        1,
+        2021,
+        'Robin Myers'
+    ),
+    (
+        837,
+        '2021-05-29 22:27:48',
+        'Web',
+        3,
+        2021,
+        'Tamara Barnes'
+    ),
+    (
+        333,
+        '2024-05-25 22:41:36',
+        'Instagram',
+        1,
+        2024,
+        'Gabriel Arroyo'
+    ),
+    (
+        333,
+        '2024-05-25 22:41:36',
+        'Instagram',
+        3,
+        2024,
+        'Christopher Singh'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        333,
+        '2024-05-25 22:41:36',
+        'Instagram',
+        2,
+        2024,
+        'Jessica Murphy'
+    ),
+    (
+        333,
+        '2024-05-25 22:41:36',
+        'Instagram',
+        5,
+        2024,
+        'Austin Williams'
+    ),
+    (
+        333,
+        '2024-05-25 22:41:36',
+        'Instagram',
+        4,
+        2024,
+        'Amber Williams'
+    ),
+    (
+        929,
+        '2016-05-28 22:23:25',
+        'Phone',
+        2,
+        2016,
+        'Tara Mcgee'
+    ),
+    (
+        929,
+        '2016-05-28 22:23:25',
+        'Phone',
+        1,
+        2016,
+        'Steve Bennett'
+    ),
+    (
+        929,
+        '2016-05-28 22:23:25',
+        'Phone',
+        4,
+        2016,
+        'Melody Reese MD'
+    ),
+    (
+        929,
+        '2016-05-28 22:23:25',
+        'Phone',
+        5,
+        2016,
+        'Amanda Patterson'
+    ),
+    (
+        929,
+        '2016-05-28 22:23:25',
+        'Phone',
+        3,
+        2016,
+        'Anne Mcfarland'
+    ),
+    (
+        493,
+        '2024-05-25 22:16:48',
+        'Instagram',
+        1,
+        2024,
+        'Christy Perry'
+    ),
+    (
+        493,
+        '2024-05-25 22:16:48',
+        'Instagram',
+        5,
+        2024,
+        'Amber Williams'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        493,
+        '2024-05-25 22:16:48',
+        'Instagram',
+        2,
+        2024,
+        'Gabriel Arroyo'
+    ),
+    (
+        493,
+        '2024-05-25 22:16:48',
+        'Instagram',
+        4,
+        2024,
+        'Jessica Murphy'
+    ),
+    (
+        493,
+        '2024-05-25 22:16:48',
+        'Instagram',
+        3,
+        2024,
+        'Richard Lewis'
+    ),
+    (
+        15,
+        '2009-05-30 23:22:13',
+        'Facebook',
+        2,
+        2009,
+        'Leslie Saunders'
+    ),
+    (
+        15,
+        '2009-05-30 23:22:13',
+        'Facebook',
+        3,
+        2009,
+        'Matthew Garcia'
+    ),
+    (
+        15,
+        '2009-05-30 23:22:13',
+        'Facebook',
+        4,
+        2009,
+        'Olivia Nichols'
+    ),
+    (
+        15,
+        '2009-05-30 23:22:13',
+        'Facebook',
+        5,
+        2009,
+        'Theresa Castaneda'
+    ),
+    (
+        15,
+        '2009-05-30 23:22:13',
+        'Facebook',
+        1,
+        2009,
+        'Carrie Bell'
+    ),
+    (
+        371,
+        '2020-05-30 23:42:20',
+        'Facebook',
+        3,
+        2020,
+        'Lisa Wood'
+    ),
+    (
+        371,
+        '2020-05-30 23:42:20',
+        'Facebook',
+        2,
+        2020,
+        'Mr. Steven Yoder'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        371,
+        '2020-05-30 23:42:20',
+        'Facebook',
+        5,
+        2020,
+        'Lisa Mcdaniel'
+    ),
+    (
+        371,
+        '2020-05-30 23:42:20',
+        'Facebook',
+        1,
+        2020,
+        'Juan Huerta'
+    ),
+    (
+        371,
+        '2020-05-30 23:42:20',
+        'Facebook',
+        4,
+        2020,
+        'Travis Walker'
+    ),
+    (
+        284,
+        '2017-05-27 23:59:23',
+        'Web',
+        3,
+        2017,
+        'Elizabeth Koch'
+    ),
+    (
+        284,
+        '2017-05-27 23:59:23',
+        'Web',
+        5,
+        2017,
+        'Sean Ward'
+    ),
+    (
+        284,
+        '2017-05-27 23:59:23',
+        'Web',
+        4,
+        2017,
+        'Andrea Hill'
+    ),
+    (
+        284,
+        '2017-05-27 23:59:23',
+        'Web',
+        1,
+        2017,
+        'Rachel Cole'
+    ),
+    (
+        284,
+        '2017-05-27 23:59:23',
+        'Web',
+        2,
+        2017,
+        'Denise Jones'
+    ),
+    (
+        101,
+        '2023-05-27 23:28:19',
+        'Facebook',
+        4,
+        2023,
+        'Scott Baker'
+    ),
+    (
+        101,
+        '2023-05-27 23:28:19',
+        'Facebook',
+        3,
+        2023,
+        'Thomas Ruiz'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        101,
+        '2023-05-27 23:28:19',
+        'Facebook',
+        1,
+        2023,
+        'Paula Henderson'
+    ),
+    (
+        101,
+        '2023-05-27 23:28:19',
+        'Facebook',
+        5,
+        2023,
+        'Manuel Graves'
+    ),
+    (
+        101,
+        '2023-05-27 23:28:19',
+        'Facebook',
+        2,
+        2023,
+        'Michael Butler'
+    ),
+    (
+        246,
+        '2024-05-25 22:16:36',
+        'Facebook',
+        2,
+        2024,
+        'Taylor Lopez'
+    ),
+    (
+        246,
+        '2024-05-25 22:16:36',
+        'Facebook',
+        4,
+        2024,
+        'Austin Williams'
+    ),
+    (
+        52,
+        '2017-05-27 23:34:18',
+        'Facebook',
+        4,
+        2017,
+        'Brandi Harris'
+    ),
+    (
+        52,
+        '2017-05-27 23:34:18',
+        'Facebook',
+        1,
+        2017,
+        'Matthew Vaughn'
+    ),
+    (
+        52,
+        '2017-05-27 23:34:18',
+        'Facebook',
+        5,
+        2017,
+        'Elizabeth Koch'
+    ),
+    (
+        52,
+        '2017-05-27 23:34:18',
+        'Facebook',
+        2,
+        2017,
+        'Andrea Hill'
+    ),
+    (
+        52,
+        '2017-05-27 23:34:18',
+        'Facebook',
+        3,
+        2017,
+        'Sean Ward'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        412,
+        '2021-05-29 23:21:54',
+        'Web',
+        1,
+        2021,
+        'Aaron Baldwin'
+    ),
+    (
+        412,
+        '2021-05-29 23:21:54',
+        'Web',
+        3,
+        2021,
+        'Caleb Ellison'
+    ),
+    (
+        412,
+        '2021-05-29 23:21:54',
+        'Web',
+        4,
+        2021,
+        'Tamara Barnes'
+    ),
+    (
+        412,
+        '2021-05-29 23:21:54',
+        'Web',
+        2,
+        2021,
+        'Samantha Lee'
+    ),
+    (
+        412,
+        '2021-05-29 23:21:54',
+        'Web',
+        5,
+        2021,
+        'Thomas Smith'
+    ),
+    (
+        83,
+        '2018-05-26 22:36:46',
+        'Web',
+        4,
+        2018,
+        'Danielle Miller'
+    ),
+    (
+        83,
+        '2018-05-26 22:36:46',
+        'Web',
+        2,
+        2018,
+        'Brandon Ruiz'
+    ),
+    (
+        83,
+        '2018-05-26 22:36:46',
+        'Web',
+        5,
+        2018,
+        'Kimberly Davis'
+    ),
+    (
+        83,
+        '2018-05-26 22:36:46',
+        'Web',
+        3,
+        2018,
+        'Carrie Clark'
+    ),
+    (
+        83,
+        '2018-05-26 22:36:46',
+        'Web',
+        1,
+        2018,
+        'John Hubbard'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        793,
+        '2023-05-27 22:28:06',
+        'Facebook',
+        4,
+        2023,
+        'Samantha Erickson'
+    ),
+    (
+        505,
+        '2019-05-25 23:25:29',
+        'Web',
+        2,
+        2019,
+        'Cameron Hawkins'
+    ),
+    (
+        505,
+        '2019-05-25 23:25:29',
+        'Web',
+        3,
+        2019,
+        'Sarah Hancock'
+    ),
+    (
+        505,
+        '2019-05-25 23:25:29',
+        'Web',
+        5,
+        2019,
+        'Jennifer Ford'
+    ),
+    (
+        505,
+        '2019-05-25 23:25:29',
+        'Web',
+        4,
+        2019,
+        'Kathryn Alvarez'
+    ),
+    (
+        505,
+        '2019-05-25 23:25:29',
+        'Web',
+        1,
+        2019,
+        'Kyle Hernandez'
+    ),
+    (
+        309,
+        '2023-05-27 23:36:06',
+        'Web',
+        4,
+        2023,
+        'Thomas Ruiz'
+    ),
+    (
+        309,
+        '2023-05-27 23:36:06',
+        'Web',
+        1,
+        2023,
+        'Jacqueline Wagner'
+    ),
+    (
+        309,
+        '2023-05-27 23:36:06',
+        'Web',
+        2,
+        2023,
+        'Michael Butler'
+    ),
+    (
+        309,
+        '2023-05-27 23:36:06',
+        'Web',
+        3,
+        2023,
+        'Megan Saunders'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        309,
+        '2023-05-27 23:36:06',
+        'Web',
+        5,
+        2023,
+        'Samantha Erickson'
+    ),
+    (
+        52,
+        '2010-05-29 23:16:52',
+        'Phone',
+        5,
+        2010,
+        'Rachel Melton'
+    ),
+    (
+        52,
+        '2010-05-29 23:16:52',
+        'Phone',
+        4,
+        2010,
+        'Timothy Sandoval'
+    ),
+    (
+        52,
+        '2010-05-29 23:16:52',
+        'Phone',
+        1,
+        2010,
+        'Kyle Weiss'
+    ),
+    (
+        52,
+        '2010-05-29 23:16:52',
+        'Phone',
+        2,
+        2010,
+        'Courtney Barber'
+    ),
+    (
+        52,
+        '2010-05-29 23:16:52',
+        'Phone',
+        3,
+        2010,
+        'David Williams'
+    ),
+    (
+        425,
+        '2009-05-30 22:44:55',
+        'Web',
+        4,
+        2009,
+        'Melanie Hall'
+    ),
+    (
+        425,
+        '2009-05-30 22:44:55',
+        'Web',
+        3,
+        2009,
+        'Jason Hebert'
+    ),
+    (
+        425,
+        '2009-05-30 22:44:55',
+        'Web',
+        1,
+        2009,
+        'Carrie Bell'
+    ),
+    (
+        425,
+        '2009-05-30 22:44:55',
+        'Web',
+        5,
+        2009,
+        'Wanda Smith'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        425,
+        '2009-05-30 22:44:55',
+        'Web',
+        2,
+        2009,
+        'Leslie Saunders'
+    ),
+    (
+        723,
+        '2015-05-30 22:14:07',
+        'Instagram',
+        5,
+        2015,
+        'Travis Hays'
+    ),
+    (
+        723,
+        '2015-05-30 22:14:07',
+        'Instagram',
+        1,
+        2015,
+        'Deborah Sparks'
+    ),
+    (
+        723,
+        '2015-05-30 22:14:07',
+        'Instagram',
+        2,
+        2015,
+        'Heidi Barry'
+    ),
+    (
+        723,
+        '2015-05-30 22:14:07',
+        'Instagram',
+        3,
+        2015,
+        'Nathan Bailey'
+    ),
+    (
+        723,
+        '2015-05-30 22:14:07',
+        'Instagram',
+        4,
+        2015,
+        'Nicholas Black'
+    ),
+    (
+        960,
+        '2019-05-25 23:47:54',
+        'Facebook',
+        5,
+        2019,
+        'Jennifer Ford'
+    ),
+    (
+        960,
+        '2019-05-25 23:47:54',
+        'Facebook',
+        1,
+        2019,
+        'Amanda Ingram'
+    ),
+    (
+        960,
+        '2019-05-25 23:47:54',
+        'Facebook',
+        4,
+        2019,
+        'Terry Powell'
+    ),
+    (
+        960,
+        '2019-05-25 23:47:54',
+        'Facebook',
+        2,
+        2019,
+        'Patrick Wilson'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        960,
+        '2019-05-25 23:47:54',
+        'Facebook',
+        3,
+        2019,
+        'Kyle Hernandez'
+    ),
+    (
+        339,
+        '2016-05-28 22:15:07',
+        'Instagram',
+        4,
+        2016,
+        'Steve Bennett'
+    ),
+    (
+        339,
+        '2016-05-28 22:15:07',
+        'Instagram',
+        1,
+        2016,
+        'Alejandra Walter'
+    ),
+    (
+        339,
+        '2016-05-28 22:15:07',
+        'Instagram',
+        3,
+        2016,
+        'Derek Schwartz'
+    ),
+    (
+        339,
+        '2016-05-28 22:15:07',
+        'Instagram',
+        2,
+        2016,
+        'Anne Mcfarland'
+    ),
+    (
+        339,
+        '2016-05-28 22:15:07',
+        'Instagram',
+        5,
+        2016,
+        'Tara Mcgee'
+    ),
+    (
+        859,
+        '2024-05-25 23:26:22',
+        'Phone',
+        5,
+        2024,
+        'Christopher Singh'
+    ),
+    (
+        859,
+        '2024-05-25 23:26:22',
+        'Phone',
+        4,
+        2024,
+        'Richard Lewis'
+    ),
+    (
+        859,
+        '2024-05-25 23:26:22',
+        'Phone',
+        3,
+        2024,
+        'Taylor Lopez'
+    ),
+    (
+        859,
+        '2024-05-25 23:26:22',
+        'Phone',
+        2,
+        2024,
+        'Alexis Fields'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        859,
+        '2024-05-25 23:26:22',
+        'Phone',
+        1,
+        2024,
+        'Amber Williams'
+    ),
+    (
+        918,
+        '2012-05-26 23:28:47',
+        'Instagram',
+        1,
+        2012,
+        'Tyler Jordan'
+    ),
+    (
+        918,
+        '2012-05-26 23:28:47',
+        'Instagram',
+        4,
+        2012,
+        'Jennifer Wolfe'
+    ),
+    (
+        918,
+        '2012-05-26 23:28:47',
+        'Instagram',
+        3,
+        2012,
+        'Stephanie Patrick'
+    ),
+    (
+        918,
+        '2012-05-26 23:28:47',
+        'Instagram',
+        5,
+        2012,
+        'Anthony Bradford'
+    ),
+    (
+        918,
+        '2012-05-26 23:28:47',
+        'Instagram',
+        2,
+        2012,
+        'Lynn Booth'
+    ),
+    (
+        873,
+        '2017-05-27 23:52:56',
+        'Instagram',
+        3,
+        2017,
+        'Matthew Vaughn'
+    ),
+    (
+        873,
+        '2017-05-27 23:52:56',
+        'Instagram',
+        4,
+        2017,
+        'Elizabeth Koch'
+    ),
+    (
+        873,
+        '2017-05-27 23:52:56',
+        'Instagram',
+        5,
+        2017,
+        'Nathan Williams'
+    ),
+    (
+        873,
+        '2017-05-27 23:52:56',
+        'Instagram',
+        2,
+        2017,
+        'Andrea Hill'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        873,
+        '2017-05-27 23:52:56',
+        'Instagram',
+        1,
+        2017,
+        'Sean Ward'
+    ),
+    (
+        694,
+        '2020-05-30 22:17:09',
+        'Phone',
+        4,
+        2020,
+        'Juan Huerta'
+    ),
+    (
+        694,
+        '2020-05-30 22:17:09',
+        'Phone',
+        2,
+        2020,
+        'Jacob Hickman'
+    ),
+    (
+        694,
+        '2020-05-30 22:17:09',
+        'Phone',
+        3,
+        2020,
+        'Benjamin Thomas'
+    ),
+    (
+        694,
+        '2020-05-30 22:17:09',
+        'Phone',
+        1,
+        2020,
+        'Mr. Steven Yoder'
+    ),
+    (
+        694,
+        '2020-05-30 22:17:09',
+        'Phone',
+        5,
+        2020,
+        'Charles Washington'
+    ),
+    (
+        517,
+        '2012-05-26 22:51:29',
+        'Web',
+        4,
+        2012,
+        'Maria Robertson'
+    ),
+    (
+        517,
+        '2012-05-26 22:51:29',
+        'Web',
+        3,
+        2012,
+        'Anthony Bradford'
+    ),
+    (
+        648,
+        '2012-05-26 22:43:27',
+        'Facebook',
+        4,
+        2012,
+        'Kenneth Warner'
+    ),
+    (
+        648,
+        '2012-05-26 22:43:27',
+        'Facebook',
+        1,
+        2012,
+        'Patrick Benson'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        648,
+        '2012-05-26 22:43:27',
+        'Facebook',
+        3,
+        2012,
+        'Maria Robertson'
+    ),
+    (
+        648,
+        '2012-05-26 22:43:27',
+        'Facebook',
+        2,
+        2012,
+        'Jose Smith Jr.'
+    ),
+    (
+        648,
+        '2012-05-26 22:43:27',
+        'Facebook',
+        5,
+        2012,
+        'Stacy White'
+    ),
+    (
+        744,
+        '2019-05-25 23:02:57',
+        'Web',
+        3,
+        2019,
+        'Aaron Peterson'
+    ),
+    (
+        744,
+        '2019-05-25 23:02:57',
+        'Web',
+        2,
+        2019,
+        'Amanda Ingram'
+    ),
+    (
+        744,
+        '2019-05-25 23:02:57',
+        'Web',
+        4,
+        2019,
+        'Cameron Hawkins'
+    ),
+    (
+        744,
+        '2019-05-25 23:02:57',
+        'Web',
+        5,
+        2019,
+        'Patrick Wilson'
+    ),
+    (
+        744,
+        '2019-05-25 23:02:57',
+        'Web',
+        1,
+        2019,
+        'Terry Powell'
+    ),
+    (
+        24,
+        '2023-05-27 23:38:21',
+        'Phone',
+        4,
+        2023,
+        'Thomas Ruiz'
+    ),
+    (
+        24,
+        '2023-05-27 23:38:21',
+        'Phone',
+        3,
+        2023,
+        'Christine Hayes'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        467,
+        '2015-05-30 22:18:47',
+        'Web',
+        2,
+        2015,
+        'Lisa Patrick'
+    ),
+    (
+        467,
+        '2015-05-30 22:18:47',
+        'Web',
+        1,
+        2015,
+        'Travis Hays'
+    ),
+    (
+        467,
+        '2015-05-30 22:18:47',
+        'Web',
+        3,
+        2015,
+        'Deborah Sparks'
+    ),
+    (
+        455,
+        '2015-05-30 22:17:01',
+        'Phone',
+        4,
+        2015,
+        'Nicholas Black'
+    ),
+    (
+        455,
+        '2015-05-30 22:17:01',
+        'Phone',
+        5,
+        2015,
+        'Travis Hays'
+    ),
+    (
+        455,
+        '2015-05-30 22:17:01',
+        'Phone',
+        2,
+        2015,
+        'Nathan Bailey'
+    ),
+    (
+        455,
+        '2015-05-30 22:17:01',
+        'Phone',
+        3,
+        2015,
+        'Colleen White'
+    ),
+    (
+        455,
+        '2015-05-30 22:17:01',
+        'Phone',
+        1,
+        2015,
+        'Deborah Sparks'
+    ),
+    (
+        617,
+        '2020-05-30 22:30:23',
+        'Web',
+        3,
+        2020,
+        'Benjamin Thomas'
+    ),
+    (
+        617,
+        '2020-05-30 22:30:23',
+        'Web',
+        1,
+        2020,
+        'Danielle Berger'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        617,
+        '2020-05-30 22:30:23',
+        'Web',
+        5,
+        2020,
+        'Travis Walker'
+    ),
+    (
+        617,
+        '2020-05-30 22:30:23',
+        'Web',
+        2,
+        2020,
+        'Juan Huerta'
+    ),
+    (
+        617,
+        '2020-05-30 22:30:23',
+        'Web',
+        4,
+        2020,
+        'Lisa Wood'
+    ),
+    (
+        711,
+        '2009-05-30 23:32:00',
+        'Facebook',
+        5,
+        2009,
+        'Olivia Nichols'
+    ),
+    (
+        711,
+        '2009-05-30 23:32:00',
+        'Facebook',
+        2,
+        2009,
+        'Matthew Garcia'
+    ),
+    (
+        711,
+        '2009-05-30 23:32:00',
+        'Facebook',
+        1,
+        2009,
+        'Theresa Castaneda'
+    ),
+    (
+        711,
+        '2009-05-30 23:32:00',
+        'Facebook',
+        4,
+        2009,
+        'Leslie Saunders'
+    ),
+    (
+        711,
+        '2009-05-30 23:32:00',
+        'Facebook',
+        3,
+        2009,
+        'Wanda Smith'
+    ),
+    (
+        70,
+        '2009-05-30 23:15:12',
+        'Facebook',
+        1,
+        2009,
+        'Melanie Hall'
+    ),
+    (
+        70,
+        '2009-05-30 23:15:12',
+        'Facebook',
+        4,
+        2009,
+        'Wanda Smith'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        70,
+        '2009-05-30 23:15:12',
+        'Facebook',
+        5,
+        2009,
+        'Olivia Nichols'
+    ),
+    (
+        70,
+        '2009-05-30 23:15:12',
+        'Facebook',
+        2,
+        2009,
+        'Matthew Garcia'
+    ),
+    (
+        70,
+        '2009-05-30 23:15:12',
+        'Facebook',
+        3,
+        2009,
+        'Carrie Bell'
+    ),
+    (
+        556,
+        '2022-05-28 22:18:49',
+        'Facebook',
+        2,
+        2022,
+        'Robert Curtis'
+    ),
+    (
+        556,
+        '2022-05-28 22:18:49',
+        'Facebook',
+        4,
+        2022,
+        'Michelle Martin'
+    ),
+    (
+        556,
+        '2022-05-28 22:18:49',
+        'Facebook',
+        1,
+        2022,
+        'Stephanie Smith'
+    ),
+    (
+        556,
+        '2022-05-28 22:18:49',
+        'Facebook',
+        5,
+        2022,
+        'Thomas Gregory'
+    ),
+    (
+        556,
+        '2022-05-28 22:18:49',
+        'Facebook',
+        3,
+        2022,
+        'Andre Burton'
+    ),
+    (
+        823,
+        '2014-05-31 22:51:54',
+        'Phone',
+        5,
+        2014,
+        'Melissa Williams'
+    ),
+    (
+        823,
+        '2014-05-31 22:51:54',
+        'Phone',
+        4,
+        2014,
+        'Christopher Hodge'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        823,
+        '2014-05-31 22:51:54',
+        'Phone',
+        1,
+        2014,
+        'Luke Williams'
+    ),
+    (
+        7,
+        '2013-05-25 23:32:02',
+        'Web',
+        4,
+        2013,
+        'Kimberly Larsen'
+    ),
+    (
+        7,
+        '2013-05-25 23:32:02',
+        'Web',
+        5,
+        2013,
+        'Angela Phillips'
+    ),
+    (
+        7,
+        '2013-05-25 23:32:02',
+        'Web',
+        1,
+        2013,
+        'Nancy Mcmahon'
+    ),
+    (
+        7,
+        '2013-05-25 23:32:02',
+        'Web',
+        2,
+        2013,
+        'Tony Prince'
+    ),
+    (
+        7,
+        '2013-05-25 23:32:02',
+        'Web',
+        3,
+        2013,
+        'Cassandra Hooper'
+    ),
+    (
+        127,
+        '2013-05-25 23:23:49',
+        'Web',
+        1,
+        2013,
+        'Kimberly Larsen'
+    ),
+    (
+        127,
+        '2013-05-25 23:23:49',
+        'Web',
+        3,
+        2013,
+        'Diane Cooper'
+    ),
+    (
+        127,
+        '2013-05-25 23:23:49',
+        'Web',
+        5,
+        2013,
+        'Angela Phillips'
+    ),
+    (
+        127,
+        '2013-05-25 23:23:49',
+        'Web',
+        4,
+        2013,
+        'Nancy Mcmahon'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        127,
+        '2013-05-25 23:23:49',
+        'Web',
+        2,
+        2013,
+        'Thomas Hess'
+    ),
+    (
+        498,
+        '2023-05-27 22:36:44',
+        'Facebook',
+        3,
+        2023,
+        'Manuel Graves'
+    ),
+    (
+        498,
+        '2023-05-27 22:36:44',
+        'Facebook',
+        5,
+        2023,
+        'Jacqueline Wagner'
+    ),
+    (
+        498,
+        '2023-05-27 22:36:44',
+        'Facebook',
+        1,
+        2023,
+        'Michael Butler'
+    ),
+    (
+        498,
+        '2023-05-27 22:36:44',
+        'Facebook',
+        2,
+        2023,
+        'Megan Saunders'
+    ),
+    (
+        498,
+        '2023-05-27 22:36:44',
+        'Facebook',
+        4,
+        2023,
+        'Paula Henderson'
+    ),
+    (
+        375,
+        '2016-05-28 23:28:58',
+        'Instagram',
+        4,
+        2016,
+        'Brian Ingram'
+    ),
+    (
+        375,
+        '2016-05-28 23:28:58',
+        'Instagram',
+        1,
+        2016,
+        'Melody Reese MD'
+    ),
+    (
+        375,
+        '2016-05-28 23:28:58',
+        'Instagram',
+        3,
+        2016,
+        'Derek Schwartz'
+    ),
+    (
+        375,
+        '2016-05-28 23:28:58',
+        'Instagram',
+        5,
+        2016,
+        'Steve Bennett'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        375,
+        '2016-05-28 23:28:58',
+        'Instagram',
+        2,
+        2016,
+        'Alejandra Walter'
+    ),
+    (
+        844,
+        '2020-05-30 22:27:58',
+        'Web',
+        2,
+        2020,
+        'Lisa Wood'
+    ),
+    (
+        844,
+        '2020-05-30 22:27:58',
+        'Web',
+        4,
+        2020,
+        'Jacob Hickman'
+    ),
+    (
+        844,
+        '2020-05-30 22:27:58',
+        'Web',
+        3,
+        2020,
+        'Lisa Mcdaniel'
+    ),
+    (
+        844,
+        '2020-05-30 22:27:58',
+        'Web',
+        1,
+        2020,
+        'Benjamin Thomas'
+    ),
+    (
+        844,
+        '2020-05-30 22:27:58',
+        'Web',
+        5,
+        2020,
+        'Juan Huerta'
+    ),
+    (
+        998,
+        '2015-05-30 23:01:04',
+        'Facebook',
+        5,
+        2015,
+        'Colleen White'
+    ),
+    (
+        998,
+        '2015-05-30 23:01:04',
+        'Facebook',
+        3,
+        2015,
+        'Louis Phillips'
+    ),
+    (
+        998,
+        '2015-05-30 23:01:04',
+        'Facebook',
+        2,
+        2015,
+        'Deborah Sparks'
+    ),
+    (
+        998,
+        '2015-05-30 23:01:04',
+        'Facebook',
+        1,
+        2015,
+        'Nicholas Black'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        998,
+        '2015-05-30 23:01:04',
+        'Facebook',
+        4,
+        2015,
+        'Nathan Bailey'
+    ),
+    (
+        692,
+        '2017-05-27 22:37:51',
+        'Facebook',
+        4,
+        2017,
+        'Brian Mccall'
+    ),
+    (
+        692,
+        '2017-05-27 22:37:51',
+        'Facebook',
+        3,
+        2017,
+        'Andrea Hill'
+    ),
+    (
+        692,
+        '2017-05-27 22:37:51',
+        'Facebook',
+        2,
+        2017,
+        'Brandi Harris'
+    ),
+    (
+        692,
+        '2017-05-27 22:37:51',
+        'Facebook',
+        5,
+        2017,
+        'Denise Jones'
+    ),
+    (
+        692,
+        '2017-05-27 22:37:51',
+        'Facebook',
+        1,
+        2017,
+        'Nathan Williams'
+    ),
+    (
+        110,
+        '2020-05-30 23:49:44',
+        'Instagram',
+        3,
+        2020,
+        'Lisa Mcdaniel'
+    ),
+    (
+        110,
+        '2020-05-30 23:49:44',
+        'Instagram',
+        5,
+        2020,
+        'Juan Huerta'
+    ),
+    (
+        110,
+        '2020-05-30 23:49:44',
+        'Instagram',
+        1,
+        2020,
+        'Danielle Berger'
+    ),
+    (
+        110,
+        '2020-05-30 23:49:44',
+        'Instagram',
+        2,
+        2020,
+        'Mr. Steven Yoder'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        110,
+        '2020-05-30 23:49:44',
+        'Instagram',
+        4,
+        2020,
+        'Jacob Hickman'
+    ),
+    (
+        209,
+        '2015-05-30 23:25:53',
+        'Web',
+        3,
+        2015,
+        'Travis Hays'
+    ),
+    (
+        209,
+        '2015-05-30 23:25:53',
+        'Web',
+        2,
+        2015,
+        'Nicholas Black'
+    ),
+    (
+        505,
+        '2022-05-28 22:52:43',
+        'Phone',
+        2,
+        2022,
+        'Andre Burton'
+    ),
+    (
+        505,
+        '2022-05-28 22:52:43',
+        'Phone',
+        1,
+        2022,
+        'Michael Baker'
+    ),
+    (
+        505,
+        '2022-05-28 22:52:43',
+        'Phone',
+        3,
+        2022,
+        'Andrew Hodges'
+    ),
+    (
+        505,
+        '2022-05-28 22:52:43',
+        'Phone',
+        5,
+        2022,
+        'Martin Moore'
+    ),
+    (
+        505,
+        '2022-05-28 22:52:43',
+        'Phone',
+        4,
+        2022,
+        'Michelle Martin'
+    ),
+    (
+        355,
+        '2014-05-31 22:20:22',
+        'Phone',
+        5,
+        2014,
+        'Lisa Wright'
+    ),
+    (
+        355,
+        '2014-05-31 22:20:22',
+        'Phone',
+        4,
+        2014,
+        'Christopher Hodge'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        621,
+        '2010-05-29 22:41:43',
+        'Facebook',
+        5,
+        2010,
+        'Richard Dawson'
+    ),
+    (
+        621,
+        '2010-05-29 22:41:43',
+        'Facebook',
+        1,
+        2010,
+        'Timothy Sandoval'
+    ),
+    (
+        621,
+        '2010-05-29 22:41:43',
+        'Facebook',
+        2,
+        2010,
+        'Kyle Weiss'
+    ),
+    (
+        621,
+        '2010-05-29 22:41:43',
+        'Facebook',
+        3,
+        2010,
+        'Katherine Li'
+    ),
+    (
+        621,
+        '2010-05-29 22:41:43',
+        'Facebook',
+        4,
+        2010,
+        'Kevin Wilson'
+    ),
+    (
+        909,
+        '2010-05-29 23:18:07',
+        'Phone',
+        5,
+        2010,
+        'Timothy Sandoval'
+    ),
+    (
+        909,
+        '2010-05-29 23:18:07',
+        'Phone',
+        1,
+        2010,
+        'Kyle Weiss'
+    ),
+    (
+        909,
+        '2010-05-29 23:18:07',
+        'Phone',
+        3,
+        2010,
+        'David Williams'
+    ),
+    (
+        909,
+        '2010-05-29 23:18:07',
+        'Phone',
+        2,
+        2010,
+        'Richard Dawson'
+    ),
+    (
+        909,
+        '2010-05-29 23:18:07',
+        'Phone',
+        4,
+        2010,
+        'Rachel Melton'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        324,
+        '2012-05-26 22:32:51',
+        'Facebook',
+        1,
+        2012,
+        'Stacy White'
+    ),
+    (
+        324,
+        '2012-05-26 22:32:51',
+        'Facebook',
+        3,
+        2012,
+        'Patrick Benson'
+    ),
+    (
+        324,
+        '2012-05-26 22:32:51',
+        'Facebook',
+        4,
+        2012,
+        'Tyler Jordan'
+    ),
+    (
+        324,
+        '2012-05-26 22:32:51',
+        'Facebook',
+        2,
+        2012,
+        'Jose Smith Jr.'
+    ),
+    (
+        324,
+        '2012-05-26 22:32:51',
+        'Facebook',
+        5,
+        2012,
+        'Anthony Bradford'
+    ),
+    (
+        55,
+        '2018-05-26 23:14:14',
+        'Phone',
+        5,
+        2018,
+        'Jessica Williams'
+    ),
+    (
+        55,
+        '2018-05-26 23:14:14',
+        'Phone',
+        2,
+        2018,
+        'Brandon Ruiz'
+    ),
+    (
+        628,
+        '2023-05-27 23:15:35',
+        'Facebook',
+        5,
+        2023,
+        'Michael Butler'
+    ),
+    (
+        628,
+        '2023-05-27 23:15:35',
+        'Facebook',
+        2,
+        2023,
+        'Jacqueline Wagner'
+    ),
+    (
+        628,
+        '2023-05-27 23:15:35',
+        'Facebook',
+        3,
+        2023,
+        'Samantha Erickson'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        628,
+        '2023-05-27 23:15:35',
+        'Facebook',
+        1,
+        2023,
+        'Christine Hayes'
+    ),
+    (
+        628,
+        '2023-05-27 23:15:35',
+        'Facebook',
+        4,
+        2023,
+        'Manuel Graves'
+    ),
+    (
+        865,
+        '2018-05-26 23:15:19',
+        'Phone',
+        3,
+        2018,
+        'John Hubbard'
+    ),
+    (
+        865,
+        '2018-05-26 23:15:19',
+        'Phone',
+        4,
+        2018,
+        'Diane Harrison'
+    ),
+    (
+        865,
+        '2018-05-26 23:15:19',
+        'Phone',
+        1,
+        2018,
+        'Steven Cox'
+    ),
+    (
+        865,
+        '2018-05-26 23:15:19',
+        'Phone',
+        5,
+        2018,
+        'Jessica Williams'
+    ),
+    (
+        865,
+        '2018-05-26 23:15:19',
+        'Phone',
+        2,
+        2018,
+        'Carrie Clark'
+    ),
+    (
+        716,
+        '2015-05-30 22:07:04',
+        'Phone',
+        5,
+        2015,
+        'Travis Hays'
+    ),
+    (
+        716,
+        '2015-05-30 22:07:04',
+        'Phone',
+        2,
+        2015,
+        'Louis Phillips'
+    ),
+    (
+        716,
+        '2015-05-30 22:07:04',
+        'Phone',
+        1,
+        2015,
+        'Lisa Patrick'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        716,
+        '2015-05-30 22:07:04',
+        'Phone',
+        3,
+        2015,
+        'Nicholas Black'
+    ),
+    (
+        716,
+        '2015-05-30 22:07:04',
+        'Phone',
+        4,
+        2015,
+        'Heidi Barry'
+    ),
+    (
+        809,
+        '2012-05-26 22:52:22',
+        'Instagram',
+        3,
+        2012,
+        'Lynn Booth'
+    ),
+    (
+        809,
+        '2012-05-26 22:52:22',
+        'Instagram',
+        1,
+        2012,
+        'Kenneth Warner'
+    ),
+    (
+        809,
+        '2012-05-26 22:52:22',
+        'Instagram',
+        2,
+        2012,
+        'Jennifer Wolfe'
+    ),
+    (
+        809,
+        '2012-05-26 22:52:22',
+        'Instagram',
+        4,
+        2012,
+        'Maria Robertson'
+    ),
+    (
+        809,
+        '2012-05-26 22:52:22',
+        'Instagram',
+        5,
+        2012,
+        'Stephanie Patrick'
+    ),
+    (
+        896,
+        '2020-05-30 22:27:26',
+        'Facebook',
+        2,
+        2020,
+        'Jacob Hickman'
+    ),
+    (
+        896,
+        '2020-05-30 22:27:26',
+        'Facebook',
+        4,
+        2020,
+        'Juan Huerta'
+    ),
+    (
+        896,
+        '2020-05-30 22:27:26',
+        'Facebook',
+        3,
+        2020,
+        'Lisa Mcdaniel'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        896,
+        '2020-05-30 22:27:26',
+        'Facebook',
+        5,
+        2020,
+        'Travis Walker'
+    ),
+    (
+        896,
+        '2020-05-30 22:27:26',
+        'Facebook',
+        1,
+        2020,
+        'Mr. Steven Yoder'
+    ),
+    (
+        354,
+        '2009-05-30 22:24:37',
+        'Instagram',
+        2,
+        2009,
+        'Melanie Hall'
+    ),
+    (
+        354,
+        '2009-05-30 22:24:37',
+        'Instagram',
+        3,
+        2009,
+        'Sandra Lopez'
+    ),
+    (
+        303,
+        '2013-05-25 22:12:52',
+        'Instagram',
+        5,
+        2013,
+        'Cassandra Hooper'
+    ),
+    (
+        303,
+        '2013-05-25 22:12:52',
+        'Instagram',
+        4,
+        2013,
+        'Anthony Villanueva'
+    ),
+    (
+        303,
+        '2013-05-25 22:12:52',
+        'Instagram',
+        1,
+        2013,
+        'Angela Phillips'
+    ),
+    (
+        303,
+        '2013-05-25 22:12:52',
+        'Instagram',
+        3,
+        2013,
+        'Blake Martinez'
+    ),
+    (
+        303,
+        '2013-05-25 22:12:52',
+        'Instagram',
+        2,
+        2013,
+        'Diane Cooper'
+    ),
+    (
+        622,
+        '2013-05-25 22:38:31',
+        'Phone',
+        1,
+        2013,
+        'Angela Phillips'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        622,
+        '2013-05-25 22:38:31',
+        'Phone',
+        4,
+        2013,
+        'Anthony Villanueva'
+    ),
+    (
+        622,
+        '2013-05-25 22:38:31',
+        'Phone',
+        2,
+        2013,
+        'Diane Cooper'
+    ),
+    (
+        622,
+        '2013-05-25 22:38:31',
+        'Phone',
+        3,
+        2013,
+        'Blake Martinez'
+    ),
+    (
+        622,
+        '2013-05-25 22:38:31',
+        'Phone',
+        5,
+        2013,
+        'Tony Prince'
+    ),
+    (
+        469,
+        '2017-05-27 23:37:54',
+        'Web',
+        5,
+        2017,
+        'Elizabeth Koch'
+    ),
+    (
+        469,
+        '2017-05-27 23:37:54',
+        'Web',
+        2,
+        2017,
+        'Brian Mccall'
+    ),
+    (
+        469,
+        '2017-05-27 23:37:54',
+        'Web',
+        3,
+        2017,
+        'Tina Roy'
+    ),
+    (
+        469,
+        '2017-05-27 23:37:54',
+        'Web',
+        4,
+        2017,
+        'Andrea Hill'
+    ),
+    (
+        469,
+        '2017-05-27 23:37:54',
+        'Web',
+        1,
+        2017,
+        'Brandi Harris'
+    ),
+    (
+        875,
+        '2011-05-28 22:07:32',
+        'Phone',
+        3,
+        2011,
+        'Cody Davis'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        754,
+        '2024-05-25 22:05:17',
+        'Instagram',
+        4,
+        2024,
+        'Austin Williams'
+    ),
+    (
+        754,
+        '2024-05-25 22:05:17',
+        'Instagram',
+        1,
+        2024,
+        'Jessica Murphy'
+    ),
+    (
+        754,
+        '2024-05-25 22:05:17',
+        'Instagram',
+        3,
+        2024,
+        'Amber Williams'
+    ),
+    (
+        754,
+        '2024-05-25 22:05:17',
+        'Instagram',
+        2,
+        2024,
+        'Christopher Singh'
+    ),
+    (
+        754,
+        '2024-05-25 22:05:17',
+        'Instagram',
+        5,
+        2024,
+        'Emily Buck'
+    ),
+    (
+        877,
+        '2014-05-31 23:44:00',
+        'Facebook',
+        1,
+        2014,
+        'Carol Garrett'
+    ),
+    (
+        877,
+        '2014-05-31 23:44:00',
+        'Facebook',
+        2,
+        2014,
+        'Christopher Hodge'
+    ),
+    (
+        877,
+        '2014-05-31 23:44:00',
+        'Facebook',
+        5,
+        2014,
+        'Zachary Fox'
+    ),
+    (
+        877,
+        '2014-05-31 23:44:00',
+        'Facebook',
+        3,
+        2014,
+        'Todd Miller'
+    ),
+    (
+        877,
+        '2014-05-31 23:44:00',
+        'Facebook',
+        4,
+        2014,
+        'Luke Williams'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        533,
+        '2024-05-25 23:28:29',
+        'Phone',
+        1,
+        2024,
+        'Christy Perry'
+    ),
+    (
+        533,
+        '2024-05-25 23:28:29',
+        'Phone',
+        3,
+        2024,
+        'Christopher Singh'
+    ),
+    (
+        533,
+        '2024-05-25 23:28:29',
+        'Phone',
+        2,
+        2024,
+        'Richard Lewis'
+    ),
+    (
+        533,
+        '2024-05-25 23:28:29',
+        'Phone',
+        4,
+        2024,
+        'Alexis Fields'
+    ),
+    (
+        533,
+        '2024-05-25 23:28:29',
+        'Phone',
+        5,
+        2024,
+        'Austin Williams'
+    ),
+    (
+        365,
+        '2023-05-27 22:09:40',
+        'Phone',
+        2,
+        2023,
+        'Scott Baker'
+    ),
+    (
+        365,
+        '2023-05-27 22:09:40',
+        'Phone',
+        4,
+        2023,
+        'Thomas Ruiz'
+    ),
+    (
+        365,
+        '2023-05-27 22:09:40',
+        'Phone',
+        5,
+        2023,
+        'Michael Butler'
+    ),
+    (
+        365,
+        '2023-05-27 22:09:40',
+        'Phone',
+        1,
+        2023,
+        'Leslie Lee'
+    ),
+    (
+        365,
+        '2023-05-27 22:09:40',
+        'Phone',
+        3,
+        2023,
+        'Jacqueline Wagner'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        606,
+        '2009-05-30 22:57:39',
+        'Facebook',
+        1,
+        2009,
+        'Leslie Saunders'
+    ),
+    (
+        606,
+        '2009-05-30 22:57:39',
+        'Facebook',
+        2,
+        2009,
+        'Olivia Nichols'
+    ),
+    (
+        606,
+        '2009-05-30 22:57:39',
+        'Facebook',
+        4,
+        2009,
+        'Sandra Lopez'
+    ),
+    (
+        606,
+        '2009-05-30 22:57:39',
+        'Facebook',
+        3,
+        2009,
+        'Wanda Smith'
+    ),
+    (
+        606,
+        '2009-05-30 22:57:39',
+        'Facebook',
+        5,
+        2009,
+        'Matthew Garcia'
+    ),
+    (
+        729,
+        '2024-05-25 23:05:21',
+        'Phone',
+        1,
+        2024,
+        'Taylor Lopez'
+    ),
+    (
+        729,
+        '2024-05-25 23:05:21',
+        'Phone',
+        4,
+        2024,
+        'Christy Perry'
+    ),
+    (
+        729,
+        '2024-05-25 23:05:21',
+        'Phone',
+        3,
+        2024,
+        'Christopher Singh'
+    ),
+    (
+        729,
+        '2024-05-25 23:05:21',
+        'Phone',
+        2,
+        2024,
+        'Gabriel Arroyo'
+    ),
+    (
+        729,
+        '2024-05-25 23:05:21',
+        'Phone',
+        5,
+        2024,
+        'Alexis Fields'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        592,
+        '2024-05-25 22:14:05',
+        'Instagram',
+        5,
+        2024,
+        'Taylor Lopez'
+    ),
+    (
+        592,
+        '2024-05-25 22:14:05',
+        'Instagram',
+        2,
+        2024,
+        'Christy Perry'
+    ),
+    (
+        592,
+        '2024-05-25 22:14:05',
+        'Instagram',
+        3,
+        2024,
+        'Alexis Fields'
+    ),
+    (
+        592,
+        '2024-05-25 22:14:05',
+        'Instagram',
+        1,
+        2024,
+        'Jessica Murphy'
+    ),
+    (
+        592,
+        '2024-05-25 22:14:05',
+        'Instagram',
+        4,
+        2024,
+        'Gabriel Arroyo'
+    ),
+    (
+        762,
+        '2012-05-26 23:12:03',
+        'Instagram',
+        5,
+        2012,
+        'Anthony Bradford'
+    ),
+    (
+        762,
+        '2012-05-26 23:12:03',
+        'Instagram',
+        4,
+        2012,
+        'Stephanie Patrick'
+    ),
+    (
+        762,
+        '2012-05-26 23:12:03',
+        'Instagram',
+        1,
+        2012,
+        'Patrick Benson'
+    ),
+    (
+        762,
+        '2012-05-26 23:12:03',
+        'Instagram',
+        2,
+        2012,
+        'Lynn Booth'
+    ),
+    (
+        762,
+        '2012-05-26 23:12:03',
+        'Instagram',
+        3,
+        2012,
+        'Jennifer Wolfe'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        349,
+        '2011-05-28 23:34:46',
+        'Web',
+        4,
+        2011,
+        'John Henderson'
+    ),
+    (
+        349,
+        '2011-05-28 23:34:46',
+        'Web',
+        3,
+        2011,
+        'Ashley Lawson'
+    ),
+    (
+        349,
+        '2011-05-28 23:34:46',
+        'Web',
+        5,
+        2011,
+        'Dr. Courtney Green MD'
+    ),
+    (
+        349,
+        '2011-05-28 23:34:46',
+        'Web',
+        1,
+        2011,
+        'Andres Rubio'
+    ),
+    (
+        349,
+        '2011-05-28 23:34:46',
+        'Web',
+        2,
+        2011,
+        'Keith Ingram'
+    ),
+    (
+        323,
+        '2017-05-27 23:48:38',
+        'Phone',
+        2,
+        2017,
+        'Andrea Hill'
+    ),
+    (
+        323,
+        '2017-05-27 23:48:38',
+        'Phone',
+        3,
+        2017,
+        'Rachel Cole'
+    ),
+    (
+        323,
+        '2017-05-27 23:48:38',
+        'Phone',
+        4,
+        2017,
+        'Brian Mccall'
+    ),
+    (
+        323,
+        '2017-05-27 23:48:38',
+        'Phone',
+        5,
+        2017,
+        'Denise Jones'
+    ),
+    (
+        323,
+        '2017-05-27 23:48:38',
+        'Phone',
+        1,
+        2017,
+        'Sean Ward'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        819,
+        '2021-05-29 22:44:14',
+        'Facebook',
+        4,
+        2021,
+        'Amber Mcdowell'
+    ),
+    (
+        819,
+        '2021-05-29 22:44:14',
+        'Facebook',
+        2,
+        2021,
+        'Samantha Lee'
+    ),
+    (
+        819,
+        '2021-05-29 22:44:14',
+        'Facebook',
+        3,
+        2021,
+        'Aaron Baldwin'
+    ),
+    (
+        819,
+        '2021-05-29 22:44:14',
+        'Facebook',
+        5,
+        2021,
+        'Tamara Barnes'
+    ),
+    (
+        819,
+        '2021-05-29 22:44:14',
+        'Facebook',
+        1,
+        2021,
+        'Thomas Smith'
+    ),
+    (
+        294,
+        '2012-05-26 23:16:39',
+        'Facebook',
+        4,
+        2012,
+        'Maria Robertson'
+    ),
+    (
+        294,
+        '2012-05-26 23:16:39',
+        'Facebook',
+        5,
+        2012,
+        'Kenneth Warner'
+    ),
+    (
+        294,
+        '2012-05-26 23:16:39',
+        'Facebook',
+        3,
+        2012,
+        'Stephanie Patrick'
+    ),
+    (
+        294,
+        '2012-05-26 23:16:39',
+        'Facebook',
+        1,
+        2012,
+        'Anthony Bradford'
+    ),
+    (
+        294,
+        '2012-05-26 23:16:39',
+        'Facebook',
+        2,
+        2012,
+        'Stacy White'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        50,
+        '2020-05-30 22:35:03',
+        'Web',
+        2,
+        2020,
+        'Juan Huerta'
+    ),
+    (
+        50,
+        '2020-05-30 22:35:03',
+        'Web',
+        4,
+        2020,
+        'Danielle Berger'
+    ),
+    (
+        50,
+        '2020-05-30 22:35:03',
+        'Web',
+        3,
+        2020,
+        'Mr. Steven Yoder'
+    ),
+    (
+        50,
+        '2020-05-30 22:35:03',
+        'Web',
+        1,
+        2020,
+        'Lisa Wood'
+    ),
+    (
+        50,
+        '2020-05-30 22:35:03',
+        'Web',
+        5,
+        2020,
+        'Lisa Mcdaniel'
+    ),
+    (
+        451,
+        '2014-05-31 23:21:38',
+        'Web',
+        2,
+        2014,
+        'Melissa Williams'
+    ),
+    (
+        451,
+        '2014-05-31 23:21:38',
+        'Web',
+        3,
+        2014,
+        'John Conner'
+    ),
+    (
+        451,
+        '2014-05-31 23:21:38',
+        'Web',
+        1,
+        2014,
+        'Luke Williams'
+    ),
+    (
+        451,
+        '2014-05-31 23:21:38',
+        'Web',
+        4,
+        2014,
+        'Christopher Hodge'
+    ),
+    (
+        451,
+        '2014-05-31 23:21:38',
+        'Web',
+        5,
+        2014,
+        'Lisa Wright'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        481,
+        '2009-05-30 22:25:04',
+        'Instagram',
+        4,
+        2009,
+        'Melanie Hall'
+    ),
+    (
+        481,
+        '2009-05-30 22:25:04',
+        'Instagram',
+        3,
+        2009,
+        'Leslie Saunders'
+    ),
+    (
+        481,
+        '2009-05-30 22:25:04',
+        'Instagram',
+        2,
+        2009,
+        'Kimberly Craig'
+    ),
+    (
+        481,
+        '2009-05-30 22:25:04',
+        'Instagram',
+        5,
+        2009,
+        'Sandra Lopez'
+    ),
+    (
+        481,
+        '2009-05-30 22:25:04',
+        'Instagram',
+        1,
+        2009,
+        'Carrie Bell'
+    ),
+    (
+        136,
+        '2023-05-27 22:12:48',
+        'Instagram',
+        5,
+        2023,
+        'Christine Hayes'
+    ),
+    (
+        136,
+        '2023-05-27 22:12:48',
+        'Instagram',
+        2,
+        2023,
+        'Paula Henderson'
+    ),
+    (
+        136,
+        '2023-05-27 22:12:48',
+        'Instagram',
+        3,
+        2023,
+        'Jacqueline Wagner'
+    ),
+    (
+        136,
+        '2023-05-27 22:12:48',
+        'Instagram',
+        4,
+        2023,
+        'Thomas Ruiz'
+    ),
+    (
+        136,
+        '2023-05-27 22:12:48',
+        'Instagram',
+        1,
+        2023,
+        'Scott Baker'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        851,
+        '2015-05-30 22:02:05',
+        'Phone',
+        2,
+        2015,
+        'Heidi Barry'
+    ),
+    (
+        851,
+        '2015-05-30 22:02:05',
+        'Phone',
+        1,
+        2015,
+        'Lisa Patrick'
+    ),
+    (
+        314,
+        '2022-05-28 22:02:04',
+        'Instagram',
+        2,
+        2022,
+        'Robert Curtis'
+    ),
+    (
+        314,
+        '2022-05-28 22:02:04',
+        'Instagram',
+        1,
+        2022,
+        'Andre Burton'
+    ),
+    (
+        314,
+        '2022-05-28 22:02:04',
+        'Instagram',
+        4,
+        2022,
+        'Thomas Gregory'
+    ),
+    (
+        501,
+        '2013-05-25 23:33:41',
+        'Instagram',
+        1,
+        2013,
+        'Cassandra Hooper'
+    ),
+    (
+        501,
+        '2013-05-25 23:33:41',
+        'Instagram',
+        3,
+        2013,
+        'Nancy Mcmahon'
+    ),
+    (
+        501,
+        '2013-05-25 23:33:41',
+        'Instagram',
+        4,
+        2013,
+        'Blake Martinez'
+    ),
+    (
+        501,
+        '2013-05-25 23:33:41',
+        'Instagram',
+        5,
+        2013,
+        'Wendy Cunningham'
+    ),
+    (
+        501,
+        '2013-05-25 23:33:41',
+        'Instagram',
+        2,
+        2013,
+        'Angela Phillips'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        705,
+        '2016-05-28 22:42:44',
+        'Phone',
+        3,
+        2016,
+        'Steve Bennett'
+    ),
+    (
+        705,
+        '2016-05-28 22:42:44',
+        'Phone',
+        1,
+        2016,
+        'Melody Reese MD'
+    ),
+    (
+        705,
+        '2016-05-28 22:42:44',
+        'Phone',
+        4,
+        2016,
+        'Anne Mcfarland'
+    ),
+    (
+        705,
+        '2016-05-28 22:42:44',
+        'Phone',
+        2,
+        2016,
+        'Amanda Patterson'
+    ),
+    (
+        705,
+        '2016-05-28 22:42:44',
+        'Phone',
+        5,
+        2016,
+        'Derek Schwartz'
+    ),
+    (
+        177,
+        '2010-05-29 23:37:15',
+        'Web',
+        1,
+        2010,
+        'David Williams'
+    ),
+    (
+        177,
+        '2010-05-29 23:37:15',
+        'Web',
+        3,
+        2010,
+        'Courtney Barber'
+    ),
+    (
+        177,
+        '2010-05-29 23:37:15',
+        'Web',
+        5,
+        2010,
+        'Kevin Wilson'
+    ),
+    (
+        177,
+        '2010-05-29 23:37:15',
+        'Web',
+        4,
+        2010,
+        'Kayla Vargas'
+    ),
+    (
+        177,
+        '2010-05-29 23:37:15',
+        'Web',
+        2,
+        2010,
+        'Kyle Weiss'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        135,
+        '2018-05-26 23:58:12',
+        'Instagram',
+        4,
+        2018,
+        'Kimberly Davis'
+    ),
+    (
+        135,
+        '2018-05-26 23:58:12',
+        'Instagram',
+        1,
+        2018,
+        'Brandon Ruiz'
+    ),
+    (
+        135,
+        '2018-05-26 23:58:12',
+        'Instagram',
+        2,
+        2018,
+        'Diane Harrison'
+    ),
+    (
+        135,
+        '2018-05-26 23:58:12',
+        'Instagram',
+        3,
+        2018,
+        'Laura Barnes'
+    ),
+    (
+        135,
+        '2018-05-26 23:58:12',
+        'Instagram',
+        5,
+        2018,
+        'John Hubbard'
+    ),
+    (
+        160,
+        '2019-05-25 22:57:18',
+        'Facebook',
+        4,
+        2019,
+        'Patrick Wilson'
+    ),
+    (
+        160,
+        '2019-05-25 22:57:18',
+        'Facebook',
+        1,
+        2019,
+        'Cameron Hawkins'
+    ),
+    (
+        160,
+        '2019-05-25 22:57:18',
+        'Facebook',
+        2,
+        2019,
+        'Amanda Ingram'
+    ),
+    (
+        160,
+        '2019-05-25 22:57:18',
+        'Facebook',
+        3,
+        2019,
+        'Samantha Jones'
+    ),
+    (
+        160,
+        '2019-05-25 22:57:18',
+        'Facebook',
+        5,
+        2019,
+        'Aaron Peterson'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        866,
+        '2013-05-25 23:01:29',
+        'Web',
+        5,
+        2013,
+        'Angela Phillips'
+    ),
+    (
+        866,
+        '2013-05-25 23:01:29',
+        'Web',
+        3,
+        2013,
+        'Tony Prince'
+    ),
+    (
+        866,
+        '2013-05-25 23:01:29',
+        'Web',
+        1,
+        2013,
+        'Diane Cooper'
+    ),
+    (
+        866,
+        '2013-05-25 23:01:29',
+        'Web',
+        4,
+        2013,
+        'Anthony Villanueva'
+    ),
+    (
+        866,
+        '2013-05-25 23:01:29',
+        'Web',
+        2,
+        2013,
+        'Cassandra Hooper'
+    ),
+    (
+        602,
+        '2011-05-28 22:57:05',
+        'Web',
+        3,
+        2011,
+        'Dr. Courtney Green MD'
+    ),
+    (
+        602,
+        '2011-05-28 22:57:05',
+        'Web',
+        4,
+        2011,
+        'Ashley Lawson'
+    ),
+    (
+        602,
+        '2011-05-28 22:57:05',
+        'Web',
+        5,
+        2011,
+        'Justin Kelly'
+    ),
+    (
+        602,
+        '2011-05-28 22:57:05',
+        'Web',
+        2,
+        2011,
+        'John Henderson'
+    ),
+    (
+        602,
+        '2011-05-28 22:57:05',
+        'Web',
+        1,
+        2011,
+        'Andres Rubio'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        643,
+        '2017-05-27 23:11:48',
+        'Phone',
+        1,
+        2017,
+        'Brandi Harris'
+    ),
+    (
+        643,
+        '2017-05-27 23:11:48',
+        'Phone',
+        4,
+        2017,
+        'Sean Ward'
+    ),
+    (
+        643,
+        '2017-05-27 23:11:48',
+        'Phone',
+        3,
+        2017,
+        'Elizabeth Koch'
+    ),
+    (
+        132,
+        '2013-05-25 23:46:37',
+        'Instagram',
+        1,
+        2013,
+        'Wendy Cunningham'
+    ),
+    (
+        132,
+        '2013-05-25 23:46:37',
+        'Instagram',
+        2,
+        2013,
+        'Tony Prince'
+    ),
+    (
+        132,
+        '2013-05-25 23:46:37',
+        'Instagram',
+        4,
+        2013,
+        'Anthony Villanueva'
+    ),
+    (
+        132,
+        '2013-05-25 23:46:37',
+        'Instagram',
+        5,
+        2013,
+        'Diane Cooper'
+    ),
+    (
+        132,
+        '2013-05-25 23:46:37',
+        'Instagram',
+        3,
+        2013,
+        'Kimberly Larsen'
+    ),
+    (
+        234,
+        '2023-05-27 22:12:13',
+        'Web',
+        4,
+        2023,
+        'Scott Baker'
+    ),
+    (
+        234,
+        '2023-05-27 22:12:13',
+        'Web',
+        1,
+        2023,
+        'Michael Butler'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        234,
+        '2023-05-27 22:12:13',
+        'Web',
+        5,
+        2023,
+        'Megan Saunders'
+    ),
+    (
+        234,
+        '2023-05-27 22:12:13',
+        'Web',
+        2,
+        2023,
+        'Leslie Lee'
+    ),
+    (
+        234,
+        '2023-05-27 22:12:13',
+        'Web',
+        3,
+        2023,
+        'Thomas Ruiz'
+    ),
+    (
+        639,
+        '2014-05-31 22:00:35',
+        'Instagram',
+        3,
+        2014,
+        'Melissa Williams'
+    ),
+    (
+        639,
+        '2014-05-31 22:00:35',
+        'Instagram',
+        2,
+        2014,
+        'Christopher Hodge'
+    ),
+    (
+        96,
+        '2024-05-25 22:53:38',
+        'Facebook',
+        5,
+        2024,
+        'Gabriel Arroyo'
+    ),
+    (
+        96,
+        '2024-05-25 22:53:38',
+        'Facebook',
+        3,
+        2024,
+        'Christy Perry'
+    ),
+    (
+        96,
+        '2024-05-25 22:53:38',
+        'Facebook',
+        1,
+        2024,
+        'Amber Williams'
+    ),
+    (
+        96,
+        '2024-05-25 22:53:38',
+        'Facebook',
+        2,
+        2024,
+        'Alexis Fields'
+    ),
+    (
+        96,
+        '2024-05-25 22:53:38',
+        'Facebook',
+        4,
+        2024,
+        'Richard Lewis'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        73,
+        '2017-05-27 23:02:40',
+        'Instagram',
+        5,
+        2017,
+        'Brandi Harris'
+    ),
+    (
+        73,
+        '2017-05-27 23:02:40',
+        'Instagram',
+        2,
+        2017,
+        'Denise Jones'
+    ),
+    (
+        73,
+        '2017-05-27 23:02:40',
+        'Instagram',
+        1,
+        2017,
+        'Matthew Vaughn'
+    ),
+    (
+        73,
+        '2017-05-27 23:02:40',
+        'Instagram',
+        3,
+        2017,
+        'Sean Ward'
+    ),
+    (
+        73,
+        '2017-05-27 23:02:40',
+        'Instagram',
+        4,
+        2017,
+        'Andrea Hill'
+    ),
+    (
+        292,
+        '2015-05-30 22:03:37',
+        'Phone',
+        1,
+        2015,
+        'Heidi Barry'
+    ),
+    (
+        292,
+        '2015-05-30 22:03:37',
+        'Phone',
+        4,
+        2015,
+        'Nathan Bailey'
+    ),
+    (
+        292,
+        '2015-05-30 22:03:37',
+        'Phone',
+        2,
+        2015,
+        'Deborah Sparks'
+    ),
+    (
+        292,
+        '2015-05-30 22:03:37',
+        'Phone',
+        3,
+        2015,
+        'Lisa Patrick'
+    ),
+    (
+        292,
+        '2015-05-30 22:03:37',
+        'Phone',
+        5,
+        2015,
+        'Louis Phillips'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        909,
+        '2024-05-25 22:58:56',
+        'Web',
+        3,
+        2024,
+        'Gabriel Arroyo'
+    ),
+    (
+        909,
+        '2024-05-25 22:58:56',
+        'Web',
+        4,
+        2024,
+        'Alexis Fields'
+    ),
+    (
+        909,
+        '2024-05-25 22:58:56',
+        'Web',
+        2,
+        2024,
+        'Taylor Lopez'
+    ),
+    (
+        909,
+        '2024-05-25 22:58:56',
+        'Web',
+        5,
+        2024,
+        'Amber Williams'
+    ),
+    (
+        909,
+        '2024-05-25 22:58:56',
+        'Web',
+        1,
+        2024,
+        'Richard Lewis'
+    ),
+    (
+        693,
+        '2017-05-27 22:04:25',
+        'Facebook',
+        3,
+        2017,
+        'Sean Ward'
+    ),
+    (
+        693,
+        '2017-05-27 22:04:25',
+        'Facebook',
+        2,
+        2017,
+        'Elizabeth Koch'
+    ),
+    (
+        693,
+        '2017-05-27 22:04:25',
+        'Facebook',
+        4,
+        2017,
+        'Denise Jones'
+    ),
+    (
+        693,
+        '2017-05-27 22:04:25',
+        'Facebook',
+        5,
+        2017,
+        'Brandi Harris'
+    ),
+    (
+        693,
+        '2017-05-27 22:04:25',
+        'Facebook',
+        1,
+        2017,
+        'Brian Mccall'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        417,
+        '2016-05-28 23:54:29',
+        'Phone',
+        4,
+        2016,
+        'Amanda Patterson'
+    ),
+    (
+        417,
+        '2016-05-28 23:54:29',
+        'Phone',
+        3,
+        2016,
+        'Steve Bennett'
+    ),
+    (
+        417,
+        '2016-05-28 23:54:29',
+        'Phone',
+        5,
+        2016,
+        'Anne Mcfarland'
+    ),
+    (
+        960,
+        '2016-05-28 22:49:57',
+        'Facebook',
+        2,
+        2016,
+        'Brian Ingram'
+    ),
+    (
+        960,
+        '2016-05-28 22:49:57',
+        'Facebook',
+        5,
+        2016,
+        'Anne Mcfarland'
+    ),
+    (
+        513,
+        '2010-05-29 23:26:10',
+        'Phone',
+        5,
+        2010,
+        'Matthew Rice'
+    ),
+    (
+        725,
+        '2022-05-28 22:08:58',
+        'Instagram',
+        3,
+        2022,
+        'Robert Curtis'
+    ),
+    (
+        725,
+        '2022-05-28 22:08:58',
+        'Instagram',
+        5,
+        2022,
+        'Martin Moore'
+    ),
+    (
+        725,
+        '2022-05-28 22:08:58',
+        'Instagram',
+        2,
+        2022,
+        'Michael Baker'
+    ),
+    (
+        725,
+        '2022-05-28 22:08:58',
+        'Instagram',
+        4,
+        2022,
+        'Gary Stone'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        830,
+        '2012-05-26 23:28:51',
+        'Phone',
+        4,
+        2012,
+        'Jose Smith Jr.'
+    ),
+    (
+        830,
+        '2012-05-26 23:28:51',
+        'Phone',
+        3,
+        2012,
+        'Patrick Benson'
+    ),
+    (
+        830,
+        '2012-05-26 23:28:51',
+        'Phone',
+        5,
+        2012,
+        'Stacy White'
+    ),
+    (
+        830,
+        '2012-05-26 23:28:51',
+        'Phone',
+        1,
+        2012,
+        'Maria Robertson'
+    ),
+    (
+        830,
+        '2012-05-26 23:28:51',
+        'Phone',
+        2,
+        2012,
+        'Kenneth Warner'
+    ),
+    (
+        957,
+        '2009-05-30 23:07:36',
+        'Facebook',
+        1,
+        2009,
+        'Jason Hebert'
+    ),
+    (
+        957,
+        '2009-05-30 23:07:36',
+        'Facebook',
+        2,
+        2009,
+        'Melanie Hall'
+    ),
+    (
+        957,
+        '2009-05-30 23:07:36',
+        'Facebook',
+        3,
+        2009,
+        'Carrie Bell'
+    ),
+    (
+        693,
+        '2019-05-25 22:42:10',
+        'Web',
+        2,
+        2019,
+        'Samantha Jones'
+    ),
+    (
+        693,
+        '2019-05-25 22:42:10',
+        'Web',
+        4,
+        2019,
+        'Jennifer Ford'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        693,
+        '2019-05-25 22:42:10',
+        'Web',
+        1,
+        2019,
+        'Aaron Peterson'
+    ),
+    (
+        693,
+        '2019-05-25 22:42:10',
+        'Web',
+        3,
+        2019,
+        'Amanda Ingram'
+    ),
+    (
+        693,
+        '2019-05-25 22:42:10',
+        'Web',
+        5,
+        2019,
+        'Patrick Wilson'
+    ),
+    (
+        52,
+        '2012-05-26 22:27:45',
+        'Phone',
+        5,
+        2012,
+        'Jennifer Wolfe'
+    ),
+    (
+        52,
+        '2012-05-26 22:27:45',
+        'Phone',
+        2,
+        2012,
+        'Tyler Jordan'
+    ),
+    (
+        52,
+        '2012-05-26 22:27:45',
+        'Phone',
+        1,
+        2012,
+        'Jose Smith Jr.'
+    ),
+    (
+        52,
+        '2012-05-26 22:27:45',
+        'Phone',
+        4,
+        2012,
+        'Anthony Bradford'
+    ),
+    (
+        52,
+        '2012-05-26 22:27:45',
+        'Phone',
+        3,
+        2012,
+        'Stacy White'
+    ),
+    (
+        568,
+        '2011-05-28 23:44:28',
+        'Instagram',
+        3,
+        2011,
+        'Victoria Rosales PhD'
+    ),
+    (
+        568,
+        '2011-05-28 23:44:28',
+        'Instagram',
+        5,
+        2011,
+        'Cody Davis'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        568,
+        '2011-05-28 23:44:28',
+        'Instagram',
+        1,
+        2011,
+        'Andres Rubio'
+    ),
+    (
+        568,
+        '2011-05-28 23:44:28',
+        'Instagram',
+        2,
+        2011,
+        'Keith Ingram'
+    ),
+    (
+        568,
+        '2011-05-28 23:44:28',
+        'Instagram',
+        4,
+        2011,
+        'Dr. Courtney Green MD'
+    ),
+    (
+        54,
+        '2011-05-28 22:44:00',
+        'Instagram',
+        1,
+        2011,
+        'Andres Rubio'
+    ),
+    (
+        54,
+        '2011-05-28 22:44:00',
+        'Instagram',
+        5,
+        2011,
+        'Wesley Garcia'
+    ),
+    (
+        54,
+        '2011-05-28 22:44:00',
+        'Instagram',
+        4,
+        2011,
+        'Keith Ingram'
+    ),
+    (
+        54,
+        '2011-05-28 22:44:00',
+        'Instagram',
+        2,
+        2011,
+        'Victoria Rosales PhD'
+    ),
+    (
+        54,
+        '2011-05-28 22:44:00',
+        'Instagram',
+        3,
+        2011,
+        'Ashley Lawson'
+    ),
+    (
+        376,
+        '2011-05-28 23:25:32',
+        'Facebook',
+        2,
+        2011,
+        'Ashley Lawson'
+    ),
+    (
+        376,
+        '2011-05-28 23:25:32',
+        'Facebook',
+        3,
+        2011,
+        'Dr. Courtney Green MD'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        376,
+        '2011-05-28 23:25:32',
+        'Facebook',
+        4,
+        2011,
+        'Andres Rubio'
+    ),
+    (
+        376,
+        '2011-05-28 23:25:32',
+        'Facebook',
+        5,
+        2011,
+        'Keith Ingram'
+    ),
+    (
+        376,
+        '2011-05-28 23:25:32',
+        'Facebook',
+        1,
+        2011,
+        'John Henderson'
+    ),
+    (
+        276,
+        '2018-05-26 22:31:32',
+        'Phone',
+        1,
+        2018,
+        'John Hubbard'
+    ),
+    (
+        276,
+        '2018-05-26 22:31:32',
+        'Phone',
+        4,
+        2018,
+        'Danielle Miller'
+    ),
+    (
+        276,
+        '2018-05-26 22:31:32',
+        'Phone',
+        3,
+        2018,
+        'Jessica Williams'
+    ),
+    (
+        276,
+        '2018-05-26 22:31:32',
+        'Phone',
+        5,
+        2018,
+        'Charles Glover'
+    ),
+    (
+        276,
+        '2018-05-26 22:31:32',
+        'Phone',
+        2,
+        2018,
+        'Kimberly Davis'
+    ),
+    (
+        815,
+        '2022-05-28 22:06:11',
+        'Instagram',
+        4,
+        2022,
+        'Stephanie Smith'
+    ),
+    (
+        815,
+        '2022-05-28 22:06:11',
+        'Instagram',
+        1,
+        2022,
+        'Robert Curtis'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        815,
+        '2022-05-28 22:06:11',
+        'Instagram',
+        3,
+        2022,
+        'Martin Moore'
+    ),
+    (
+        815,
+        '2022-05-28 22:06:11',
+        'Instagram',
+        2,
+        2022,
+        'Gary Stone'
+    ),
+    (
+        815,
+        '2022-05-28 22:06:11',
+        'Instagram',
+        5,
+        2022,
+        'Andre Burton'
+    ),
+    (
+        489,
+        '2024-05-25 22:13:03',
+        'Phone',
+        3,
+        2024,
+        'Austin Williams'
+    ),
+    (
+        489,
+        '2024-05-25 22:13:03',
+        'Phone',
+        4,
+        2024,
+        'Richard Lewis'
+    ),
+    (
+        489,
+        '2024-05-25 22:13:03',
+        'Phone',
+        5,
+        2024,
+        'Emily Buck'
+    ),
+    (
+        489,
+        '2024-05-25 22:13:03',
+        'Phone',
+        2,
+        2024,
+        'Gabriel Arroyo'
+    ),
+    (
+        489,
+        '2024-05-25 22:13:03',
+        'Phone',
+        1,
+        2024,
+        'Christopher Singh'
+    ),
+    (
+        418,
+        '2011-05-28 22:04:10',
+        'Instagram',
+        3,
+        2011,
+        'Keith Ingram'
+    ),
+    (
+        418,
+        '2011-05-28 22:04:10',
+        'Instagram',
+        5,
+        2011,
+        'Ashley Lawson'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        418,
+        '2011-05-28 22:04:10',
+        'Instagram',
+        2,
+        2011,
+        'Cody Davis'
+    ),
+    (
+        418,
+        '2011-05-28 22:04:10',
+        'Instagram',
+        4,
+        2011,
+        'Andres Rubio'
+    ),
+    (
+        418,
+        '2011-05-28 22:04:10',
+        'Instagram',
+        1,
+        2011,
+        'Justin Kelly'
+    ),
+    (
+        856,
+        '2017-05-27 22:46:43',
+        'Web',
+        3,
+        2017,
+        'Matthew Vaughn'
+    ),
+    (
+        856,
+        '2017-05-27 22:46:43',
+        'Web',
+        4,
+        2017,
+        'Tina Roy'
+    ),
+    (
+        856,
+        '2017-05-27 22:46:43',
+        'Web',
+        2,
+        2017,
+        'Nathan Williams'
+    ),
+    (
+        856,
+        '2017-05-27 22:46:43',
+        'Web',
+        1,
+        2017,
+        'Brian Mccall'
+    ),
+    (
+        856,
+        '2017-05-27 22:46:43',
+        'Web',
+        5,
+        2017,
+        'Sean Ward'
+    ),
+    (
+        810,
+        '2019-05-25 23:30:07',
+        'Facebook',
+        1,
+        2019,
+        'Kyle Hernandez'
+    ),
+    (
+        810,
+        '2019-05-25 23:30:07',
+        'Facebook',
+        5,
+        2019,
+        'Jennifer Ford'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        810,
+        '2019-05-25 23:30:07',
+        'Facebook',
+        4,
+        2019,
+        'Amanda Ingram'
+    ),
+    (
+        810,
+        '2019-05-25 23:30:07',
+        'Facebook',
+        2,
+        2019,
+        'Cameron Hawkins'
+    ),
+    (
+        810,
+        '2019-05-25 23:30:07',
+        'Facebook',
+        3,
+        2019,
+        'Sarah Hancock'
+    ),
+    (
+        837,
+        '2010-05-29 22:58:47',
+        'Web',
+        3,
+        2010,
+        'Rachel Melton'
+    ),
+    (
+        837,
+        '2010-05-29 22:58:47',
+        'Web',
+        4,
+        2010,
+        'Kevin Wilson'
+    ),
+    (
+        837,
+        '2010-05-29 22:58:47',
+        'Web',
+        1,
+        2010,
+        'Richard Dawson'
+    ),
+    (
+        837,
+        '2010-05-29 22:58:47',
+        'Web',
+        2,
+        2010,
+        'Kyle Weiss'
+    ),
+    (
+        837,
+        '2010-05-29 22:58:47',
+        'Web',
+        5,
+        2010,
+        'Courtney Barber'
+    ),
+    (
+        351,
+        '2020-05-30 23:03:46',
+        'Web',
+        1,
+        2020,
+        'Benjamin Thomas'
+    ),
+    (
+        351,
+        '2020-05-30 23:03:46',
+        'Web',
+        5,
+        2020,
+        'Danielle Berger'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        351,
+        '2020-05-30 23:03:46',
+        'Web',
+        4,
+        2020,
+        'Charles Washington'
+    ),
+    (
+        351,
+        '2020-05-30 23:03:46',
+        'Web',
+        2,
+        2020,
+        'Mr. Steven Yoder'
+    ),
+    (
+        351,
+        '2020-05-30 23:03:46',
+        'Web',
+        3,
+        2020,
+        'Charles Maddox'
+    ),
+    (
+        376,
+        '2020-05-30 22:22:40',
+        'Phone',
+        2,
+        2020,
+        'Charles Washington'
+    ),
+    (
+        376,
+        '2020-05-30 22:22:40',
+        'Phone',
+        5,
+        2020,
+        'Danielle Berger'
+    ),
+    (
+        376,
+        '2020-05-30 22:22:40',
+        'Phone',
+        1,
+        2020,
+        'Juan Huerta'
+    ),
+    (
+        376,
+        '2020-05-30 22:22:40',
+        'Phone',
+        3,
+        2020,
+        'Lisa Mcdaniel'
+    ),
+    (
+        376,
+        '2020-05-30 22:22:40',
+        'Phone',
+        4,
+        2020,
+        'Charles Maddox'
+    ),
+    (
+        626,
+        '2015-05-30 22:35:21',
+        'Web',
+        4,
+        2015,
+        'Brett Benjamin'
+    ),
+    (
+        626,
+        '2015-05-30 22:35:21',
+        'Web',
+        2,
+        2015,
+        'Travis Hays'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        626,
+        '2015-05-30 22:35:21',
+        'Web',
+        3,
+        2015,
+        'Nicholas Black'
+    ),
+    (
+        626,
+        '2015-05-30 22:35:21',
+        'Web',
+        5,
+        2015,
+        'Louis Phillips'
+    ),
+    (
+        626,
+        '2015-05-30 22:35:21',
+        'Web',
+        1,
+        2015,
+        'Deborah Sparks'
+    ),
+    (
+        545,
+        '2023-05-27 23:51:45',
+        'Phone',
+        4,
+        2023,
+        'Jacqueline Wagner'
+    ),
+    (
+        545,
+        '2023-05-27 23:51:45',
+        'Phone',
+        1,
+        2023,
+        'Christine Hayes'
+    ),
+    (
+        545,
+        '2023-05-27 23:51:45',
+        'Phone',
+        3,
+        2023,
+        'Manuel Graves'
+    ),
+    (
+        545,
+        '2023-05-27 23:51:45',
+        'Phone',
+        5,
+        2023,
+        'Samantha Erickson'
+    ),
+    (
+        545,
+        '2023-05-27 23:51:45',
+        'Phone',
+        2,
+        2023,
+        'Thomas Ruiz'
+    ),
+    (
+        317,
+        '2024-05-25 22:52:30',
+        'Instagram',
+        1,
+        2024,
+        'Taylor Lopez'
+    ),
+    (
+        317,
+        '2024-05-25 22:52:30',
+        'Instagram',
+        2,
+        2024,
+        'Amber Williams'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        317,
+        '2024-05-25 22:52:30',
+        'Instagram',
+        3,
+        2024,
+        'Christy Perry'
+    ),
+    (
+        317,
+        '2024-05-25 22:52:30',
+        'Instagram',
+        4,
+        2024,
+        'Jessica Murphy'
+    ),
+    (
+        317,
+        '2024-05-25 22:52:30',
+        'Instagram',
+        5,
+        2024,
+        'Emily Buck'
+    ),
+    (
+        786,
+        '2024-05-25 22:41:59',
+        'Instagram',
+        4,
+        2024,
+        'Christopher Singh'
+    ),
+    (
+        786,
+        '2024-05-25 22:41:59',
+        'Instagram',
+        5,
+        2024,
+        'Christy Perry'
+    ),
+    (
+        786,
+        '2024-05-25 22:41:59',
+        'Instagram',
+        3,
+        2024,
+        'Alexis Fields'
+    ),
+    (
+        542,
+        '2010-05-29 23:36:21',
+        'Instagram',
+        3,
+        2010,
+        'Richard Dawson'
+    ),
+    (
+        542,
+        '2010-05-29 23:36:21',
+        'Instagram',
+        4,
+        2010,
+        'Kayla Vargas'
+    ),
+    (
+        542,
+        '2010-05-29 23:36:21',
+        'Instagram',
+        2,
+        2010,
+        'Timothy Sandoval'
+    ),
+    (
+        670,
+        '2012-05-26 22:23:13',
+        'Phone',
+        4,
+        2012,
+        'Kenneth Warner'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        670,
+        '2012-05-26 22:23:13',
+        'Phone',
+        3,
+        2012,
+        'Anthony Bradford'
+    ),
+    (
+        670,
+        '2012-05-26 22:23:13',
+        'Phone',
+        1,
+        2012,
+        'Lynn Booth'
+    ),
+    (
+        670,
+        '2012-05-26 22:23:13',
+        'Phone',
+        2,
+        2012,
+        'Stephanie Patrick'
+    ),
+    (
+        670,
+        '2012-05-26 22:23:13',
+        'Phone',
+        5,
+        2012,
+        'Jose Smith Jr.'
+    ),
+    (
+        154,
+        '2013-05-25 23:42:23',
+        'Facebook',
+        2,
+        2013,
+        'Nancy Mcmahon'
+    ),
+    (
+        154,
+        '2013-05-25 23:42:23',
+        'Facebook',
+        5,
+        2013,
+        'Anthony Villanueva'
+    ),
+    (
+        154,
+        '2013-05-25 23:42:23',
+        'Facebook',
+        4,
+        2013,
+        'Blake Martinez'
+    ),
+    (
+        154,
+        '2013-05-25 23:42:23',
+        'Facebook',
+        3,
+        2013,
+        'Wendy Cunningham'
+    ),
+    (
+        154,
+        '2013-05-25 23:42:23',
+        'Facebook',
+        1,
+        2013,
+        'Kimberly Larsen'
+    ),
+    (
+        416,
+        '2009-05-30 23:30:17',
+        'Web',
+        4,
+        2009,
+        'Sandra Lopez'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        416,
+        '2009-05-30 23:30:17',
+        'Web',
+        1,
+        2009,
+        'Carrie Bell'
+    ),
+    (
+        416,
+        '2009-05-30 23:30:17',
+        'Web',
+        5,
+        2009,
+        'Kimberly Craig'
+    ),
+    (
+        416,
+        '2009-05-30 23:30:17',
+        'Web',
+        3,
+        2009,
+        'Olivia Nichols'
+    ),
+    (
+        416,
+        '2009-05-30 23:30:17',
+        'Web',
+        2,
+        2009,
+        'Jason Hebert'
+    ),
+    (
+        719,
+        '2009-05-30 22:18:07',
+        'Facebook',
+        2,
+        2009,
+        'Melanie Hall'
+    ),
+    (
+        719,
+        '2009-05-30 22:18:07',
+        'Facebook',
+        3,
+        2009,
+        'Olivia Nichols'
+    ),
+    (
+        719,
+        '2009-05-30 22:18:07',
+        'Facebook',
+        5,
+        2009,
+        'Jason Hebert'
+    ),
+    (
+        719,
+        '2009-05-30 22:18:07',
+        'Facebook',
+        4,
+        2009,
+        'Carrie Bell'
+    ),
+    (
+        719,
+        '2009-05-30 22:18:07',
+        'Facebook',
+        1,
+        2009,
+        'Kimberly Craig'
+    ),
+    (
+        622,
+        '2013-05-25 22:32:15',
+        'Instagram',
+        5,
+        2013,
+        'Thomas Hess'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        622,
+        '2013-05-25 22:32:15',
+        'Instagram',
+        1,
+        2013,
+        'Cassandra Hooper'
+    ),
+    (
+        622,
+        '2013-05-25 22:32:15',
+        'Instagram',
+        2,
+        2013,
+        'Nancy Mcmahon'
+    ),
+    (
+        448,
+        '2022-05-28 23:09:09',
+        'Instagram',
+        4,
+        2022,
+        'Stephanie Smith'
+    ),
+    (
+        448,
+        '2022-05-28 23:09:09',
+        'Instagram',
+        2,
+        2022,
+        'Andrew Hodges'
+    ),
+    (
+        448,
+        '2022-05-28 23:09:09',
+        'Instagram',
+        3,
+        2022,
+        'Thomas Gregory'
+    ),
+    (
+        448,
+        '2022-05-28 23:09:09',
+        'Instagram',
+        1,
+        2022,
+        'Michelle Martin'
+    ),
+    (
+        448,
+        '2022-05-28 23:09:09',
+        'Instagram',
+        5,
+        2022,
+        'Andre Burton'
+    ),
+    (
+        577,
+        '2022-05-28 23:43:30',
+        'Web',
+        2,
+        2022,
+        'Michelle Martin'
+    ),
+    (
+        577,
+        '2022-05-28 23:43:30',
+        'Web',
+        4,
+        2022,
+        'Robert Curtis'
+    ),
+    (
+        577,
+        '2022-05-28 23:43:30',
+        'Web',
+        5,
+        2022,
+        'Michael Baker'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        577,
+        '2022-05-28 23:43:30',
+        'Web',
+        1,
+        2022,
+        'Martin Moore'
+    ),
+    (
+        577,
+        '2022-05-28 23:43:30',
+        'Web',
+        3,
+        2022,
+        'Gary Stone'
+    ),
+    (
+        420,
+        '2022-05-28 22:51:07',
+        'Web',
+        1,
+        2022,
+        'Martin Moore'
+    ),
+    (
+        420,
+        '2022-05-28 22:51:07',
+        'Web',
+        5,
+        2022,
+        'Michael Martinez'
+    ),
+    (
+        420,
+        '2022-05-28 22:51:07',
+        'Web',
+        4,
+        2022,
+        'Michelle Martin'
+    ),
+    (
+        420,
+        '2022-05-28 22:51:07',
+        'Web',
+        3,
+        2022,
+        'Thomas Gregory'
+    ),
+    (
+        420,
+        '2022-05-28 22:51:07',
+        'Web',
+        2,
+        2022,
+        'Michael Baker'
+    ),
+    (
+        803,
+        '2017-05-27 22:04:25',
+        'Web',
+        4,
+        2017,
+        'Brian Mccall'
+    ),
+    (
+        803,
+        '2017-05-27 22:04:25',
+        'Web',
+        5,
+        2017,
+        'Rachel Cole'
+    ),
+    (
+        803,
+        '2017-05-27 22:04:25',
+        'Web',
+        3,
+        2017,
+        'Brandi Harris'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        803,
+        '2017-05-27 22:04:25',
+        'Web',
+        2,
+        2017,
+        'Sean Ward'
+    ),
+    (
+        803,
+        '2017-05-27 22:04:25',
+        'Web',
+        1,
+        2017,
+        'Matthew Vaughn'
+    ),
+    (
+        655,
+        '2018-05-26 23:58:07',
+        'Phone',
+        4,
+        2018,
+        'Kimberly Davis'
+    ),
+    (
+        655,
+        '2018-05-26 23:58:07',
+        'Phone',
+        5,
+        2018,
+        'Brandon Ruiz'
+    ),
+    (
+        655,
+        '2018-05-26 23:58:07',
+        'Phone',
+        2,
+        2018,
+        'Jessica Williams'
+    ),
+    (
+        655,
+        '2018-05-26 23:58:07',
+        'Phone',
+        1,
+        2018,
+        'Diane Harrison'
+    ),
+    (
+        655,
+        '2018-05-26 23:58:07',
+        'Phone',
+        3,
+        2018,
+        'Steven Cox'
+    ),
+    (
+        567,
+        '2011-05-28 23:46:58',
+        'Instagram',
+        3,
+        2011,
+        'Keith Ingram'
+    ),
+    (
+        567,
+        '2011-05-28 23:46:58',
+        'Instagram',
+        2,
+        2011,
+        'Carmen Mitchell'
+    ),
+    (
+        567,
+        '2011-05-28 23:46:58',
+        'Instagram',
+        5,
+        2011,
+        'Justin Kelly'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        567,
+        '2011-05-28 23:46:58',
+        'Instagram',
+        4,
+        2011,
+        'Dr. Courtney Green MD'
+    ),
+    (
+        567,
+        '2011-05-28 23:46:58',
+        'Instagram',
+        1,
+        2011,
+        'John Henderson'
+    ),
+    (
+        515,
+        '2020-05-30 22:20:01',
+        'Phone',
+        1,
+        2020,
+        'Lisa Mcdaniel'
+    ),
+    (
+        515,
+        '2020-05-30 22:20:01',
+        'Phone',
+        3,
+        2020,
+        'Mr. Steven Yoder'
+    ),
+    (
+        515,
+        '2020-05-30 22:20:01',
+        'Phone',
+        4,
+        2020,
+        'Charles Washington'
+    ),
+    (
+        515,
+        '2020-05-30 22:20:01',
+        'Phone',
+        2,
+        2020,
+        'Travis Walker'
+    ),
+    (
+        515,
+        '2020-05-30 22:20:01',
+        'Phone',
+        5,
+        2020,
+        'Lisa Wood'
+    ),
+    (
+        665,
+        '2010-05-29 23:22:10',
+        'Web',
+        1,
+        2010,
+        'Kyle Weiss'
+    ),
+    (
+        665,
+        '2010-05-29 23:22:10',
+        'Web',
+        4,
+        2010,
+        'Kayla Vargas'
+    ),
+    (
+        665,
+        '2010-05-29 23:22:10',
+        'Web',
+        5,
+        2010,
+        'Richard Dawson'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        552,
+        '2012-05-26 23:39:25',
+        'Facebook',
+        2,
+        2012,
+        'Lynn Booth'
+    ),
+    (
+        552,
+        '2012-05-26 23:39:25',
+        'Facebook',
+        5,
+        2012,
+        'Stacy White'
+    ),
+    (
+        552,
+        '2012-05-26 23:39:25',
+        'Facebook',
+        1,
+        2012,
+        'Kenneth Warner'
+    ),
+    (
+        552,
+        '2012-05-26 23:39:25',
+        'Facebook',
+        3,
+        2012,
+        'Maria Robertson'
+    ),
+    (
+        552,
+        '2012-05-26 23:39:25',
+        'Facebook',
+        4,
+        2012,
+        'Jennifer Wolfe'
+    ),
+    (
+        58,
+        '2010-05-29 22:04:46',
+        'Phone',
+        2,
+        2010,
+        'Kyle Weiss'
+    ),
+    (
+        814,
+        '2024-05-25 22:13:37',
+        'Facebook',
+        5,
+        2024,
+        'Richard Lewis'
+    ),
+    (
+        814,
+        '2024-05-25 22:13:37',
+        'Facebook',
+        2,
+        2024,
+        'Austin Williams'
+    ),
+    (
+        602,
+        '2015-05-30 23:22:48',
+        'Facebook',
+        5,
+        2015,
+        'Nathan Bailey'
+    ),
+    (
+        602,
+        '2015-05-30 23:22:48',
+        'Facebook',
+        4,
+        2015,
+        'Deborah Sparks'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        602,
+        '2015-05-30 23:22:48',
+        'Facebook',
+        3,
+        2015,
+        'Travis Hays'
+    ),
+    (
+        602,
+        '2015-05-30 23:22:48',
+        'Facebook',
+        1,
+        2015,
+        'Lisa Patrick'
+    ),
+    (
+        602,
+        '2015-05-30 23:22:48',
+        'Facebook',
+        2,
+        2015,
+        'Louis Phillips'
+    ),
+    (
+        739,
+        '2018-05-26 22:04:14',
+        'Facebook',
+        4,
+        2018,
+        'Jessica Williams'
+    ),
+    (
+        739,
+        '2018-05-26 22:04:14',
+        'Facebook',
+        3,
+        2018,
+        'Danielle Miller'
+    ),
+    (
+        739,
+        '2018-05-26 22:04:14',
+        'Facebook',
+        1,
+        2018,
+        'Carrie Clark'
+    ),
+    (
+        739,
+        '2018-05-26 22:04:14',
+        'Facebook',
+        5,
+        2018,
+        'Steven Cox'
+    ),
+    (
+        739,
+        '2018-05-26 22:04:14',
+        'Facebook',
+        2,
+        2018,
+        'Charles Glover'
+    ),
+    (
+        537,
+        '2017-05-27 22:32:22',
+        'Phone',
+        5,
+        2017,
+        'Matthew Vaughn'
+    ),
+    (
+        537,
+        '2017-05-27 22:32:22',
+        'Phone',
+        3,
+        2017,
+        'Nathan Williams'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        537,
+        '2017-05-27 22:32:22',
+        'Phone',
+        1,
+        2017,
+        'Elizabeth Koch'
+    ),
+    (
+        537,
+        '2017-05-27 22:32:22',
+        'Phone',
+        4,
+        2017,
+        'Brandi Harris'
+    ),
+    (
+        537,
+        '2017-05-27 22:32:22',
+        'Phone',
+        2,
+        2017,
+        'Andrea Hill'
+    ),
+    (
+        637,
+        '2010-05-29 23:52:42',
+        'Phone',
+        1,
+        2010,
+        'Timothy Sandoval'
+    ),
+    (
+        637,
+        '2010-05-29 23:52:42',
+        'Phone',
+        4,
+        2010,
+        'Matthew Rice'
+    ),
+    (
+        637,
+        '2010-05-29 23:52:42',
+        'Phone',
+        2,
+        2010,
+        'Courtney Barber'
+    ),
+    (
+        637,
+        '2010-05-29 23:52:42',
+        'Phone',
+        5,
+        2010,
+        'Kyle Weiss'
+    ),
+    (
+        637,
+        '2010-05-29 23:52:42',
+        'Phone',
+        3,
+        2010,
+        'Katherine Li'
+    ),
+    (
+        963,
+        '2012-05-26 22:17:12',
+        'Facebook',
+        3,
+        2012,
+        'Anthony Bradford'
+    ),
+    (
+        963,
+        '2012-05-26 22:17:12',
+        'Facebook',
+        4,
+        2012,
+        'Jennifer Wolfe'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        963,
+        '2012-05-26 22:17:12',
+        'Facebook',
+        2,
+        2012,
+        'Tyler Jordan'
+    ),
+    (
+        963,
+        '2012-05-26 22:17:12',
+        'Facebook',
+        5,
+        2012,
+        'Maria Robertson'
+    ),
+    (
+        963,
+        '2012-05-26 22:17:12',
+        'Facebook',
+        1,
+        2012,
+        'Kenneth Warner'
+    ),
+    (
+        570,
+        '2018-05-26 23:59:59',
+        'Web',
+        2,
+        2018,
+        'Kimberly Davis'
+    ),
+    (
+        570,
+        '2018-05-26 23:59:59',
+        'Web',
+        4,
+        2018,
+        'Laura Barnes'
+    ),
+    (
+        570,
+        '2018-05-26 23:59:59',
+        'Web',
+        5,
+        2018,
+        'Jessica Williams'
+    ),
+    (
+        570,
+        '2018-05-26 23:59:59',
+        'Web',
+        1,
+        2018,
+        'Diane Harrison'
+    ),
+    (
+        570,
+        '2018-05-26 23:59:59',
+        'Web',
+        3,
+        2018,
+        'Steven Cox'
+    ),
+    (
+        749,
+        '2023-05-27 23:18:46',
+        'Facebook',
+        5,
+        2023,
+        'Manuel Graves'
+    ),
+    (
+        749,
+        '2023-05-27 23:18:46',
+        'Facebook',
+        3,
+        2023,
+        'Christine Hayes'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        749,
+        '2023-05-27 23:18:46',
+        'Facebook',
+        4,
+        2023,
+        'Leslie Lee'
+    ),
+    (
+        749,
+        '2023-05-27 23:18:46',
+        'Facebook',
+        2,
+        2023,
+        'Thomas Ruiz'
+    ),
+    (
+        749,
+        '2023-05-27 23:18:46',
+        'Facebook',
+        1,
+        2023,
+        'Samantha Erickson'
+    ),
+    (
+        6,
+        '2013-05-25 23:47:18',
+        'Facebook',
+        2,
+        2013,
+        'Tony Prince'
+    ),
+    (
+        6,
+        '2013-05-25 23:47:18',
+        'Facebook',
+        4,
+        2013,
+        'Blake Martinez'
+    ),
+    (
+        6,
+        '2013-05-25 23:47:18',
+        'Facebook',
+        1,
+        2013,
+        'Kimberly Larsen'
+    ),
+    (
+        6,
+        '2013-05-25 23:47:18',
+        'Facebook',
+        5,
+        2013,
+        'Angela Phillips'
+    ),
+    (
+        6,
+        '2013-05-25 23:47:18',
+        'Facebook',
+        3,
+        2013,
+        'Thomas Hess'
+    ),
+    (
+        197,
+        '2023-05-27 22:29:44',
+        'Phone',
+        4,
+        2023,
+        'Michael Butler'
+    ),
+    (
+        197,
+        '2023-05-27 22:29:44',
+        'Phone',
+        3,
+        2023,
+        'Paula Henderson'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        197,
+        '2023-05-27 22:29:44',
+        'Phone',
+        2,
+        2023,
+        'Megan Saunders'
+    ),
+    (
+        197,
+        '2023-05-27 22:29:44',
+        'Phone',
+        5,
+        2023,
+        'Jacqueline Wagner'
+    ),
+    (
+        197,
+        '2023-05-27 22:29:44',
+        'Phone',
+        1,
+        2023,
+        'Scott Baker'
+    ),
+    (
+        105,
+        '2009-05-30 23:41:38',
+        'Instagram',
+        2,
+        2009,
+        'Olivia Nichols'
+    ),
+    (
+        105,
+        '2009-05-30 23:41:38',
+        'Instagram',
+        5,
+        2009,
+        'Melanie Hall'
+    ),
+    (
+        105,
+        '2009-05-30 23:41:38',
+        'Instagram',
+        4,
+        2009,
+        'Sandra Lopez'
+    ),
+    (
+        105,
+        '2009-05-30 23:41:38',
+        'Instagram',
+        1,
+        2009,
+        'Kimberly Craig'
+    ),
+    (
+        105,
+        '2009-05-30 23:41:38',
+        'Instagram',
+        3,
+        2009,
+        'Theresa Castaneda'
+    ),
+    (
+        344,
+        '2019-05-25 22:45:09',
+        'Instagram',
+        2,
+        2019,
+        'Cameron Hawkins'
+    ),
+    (
+        344,
+        '2019-05-25 22:45:09',
+        'Instagram',
+        4,
+        2019,
+        'Samantha Jones'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        344,
+        '2019-05-25 22:45:09',
+        'Instagram',
+        5,
+        2019,
+        'Terry Powell'
+    ),
+    (
+        344,
+        '2019-05-25 22:45:09',
+        'Instagram',
+        1,
+        2019,
+        'Aaron Peterson'
+    ),
+    (
+        344,
+        '2019-05-25 22:45:09',
+        'Instagram',
+        3,
+        2019,
+        'Amanda Ingram'
+    ),
+    (
+        797,
+        '2022-05-28 22:40:20',
+        'Instagram',
+        1,
+        2022,
+        'Robert Curtis'
+    ),
+    (
+        797,
+        '2022-05-28 22:40:20',
+        'Instagram',
+        2,
+        2022,
+        'Gary Stone'
+    ),
+    (
+        797,
+        '2022-05-28 22:40:20',
+        'Instagram',
+        3,
+        2022,
+        'Martin Moore'
+    ),
+    (
+        797,
+        '2022-05-28 22:40:20',
+        'Instagram',
+        4,
+        2022,
+        'Michelle Martin'
+    ),
+    (
+        797,
+        '2022-05-28 22:40:20',
+        'Instagram',
+        5,
+        2022,
+        'Michael Martinez'
+    ),
+    (
+        350,
+        '2010-05-29 22:40:54',
+        'Web',
+        1,
+        2010,
+        'Kyle Weiss'
+    ),
+    (
+        350,
+        '2010-05-29 22:40:54',
+        'Web',
+        2,
+        2010,
+        'Rachel Melton'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        460,
+        '2018-05-26 22:03:17',
+        'Web',
+        3,
+        2018,
+        'Laura Barnes'
+    ),
+    (
+        460,
+        '2018-05-26 22:03:17',
+        'Web',
+        2,
+        2018,
+        'Danielle Miller'
+    ),
+    (
+        460,
+        '2018-05-26 22:03:17',
+        'Web',
+        1,
+        2018,
+        'Charles Glover'
+    ),
+    (
+        460,
+        '2018-05-26 22:03:17',
+        'Web',
+        4,
+        2018,
+        'Carrie Clark'
+    ),
+    (
+        460,
+        '2018-05-26 22:03:17',
+        'Web',
+        5,
+        2018,
+        'John Hubbard'
+    ),
+    (
+        595,
+        '2015-05-30 23:35:32',
+        'Web',
+        4,
+        2015,
+        'Brett Benjamin'
+    ),
+    (
+        595,
+        '2015-05-30 23:35:32',
+        'Web',
+        5,
+        2015,
+        'Colleen White'
+    ),
+    (
+        595,
+        '2015-05-30 23:35:32',
+        'Web',
+        2,
+        2015,
+        'Travis Hays'
+    ),
+    (
+        595,
+        '2015-05-30 23:35:32',
+        'Web',
+        3,
+        2015,
+        'Deborah Sparks'
+    ),
+    (
+        595,
+        '2015-05-30 23:35:32',
+        'Web',
+        1,
+        2015,
+        'Louis Phillips'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        702,
+        '2020-05-30 23:11:47',
+        'Facebook',
+        1,
+        2020,
+        'Juan Huerta'
+    ),
+    (
+        702,
+        '2020-05-30 23:11:47',
+        'Facebook',
+        2,
+        2020,
+        'Travis Walker'
+    ),
+    (
+        702,
+        '2020-05-30 23:11:47',
+        'Facebook',
+        5,
+        2020,
+        'Charles Maddox'
+    ),
+    (
+        702,
+        '2020-05-30 23:11:47',
+        'Facebook',
+        4,
+        2020,
+        'Jacob Hickman'
+    ),
+    (
+        702,
+        '2020-05-30 23:11:47',
+        'Facebook',
+        3,
+        2020,
+        'Lisa Mcdaniel'
+    ),
+    (
+        234,
+        '2019-05-25 22:59:57',
+        'Instagram',
+        1,
+        2019,
+        'Kyle Hernandez'
+    ),
+    (
+        234,
+        '2019-05-25 22:59:57',
+        'Instagram',
+        2,
+        2019,
+        'Patrick Wilson'
+    ),
+    (
+        234,
+        '2019-05-25 22:59:57',
+        'Instagram',
+        4,
+        2019,
+        'Terry Powell'
+    ),
+    (
+        234,
+        '2019-05-25 22:59:57',
+        'Instagram',
+        3,
+        2019,
+        'Cameron Hawkins'
+    ),
+    (
+        234,
+        '2019-05-25 22:59:57',
+        'Instagram',
+        5,
+        2019,
+        'Kathryn Alvarez'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        714,
+        '2011-05-28 22:29:02',
+        'Phone',
+        4,
+        2011,
+        'Cody Davis'
+    ),
+    (
+        714,
+        '2011-05-28 22:29:02',
+        'Phone',
+        5,
+        2011,
+        'Keith Ingram'
+    ),
+    (
+        714,
+        '2011-05-28 22:29:02',
+        'Phone',
+        1,
+        2011,
+        'Ashley Lawson'
+    ),
+    (
+        714,
+        '2011-05-28 22:29:02',
+        'Phone',
+        3,
+        2011,
+        'Andres Rubio'
+    ),
+    (
+        714,
+        '2011-05-28 22:29:02',
+        'Phone',
+        2,
+        2011,
+        'John Henderson'
+    ),
+    (
+        765,
+        '2022-05-28 22:32:16',
+        'Web',
+        5,
+        2022,
+        'Stephanie Smith'
+    ),
+    (
+        765,
+        '2022-05-28 22:32:16',
+        'Web',
+        1,
+        2022,
+        'Robert Curtis'
+    ),
+    (
+        765,
+        '2022-05-28 22:32:16',
+        'Web',
+        3,
+        2022,
+        'Thomas Gregory'
+    ),
+    (
+        765,
+        '2022-05-28 22:32:16',
+        'Web',
+        4,
+        2022,
+        'Andrew Hodges'
+    ),
+    (
+        765,
+        '2022-05-28 22:32:16',
+        'Web',
+        2,
+        2022,
+        'Michelle Martin'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        965,
+        '2009-05-30 22:31:49',
+        'Facebook',
+        2,
+        2009,
+        'Leslie Saunders'
+    ),
+    (
+        965,
+        '2009-05-30 22:31:49',
+        'Facebook',
+        4,
+        2009,
+        'Kimberly Craig'
+    ),
+    (
+        965,
+        '2009-05-30 22:31:49',
+        'Facebook',
+        1,
+        2009,
+        'Sandra Lopez'
+    ),
+    (
+        965,
+        '2009-05-30 22:31:49',
+        'Facebook',
+        3,
+        2009,
+        'Olivia Nichols'
+    ),
+    (
+        965,
+        '2009-05-30 22:31:49',
+        'Facebook',
+        5,
+        2009,
+        'Theresa Castaneda'
+    ),
+    (
+        74,
+        '2020-05-30 23:39:38',
+        'Web',
+        1,
+        2020,
+        'Charles Maddox'
+    ),
+    (
+        74,
+        '2020-05-30 23:39:38',
+        'Web',
+        2,
+        2020,
+        'Mr. Steven Yoder'
+    ),
+    (
+        74,
+        '2020-05-30 23:39:38',
+        'Web',
+        3,
+        2020,
+        'Lisa Mcdaniel'
+    ),
+    (
+        74,
+        '2020-05-30 23:39:38',
+        'Web',
+        5,
+        2020,
+        'Jacob Hickman'
+    ),
+    (
+        74,
+        '2020-05-30 23:39:38',
+        'Web',
+        4,
+        2020,
+        'Charles Washington'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        527,
+        '2021-05-29 22:40:26',
+        'Instagram',
+        5,
+        2021,
+        'Manuel Caldwell'
+    ),
+    (
+        527,
+        '2021-05-29 22:40:26',
+        'Instagram',
+        4,
+        2021,
+        'Thomas Smith'
+    ),
+    (
+        527,
+        '2021-05-29 22:40:26',
+        'Instagram',
+        1,
+        2021,
+        'Ann Perez'
+    ),
+    (
+        527,
+        '2021-05-29 22:40:26',
+        'Instagram',
+        2,
+        2021,
+        'Tamara Barnes'
+    ),
+    (
+        527,
+        '2021-05-29 22:40:26',
+        'Instagram',
+        3,
+        2021,
+        'Robin Myers'
+    ),
+    (
+        342,
+        '2015-05-30 23:30:07',
+        'Facebook',
+        4,
+        2015,
+        'Travis Hays'
+    ),
+    (
+        342,
+        '2015-05-30 23:30:07',
+        'Facebook',
+        2,
+        2015,
+        'Nicholas Black'
+    ),
+    (
+        342,
+        '2015-05-30 23:30:07',
+        'Facebook',
+        1,
+        2015,
+        'Heidi Barry'
+    ),
+    (
+        342,
+        '2015-05-30 23:30:07',
+        'Facebook',
+        3,
+        2015,
+        'Robert White'
+    ),
+    (
+        342,
+        '2015-05-30 23:30:07',
+        'Facebook',
+        5,
+        2015,
+        'Louis Phillips'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        414,
+        '2014-05-31 22:36:22',
+        'Web',
+        4,
+        2014,
+        'Zachary Fox'
+    ),
+    (
+        414,
+        '2014-05-31 22:36:22',
+        'Web',
+        2,
+        2014,
+        'Luke Williams'
+    ),
+    (
+        414,
+        '2014-05-31 22:36:22',
+        'Web',
+        5,
+        2014,
+        'Lisa Wright'
+    ),
+    (
+        414,
+        '2014-05-31 22:36:22',
+        'Web',
+        1,
+        2014,
+        'Melissa Williams'
+    ),
+    (
+        414,
+        '2014-05-31 22:36:22',
+        'Web',
+        3,
+        2014,
+        'Teresa Martin'
+    ),
+    (
+        918,
+        '2023-05-27 22:59:43',
+        'Web',
+        5,
+        2023,
+        'Michael Butler'
+    ),
+    (
+        918,
+        '2023-05-27 22:59:43',
+        'Web',
+        4,
+        2023,
+        'Paula Henderson'
+    ),
+    (
+        918,
+        '2023-05-27 22:59:43',
+        'Web',
+        2,
+        2023,
+        'Manuel Graves'
+    ),
+    (
+        918,
+        '2023-05-27 22:59:43',
+        'Web',
+        3,
+        2023,
+        'Scott Baker'
+    ),
+    (
+        918,
+        '2023-05-27 22:59:43',
+        'Web',
+        1,
+        2023,
+        'Leslie Lee'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        810,
+        '2024-05-25 22:53:59',
+        'Web',
+        2,
+        2024,
+        'Gabriel Arroyo'
+    ),
+    (
+        810,
+        '2024-05-25 22:53:59',
+        'Web',
+        5,
+        2024,
+        'Christy Perry'
+    ),
+    (
+        810,
+        '2024-05-25 22:53:59',
+        'Web',
+        1,
+        2024,
+        'Amber Williams'
+    ),
+    (
+        810,
+        '2024-05-25 22:53:59',
+        'Web',
+        3,
+        2024,
+        'Taylor Lopez'
+    ),
+    (
+        991,
+        '2021-05-29 22:30:33',
+        'Phone',
+        3,
+        2021,
+        'Jack Singh'
+    ),
+    (
+        991,
+        '2021-05-29 22:30:33',
+        'Phone',
+        1,
+        2021,
+        'Caleb Ellison'
+    ),
+    (
+        991,
+        '2021-05-29 22:30:33',
+        'Phone',
+        5,
+        2021,
+        'Samantha Lee'
+    ),
+    (
+        991,
+        '2021-05-29 22:30:33',
+        'Phone',
+        4,
+        2021,
+        'Amber Mcdowell'
+    ),
+    (
+        991,
+        '2021-05-29 22:30:33',
+        'Phone',
+        2,
+        2021,
+        'Tamara Barnes'
+    ),
+    (
+        373,
+        '2010-05-29 23:13:58',
+        'Instagram',
+        2,
+        2010,
+        'David Williams'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        373,
+        '2010-05-29 23:13:58',
+        'Instagram',
+        1,
+        2010,
+        'Kayla Vargas'
+    ),
+    (
+        373,
+        '2010-05-29 23:13:58',
+        'Instagram',
+        5,
+        2010,
+        'Rachel Melton'
+    ),
+    (
+        373,
+        '2010-05-29 23:13:58',
+        'Instagram',
+        3,
+        2010,
+        'Timothy Sandoval'
+    ),
+    (
+        373,
+        '2010-05-29 23:13:58',
+        'Instagram',
+        4,
+        2010,
+        'Kyle Weiss'
+    ),
+    (
+        480,
+        '2009-05-30 22:10:53',
+        'Web',
+        4,
+        2009,
+        'Leslie Saunders'
+    ),
+    (
+        480,
+        '2009-05-30 22:10:53',
+        'Web',
+        5,
+        2009,
+        'Carrie Bell'
+    ),
+    (
+        480,
+        '2009-05-30 22:10:53',
+        'Web',
+        2,
+        2009,
+        'Melanie Hall'
+    ),
+    (
+        480,
+        '2009-05-30 22:10:53',
+        'Web',
+        3,
+        2009,
+        'Jason Hebert'
+    ),
+    (
+        480,
+        '2009-05-30 22:10:53',
+        'Web',
+        1,
+        2009,
+        'Theresa Castaneda'
+    ),
+    (
+        39,
+        '2018-05-26 22:11:55',
+        'Web',
+        3,
+        2018,
+        'Charles Glover'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        39,
+        '2018-05-26 22:11:55',
+        'Web',
+        5,
+        2018,
+        'John Hubbard'
+    ),
+    (
+        39,
+        '2018-05-26 22:11:55',
+        'Web',
+        4,
+        2018,
+        'Diane Harrison'
+    ),
+    (
+        39,
+        '2018-05-26 22:11:55',
+        'Web',
+        1,
+        2018,
+        'Kimberly Davis'
+    ),
+    (
+        39,
+        '2018-05-26 22:11:55',
+        'Web',
+        2,
+        2018,
+        'Steven Cox'
+    ),
+    (
+        437,
+        '2012-05-26 22:01:58',
+        'Web',
+        2,
+        2012,
+        'Stephanie Patrick'
+    ),
+    (
+        437,
+        '2012-05-26 22:01:58',
+        'Web',
+        3,
+        2012,
+        'Jose Smith Jr.'
+    ),
+    (
+        437,
+        '2012-05-26 22:01:58',
+        'Web',
+        5,
+        2012,
+        'Maria Robertson'
+    ),
+    (
+        437,
+        '2012-05-26 22:01:58',
+        'Web',
+        4,
+        2012,
+        'Jennifer Wolfe'
+    ),
+    (
+        437,
+        '2012-05-26 22:01:58',
+        'Web',
+        1,
+        2012,
+        'Anthony Bradford'
+    ),
+    (
+        886,
+        '2024-05-25 22:58:52',
+        'Web',
+        1,
+        2024,
+        'Christy Perry'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        886,
+        '2024-05-25 22:58:52',
+        'Web',
+        2,
+        2024,
+        'Taylor Lopez'
+    ),
+    (
+        886,
+        '2024-05-25 22:58:52',
+        'Web',
+        3,
+        2024,
+        'Richard Lewis'
+    ),
+    (
+        886,
+        '2024-05-25 22:58:52',
+        'Web',
+        4,
+        2024,
+        'Jessica Murphy'
+    ),
+    (
+        808,
+        '2017-05-27 23:06:36',
+        'Phone',
+        3,
+        2017,
+        'Nathan Williams'
+    ),
+    (
+        808,
+        '2017-05-27 23:06:36',
+        'Phone',
+        5,
+        2017,
+        'Brandi Harris'
+    ),
+    (
+        808,
+        '2017-05-27 23:06:36',
+        'Phone',
+        2,
+        2017,
+        'Brian Mccall'
+    ),
+    (
+        808,
+        '2017-05-27 23:06:36',
+        'Phone',
+        4,
+        2017,
+        'Sean Ward'
+    ),
+    (
+        808,
+        '2017-05-27 23:06:36',
+        'Phone',
+        1,
+        2017,
+        'Denise Jones'
+    ),
+    (
+        510,
+        '2012-05-26 22:01:28',
+        'Phone',
+        3,
+        2012,
+        'Stephanie Patrick'
+    ),
+    (
+        510,
+        '2012-05-26 22:01:28',
+        'Phone',
+        1,
+        2012,
+        'Kenneth Warner'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        510,
+        '2012-05-26 22:01:28',
+        'Phone',
+        4,
+        2012,
+        'Jose Smith Jr.'
+    ),
+    (
+        510,
+        '2012-05-26 22:01:28',
+        'Phone',
+        5,
+        2012,
+        'Patrick Benson'
+    ),
+    (
+        510,
+        '2012-05-26 22:01:28',
+        'Phone',
+        2,
+        2012,
+        'Anthony Bradford'
+    ),
+    (
+        870,
+        '2013-05-25 22:46:09',
+        'Instagram',
+        2,
+        2013,
+        'Kimberly Larsen'
+    ),
+    (
+        870,
+        '2013-05-25 22:46:09',
+        'Instagram',
+        1,
+        2013,
+        'Tony Prince'
+    ),
+    (
+        870,
+        '2013-05-25 22:46:09',
+        'Instagram',
+        4,
+        2013,
+        'Angela Phillips'
+    ),
+    (
+        870,
+        '2013-05-25 22:46:09',
+        'Instagram',
+        5,
+        2013,
+        'Wendy Cunningham'
+    ),
+    (
+        870,
+        '2013-05-25 22:46:09',
+        'Instagram',
+        3,
+        2013,
+        'Thomas Hess'
+    ),
+    (
+        782,
+        '2009-05-30 23:24:52',
+        'Instagram',
+        3,
+        2009,
+        'Wanda Smith'
+    ),
+    (
+        782,
+        '2009-05-30 23:24:52',
+        'Instagram',
+        2,
+        2009,
+        'Kimberly Craig'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        782,
+        '2009-05-30 23:24:52',
+        'Instagram',
+        5,
+        2009,
+        'Sandra Lopez'
+    ),
+    (
+        782,
+        '2009-05-30 23:24:52',
+        'Instagram',
+        4,
+        2009,
+        'Carrie Bell'
+    ),
+    (
+        782,
+        '2009-05-30 23:24:52',
+        'Instagram',
+        1,
+        2009,
+        'Jason Hebert'
+    ),
+    (
+        712,
+        '2013-05-25 23:09:20',
+        'Facebook',
+        4,
+        2013,
+        'Diane Cooper'
+    ),
+    (
+        712,
+        '2013-05-25 23:09:20',
+        'Facebook',
+        2,
+        2013,
+        'Tony Prince'
+    ),
+    (
+        712,
+        '2013-05-25 23:09:20',
+        'Facebook',
+        3,
+        2013,
+        'Thomas Hess'
+    ),
+    (
+        712,
+        '2013-05-25 23:09:20',
+        'Facebook',
+        5,
+        2013,
+        'Kimberly Larsen'
+    ),
+    (
+        712,
+        '2013-05-25 23:09:20',
+        'Facebook',
+        1,
+        2013,
+        'Wendy Cunningham'
+    ),
+    (
+        672,
+        '2022-05-28 23:03:21',
+        'Instagram',
+        1,
+        2022,
+        'Andre Burton'
+    ),
+    (
+        672,
+        '2022-05-28 23:03:21',
+        'Instagram',
+        2,
+        2022,
+        'Andrew Hodges'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        672,
+        '2022-05-28 23:03:21',
+        'Instagram',
+        5,
+        2022,
+        'Gary Stone'
+    ),
+    (
+        672,
+        '2022-05-28 23:03:21',
+        'Instagram',
+        3,
+        2022,
+        'Michelle Martin'
+    ),
+    (
+        672,
+        '2022-05-28 23:03:21',
+        'Instagram',
+        4,
+        2022,
+        'Martin Moore'
+    ),
+    (
+        638,
+        '2013-05-25 22:33:11',
+        'Instagram',
+        3,
+        2013,
+        'Angela Phillips'
+    ),
+    (
+        638,
+        '2013-05-25 22:33:11',
+        'Instagram',
+        4,
+        2013,
+        'Kimberly Larsen'
+    ),
+    (
+        638,
+        '2013-05-25 22:33:11',
+        'Instagram',
+        1,
+        2013,
+        'Tony Prince'
+    ),
+    (
+        638,
+        '2013-05-25 22:33:11',
+        'Instagram',
+        2,
+        2013,
+        'Blake Martinez'
+    ),
+    (
+        638,
+        '2013-05-25 22:33:11',
+        'Instagram',
+        5,
+        2013,
+        'Nancy Mcmahon'
+    ),
+    (
+        751,
+        '2018-05-26 22:12:05',
+        'Instagram',
+        2,
+        2018,
+        'John Hubbard'
+    ),
+    (
+        751,
+        '2018-05-26 22:12:05',
+        'Instagram',
+        5,
+        2018,
+        'Laura Barnes'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        751,
+        '2018-05-26 22:12:05',
+        'Instagram',
+        3,
+        2018,
+        'Danielle Miller'
+    ),
+    (
+        751,
+        '2018-05-26 22:12:05',
+        'Instagram',
+        4,
+        2018,
+        'Diane Harrison'
+    ),
+    (
+        751,
+        '2018-05-26 22:12:05',
+        'Instagram',
+        1,
+        2018,
+        'Kimberly Davis'
+    ),
+    (
+        212,
+        '2017-05-27 23:53:28',
+        'Web',
+        2,
+        2017,
+        'Brian Mccall'
+    ),
+    (
+        212,
+        '2017-05-27 23:53:28',
+        'Web',
+        1,
+        2017,
+        'Elizabeth Koch'
+    ),
+    (
+        212,
+        '2017-05-27 23:53:28',
+        'Web',
+        4,
+        2017,
+        'Nathan Williams'
+    ),
+    (
+        212,
+        '2017-05-27 23:53:28',
+        'Web',
+        3,
+        2017,
+        'Denise Jones'
+    ),
+    (
+        212,
+        '2017-05-27 23:53:28',
+        'Web',
+        5,
+        2017,
+        'Brandi Harris'
+    ),
+    (
+        805,
+        '2023-05-27 23:41:01',
+        'Instagram',
+        2,
+        2023,
+        'Leslie Lee'
+    ),
+    (
+        805,
+        '2023-05-27 23:41:01',
+        'Instagram',
+        3,
+        2023,
+        'Christine Hayes'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        805,
+        '2023-05-27 23:41:01',
+        'Instagram',
+        4,
+        2023,
+        'Thomas Ruiz'
+    ),
+    (
+        805,
+        '2023-05-27 23:41:01',
+        'Instagram',
+        1,
+        2023,
+        'Michael Butler'
+    ),
+    (
+        805,
+        '2023-05-27 23:41:01',
+        'Instagram',
+        5,
+        2023,
+        'Scott Baker'
+    ),
+    (
+        354,
+        '2021-05-29 23:21:54',
+        'Instagram',
+        5,
+        2021,
+        'Manuel Caldwell'
+    ),
+    (
+        354,
+        '2021-05-29 23:21:54',
+        'Instagram',
+        4,
+        2021,
+        'Caleb Ellison'
+    ),
+    (
+        354,
+        '2021-05-29 23:21:54',
+        'Instagram',
+        1,
+        2021,
+        'Ann Perez'
+    ),
+    (
+        354,
+        '2021-05-29 23:21:54',
+        'Instagram',
+        2,
+        2021,
+        'Aaron Baldwin'
+    ),
+    (
+        354,
+        '2021-05-29 23:21:54',
+        'Instagram',
+        3,
+        2021,
+        'Jack Singh'
+    ),
+    (
+        682,
+        '2024-05-25 22:28:53',
+        'Phone',
+        2,
+        2024,
+        'Alexis Fields'
+    ),
+    (
+        682,
+        '2024-05-25 22:28:53',
+        'Phone',
+        4,
+        2024,
+        'Gabriel Arroyo'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        682,
+        '2024-05-25 22:28:53',
+        'Phone',
+        5,
+        2024,
+        'Christy Perry'
+    ),
+    (
+        818,
+        '2017-05-27 22:49:53',
+        'Phone',
+        4,
+        2017,
+        'Elizabeth Koch'
+    ),
+    (
+        818,
+        '2017-05-27 22:49:53',
+        'Phone',
+        1,
+        2017,
+        'Tina Roy'
+    ),
+    (
+        818,
+        '2017-05-27 22:49:53',
+        'Phone',
+        3,
+        2017,
+        'Andrea Hill'
+    ),
+    (
+        818,
+        '2017-05-27 22:49:53',
+        'Phone',
+        2,
+        2017,
+        'Brandi Harris'
+    ),
+    (
+        818,
+        '2017-05-27 22:49:53',
+        'Phone',
+        5,
+        2017,
+        'Brian Mccall'
+    ),
+    (
+        877,
+        '2013-05-25 23:00:30',
+        'Web',
+        2,
+        2013,
+        'Diane Cooper'
+    ),
+    (
+        877,
+        '2013-05-25 23:00:30',
+        'Web',
+        4,
+        2013,
+        'Kimberly Larsen'
+    ),
+    (
+        877,
+        '2013-05-25 23:00:30',
+        'Web',
+        3,
+        2013,
+        'Anthony Villanueva'
+    ),
+    (
+        877,
+        '2013-05-25 23:00:30',
+        'Web',
+        1,
+        2013,
+        'Nancy Mcmahon'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        877,
+        '2013-05-25 23:00:30',
+        'Web',
+        5,
+        2013,
+        'Wendy Cunningham'
+    ),
+    (
+        105,
+        '2015-05-30 22:00:12',
+        'Facebook',
+        4,
+        2015,
+        'Travis Hays'
+    ),
+    (
+        105,
+        '2015-05-30 22:00:12',
+        'Facebook',
+        5,
+        2015,
+        'Nicholas Black'
+    ),
+    (
+        105,
+        '2015-05-30 22:00:12',
+        'Facebook',
+        3,
+        2015,
+        'Colleen White'
+    ),
+    (
+        105,
+        '2015-05-30 22:00:12',
+        'Facebook',
+        1,
+        2015,
+        'Heidi Barry'
+    ),
+    (
+        105,
+        '2015-05-30 22:00:12',
+        'Facebook',
+        2,
+        2015,
+        'Deborah Sparks'
+    ),
+    (
+        885,
+        '2023-05-27 22:43:23',
+        'Instagram',
+        2,
+        2023,
+        'Jacqueline Wagner'
+    ),
+    (
+        885,
+        '2023-05-27 22:43:23',
+        'Instagram',
+        5,
+        2023,
+        'Paula Henderson'
+    ),
+    (
+        885,
+        '2023-05-27 22:43:23',
+        'Instagram',
+        4,
+        2023,
+        'Christine Hayes'
+    ),
+    (
+        885,
+        '2023-05-27 22:43:23',
+        'Instagram',
+        3,
+        2023,
+        'Samantha Erickson'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        885,
+        '2023-05-27 22:43:23',
+        'Instagram',
+        1,
+        2023,
+        'Michael Butler'
+    ),
+    (
+        534,
+        '2018-05-26 22:25:53',
+        'Instagram',
+        4,
+        2018,
+        'Danielle Miller'
+    ),
+    (
+        534,
+        '2018-05-26 22:25:53',
+        'Instagram',
+        1,
+        2018,
+        'Diane Harrison'
+    ),
+    (
+        534,
+        '2018-05-26 22:25:53',
+        'Instagram',
+        3,
+        2018,
+        'Laura Barnes'
+    ),
+    (
+        534,
+        '2018-05-26 22:25:53',
+        'Instagram',
+        2,
+        2018,
+        'Brandon Ruiz'
+    ),
+    (
+        534,
+        '2018-05-26 22:25:53',
+        'Instagram',
+        5,
+        2018,
+        'Charles Glover'
+    ),
+    (
+        673,
+        '2021-05-29 22:33:58',
+        'Phone',
+        2,
+        2021,
+        'Manuel Caldwell'
+    ),
+    (
+        549,
+        '2024-05-25 22:49:24',
+        'Instagram',
+        2,
+        2024,
+        'Taylor Lopez'
+    ),
+    (
+        549,
+        '2024-05-25 22:49:24',
+        'Instagram',
+        5,
+        2024,
+        'Richard Lewis'
+    ),
+    (
+        549,
+        '2024-05-25 22:49:24',
+        'Instagram',
+        3,
+        2024,
+        'Austin Williams'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        549,
+        '2024-05-25 22:49:24',
+        'Instagram',
+        1,
+        2024,
+        'Emily Buck'
+    ),
+    (
+        549,
+        '2024-05-25 22:49:24',
+        'Instagram',
+        4,
+        2024,
+        'Gabriel Arroyo'
+    ),
+    (
+        419,
+        '2011-05-28 23:08:09',
+        'Phone',
+        1,
+        2011,
+        'John Henderson'
+    ),
+    (
+        419,
+        '2011-05-28 23:08:09',
+        'Phone',
+        5,
+        2011,
+        'Justin Kelly'
+    ),
+    (
+        419,
+        '2011-05-28 23:08:09',
+        'Phone',
+        4,
+        2011,
+        'Andres Rubio'
+    ),
+    (
+        419,
+        '2011-05-28 23:08:09',
+        'Phone',
+        2,
+        2011,
+        'Keith Ingram'
+    ),
+    (
+        419,
+        '2011-05-28 23:08:09',
+        'Phone',
+        3,
+        2011,
+        'Victoria Rosales PhD'
+    ),
+    (
+        743,
+        '2019-05-25 22:22:54',
+        'Instagram',
+        2,
+        2019,
+        'Kathryn Alvarez'
+    ),
+    (
+        743,
+        '2019-05-25 22:22:54',
+        'Instagram',
+        1,
+        2019,
+        'Terry Powell'
+    ),
+    (
+        743,
+        '2019-05-25 22:22:54',
+        'Instagram',
+        4,
+        2019,
+        'Sarah Hancock'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        743,
+        '2019-05-25 22:22:54',
+        'Instagram',
+        5,
+        2019,
+        'Cameron Hawkins'
+    ),
+    (
+        743,
+        '2019-05-25 22:22:54',
+        'Instagram',
+        3,
+        2019,
+        'Kyle Hernandez'
+    ),
+    (
+        452,
+        '2014-05-31 22:42:11',
+        'Web',
+        2,
+        2014,
+        'Carol Garrett'
+    ),
+    (
+        452,
+        '2014-05-31 22:42:11',
+        'Web',
+        4,
+        2014,
+        'Luke Williams'
+    ),
+    (
+        452,
+        '2014-05-31 22:42:11',
+        'Web',
+        1,
+        2014,
+        'Todd Miller'
+    ),
+    (
+        452,
+        '2014-05-31 22:42:11',
+        'Web',
+        3,
+        2014,
+        'John Conner'
+    ),
+    (
+        452,
+        '2014-05-31 22:42:11',
+        'Web',
+        5,
+        2014,
+        'Melissa Williams'
+    ),
+    (
+        587,
+        '2022-05-28 22:01:39',
+        'Phone',
+        4,
+        2022,
+        'Gary Stone'
+    ),
+    (
+        587,
+        '2022-05-28 22:01:39',
+        'Phone',
+        2,
+        2022,
+        'Andre Burton'
+    ),
+    (
+        587,
+        '2022-05-28 22:01:39',
+        'Phone',
+        3,
+        2022,
+        'Michael Martinez'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        587,
+        '2022-05-28 22:01:39',
+        'Phone',
+        1,
+        2022,
+        'Stephanie Smith'
+    ),
+    (
+        587,
+        '2022-05-28 22:01:39',
+        'Phone',
+        5,
+        2022,
+        'Thomas Gregory'
+    ),
+    (
+        227,
+        '2019-05-25 22:34:45',
+        'Instagram',
+        2,
+        2019,
+        'Amanda Ingram'
+    ),
+    (
+        227,
+        '2019-05-25 22:34:45',
+        'Instagram',
+        4,
+        2019,
+        'Patrick Wilson'
+    ),
+    (
+        227,
+        '2019-05-25 22:34:45',
+        'Instagram',
+        3,
+        2019,
+        'Aaron Peterson'
+    ),
+    (
+        227,
+        '2019-05-25 22:34:45',
+        'Instagram',
+        1,
+        2019,
+        'Kyle Hernandez'
+    ),
+    (
+        227,
+        '2019-05-25 22:34:45',
+        'Instagram',
+        5,
+        2019,
+        'Samantha Jones'
+    ),
+    (
+        29,
+        '2024-05-25 22:21:15',
+        'Instagram',
+        4,
+        2024,
+        'Jessica Murphy'
+    ),
+    (
+        29,
+        '2024-05-25 22:21:15',
+        'Instagram',
+        1,
+        2024,
+        'Christy Perry'
+    ),
+    (
+        29,
+        '2024-05-25 22:21:15',
+        'Instagram',
+        3,
+        2024,
+        'Richard Lewis'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        29,
+        '2024-05-25 22:21:15',
+        'Instagram',
+        2,
+        2024,
+        'Taylor Lopez'
+    ),
+    (
+        29,
+        '2024-05-25 22:21:15',
+        'Instagram',
+        5,
+        2024,
+        'Austin Williams'
+    ),
+    (
+        371,
+        '2018-05-26 22:06:47',
+        'Instagram',
+        5,
+        2018,
+        'Laura Barnes'
+    ),
+    (
+        371,
+        '2018-05-26 22:06:47',
+        'Instagram',
+        1,
+        2018,
+        'Charles Glover'
+    ),
+    (
+        371,
+        '2018-05-26 22:06:47',
+        'Instagram',
+        4,
+        2018,
+        'John Hubbard'
+    ),
+    (
+        371,
+        '2018-05-26 22:06:47',
+        'Instagram',
+        3,
+        2018,
+        'Diane Harrison'
+    ),
+    (
+        371,
+        '2018-05-26 22:06:47',
+        'Instagram',
+        2,
+        2018,
+        'Steven Cox'
+    ),
+    (
+        120,
+        '2016-05-28 23:47:17',
+        'Facebook',
+        5,
+        2016,
+        'Tara Mcgee'
+    ),
+    (
+        835,
+        '2020-05-30 23:42:15',
+        'Facebook',
+        3,
+        2020,
+        'Mr. Steven Yoder'
+    ),
+    (
+        835,
+        '2020-05-30 23:42:15',
+        'Facebook',
+        1,
+        2020,
+        'Lisa Mcdaniel'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        835,
+        '2020-05-30 23:42:15',
+        'Facebook',
+        5,
+        2020,
+        'Juan Huerta'
+    ),
+    (
+        835,
+        '2020-05-30 23:42:15',
+        'Facebook',
+        2,
+        2020,
+        'Lisa Wood'
+    ),
+    (
+        670,
+        '2024-05-25 23:04:43',
+        'Phone',
+        2,
+        2024,
+        'Jessica Murphy'
+    ),
+    (
+        670,
+        '2024-05-25 23:04:43',
+        'Phone',
+        1,
+        2024,
+        'Gabriel Arroyo'
+    ),
+    (
+        670,
+        '2024-05-25 23:04:43',
+        'Phone',
+        3,
+        2024,
+        'Amber Williams'
+    ),
+    (
+        670,
+        '2024-05-25 23:04:43',
+        'Phone',
+        4,
+        2024,
+        'Alexis Fields'
+    ),
+    (
+        670,
+        '2024-05-25 23:04:43',
+        'Phone',
+        5,
+        2024,
+        'Taylor Lopez'
+    ),
+    (
+        860,
+        '2024-05-25 23:30:57',
+        'Web',
+        5,
+        2024,
+        'Jessica Murphy'
+    ),
+    (
+        860,
+        '2024-05-25 23:30:57',
+        'Web',
+        1,
+        2024,
+        'Gabriel Arroyo'
+    ),
+    (
+        860,
+        '2024-05-25 23:30:57',
+        'Web',
+        3,
+        2024,
+        'Christy Perry'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        860,
+        '2024-05-25 23:30:57',
+        'Web',
+        2,
+        2024,
+        'Taylor Lopez'
+    ),
+    (
+        860,
+        '2024-05-25 23:30:57',
+        'Web',
+        4,
+        2024,
+        'Amber Williams'
+    ),
+    (
+        559,
+        '2018-05-26 23:46:52',
+        'Instagram',
+        2,
+        2018,
+        'Carrie Clark'
+    ),
+    (
+        559,
+        '2018-05-26 23:46:52',
+        'Instagram',
+        4,
+        2018,
+        'Kimberly Davis'
+    ),
+    (
+        559,
+        '2018-05-26 23:46:52',
+        'Instagram',
+        3,
+        2018,
+        'Steven Cox'
+    ),
+    (
+        559,
+        '2018-05-26 23:46:52',
+        'Instagram',
+        1,
+        2018,
+        'Jessica Williams'
+    ),
+    (
+        559,
+        '2018-05-26 23:46:52',
+        'Instagram',
+        5,
+        2018,
+        'Laura Barnes'
+    ),
+    (
+        224,
+        '2018-05-26 23:44:56',
+        'Web',
+        4,
+        2018,
+        'Danielle Miller'
+    ),
+    (
+        224,
+        '2018-05-26 23:44:56',
+        'Web',
+        3,
+        2018,
+        'Kimberly Davis'
+    ),
+    (
+        224,
+        '2018-05-26 23:44:56',
+        'Web',
+        2,
+        2018,
+        'Diane Harrison'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        224,
+        '2018-05-26 23:44:56',
+        'Web',
+        5,
+        2018,
+        'Charles Glover'
+    ),
+    (
+        224,
+        '2018-05-26 23:44:56',
+        'Web',
+        1,
+        2018,
+        'Steven Cox'
+    ),
+    (
+        726,
+        '2011-05-28 23:36:09',
+        'Web',
+        4,
+        2011,
+        'Carmen Mitchell'
+    ),
+    (
+        726,
+        '2011-05-28 23:36:09',
+        'Web',
+        2,
+        2011,
+        'Ashley Lawson'
+    ),
+    (
+        726,
+        '2011-05-28 23:36:09',
+        'Web',
+        3,
+        2011,
+        'Keith Ingram'
+    ),
+    (
+        726,
+        '2011-05-28 23:36:09',
+        'Web',
+        1,
+        2011,
+        'Cody Davis'
+    ),
+    (
+        726,
+        '2011-05-28 23:36:09',
+        'Web',
+        5,
+        2011,
+        'Wesley Garcia'
+    ),
+    (
+        77,
+        '2012-05-26 22:45:11',
+        'Phone',
+        4,
+        2012,
+        'Kenneth Warner'
+    ),
+    (
+        77,
+        '2012-05-26 22:45:11',
+        'Phone',
+        3,
+        2012,
+        'Maria Robertson'
+    ),
+    (
+        77,
+        '2012-05-26 22:45:11',
+        'Phone',
+        2,
+        2012,
+        'Stephanie Patrick'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        77,
+        '2012-05-26 22:45:11',
+        'Phone',
+        1,
+        2012,
+        'Tyler Jordan'
+    ),
+    (
+        77,
+        '2012-05-26 22:45:11',
+        'Phone',
+        5,
+        2012,
+        'Anthony Bradford'
+    ),
+    (
+        829,
+        '2024-05-25 22:29:29',
+        'Web',
+        3,
+        2024,
+        'Christopher Singh'
+    ),
+    (
+        829,
+        '2024-05-25 22:29:29',
+        'Web',
+        5,
+        2024,
+        'Austin Williams'
+    ),
+    (
+        829,
+        '2024-05-25 22:29:29',
+        'Web',
+        2,
+        2024,
+        'Gabriel Arroyo'
+    ),
+    (
+        829,
+        '2024-05-25 22:29:29',
+        'Web',
+        1,
+        2024,
+        'Emily Buck'
+    ),
+    (
+        829,
+        '2024-05-25 22:29:29',
+        'Web',
+        4,
+        2024,
+        'Christy Perry'
+    ),
+    (
+        986,
+        '2024-05-25 23:15:45',
+        'Web',
+        5,
+        2024,
+        'Jessica Murphy'
+    ),
+    (
+        986,
+        '2024-05-25 23:15:45',
+        'Web',
+        2,
+        2024,
+        'Richard Lewis'
+    ),
+    (
+        986,
+        '2024-05-25 23:15:45',
+        'Web',
+        4,
+        2024,
+        'Alexis Fields'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        986,
+        '2024-05-25 23:15:45',
+        'Web',
+        1,
+        2024,
+        'Emily Buck'
+    ),
+    (
+        986,
+        '2024-05-25 23:15:45',
+        'Web',
+        3,
+        2024,
+        'Taylor Lopez'
+    ),
+    (
+        837,
+        '2020-05-30 22:17:17',
+        'Phone',
+        1,
+        2020,
+        'Juan Huerta'
+    ),
+    (
+        837,
+        '2020-05-30 22:17:17',
+        'Phone',
+        3,
+        2020,
+        'Mr. Steven Yoder'
+    ),
+    (
+        837,
+        '2020-05-30 22:17:17',
+        'Phone',
+        2,
+        2020,
+        'Lisa Mcdaniel'
+    ),
+    (
+        837,
+        '2020-05-30 22:17:17',
+        'Phone',
+        5,
+        2020,
+        'Jacob Hickman'
+    ),
+    (
+        837,
+        '2020-05-30 22:17:17',
+        'Phone',
+        4,
+        2020,
+        'Danielle Berger'
+    ),
+    (
+        413,
+        '2010-05-29 23:58:52',
+        'Phone',
+        3,
+        2010,
+        'Rachel Melton'
+    ),
+    (
+        413,
+        '2010-05-29 23:58:52',
+        'Phone',
+        2,
+        2010,
+        'Katherine Li'
+    ),
+    (
+        413,
+        '2010-05-29 23:58:52',
+        'Phone',
+        4,
+        2010,
+        'Courtney Barber'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        413,
+        '2010-05-29 23:58:52',
+        'Phone',
+        5,
+        2010,
+        'David Williams'
+    ),
+    (
+        413,
+        '2010-05-29 23:58:52',
+        'Phone',
+        1,
+        2010,
+        'Richard Dawson'
+    ),
+    (
+        137,
+        '2017-05-27 22:59:00',
+        'Phone',
+        5,
+        2017,
+        'Brandi Harris'
+    ),
+    (
+        97,
+        '2016-05-28 23:45:10',
+        'Phone',
+        4,
+        2016,
+        'Brian Ingram'
+    ),
+    (
+        97,
+        '2016-05-28 23:45:10',
+        'Phone',
+        5,
+        2016,
+        'Anne Mcfarland'
+    ),
+    (
+        97,
+        '2016-05-28 23:45:10',
+        'Phone',
+        2,
+        2016,
+        'Tara Mcgee'
+    ),
+    (
+        97,
+        '2016-05-28 23:45:10',
+        'Phone',
+        3,
+        2016,
+        'Alejandra Walter'
+    ),
+    (
+        97,
+        '2016-05-28 23:45:10',
+        'Phone',
+        1,
+        2016,
+        'Kimberly Wilkins MD'
+    ),
+    (
+        466,
+        '2018-05-26 23:20:59',
+        'Instagram',
+        2,
+        2018,
+        'John Hubbard'
+    ),
+    (
+        466,
+        '2018-05-26 23:20:59',
+        'Instagram',
+        1,
+        2018,
+        'Steven Cox'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        466,
+        '2018-05-26 23:20:59',
+        'Instagram',
+        3,
+        2018,
+        'Carrie Clark'
+    ),
+    (
+        466,
+        '2018-05-26 23:20:59',
+        'Instagram',
+        4,
+        2018,
+        'Danielle Miller'
+    ),
+    (
+        466,
+        '2018-05-26 23:20:59',
+        'Instagram',
+        5,
+        2018,
+        'Kimberly Davis'
+    ),
+    (
+        976,
+        '2015-05-30 22:41:36',
+        'Web',
+        3,
+        2015,
+        'Travis Hays'
+    ),
+    (
+        976,
+        '2015-05-30 22:41:36',
+        'Web',
+        1,
+        2015,
+        'Nathan Bailey'
+    ),
+    (
+        976,
+        '2015-05-30 22:41:36',
+        'Web',
+        2,
+        2015,
+        'Robert White'
+    ),
+    (
+        976,
+        '2015-05-30 22:41:36',
+        'Web',
+        4,
+        2015,
+        'Brett Benjamin'
+    ),
+    (
+        976,
+        '2015-05-30 22:41:36',
+        'Web',
+        5,
+        2015,
+        'Lisa Patrick'
+    ),
+    (
+        327,
+        '2012-05-26 23:20:53',
+        'Web',
+        4,
+        2012,
+        'Lynn Booth'
+    ),
+    (
+        327,
+        '2012-05-26 23:20:53',
+        'Web',
+        1,
+        2012,
+        'Jennifer Wolfe'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        327,
+        '2012-05-26 23:20:53',
+        'Web',
+        2,
+        2012,
+        'Maria Robertson'
+    ),
+    (
+        327,
+        '2012-05-26 23:20:53',
+        'Web',
+        3,
+        2012,
+        'Jose Smith Jr.'
+    ),
+    (
+        327,
+        '2012-05-26 23:20:53',
+        'Web',
+        5,
+        2012,
+        'Tyler Jordan'
+    ),
+    (
+        952,
+        '2022-05-28 23:58:51',
+        'Web',
+        3,
+        2022,
+        'Martin Moore'
+    ),
+    (
+        952,
+        '2022-05-28 23:58:51',
+        'Web',
+        5,
+        2022,
+        'Andrew Hodges'
+    ),
+    (
+        952,
+        '2022-05-28 23:58:51',
+        'Web',
+        4,
+        2022,
+        'Michael Martinez'
+    ),
+    (
+        952,
+        '2022-05-28 23:58:51',
+        'Web',
+        1,
+        2022,
+        'Stephanie Smith'
+    ),
+    (
+        952,
+        '2022-05-28 23:58:51',
+        'Web',
+        2,
+        2022,
+        'Michelle Martin'
+    ),
+    (
+        724,
+        '2020-05-30 23:55:00',
+        'Web',
+        1,
+        2020,
+        'Charles Maddox'
+    ),
+    (
+        724,
+        '2020-05-30 23:55:00',
+        'Web',
+        2,
+        2020,
+        'Danielle Berger'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        724,
+        '2020-05-30 23:55:00',
+        'Web',
+        3,
+        2020,
+        'Mr. Steven Yoder'
+    ),
+    (
+        724,
+        '2020-05-30 23:55:00',
+        'Web',
+        4,
+        2020,
+        'Lisa Mcdaniel'
+    ),
+    (
+        724,
+        '2020-05-30 23:55:00',
+        'Web',
+        5,
+        2020,
+        'Jacob Hickman'
+    ),
+    (
+        977,
+        '2022-05-28 22:16:34',
+        'Instagram',
+        2,
+        2022,
+        'Andre Burton'
+    ),
+    (
+        977,
+        '2022-05-28 22:16:34',
+        'Instagram',
+        5,
+        2022,
+        'Robert Curtis'
+    ),
+    (
+        977,
+        '2022-05-28 22:16:34',
+        'Instagram',
+        3,
+        2022,
+        'Thomas Gregory'
+    ),
+    (
+        977,
+        '2022-05-28 22:16:34',
+        'Instagram',
+        1,
+        2022,
+        'Michael Baker'
+    ),
+    (
+        977,
+        '2022-05-28 22:16:34',
+        'Instagram',
+        4,
+        2022,
+        'Martin Moore'
+    ),
+    (
+        809,
+        '2014-05-31 22:47:01',
+        'Instagram',
+        5,
+        2014,
+        'Lisa Wright'
+    ),
+    (
+        809,
+        '2014-05-31 22:47:01',
+        'Instagram',
+        4,
+        2014,
+        'Mary Vance'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        809,
+        '2014-05-31 22:47:01',
+        'Instagram',
+        3,
+        2014,
+        'Todd Miller'
+    ),
+    (
+        809,
+        '2014-05-31 22:47:01',
+        'Instagram',
+        1,
+        2014,
+        'Melissa Williams'
+    ),
+    (
+        809,
+        '2014-05-31 22:47:01',
+        'Instagram',
+        2,
+        2014,
+        'Christopher Hodge'
+    ),
+    (
+        876,
+        '2023-05-27 22:36:40',
+        'Web',
+        4,
+        2023,
+        'Jacqueline Wagner'
+    ),
+    (
+        876,
+        '2023-05-27 22:36:40',
+        'Web',
+        1,
+        2023,
+        'Manuel Graves'
+    ),
+    (
+        876,
+        '2023-05-27 22:36:40',
+        'Web',
+        5,
+        2023,
+        'Samantha Erickson'
+    ),
+    (
+        876,
+        '2023-05-27 22:36:40',
+        'Web',
+        2,
+        2023,
+        'Thomas Ruiz'
+    ),
+    (
+        876,
+        '2023-05-27 22:36:40',
+        'Web',
+        3,
+        2023,
+        'Paula Henderson'
+    ),
+    (
+        544,
+        '2017-05-27 23:57:18',
+        'Facebook',
+        1,
+        2017,
+        'Brian Mccall'
+    ),
+    (
+        544,
+        '2017-05-27 23:57:18',
+        'Facebook',
+        4,
+        2017,
+        'Andrea Hill'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        544,
+        '2017-05-27 23:57:18',
+        'Facebook',
+        5,
+        2017,
+        'Tina Roy'
+    ),
+    (
+        544,
+        '2017-05-27 23:57:18',
+        'Facebook',
+        3,
+        2017,
+        'Denise Jones'
+    ),
+    (
+        544,
+        '2017-05-27 23:57:18',
+        'Facebook',
+        2,
+        2017,
+        'Brandi Harris'
+    ),
+    (
+        715,
+        '2018-05-26 23:45:44',
+        'Phone',
+        2,
+        2018,
+        'Steven Cox'
+    ),
+    (
+        715,
+        '2018-05-26 23:45:44',
+        'Phone',
+        5,
+        2018,
+        'Charles Glover'
+    ),
+    (
+        715,
+        '2018-05-26 23:45:44',
+        'Phone',
+        1,
+        2018,
+        'Laura Barnes'
+    ),
+    (
+        715,
+        '2018-05-26 23:45:44',
+        'Phone',
+        4,
+        2018,
+        'Kimberly Davis'
+    ),
+    (
+        715,
+        '2018-05-26 23:45:44',
+        'Phone',
+        3,
+        2018,
+        'Jessica Williams'
+    ),
+    (
+        160,
+        '2018-05-26 23:34:34',
+        'Facebook',
+        5,
+        2018,
+        'Charles Glover'
+    ),
+    (
+        160,
+        '2018-05-26 23:34:34',
+        'Facebook',
+        3,
+        2018,
+        'Brandon Ruiz'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        160,
+        '2018-05-26 23:34:34',
+        'Facebook',
+        1,
+        2018,
+        'Jessica Williams'
+    ),
+    (
+        160,
+        '2018-05-26 23:34:34',
+        'Facebook',
+        4,
+        2018,
+        'Carrie Clark'
+    ),
+    (
+        160,
+        '2018-05-26 23:34:34',
+        'Facebook',
+        2,
+        2018,
+        'Steven Cox'
+    ),
+    (
+        620,
+        '2018-05-26 22:11:53',
+        'Web',
+        2,
+        2018,
+        'Danielle Miller'
+    ),
+    (
+        620,
+        '2018-05-26 22:11:53',
+        'Web',
+        4,
+        2018,
+        'Kimberly Davis'
+    ),
+    (
+        620,
+        '2018-05-26 22:11:53',
+        'Web',
+        5,
+        2018,
+        'Diane Harrison'
+    ),
+    (
+        620,
+        '2018-05-26 22:11:53',
+        'Web',
+        1,
+        2018,
+        'Brandon Ruiz'
+    ),
+    (
+        620,
+        '2018-05-26 22:11:53',
+        'Web',
+        3,
+        2018,
+        'John Hubbard'
+    ),
+    (
+        680,
+        '2021-05-29 22:36:53',
+        'Facebook',
+        3,
+        2021,
+        'Tamara Barnes'
+    ),
+    (
+        680,
+        '2021-05-29 22:36:53',
+        'Facebook',
+        4,
+        2021,
+        'Ann Perez'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        680,
+        '2021-05-29 22:36:53',
+        'Facebook',
+        1,
+        2021,
+        'Caleb Ellison'
+    ),
+    (
+        932,
+        '2014-05-31 23:17:58',
+        'Phone',
+        3,
+        2014,
+        'Mary Vance'
+    ),
+    (
+        932,
+        '2014-05-31 23:17:58',
+        'Phone',
+        1,
+        2014,
+        'Lisa Wright'
+    ),
+    (
+        932,
+        '2014-05-31 23:17:58',
+        'Phone',
+        2,
+        2014,
+        'Carol Garrett'
+    ),
+    (
+        932,
+        '2014-05-31 23:17:58',
+        'Phone',
+        5,
+        2014,
+        'Teresa Martin'
+    ),
+    (
+        932,
+        '2014-05-31 23:17:58',
+        'Phone',
+        4,
+        2014,
+        'Melissa Williams'
+    ),
+    (
+        319,
+        '2018-05-26 22:24:01',
+        'Phone',
+        5,
+        2018,
+        'Diane Harrison'
+    ),
+    (
+        319,
+        '2018-05-26 22:24:01',
+        'Phone',
+        1,
+        2018,
+        'Carrie Clark'
+    ),
+    (
+        319,
+        '2018-05-26 22:24:01',
+        'Phone',
+        4,
+        2018,
+        'Brandon Ruiz'
+    ),
+    (
+        319,
+        '2018-05-26 22:24:01',
+        'Phone',
+        2,
+        2018,
+        'John Hubbard'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        319,
+        '2018-05-26 22:24:01',
+        'Phone',
+        3,
+        2018,
+        'Laura Barnes'
+    ),
+    (
+        892,
+        '2023-05-27 22:17:57',
+        'Phone',
+        4,
+        2023,
+        'Michael Butler'
+    ),
+    (
+        892,
+        '2023-05-27 22:17:57',
+        'Phone',
+        1,
+        2023,
+        'Jacqueline Wagner'
+    ),
+    (
+        892,
+        '2023-05-27 22:17:57',
+        'Phone',
+        5,
+        2023,
+        'Paula Henderson'
+    ),
+    (
+        892,
+        '2023-05-27 22:17:57',
+        'Phone',
+        3,
+        2023,
+        'Thomas Ruiz'
+    ),
+    (
+        892,
+        '2023-05-27 22:17:57',
+        'Phone',
+        2,
+        2023,
+        'Megan Saunders'
+    ),
+    (
+        291,
+        '2016-05-28 22:57:52',
+        'Phone',
+        4,
+        2016,
+        'Alejandra Walter'
+    ),
+    (
+        291,
+        '2016-05-28 22:57:52',
+        'Phone',
+        3,
+        2016,
+        'Cathy Lewis'
+    ),
+    (
+        291,
+        '2016-05-28 22:57:52',
+        'Phone',
+        2,
+        2016,
+        'Kimberly Wilkins MD'
+    ),
+    (
+        291,
+        '2016-05-28 22:57:52',
+        'Phone',
+        5,
+        2016,
+        'Anne Mcfarland'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        291,
+        '2016-05-28 22:57:52',
+        'Phone',
+        1,
+        2016,
+        'Steve Bennett'
+    ),
+    (
+        508,
+        '2024-05-25 23:30:21',
+        'Phone',
+        4,
+        2024,
+        'Taylor Lopez'
+    ),
+    (
+        508,
+        '2024-05-25 23:30:21',
+        'Phone',
+        3,
+        2024,
+        'Jessica Murphy'
+    ),
+    (
+        508,
+        '2024-05-25 23:30:21',
+        'Phone',
+        2,
+        2024,
+        'Alexis Fields'
+    ),
+    (
+        508,
+        '2024-05-25 23:30:21',
+        'Phone',
+        1,
+        2024,
+        'Christopher Singh'
+    ),
+    (
+        508,
+        '2024-05-25 23:30:21',
+        'Phone',
+        5,
+        2024,
+        'Gabriel Arroyo'
+    ),
+    (
+        964,
+        '2011-05-28 22:10:09',
+        'Instagram',
+        5,
+        2011,
+        'Carmen Mitchell'
+    ),
+    (
+        964,
+        '2011-05-28 22:10:09',
+        'Instagram',
+        2,
+        2011,
+        'John Henderson'
+    ),
+    (
+        964,
+        '2011-05-28 22:10:09',
+        'Instagram',
+        4,
+        2011,
+        'Andres Rubio'
+    ),
+    (
+        964,
+        '2011-05-28 22:10:09',
+        'Instagram',
+        3,
+        2011,
+        'Ashley Lawson'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        964,
+        '2011-05-28 22:10:09',
+        'Instagram',
+        1,
+        2011,
+        'Dr. Courtney Green MD'
+    ),
+    (
+        200,
+        '2023-05-27 23:53:42',
+        'Web',
+        3,
+        2023,
+        'Christine Hayes'
+    ),
+    (
+        200,
+        '2023-05-27 23:53:42',
+        'Web',
+        4,
+        2023,
+        'Thomas Ruiz'
+    ),
+    (
+        200,
+        '2023-05-27 23:53:42',
+        'Web',
+        2,
+        2023,
+        'Jacqueline Wagner'
+    ),
+    (
+        200,
+        '2023-05-27 23:53:42',
+        'Web',
+        1,
+        2023,
+        'Leslie Lee'
+    ),
+    (
+        200,
+        '2023-05-27 23:53:42',
+        'Web',
+        5,
+        2023,
+        'Scott Baker'
+    ),
+    (
+        257,
+        '2024-05-25 22:23:21',
+        'Web',
+        5,
+        2024,
+        'Emily Buck'
+    ),
+    (
+        257,
+        '2024-05-25 22:23:21',
+        'Web',
+        4,
+        2024,
+        'Alexis Fields'
+    ),
+    (
+        257,
+        '2024-05-25 22:23:21',
+        'Web',
+        2,
+        2024,
+        'Richard Lewis'
+    ),
+    (
+        257,
+        '2024-05-25 22:23:21',
+        'Web',
+        1,
+        2024,
+        'Christopher Singh'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        257,
+        '2024-05-25 22:23:21',
+        'Web',
+        3,
+        2024,
+        'Taylor Lopez'
+    ),
+    (
+        475,
+        '2024-05-25 22:12:32',
+        'Facebook',
+        4,
+        2024,
+        'Alexis Fields'
+    ),
+    (
+        475,
+        '2024-05-25 22:12:32',
+        'Facebook',
+        1,
+        2024,
+        'Richard Lewis'
+    ),
+    (
+        475,
+        '2024-05-25 22:12:32',
+        'Facebook',
+        5,
+        2024,
+        'Austin Williams'
+    ),
+    (
+        475,
+        '2024-05-25 22:12:32',
+        'Facebook',
+        3,
+        2024,
+        'Emily Buck'
+    ),
+    (
+        475,
+        '2024-05-25 22:12:32',
+        'Facebook',
+        2,
+        2024,
+        'Christy Perry'
+    ),
+    (
+        42,
+        '2021-05-29 22:46:39',
+        'Instagram',
+        2,
+        2021,
+        'Aaron Baldwin'
+    ),
+    (
+        42,
+        '2021-05-29 22:46:39',
+        'Instagram',
+        4,
+        2021,
+        'Samantha Lee'
+    ),
+    (
+        42,
+        '2021-05-29 22:46:39',
+        'Instagram',
+        3,
+        2021,
+        'Jack Singh'
+    ),
+    (
+        42,
+        '2021-05-29 22:46:39',
+        'Instagram',
+        1,
+        2021,
+        'Amber Mcdowell'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        42,
+        '2021-05-29 22:46:39',
+        'Instagram',
+        5,
+        2021,
+        'Thomas Smith'
+    ),
+    (
+        95,
+        '2015-05-30 23:01:34',
+        'Phone',
+        2,
+        2015,
+        'Travis Hays'
+    ),
+    (
+        95,
+        '2015-05-30 23:01:34',
+        'Phone',
+        5,
+        2015,
+        'Lisa Patrick'
+    ),
+    (
+        95,
+        '2015-05-30 23:01:34',
+        'Phone',
+        3,
+        2015,
+        'Deborah Sparks'
+    ),
+    (
+        98,
+        '2015-05-30 23:44:18',
+        'Phone',
+        1,
+        2015,
+        'Heidi Barry'
+    ),
+    (
+        98,
+        '2015-05-30 23:44:18',
+        'Phone',
+        5,
+        2015,
+        'Brett Benjamin'
+    ),
+    (
+        98,
+        '2015-05-30 23:44:18',
+        'Phone',
+        2,
+        2015,
+        'Nathan Bailey'
+    ),
+    (
+        98,
+        '2015-05-30 23:44:18',
+        'Phone',
+        4,
+        2015,
+        'Lisa Patrick'
+    ),
+    (
+        98,
+        '2015-05-30 23:44:18',
+        'Phone',
+        3,
+        2015,
+        'Travis Hays'
+    ),
+    (
+        662,
+        '2014-05-31 22:09:44',
+        'Phone',
+        1,
+        2014,
+        'Teresa Martin'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        662,
+        '2014-05-31 22:09:44',
+        'Phone',
+        3,
+        2014,
+        'Zachary Fox'
+    ),
+    (
+        662,
+        '2014-05-31 22:09:44',
+        'Phone',
+        5,
+        2014,
+        'John Conner'
+    ),
+    (
+        662,
+        '2014-05-31 22:09:44',
+        'Phone',
+        2,
+        2014,
+        'Christopher Hodge'
+    ),
+    (
+        662,
+        '2014-05-31 22:09:44',
+        'Phone',
+        4,
+        2014,
+        'Luke Williams'
+    ),
+    (
+        919,
+        '2021-05-29 22:29:04',
+        'Instagram',
+        2,
+        2021,
+        'Manuel Caldwell'
+    ),
+    (
+        919,
+        '2021-05-29 22:29:04',
+        'Instagram',
+        1,
+        2021,
+        'Aaron Baldwin'
+    ),
+    (
+        919,
+        '2021-05-29 22:29:04',
+        'Instagram',
+        4,
+        2021,
+        'Robin Myers'
+    ),
+    (
+        919,
+        '2021-05-29 22:29:04',
+        'Instagram',
+        5,
+        2021,
+        'Ann Perez'
+    ),
+    (
+        919,
+        '2021-05-29 22:29:04',
+        'Instagram',
+        3,
+        2021,
+        'Thomas Smith'
+    ),
+    (
+        308,
+        '2021-05-29 22:50:52',
+        'Instagram',
+        4,
+        2021,
+        'Aaron Baldwin'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        308,
+        '2021-05-29 22:50:52',
+        'Instagram',
+        1,
+        2021,
+        'Amber Mcdowell'
+    ),
+    (
+        308,
+        '2021-05-29 22:50:52',
+        'Instagram',
+        3,
+        2021,
+        'Manuel Caldwell'
+    ),
+    (
+        308,
+        '2021-05-29 22:50:52',
+        'Instagram',
+        5,
+        2021,
+        'Thomas Smith'
+    ),
+    (
+        308,
+        '2021-05-29 22:50:52',
+        'Instagram',
+        2,
+        2021,
+        'Robin Myers'
+    ),
+    (
+        904,
+        '2018-05-26 22:50:20',
+        'Phone',
+        5,
+        2018,
+        'Brandon Ruiz'
+    ),
+    (
+        904,
+        '2018-05-26 22:50:20',
+        'Phone',
+        3,
+        2018,
+        'Kimberly Davis'
+    ),
+    (
+        904,
+        '2018-05-26 22:50:20',
+        'Phone',
+        1,
+        2018,
+        'Charles Glover'
+    ),
+    (
+        904,
+        '2018-05-26 22:50:20',
+        'Phone',
+        4,
+        2018,
+        'Laura Barnes'
+    ),
+    (
+        904,
+        '2018-05-26 22:50:20',
+        'Phone',
+        2,
+        2018,
+        'John Hubbard'
+    ),
+    (
+        488,
+        '2024-05-25 23:33:27',
+        'Web',
+        4,
+        2024,
+        'Christy Perry'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        488,
+        '2024-05-25 23:33:27',
+        'Web',
+        1,
+        2024,
+        'Austin Williams'
+    ),
+    (
+        488,
+        '2024-05-25 23:33:27',
+        'Web',
+        3,
+        2024,
+        'Christopher Singh'
+    ),
+    (
+        488,
+        '2024-05-25 23:33:27',
+        'Web',
+        5,
+        2024,
+        'Gabriel Arroyo'
+    ),
+    (
+        488,
+        '2024-05-25 23:33:27',
+        'Web',
+        2,
+        2024,
+        'Emily Buck'
+    ),
+    (
+        752,
+        '2015-05-30 22:14:18',
+        'Facebook',
+        2,
+        2015,
+        'Louis Phillips'
+    ),
+    (
+        752,
+        '2015-05-30 22:14:18',
+        'Facebook',
+        5,
+        2015,
+        'Heidi Barry'
+    ),
+    (
+        752,
+        '2015-05-30 22:14:18',
+        'Facebook',
+        1,
+        2015,
+        'Travis Hays'
+    ),
+    (
+        752,
+        '2015-05-30 22:14:18',
+        'Facebook',
+        4,
+        2015,
+        'Nathan Bailey'
+    ),
+    (
+        752,
+        '2015-05-30 22:14:18',
+        'Facebook',
+        3,
+        2015,
+        'Lisa Patrick'
+    ),
+    (
+        375,
+        '2013-05-25 22:12:47',
+        'Facebook',
+        1,
+        2013,
+        'Wendy Cunningham'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        375,
+        '2013-05-25 22:12:47',
+        'Facebook',
+        4,
+        2013,
+        'Kimberly Larsen'
+    ),
+    (
+        375,
+        '2013-05-25 22:12:47',
+        'Facebook',
+        3,
+        2013,
+        'Cassandra Hooper'
+    ),
+    (
+        375,
+        '2013-05-25 22:12:47',
+        'Facebook',
+        2,
+        2013,
+        'Anthony Villanueva'
+    ),
+    (
+        375,
+        '2013-05-25 22:12:47',
+        'Facebook',
+        5,
+        2013,
+        'Diane Cooper'
+    ),
+    (
+        414,
+        '2015-05-30 22:23:37',
+        'Phone',
+        2,
+        2015,
+        'Nicholas Black'
+    ),
+    (
+        414,
+        '2015-05-30 22:23:37',
+        'Phone',
+        1,
+        2015,
+        'Deborah Sparks'
+    ),
+    (
+        414,
+        '2015-05-30 22:23:37',
+        'Phone',
+        5,
+        2015,
+        'Robert White'
+    ),
+    (
+        414,
+        '2015-05-30 22:23:37',
+        'Phone',
+        4,
+        2015,
+        'Heidi Barry'
+    ),
+    (
+        414,
+        '2015-05-30 22:23:37',
+        'Phone',
+        3,
+        2015,
+        'Lisa Patrick'
+    ),
+    (
+        654,
+        '2024-05-25 22:29:51',
+        'Instagram',
+        4,
+        2024,
+        'Amber Williams'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        654,
+        '2024-05-25 22:29:51',
+        'Instagram',
+        3,
+        2024,
+        'Alexis Fields'
+    ),
+    (
+        654,
+        '2024-05-25 22:29:51',
+        'Instagram',
+        1,
+        2024,
+        'Christopher Singh'
+    ),
+    (
+        654,
+        '2024-05-25 22:29:51',
+        'Instagram',
+        5,
+        2024,
+        'Taylor Lopez'
+    ),
+    (
+        654,
+        '2024-05-25 22:29:51',
+        'Instagram',
+        2,
+        2024,
+        'Jessica Murphy'
+    ),
+    (
+        734,
+        '2015-05-30 23:06:09',
+        'Facebook',
+        1,
+        2015,
+        'Travis Hays'
+    ),
+    (
+        734,
+        '2015-05-30 23:06:09',
+        'Facebook',
+        4,
+        2015,
+        'Robert White'
+    ),
+    (
+        734,
+        '2015-05-30 23:06:09',
+        'Facebook',
+        5,
+        2015,
+        'Deborah Sparks'
+    ),
+    (
+        734,
+        '2015-05-30 23:06:09',
+        'Facebook',
+        3,
+        2015,
+        'Louis Phillips'
+    ),
+    (
+        734,
+        '2015-05-30 23:06:09',
+        'Facebook',
+        2,
+        2015,
+        'Brett Benjamin'
+    ),
+    (
+        690,
+        '2014-05-31 23:35:48',
+        'Facebook',
+        1,
+        2014,
+        'John Conner'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        690,
+        '2014-05-31 23:35:48',
+        'Facebook',
+        4,
+        2014,
+        'Christopher Hodge'
+    ),
+    (
+        690,
+        '2014-05-31 23:35:48',
+        'Facebook',
+        3,
+        2014,
+        'Luke Williams'
+    ),
+    (
+        690,
+        '2014-05-31 23:35:48',
+        'Facebook',
+        2,
+        2014,
+        'Todd Miller'
+    ),
+    (
+        690,
+        '2014-05-31 23:35:48',
+        'Facebook',
+        5,
+        2014,
+        'Carol Garrett'
+    ),
+    (
+        326,
+        '2019-05-25 23:57:22',
+        'Facebook',
+        4,
+        2019,
+        'Jennifer Ford'
+    ),
+    (
+        326,
+        '2019-05-25 23:57:22',
+        'Facebook',
+        5,
+        2019,
+        'Sarah Hancock'
+    ),
+    (
+        326,
+        '2019-05-25 23:57:22',
+        'Facebook',
+        1,
+        2019,
+        'Samantha Jones'
+    ),
+    (
+        326,
+        '2019-05-25 23:57:22',
+        'Facebook',
+        2,
+        2019,
+        'Aaron Peterson'
+    ),
+    (
+        326,
+        '2019-05-25 23:57:22',
+        'Facebook',
+        3,
+        2019,
+        'Kyle Hernandez'
+    ),
+    (
+        511,
+        '2021-05-29 22:36:13',
+        'Phone',
+        3,
+        2021,
+        'Caleb Ellison'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        511,
+        '2021-05-29 22:36:13',
+        'Phone',
+        1,
+        2021,
+        'Manuel Caldwell'
+    ),
+    (
+        511,
+        '2021-05-29 22:36:13',
+        'Phone',
+        5,
+        2021,
+        'Aaron Baldwin'
+    ),
+    (
+        511,
+        '2021-05-29 22:36:13',
+        'Phone',
+        4,
+        2021,
+        'Amber Mcdowell'
+    ),
+    (
+        511,
+        '2021-05-29 22:36:13',
+        'Phone',
+        2,
+        2021,
+        'Ann Perez'
+    ),
+    (
+        676,
+        '2018-05-26 23:20:31',
+        'Instagram',
+        3,
+        2018,
+        'Steven Cox'
+    ),
+    (
+        676,
+        '2018-05-26 23:20:31',
+        'Instagram',
+        2,
+        2018,
+        'Charles Glover'
+    ),
+    (
+        676,
+        '2018-05-26 23:20:31',
+        'Instagram',
+        5,
+        2018,
+        'Diane Harrison'
+    ),
+    (
+        676,
+        '2018-05-26 23:20:31',
+        'Instagram',
+        1,
+        2018,
+        'Kimberly Davis'
+    ),
+    (
+        676,
+        '2018-05-26 23:20:31',
+        'Instagram',
+        4,
+        2018,
+        'Danielle Miller'
+    ),
+    (
+        597,
+        '2021-05-29 23:20:26',
+        'Phone',
+        5,
+        2021,
+        'Samantha Lee'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        597,
+        '2021-05-29 23:20:26',
+        'Phone',
+        4,
+        2021,
+        'Tamara Barnes'
+    ),
+    (
+        597,
+        '2021-05-29 23:20:26',
+        'Phone',
+        3,
+        2021,
+        'Robin Myers'
+    ),
+    (
+        597,
+        '2021-05-29 23:20:26',
+        'Phone',
+        2,
+        2021,
+        'Aaron Baldwin'
+    ),
+    (
+        531,
+        '2018-05-26 22:55:17',
+        'Phone',
+        5,
+        2018,
+        'Steven Cox'
+    ),
+    (
+        531,
+        '2018-05-26 22:55:17',
+        'Phone',
+        2,
+        2018,
+        'Carrie Clark'
+    ),
+    (
+        531,
+        '2018-05-26 22:55:17',
+        'Phone',
+        4,
+        2018,
+        'John Hubbard'
+    ),
+    (
+        531,
+        '2018-05-26 22:55:17',
+        'Phone',
+        3,
+        2018,
+        'Danielle Miller'
+    ),
+    (
+        531,
+        '2018-05-26 22:55:17',
+        'Phone',
+        1,
+        2018,
+        'Brandon Ruiz'
+    ),
+    (
+        456,
+        '2012-05-26 22:57:19',
+        'Instagram',
+        4,
+        2012,
+        'Kenneth Warner'
+    ),
+    (
+        456,
+        '2012-05-26 22:57:19',
+        'Instagram',
+        1,
+        2012,
+        'Tyler Jordan'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        467,
+        '2014-05-31 23:30:48',
+        'Phone',
+        3,
+        2014,
+        'Christopher Hodge'
+    ),
+    (
+        467,
+        '2014-05-31 23:30:48',
+        'Phone',
+        2,
+        2014,
+        'Teresa Martin'
+    ),
+    (
+        467,
+        '2014-05-31 23:30:48',
+        'Phone',
+        1,
+        2014,
+        'John Conner'
+    ),
+    (
+        467,
+        '2014-05-31 23:30:48',
+        'Phone',
+        4,
+        2014,
+        'Mary Vance'
+    ),
+    (
+        467,
+        '2014-05-31 23:30:48',
+        'Phone',
+        5,
+        2014,
+        'Melissa Williams'
+    ),
+    (
+        513,
+        '2019-05-25 22:37:00',
+        'Phone',
+        5,
+        2019,
+        'Samantha Jones'
+    ),
+    (
+        513,
+        '2019-05-25 22:37:00',
+        'Phone',
+        3,
+        2019,
+        'Amanda Ingram'
+    ),
+    (
+        513,
+        '2019-05-25 22:37:00',
+        'Phone',
+        2,
+        2019,
+        'Terry Powell'
+    ),
+    (
+        513,
+        '2019-05-25 22:37:00',
+        'Phone',
+        1,
+        2019,
+        'Cameron Hawkins'
+    ),
+    (
+        513,
+        '2019-05-25 22:37:00',
+        'Phone',
+        4,
+        2019,
+        'Kyle Hernandez'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        920,
+        '2013-05-25 23:25:17',
+        'Instagram',
+        1,
+        2013,
+        'Diane Cooper'
+    ),
+    (
+        920,
+        '2013-05-25 23:25:17',
+        'Instagram',
+        2,
+        2013,
+        'Wendy Cunningham'
+    ),
+    (
+        237,
+        '2020-05-30 22:42:08',
+        'Phone',
+        5,
+        2020,
+        'Charles Maddox'
+    ),
+    (
+        237,
+        '2020-05-30 22:42:08',
+        'Phone',
+        2,
+        2020,
+        'Benjamin Thomas'
+    ),
+    (
+        237,
+        '2020-05-30 22:42:08',
+        'Phone',
+        1,
+        2020,
+        'Juan Huerta'
+    ),
+    (
+        237,
+        '2020-05-30 22:42:08',
+        'Phone',
+        3,
+        2020,
+        'Charles Washington'
+    ),
+    (
+        237,
+        '2020-05-30 22:42:08',
+        'Phone',
+        4,
+        2020,
+        'Mr. Steven Yoder'
+    ),
+    (
+        602,
+        '2014-05-31 23:44:14',
+        'Phone',
+        2,
+        2014,
+        'Zachary Fox'
+    ),
+    (
+        602,
+        '2014-05-31 23:44:14',
+        'Phone',
+        1,
+        2014,
+        'John Conner'
+    ),
+    (
+        602,
+        '2014-05-31 23:44:14',
+        'Phone',
+        4,
+        2014,
+        'Luke Williams'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        602,
+        '2014-05-31 23:44:14',
+        'Phone',
+        5,
+        2014,
+        'Mary Vance'
+    ),
+    (
+        602,
+        '2014-05-31 23:44:14',
+        'Phone',
+        3,
+        2014,
+        'Christopher Hodge'
+    ),
+    (
+        43,
+        '2018-05-26 23:54:36',
+        'Facebook',
+        2,
+        2018,
+        'Laura Barnes'
+    ),
+    (
+        43,
+        '2018-05-26 23:54:36',
+        'Facebook',
+        3,
+        2018,
+        'Brandon Ruiz'
+    ),
+    (
+        43,
+        '2018-05-26 23:54:36',
+        'Facebook',
+        1,
+        2018,
+        'Steven Cox'
+    ),
+    (
+        43,
+        '2018-05-26 23:54:36',
+        'Facebook',
+        5,
+        2018,
+        'Charles Glover'
+    ),
+    (
+        43,
+        '2018-05-26 23:54:36',
+        'Facebook',
+        4,
+        2018,
+        'John Hubbard'
+    ),
+    (
+        319,
+        '2023-05-27 22:08:25',
+        'Facebook',
+        3,
+        2023,
+        'Christine Hayes'
+    ),
+    (
+        319,
+        '2023-05-27 22:08:25',
+        'Facebook',
+        1,
+        2023,
+        'Thomas Ruiz'
+    ),
+    (
+        319,
+        '2023-05-27 22:08:25',
+        'Facebook',
+        2,
+        2023,
+        'Jacqueline Wagner'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        319,
+        '2023-05-27 22:08:25',
+        'Facebook',
+        4,
+        2023,
+        'Samantha Erickson'
+    ),
+    (
+        319,
+        '2023-05-27 22:08:25',
+        'Facebook',
+        5,
+        2023,
+        'Scott Baker'
+    ),
+    (
+        978,
+        '2024-05-25 23:12:06',
+        'Instagram',
+        2,
+        2024,
+        'Taylor Lopez'
+    ),
+    (
+        978,
+        '2024-05-25 23:12:06',
+        'Instagram',
+        5,
+        2024,
+        'Austin Williams'
+    ),
+    (
+        978,
+        '2024-05-25 23:12:06',
+        'Instagram',
+        3,
+        2024,
+        'Christopher Singh'
+    ),
+    (
+        978,
+        '2024-05-25 23:12:06',
+        'Instagram',
+        4,
+        2024,
+        'Emily Buck'
+    ),
+    (
+        978,
+        '2024-05-25 23:12:06',
+        'Instagram',
+        1,
+        2024,
+        'Alexis Fields'
+    ),
+    (
+        304,
+        '2019-05-25 22:06:11',
+        'Web',
+        4,
+        2019,
+        'Aaron Peterson'
+    ),
+    (
+        304,
+        '2019-05-25 22:06:11',
+        'Web',
+        2,
+        2019,
+        'Kathryn Alvarez'
+    ),
+    (
+        772,
+        '2024-05-25 22:33:29',
+        'Facebook',
+        5,
+        2024,
+        'Christy Perry'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        772,
+        '2024-05-25 22:33:29',
+        'Facebook',
+        3,
+        2024,
+        'Austin Williams'
+    ),
+    (
+        772,
+        '2024-05-25 22:33:29',
+        'Facebook',
+        2,
+        2024,
+        'Taylor Lopez'
+    ),
+    (
+        772,
+        '2024-05-25 22:33:29',
+        'Facebook',
+        1,
+        2024,
+        'Jessica Murphy'
+    ),
+    (
+        772,
+        '2024-05-25 22:33:29',
+        'Facebook',
+        4,
+        2024,
+        'Christopher Singh'
+    ),
+    (
+        307,
+        '2020-05-30 22:19:25',
+        'Instagram',
+        2,
+        2020,
+        'Jacob Hickman'
+    ),
+    (
+        307,
+        '2020-05-30 22:19:25',
+        'Instagram',
+        4,
+        2020,
+        'Benjamin Thomas'
+    ),
+    (
+        307,
+        '2020-05-30 22:19:25',
+        'Instagram',
+        5,
+        2020,
+        'Mr. Steven Yoder'
+    ),
+    (
+        307,
+        '2020-05-30 22:19:25',
+        'Instagram',
+        3,
+        2020,
+        'Danielle Berger'
+    ),
+    (
+        307,
+        '2020-05-30 22:19:25',
+        'Instagram',
+        1,
+        2020,
+        'Lisa Mcdaniel'
+    ),
+    (
+        886,
+        '2009-05-30 23:19:04',
+        'Web',
+        3,
+        2009,
+        'Theresa Castaneda'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        886,
+        '2009-05-30 23:19:04',
+        'Web',
+        1,
+        2009,
+        'Olivia Nichols'
+    ),
+    (
+        886,
+        '2009-05-30 23:19:04',
+        'Web',
+        4,
+        2009,
+        'Carrie Bell'
+    ),
+    (
+        627,
+        '2015-05-30 23:36:48',
+        'Instagram',
+        2,
+        2015,
+        'Louis Phillips'
+    ),
+    (
+        627,
+        '2015-05-30 23:36:48',
+        'Instagram',
+        5,
+        2015,
+        'Travis Hays'
+    ),
+    (
+        627,
+        '2015-05-30 23:36:48',
+        'Instagram',
+        1,
+        2015,
+        'Colleen White'
+    ),
+    (
+        627,
+        '2015-05-30 23:36:48',
+        'Instagram',
+        3,
+        2015,
+        'Deborah Sparks'
+    ),
+    (
+        627,
+        '2015-05-30 23:36:48',
+        'Instagram',
+        4,
+        2015,
+        'Robert White'
+    ),
+    (
+        120,
+        '2022-05-28 22:10:10',
+        'Phone',
+        4,
+        2022,
+        'Stephanie Smith'
+    ),
+    (
+        120,
+        '2022-05-28 22:10:10',
+        'Phone',
+        2,
+        2022,
+        'Michelle Martin'
+    ),
+    (
+        807,
+        '2017-05-27 23:26:17',
+        'Facebook',
+        4,
+        2017,
+        'Nathan Williams'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        807,
+        '2017-05-27 23:26:17',
+        'Facebook',
+        1,
+        2017,
+        'Brian Mccall'
+    ),
+    (
+        807,
+        '2017-05-27 23:26:17',
+        'Facebook',
+        5,
+        2017,
+        'Sean Ward'
+    ),
+    (
+        807,
+        '2017-05-27 23:26:17',
+        'Facebook',
+        2,
+        2017,
+        'Andrea Hill'
+    ),
+    (
+        807,
+        '2017-05-27 23:26:17',
+        'Facebook',
+        3,
+        2017,
+        'Denise Jones'
+    ),
+    (
+        633,
+        '2017-05-27 23:54:14',
+        'Web',
+        3,
+        2017,
+        'Sean Ward'
+    ),
+    (
+        633,
+        '2017-05-27 23:54:14',
+        'Web',
+        1,
+        2017,
+        'Brian Mccall'
+    ),
+    (
+        633,
+        '2017-05-27 23:54:14',
+        'Web',
+        2,
+        2017,
+        'Denise Jones'
+    ),
+    (
+        633,
+        '2017-05-27 23:54:14',
+        'Web',
+        4,
+        2017,
+        'Brandi Harris'
+    ),
+    (
+        633,
+        '2017-05-27 23:54:14',
+        'Web',
+        5,
+        2017,
+        'Elizabeth Koch'
+    ),
+    (
+        860,
+        '2015-05-30 22:39:57',
+        'Phone',
+        5,
+        2015,
+        'Travis Hays'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        860,
+        '2015-05-30 22:39:57',
+        'Phone',
+        3,
+        2015,
+        'Robert White'
+    ),
+    (
+        860,
+        '2015-05-30 22:39:57',
+        'Phone',
+        1,
+        2015,
+        'Nathan Bailey'
+    ),
+    (
+        860,
+        '2015-05-30 22:39:57',
+        'Phone',
+        2,
+        2015,
+        'Lisa Patrick'
+    ),
+    (
+        860,
+        '2015-05-30 22:39:57',
+        'Phone',
+        4,
+        2015,
+        'Brett Benjamin'
+    ),
+    (
+        287,
+        '2020-05-30 23:36:12',
+        'Web',
+        5,
+        2020,
+        'Danielle Berger'
+    ),
+    (
+        287,
+        '2020-05-30 23:36:12',
+        'Web',
+        2,
+        2020,
+        'Mr. Steven Yoder'
+    ),
+    (
+        287,
+        '2020-05-30 23:36:12',
+        'Web',
+        4,
+        2020,
+        'Benjamin Thomas'
+    ),
+    (
+        287,
+        '2020-05-30 23:36:12',
+        'Web',
+        1,
+        2020,
+        'Travis Walker'
+    ),
+    (
+        287,
+        '2020-05-30 23:36:12',
+        'Web',
+        3,
+        2020,
+        'Charles Maddox'
+    ),
+    (
+        633,
+        '2017-05-27 22:48:17',
+        'Phone',
+        4,
+        2017,
+        'Nathan Williams'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        633,
+        '2017-05-27 22:48:17',
+        'Phone',
+        2,
+        2017,
+        'Matthew Vaughn'
+    ),
+    (
+        273,
+        '2012-05-26 22:56:19',
+        'Web',
+        3,
+        2012,
+        'Stacy White'
+    ),
+    (
+        273,
+        '2012-05-26 22:56:19',
+        'Web',
+        4,
+        2012,
+        'Kenneth Warner'
+    ),
+    (
+        273,
+        '2012-05-26 22:56:19',
+        'Web',
+        2,
+        2012,
+        'Jennifer Wolfe'
+    ),
+    (
+        273,
+        '2012-05-26 22:56:19',
+        'Web',
+        1,
+        2012,
+        'Jose Smith Jr.'
+    ),
+    (
+        273,
+        '2012-05-26 22:56:19',
+        'Web',
+        5,
+        2012,
+        'Lynn Booth'
+    ),
+    (
+        80,
+        '2021-05-29 22:51:59',
+        'Web',
+        2,
+        2021,
+        'Tamara Barnes'
+    ),
+    (
+        80,
+        '2021-05-29 22:51:59',
+        'Web',
+        3,
+        2021,
+        'Jack Singh'
+    ),
+    (
+        838,
+        '2022-05-28 23:22:02',
+        'Phone',
+        3,
+        2022,
+        'Michelle Martin'
+    ),
+    (
+        838,
+        '2022-05-28 23:22:02',
+        'Phone',
+        1,
+        2022,
+        'Michael Baker'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        838,
+        '2022-05-28 23:22:02',
+        'Phone',
+        4,
+        2022,
+        'Michael Martinez'
+    ),
+    (
+        838,
+        '2022-05-28 23:22:02',
+        'Phone',
+        5,
+        2022,
+        'Gary Stone'
+    ),
+    (
+        838,
+        '2022-05-28 23:22:02',
+        'Phone',
+        2,
+        2022,
+        'Andre Burton'
+    ),
+    (
+        776,
+        '2023-05-27 23:40:14',
+        'Instagram',
+        5,
+        2023,
+        'Michael Butler'
+    ),
+    (
+        776,
+        '2023-05-27 23:40:14',
+        'Instagram',
+        3,
+        2023,
+        'Scott Baker'
+    ),
+    (
+        776,
+        '2023-05-27 23:40:14',
+        'Instagram',
+        2,
+        2023,
+        'Megan Saunders'
+    ),
+    (
+        776,
+        '2023-05-27 23:40:14',
+        'Instagram',
+        1,
+        2023,
+        'Jacqueline Wagner'
+    ),
+    (
+        776,
+        '2023-05-27 23:40:14',
+        'Instagram',
+        4,
+        2023,
+        'Paula Henderson'
+    ),
+    (
+        52,
+        '2019-05-25 23:15:35',
+        'Instagram',
+        3,
+        2019,
+        'Kathryn Alvarez'
+    ),
+    (
+        52,
+        '2019-05-25 23:15:35',
+        'Instagram',
+        1,
+        2019,
+        'Samantha Jones'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        52,
+        '2019-05-25 23:15:35',
+        'Instagram',
+        4,
+        2019,
+        'Kyle Hernandez'
+    ),
+    (
+        52,
+        '2019-05-25 23:15:35',
+        'Instagram',
+        2,
+        2019,
+        'Jennifer Ford'
+    ),
+    (
+        52,
+        '2019-05-25 23:15:35',
+        'Instagram',
+        5,
+        2019,
+        'Cameron Hawkins'
+    ),
+    (
+        87,
+        '2010-05-29 23:38:19',
+        'Phone',
+        3,
+        2010,
+        'Richard Dawson'
+    ),
+    (
+        87,
+        '2010-05-29 23:38:19',
+        'Phone',
+        2,
+        2010,
+        'Courtney Barber'
+    ),
+    (
+        87,
+        '2010-05-29 23:38:19',
+        'Phone',
+        4,
+        2010,
+        'Katherine Li'
+    ),
+    (
+        87,
+        '2010-05-29 23:38:19',
+        'Phone',
+        5,
+        2010,
+        'Kayla Vargas'
+    ),
+    (
+        87,
+        '2010-05-29 23:38:19',
+        'Phone',
+        1,
+        2010,
+        'Timothy Sandoval'
+    ),
+    (
+        225,
+        '2024-05-25 23:20:05',
+        'Facebook',
+        2,
+        2024,
+        'Richard Lewis'
+    ),
+    (
+        225,
+        '2024-05-25 23:20:05',
+        'Facebook',
+        5,
+        2024,
+        'Taylor Lopez'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        225,
+        '2024-05-25 23:20:05',
+        'Facebook',
+        3,
+        2024,
+        'Gabriel Arroyo'
+    ),
+    (
+        225,
+        '2024-05-25 23:20:05',
+        'Facebook',
+        4,
+        2024,
+        'Alexis Fields'
+    ),
+    (
+        225,
+        '2024-05-25 23:20:05',
+        'Facebook',
+        1,
+        2024,
+        'Christopher Singh'
+    ),
+    (
+        930,
+        '2017-05-27 23:27:52',
+        'Web',
+        2,
+        2017,
+        'Sean Ward'
+    ),
+    (
+        930,
+        '2017-05-27 23:27:52',
+        'Web',
+        3,
+        2017,
+        'Rachel Cole'
+    ),
+    (
+        930,
+        '2017-05-27 23:27:52',
+        'Web',
+        4,
+        2017,
+        'Matthew Vaughn'
+    ),
+    (
+        930,
+        '2017-05-27 23:27:52',
+        'Web',
+        5,
+        2017,
+        'Tina Roy'
+    ),
+    (
+        930,
+        '2017-05-27 23:27:52',
+        'Web',
+        1,
+        2017,
+        'Elizabeth Koch'
+    ),
+    (
+        942,
+        '2013-05-25 23:32:09',
+        'Phone',
+        2,
+        2013,
+        'Tony Prince'
+    ),
+    (
+        942,
+        '2013-05-25 23:32:09',
+        'Phone',
+        1,
+        2013,
+        'Cassandra Hooper'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        942,
+        '2013-05-25 23:32:09',
+        'Phone',
+        3,
+        2013,
+        'Blake Martinez'
+    ),
+    (
+        942,
+        '2013-05-25 23:32:09',
+        'Phone',
+        5,
+        2013,
+        'Nancy Mcmahon'
+    ),
+    (
+        942,
+        '2013-05-25 23:32:09',
+        'Phone',
+        4,
+        2013,
+        'Diane Cooper'
+    ),
+    (
+        414,
+        '2012-05-26 23:58:40',
+        'Phone',
+        3,
+        2012,
+        'Anthony Bradford'
+    ),
+    (
+        414,
+        '2012-05-26 23:58:40',
+        'Phone',
+        5,
+        2012,
+        'Stacy White'
+    ),
+    (
+        414,
+        '2012-05-26 23:58:40',
+        'Phone',
+        1,
+        2012,
+        'Maria Robertson'
+    ),
+    (
+        414,
+        '2012-05-26 23:58:40',
+        'Phone',
+        2,
+        2012,
+        'Tyler Jordan'
+    ),
+    (
+        414,
+        '2012-05-26 23:58:40',
+        'Phone',
+        4,
+        2012,
+        'Stephanie Patrick'
+    ),
+    (
+        97,
+        '2015-05-30 22:55:52',
+        'Web',
+        3,
+        2015,
+        'Brett Benjamin'
+    ),
+    (
+        97,
+        '2015-05-30 22:55:52',
+        'Web',
+        2,
+        2015,
+        'Lisa Patrick'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        97,
+        '2015-05-30 22:55:52',
+        'Web',
+        1,
+        2015,
+        'Travis Hays'
+    ),
+    (
+        97,
+        '2015-05-30 22:55:52',
+        'Web',
+        4,
+        2015,
+        'Nicholas Black'
+    ),
+    (
+        97,
+        '2015-05-30 22:55:52',
+        'Web',
+        5,
+        2015,
+        'Colleen White'
+    ),
+    (
+        353,
+        '2017-05-27 23:59:39',
+        'Web',
+        5,
+        2017,
+        'Brandi Harris'
+    ),
+    (
+        353,
+        '2017-05-27 23:59:39',
+        'Web',
+        1,
+        2017,
+        'Nathan Williams'
+    ),
+    (
+        353,
+        '2017-05-27 23:59:39',
+        'Web',
+        2,
+        2017,
+        'Tina Roy'
+    ),
+    (
+        353,
+        '2017-05-27 23:59:39',
+        'Web',
+        3,
+        2017,
+        'Denise Jones'
+    ),
+    (
+        353,
+        '2017-05-27 23:59:39',
+        'Web',
+        4,
+        2017,
+        'Matthew Vaughn'
+    ),
+    (
+        491,
+        '2010-05-29 22:27:17',
+        'Phone',
+        1,
+        2010,
+        'Rachel Melton'
+    ),
+    (
+        491,
+        '2010-05-29 22:27:17',
+        'Phone',
+        2,
+        2010,
+        'Kayla Vargas'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        491,
+        '2010-05-29 22:27:17',
+        'Phone',
+        3,
+        2010,
+        'Matthew Rice'
+    ),
+    (
+        491,
+        '2010-05-29 22:27:17',
+        'Phone',
+        5,
+        2010,
+        'Kevin Wilson'
+    ),
+    (
+        491,
+        '2010-05-29 22:27:17',
+        'Phone',
+        4,
+        2010,
+        'David Williams'
+    ),
+    (
+        469,
+        '2018-05-26 22:27:16',
+        'Facebook',
+        4,
+        2018,
+        'Brandon Ruiz'
+    ),
+    (
+        469,
+        '2018-05-26 22:27:16',
+        'Facebook',
+        5,
+        2018,
+        'Carrie Clark'
+    ),
+    (
+        469,
+        '2018-05-26 22:27:16',
+        'Facebook',
+        2,
+        2018,
+        'Charles Glover'
+    ),
+    (
+        469,
+        '2018-05-26 22:27:16',
+        'Facebook',
+        1,
+        2018,
+        'John Hubbard'
+    ),
+    (
+        469,
+        '2018-05-26 22:27:16',
+        'Facebook',
+        3,
+        2018,
+        'Laura Barnes'
+    ),
+    (
+        73,
+        '2012-05-26 22:01:53',
+        'Instagram',
+        4,
+        2012,
+        'Stephanie Patrick'
+    ),
+    (
+        73,
+        '2012-05-26 22:01:53',
+        'Instagram',
+        2,
+        2012,
+        'Anthony Bradford'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        73,
+        '2012-05-26 22:01:53',
+        'Instagram',
+        5,
+        2012,
+        'Stacy White'
+    ),
+    (
+        73,
+        '2012-05-26 22:01:53',
+        'Instagram',
+        1,
+        2012,
+        'Lynn Booth'
+    ),
+    (
+        73,
+        '2012-05-26 22:01:53',
+        'Instagram',
+        3,
+        2012,
+        'Jennifer Wolfe'
+    ),
+    (
+        806,
+        '2018-05-26 22:35:15',
+        'Web',
+        3,
+        2018,
+        'John Hubbard'
+    ),
+    (
+        806,
+        '2018-05-26 22:35:15',
+        'Web',
+        2,
+        2018,
+        'Laura Barnes'
+    ),
+    (
+        230,
+        '2017-05-27 22:36:00',
+        'Facebook',
+        5,
+        2017,
+        'Brandi Harris'
+    ),
+    (
+        230,
+        '2017-05-27 22:36:00',
+        'Facebook',
+        1,
+        2017,
+        'Nathan Williams'
+    ),
+    (
+        230,
+        '2017-05-27 22:36:00',
+        'Facebook',
+        4,
+        2017,
+        'Tina Roy'
+    ),
+    (
+        682,
+        '2016-05-28 22:12:54',
+        'Web',
+        2,
+        2016,
+        'Tara Mcgee'
+    ),
+    (
+        682,
+        '2016-05-28 22:12:54',
+        'Web',
+        3,
+        2016,
+        'Anne Mcfarland'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        682,
+        '2016-05-28 22:12:54',
+        'Web',
+        5,
+        2016,
+        'Kimberly Wilkins MD'
+    ),
+    (
+        682,
+        '2016-05-28 22:12:54',
+        'Web',
+        1,
+        2016,
+        'Brian Ingram'
+    ),
+    (
+        682,
+        '2016-05-28 22:12:54',
+        'Web',
+        4,
+        2016,
+        'Cathy Lewis'
+    ),
+    (
+        937,
+        '2023-05-27 22:37:12',
+        'Facebook',
+        4,
+        2023,
+        'Christine Hayes'
+    ),
+    (
+        937,
+        '2023-05-27 22:37:12',
+        'Facebook',
+        1,
+        2023,
+        'Samantha Erickson'
+    ),
+    (
+        937,
+        '2023-05-27 22:37:12',
+        'Facebook',
+        2,
+        2023,
+        'Megan Saunders'
+    ),
+    (
+        937,
+        '2023-05-27 22:37:12',
+        'Facebook',
+        3,
+        2023,
+        'Manuel Graves'
+    ),
+    (
+        937,
+        '2023-05-27 22:37:12',
+        'Facebook',
+        5,
+        2023,
+        'Jacqueline Wagner'
+    ),
+    (
+        794,
+        '2021-05-29 23:22:15',
+        'Facebook',
+        5,
+        2021,
+        'Caleb Ellison'
+    ),
+    (
+        794,
+        '2021-05-29 23:22:15',
+        'Facebook',
+        3,
+        2021,
+        'Tamara Barnes'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        473,
+        '2012-05-26 23:59:01',
+        'Web',
+        2,
+        2012,
+        'Jennifer Wolfe'
+    ),
+    (
+        473,
+        '2012-05-26 23:59:01',
+        'Web',
+        1,
+        2012,
+        'Jose Smith Jr.'
+    ),
+    (
+        473,
+        '2012-05-26 23:59:01',
+        'Web',
+        5,
+        2012,
+        'Stephanie Patrick'
+    ),
+    (
+        473,
+        '2012-05-26 23:59:01',
+        'Web',
+        3,
+        2012,
+        'Patrick Benson'
+    ),
+    (
+        473,
+        '2012-05-26 23:59:01',
+        'Web',
+        4,
+        2012,
+        'Stacy White'
+    ),
+    (
+        970,
+        '2012-05-26 22:08:29',
+        'Phone',
+        2,
+        2012,
+        'Maria Robertson'
+    ),
+    (
+        970,
+        '2012-05-26 22:08:29',
+        'Phone',
+        3,
+        2012,
+        'Anthony Bradford'
+    ),
+    (
+        970,
+        '2012-05-26 22:08:29',
+        'Phone',
+        5,
+        2012,
+        'Tyler Jordan'
+    ),
+    (
+        970,
+        '2012-05-26 22:08:29',
+        'Phone',
+        1,
+        2012,
+        'Stacy White'
+    ),
+    (
+        970,
+        '2012-05-26 22:08:29',
+        'Phone',
+        4,
+        2012,
+        'Jennifer Wolfe'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        483,
+        '2013-05-25 22:58:01',
+        'Facebook',
+        1,
+        2013,
+        'Cassandra Hooper'
+    ),
+    (
+        483,
+        '2013-05-25 22:58:01',
+        'Facebook',
+        3,
+        2013,
+        'Blake Martinez'
+    ),
+    (
+        483,
+        '2013-05-25 22:58:01',
+        'Facebook',
+        4,
+        2013,
+        'Thomas Hess'
+    ),
+    (
+        483,
+        '2013-05-25 22:58:01',
+        'Facebook',
+        2,
+        2013,
+        'Anthony Villanueva'
+    ),
+    (
+        483,
+        '2013-05-25 22:58:01',
+        'Facebook',
+        5,
+        2013,
+        'Angela Phillips'
+    ),
+    (
+        309,
+        '2016-05-28 23:40:39',
+        'Facebook',
+        3,
+        2016,
+        'Steve Bennett'
+    ),
+    (
+        309,
+        '2016-05-28 23:40:39',
+        'Facebook',
+        5,
+        2016,
+        'Cathy Lewis'
+    ),
+    (
+        309,
+        '2016-05-28 23:40:39',
+        'Facebook',
+        2,
+        2016,
+        'Melody Reese MD'
+    ),
+    (
+        309,
+        '2016-05-28 23:40:39',
+        'Facebook',
+        1,
+        2016,
+        'Tara Mcgee'
+    ),
+    (
+        309,
+        '2016-05-28 23:40:39',
+        'Facebook',
+        4,
+        2016,
+        'Kimberly Wilkins MD'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        221,
+        '2015-05-30 22:28:17',
+        'Facebook',
+        5,
+        2015,
+        'Nathan Bailey'
+    ),
+    (
+        221,
+        '2015-05-30 22:28:17',
+        'Facebook',
+        2,
+        2015,
+        'Nicholas Black'
+    ),
+    (
+        221,
+        '2015-05-30 22:28:17',
+        'Facebook',
+        1,
+        2015,
+        'Lisa Patrick'
+    ),
+    (
+        221,
+        '2015-05-30 22:28:17',
+        'Facebook',
+        3,
+        2015,
+        'Colleen White'
+    ),
+    (
+        221,
+        '2015-05-30 22:28:17',
+        'Facebook',
+        4,
+        2015,
+        'Heidi Barry'
+    ),
+    (
+        823,
+        '2009-05-30 23:46:34',
+        'Web',
+        4,
+        2009,
+        'Carrie Bell'
+    ),
+    (
+        823,
+        '2009-05-30 23:46:34',
+        'Web',
+        3,
+        2009,
+        'Leslie Saunders'
+    ),
+    (
+        823,
+        '2009-05-30 23:46:34',
+        'Web',
+        5,
+        2009,
+        'Matthew Garcia'
+    ),
+    (
+        823,
+        '2009-05-30 23:46:34',
+        'Web',
+        2,
+        2009,
+        'Olivia Nichols'
+    ),
+    (
+        823,
+        '2009-05-30 23:46:34',
+        'Web',
+        1,
+        2009,
+        'Jason Hebert'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        569,
+        '2012-05-26 22:18:25',
+        'Instagram',
+        2,
+        2012,
+        'Lynn Booth'
+    ),
+    (
+        569,
+        '2012-05-26 22:18:25',
+        'Instagram',
+        1,
+        2012,
+        'Anthony Bradford'
+    ),
+    (
+        569,
+        '2012-05-26 22:18:25',
+        'Instagram',
+        3,
+        2012,
+        'Kenneth Warner'
+    ),
+    (
+        569,
+        '2012-05-26 22:18:25',
+        'Instagram',
+        5,
+        2012,
+        'Tyler Jordan'
+    ),
+    (
+        569,
+        '2012-05-26 22:18:25',
+        'Instagram',
+        4,
+        2012,
+        'Jose Smith Jr.'
+    ),
+    (
+        808,
+        '2019-05-25 23:03:06',
+        'Instagram',
+        5,
+        2019,
+        'Cameron Hawkins'
+    ),
+    (
+        808,
+        '2019-05-25 23:03:06',
+        'Instagram',
+        2,
+        2019,
+        'Patrick Wilson'
+    ),
+    (
+        808,
+        '2019-05-25 23:03:06',
+        'Instagram',
+        1,
+        2019,
+        'Kathryn Alvarez'
+    ),
+    (
+        808,
+        '2019-05-25 23:03:06',
+        'Instagram',
+        4,
+        2019,
+        'Sarah Hancock'
+    ),
+    (
+        808,
+        '2019-05-25 23:03:06',
+        'Instagram',
+        3,
+        2019,
+        'Aaron Peterson'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        60,
+        '2024-05-25 23:17:04',
+        'Instagram',
+        5,
+        2024,
+        'Emily Buck'
+    ),
+    (
+        60,
+        '2024-05-25 23:17:04',
+        'Instagram',
+        4,
+        2024,
+        'Gabriel Arroyo'
+    ),
+    (
+        60,
+        '2024-05-25 23:17:04',
+        'Instagram',
+        2,
+        2024,
+        'Christopher Singh'
+    ),
+    (
+        60,
+        '2024-05-25 23:17:04',
+        'Instagram',
+        3,
+        2024,
+        'Taylor Lopez'
+    ),
+    (
+        60,
+        '2024-05-25 23:17:04',
+        'Instagram',
+        1,
+        2024,
+        'Amber Williams'
+    ),
+    (
+        143,
+        '2016-05-28 22:45:09',
+        'Facebook',
+        2,
+        2016,
+        'Amanda Patterson'
+    ),
+    (
+        143,
+        '2016-05-28 22:45:09',
+        'Facebook',
+        3,
+        2016,
+        'Cathy Lewis'
+    ),
+    (
+        143,
+        '2016-05-28 22:45:09',
+        'Facebook',
+        5,
+        2016,
+        'Steve Bennett'
+    ),
+    (
+        143,
+        '2016-05-28 22:45:09',
+        'Facebook',
+        1,
+        2016,
+        'Kimberly Wilkins MD'
+    ),
+    (
+        143,
+        '2016-05-28 22:45:09',
+        'Facebook',
+        4,
+        2016,
+        'Anne Mcfarland'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        395,
+        '2022-05-28 22:34:46',
+        'Instagram',
+        3,
+        2022,
+        'Andrew Hodges'
+    ),
+    (
+        395,
+        '2022-05-28 22:34:46',
+        'Instagram',
+        5,
+        2022,
+        'Gary Stone'
+    ),
+    (
+        454,
+        '2015-05-30 22:53:53',
+        'Phone',
+        5,
+        2015,
+        'Nathan Bailey'
+    ),
+    (
+        454,
+        '2015-05-30 22:53:53',
+        'Phone',
+        4,
+        2015,
+        'Louis Phillips'
+    ),
+    (
+        454,
+        '2015-05-30 22:53:53',
+        'Phone',
+        2,
+        2015,
+        'Brett Benjamin'
+    ),
+    (
+        182,
+        '2012-05-26 23:58:04',
+        'Phone',
+        3,
+        2012,
+        'Stacy White'
+    ),
+    (
+        182,
+        '2012-05-26 23:58:04',
+        'Phone',
+        4,
+        2012,
+        'Jose Smith Jr.'
+    ),
+    (
+        352,
+        '2015-05-30 22:55:50',
+        'Facebook',
+        2,
+        2015,
+        'Louis Phillips'
+    ),
+    (
+        352,
+        '2015-05-30 22:55:50',
+        'Facebook',
+        5,
+        2015,
+        'Travis Hays'
+    ),
+    (
+        352,
+        '2015-05-30 22:55:50',
+        'Facebook',
+        3,
+        2015,
+        'Heidi Barry'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        352,
+        '2015-05-30 22:55:50',
+        'Facebook',
+        4,
+        2015,
+        'Robert White'
+    ),
+    (
+        271,
+        '2017-05-27 22:59:03',
+        'Phone',
+        5,
+        2017,
+        'Rachel Cole'
+    ),
+    (
+        271,
+        '2017-05-27 22:59:03',
+        'Phone',
+        2,
+        2017,
+        'Brian Mccall'
+    ),
+    (
+        271,
+        '2017-05-27 22:59:03',
+        'Phone',
+        3,
+        2017,
+        'Tina Roy'
+    ),
+    (
+        271,
+        '2017-05-27 22:59:03',
+        'Phone',
+        4,
+        2017,
+        'Matthew Vaughn'
+    ),
+    (
+        271,
+        '2017-05-27 22:59:03',
+        'Phone',
+        1,
+        2017,
+        'Brandi Harris'
+    ),
+    (
+        645,
+        '2024-05-25 23:11:42',
+        'Facebook',
+        5,
+        2024,
+        'Gabriel Arroyo'
+    ),
+    (
+        645,
+        '2024-05-25 23:11:42',
+        'Facebook',
+        3,
+        2024,
+        'Christopher Singh'
+    ),
+    (
+        645,
+        '2024-05-25 23:11:42',
+        'Facebook',
+        2,
+        2024,
+        'Emily Buck'
+    ),
+    (
+        645,
+        '2024-05-25 23:11:42',
+        'Facebook',
+        4,
+        2024,
+        'Taylor Lopez'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        645,
+        '2024-05-25 23:11:42',
+        'Facebook',
+        1,
+        2024,
+        'Christy Perry'
+    ),
+    (
+        400,
+        '2009-05-30 22:41:00',
+        'Phone',
+        3,
+        2009,
+        'Kimberly Craig'
+    ),
+    (
+        400,
+        '2009-05-30 22:41:00',
+        'Phone',
+        2,
+        2009,
+        'Sandra Lopez'
+    ),
+    (
+        400,
+        '2009-05-30 22:41:00',
+        'Phone',
+        5,
+        2009,
+        'Melanie Hall'
+    ),
+    (
+        400,
+        '2009-05-30 22:41:00',
+        'Phone',
+        1,
+        2009,
+        'Olivia Nichols'
+    ),
+    (
+        400,
+        '2009-05-30 22:41:00',
+        'Phone',
+        4,
+        2009,
+        'Carrie Bell'
+    ),
+    (
+        555,
+        '2018-05-26 22:39:32',
+        'Phone',
+        1,
+        2018,
+        'Brandon Ruiz'
+    ),
+    (
+        555,
+        '2018-05-26 22:39:32',
+        'Phone',
+        2,
+        2018,
+        'Kimberly Davis'
+    ),
+    (
+        18,
+        '2012-05-26 23:30:32',
+        'Phone',
+        1,
+        2012,
+        'Stephanie Patrick'
+    ),
+    (
+        18,
+        '2012-05-26 23:30:32',
+        'Phone',
+        4,
+        2012,
+        'Jose Smith Jr.'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        18,
+        '2012-05-26 23:30:32',
+        'Phone',
+        3,
+        2012,
+        'Kenneth Warner'
+    ),
+    (
+        18,
+        '2012-05-26 23:30:32',
+        'Phone',
+        2,
+        2012,
+        'Tyler Jordan'
+    ),
+    (
+        18,
+        '2012-05-26 23:30:32',
+        'Phone',
+        5,
+        2012,
+        'Jennifer Wolfe'
+    ),
+    (
+        368,
+        '2013-05-25 23:05:05',
+        'Web',
+        4,
+        2013,
+        'Nancy Mcmahon'
+    ),
+    (
+        368,
+        '2013-05-25 23:05:05',
+        'Web',
+        3,
+        2013,
+        'Blake Martinez'
+    ),
+    (
+        368,
+        '2013-05-25 23:05:05',
+        'Web',
+        5,
+        2013,
+        'Cassandra Hooper'
+    ),
+    (
+        368,
+        '2013-05-25 23:05:05',
+        'Web',
+        1,
+        2013,
+        'Tony Prince'
+    ),
+    (
+        368,
+        '2013-05-25 23:05:05',
+        'Web',
+        2,
+        2013,
+        'Thomas Hess'
+    ),
+    (
+        23,
+        '2022-05-28 23:16:20',
+        'Phone',
+        5,
+        2022,
+        'Michelle Martin'
+    ),
+    (
+        23,
+        '2022-05-28 23:16:20',
+        'Phone',
+        2,
+        2022,
+        'Robert Curtis'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        23,
+        '2022-05-28 23:16:20',
+        'Phone',
+        3,
+        2022,
+        'Michael Baker'
+    ),
+    (
+        23,
+        '2022-05-28 23:16:20',
+        'Phone',
+        4,
+        2022,
+        'Stephanie Smith'
+    ),
+    (
+        23,
+        '2022-05-28 23:16:20',
+        'Phone',
+        1,
+        2022,
+        'Martin Moore'
+    ),
+    (
+        97,
+        '2010-05-29 23:14:28',
+        'Instagram',
+        5,
+        2010,
+        'Timothy Sandoval'
+    ),
+    (
+        97,
+        '2010-05-29 23:14:28',
+        'Instagram',
+        2,
+        2010,
+        'Kayla Vargas'
+    ),
+    (
+        97,
+        '2010-05-29 23:14:28',
+        'Instagram',
+        4,
+        2010,
+        'Matthew Rice'
+    ),
+    (
+        97,
+        '2010-05-29 23:14:28',
+        'Instagram',
+        1,
+        2010,
+        'Kyle Weiss'
+    ),
+    (
+        97,
+        '2010-05-29 23:14:28',
+        'Instagram',
+        3,
+        2010,
+        'Rachel Melton'
+    ),
+    (
+        556,
+        '2018-05-26 23:46:55',
+        'Instagram',
+        2,
+        2018,
+        'Jessica Williams'
+    ),
+    (
+        556,
+        '2018-05-26 23:46:55',
+        'Instagram',
+        1,
+        2018,
+        'Brandon Ruiz'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        556,
+        '2018-05-26 23:46:55',
+        'Instagram',
+        3,
+        2018,
+        'Carrie Clark'
+    ),
+    (
+        556,
+        '2018-05-26 23:46:55',
+        'Instagram',
+        5,
+        2018,
+        'Charles Glover'
+    ),
+    (
+        556,
+        '2018-05-26 23:46:55',
+        'Instagram',
+        4,
+        2018,
+        'Steven Cox'
+    ),
+    (
+        149,
+        '2012-05-26 22:27:58',
+        'Phone',
+        5,
+        2012,
+        'Patrick Benson'
+    ),
+    (
+        149,
+        '2012-05-26 22:27:58',
+        'Phone',
+        4,
+        2012,
+        'Jennifer Wolfe'
+    ),
+    (
+        149,
+        '2012-05-26 22:27:58',
+        'Phone',
+        3,
+        2012,
+        'Kenneth Warner'
+    ),
+    (
+        149,
+        '2012-05-26 22:27:58',
+        'Phone',
+        1,
+        2012,
+        'Jose Smith Jr.'
+    ),
+    (
+        149,
+        '2012-05-26 22:27:58',
+        'Phone',
+        2,
+        2012,
+        'Stacy White'
+    ),
+    (
+        528,
+        '2015-05-30 22:35:53',
+        'Web',
+        3,
+        2015,
+        'Nicholas Black'
+    ),
+    (
+        528,
+        '2015-05-30 22:35:53',
+        'Web',
+        4,
+        2015,
+        'Brett Benjamin'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        528,
+        '2015-05-30 22:35:53',
+        'Web',
+        5,
+        2015,
+        'Louis Phillips'
+    ),
+    (
+        528,
+        '2015-05-30 22:35:53',
+        'Web',
+        1,
+        2015,
+        'Robert White'
+    ),
+    (
+        528,
+        '2015-05-30 22:35:53',
+        'Web',
+        2,
+        2015,
+        'Colleen White'
+    ),
+    (
+        530,
+        '2018-05-26 22:28:04',
+        'Instagram',
+        4,
+        2018,
+        'Brandon Ruiz'
+    ),
+    (
+        530,
+        '2018-05-26 22:28:04',
+        'Instagram',
+        2,
+        2018,
+        'Kimberly Davis'
+    ),
+    (
+        530,
+        '2018-05-26 22:28:04',
+        'Instagram',
+        3,
+        2018,
+        'Diane Harrison'
+    ),
+    (
+        530,
+        '2018-05-26 22:28:04',
+        'Instagram',
+        1,
+        2018,
+        'John Hubbard'
+    ),
+    (
+        530,
+        '2018-05-26 22:28:04',
+        'Instagram',
+        5,
+        2018,
+        'Steven Cox'
+    ),
+    (
+        264,
+        '2023-05-27 23:41:05',
+        'Instagram',
+        5,
+        2023,
+        'Paula Henderson'
+    ),
+    (
+        264,
+        '2023-05-27 23:41:05',
+        'Instagram',
+        3,
+        2023,
+        'Scott Baker'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        264,
+        '2023-05-27 23:41:05',
+        'Instagram',
+        2,
+        2023,
+        'Manuel Graves'
+    ),
+    (
+        264,
+        '2023-05-27 23:41:05',
+        'Instagram',
+        4,
+        2023,
+        'Michael Butler'
+    ),
+    (
+        264,
+        '2023-05-27 23:41:05',
+        'Instagram',
+        1,
+        2023,
+        'Jacqueline Wagner'
+    ),
+    (
+        37,
+        '2014-05-31 22:08:14',
+        'Phone',
+        2,
+        2014,
+        'Christopher Hodge'
+    ),
+    (
+        37,
+        '2014-05-31 22:08:14',
+        'Phone',
+        4,
+        2014,
+        'Luke Williams'
+    ),
+    (
+        37,
+        '2014-05-31 22:08:14',
+        'Phone',
+        3,
+        2014,
+        'John Conner'
+    ),
+    (
+        37,
+        '2014-05-31 22:08:14',
+        'Phone',
+        1,
+        2014,
+        'Melissa Williams'
+    ),
+    (
+        37,
+        '2014-05-31 22:08:14',
+        'Phone',
+        5,
+        2014,
+        'Teresa Martin'
+    ),
+    (
+        114,
+        '2024-05-25 23:56:40',
+        'Facebook',
+        3,
+        2024,
+        'Austin Williams'
+    ),
+    (
+        114,
+        '2024-05-25 23:56:40',
+        'Facebook',
+        4,
+        2024,
+        'Jessica Murphy'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        114,
+        '2024-05-25 23:56:40',
+        'Facebook',
+        1,
+        2024,
+        'Richard Lewis'
+    ),
+    (
+        114,
+        '2024-05-25 23:56:40',
+        'Facebook',
+        2,
+        2024,
+        'Christy Perry'
+    ),
+    (
+        114,
+        '2024-05-25 23:56:40',
+        'Facebook',
+        5,
+        2024,
+        'Emily Buck'
+    ),
+    (
+        875,
+        '2010-05-29 23:48:53',
+        'Facebook',
+        2,
+        2010,
+        'Kyle Weiss'
+    ),
+    (
+        875,
+        '2010-05-29 23:48:53',
+        'Facebook',
+        1,
+        2010,
+        'Kevin Wilson'
+    ),
+    (
+        875,
+        '2010-05-29 23:48:53',
+        'Facebook',
+        4,
+        2010,
+        'Timothy Sandoval'
+    ),
+    (
+        875,
+        '2010-05-29 23:48:53',
+        'Facebook',
+        3,
+        2010,
+        'David Williams'
+    ),
+    (
+        875,
+        '2010-05-29 23:48:53',
+        'Facebook',
+        5,
+        2010,
+        'Richard Dawson'
+    ),
+    (
+        159,
+        '2019-05-25 22:29:36',
+        'Instagram',
+        5,
+        2019,
+        'Aaron Peterson'
+    ),
+    (
+        159,
+        '2019-05-25 22:29:36',
+        'Instagram',
+        4,
+        2019,
+        'Samantha Jones'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        159,
+        '2019-05-25 22:29:36',
+        'Instagram',
+        2,
+        2019,
+        'Jennifer Ford'
+    ),
+    (
+        159,
+        '2019-05-25 22:29:36',
+        'Instagram',
+        1,
+        2019,
+        'Sarah Hancock'
+    ),
+    (
+        159,
+        '2019-05-25 22:29:36',
+        'Instagram',
+        3,
+        2019,
+        'Cameron Hawkins'
+    ),
+    (
+        224,
+        '2020-05-30 23:04:00',
+        'Instagram',
+        4,
+        2020,
+        'Jacob Hickman'
+    ),
+    (
+        224,
+        '2020-05-30 23:04:00',
+        'Instagram',
+        3,
+        2020,
+        'Charles Washington'
+    ),
+    (
+        735,
+        '2011-05-28 22:10:13',
+        'Facebook',
+        4,
+        2011,
+        'Keith Ingram'
+    ),
+    (
+        735,
+        '2011-05-28 22:10:13',
+        'Facebook',
+        1,
+        2011,
+        'Justin Kelly'
+    ),
+    (
+        735,
+        '2011-05-28 22:10:13',
+        'Facebook',
+        3,
+        2011,
+        'Carmen Mitchell'
+    ),
+    (
+        735,
+        '2011-05-28 22:10:13',
+        'Facebook',
+        2,
+        2011,
+        'Andres Rubio'
+    ),
+    (
+        735,
+        '2011-05-28 22:10:13',
+        'Facebook',
+        5,
+        2011,
+        'Ashley Lawson'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        764,
+        '2012-05-26 23:30:16',
+        'Web',
+        4,
+        2012,
+        'Lynn Booth'
+    ),
+    (
+        764,
+        '2012-05-26 23:30:16',
+        'Web',
+        5,
+        2012,
+        'Maria Robertson'
+    ),
+    (
+        764,
+        '2012-05-26 23:30:16',
+        'Web',
+        3,
+        2012,
+        'Stacy White'
+    ),
+    (
+        764,
+        '2012-05-26 23:30:16',
+        'Web',
+        2,
+        2012,
+        'Anthony Bradford'
+    ),
+    (
+        764,
+        '2012-05-26 23:30:16',
+        'Web',
+        1,
+        2012,
+        'Stephanie Patrick'
+    ),
+    (
+        417,
+        '2013-05-25 22:10:26',
+        'Web',
+        5,
+        2013,
+        'Nancy Mcmahon'
+    ),
+    (
+        417,
+        '2013-05-25 22:10:26',
+        'Web',
+        4,
+        2013,
+        'Cassandra Hooper'
+    ),
+    (
+        417,
+        '2013-05-25 22:10:26',
+        'Web',
+        1,
+        2013,
+        'Diane Cooper'
+    ),
+    (
+        417,
+        '2013-05-25 22:10:26',
+        'Web',
+        3,
+        2013,
+        'Anthony Villanueva'
+    ),
+    (
+        417,
+        '2013-05-25 22:10:26',
+        'Web',
+        2,
+        2013,
+        'Angela Phillips'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        42,
+        '2019-05-25 23:59:59',
+        'Facebook',
+        1,
+        2019,
+        'Sarah Hancock'
+    ),
+    (
+        42,
+        '2019-05-25 23:59:59',
+        'Facebook',
+        3,
+        2019,
+        'Aaron Peterson'
+    ),
+    (
+        42,
+        '2019-05-25 23:59:59',
+        'Facebook',
+        4,
+        2019,
+        'Kyle Hernandez'
+    ),
+    (
+        42,
+        '2019-05-25 23:59:59',
+        'Facebook',
+        5,
+        2019,
+        'Cameron Hawkins'
+    ),
+    (
+        42,
+        '2019-05-25 23:59:59',
+        'Facebook',
+        2,
+        2019,
+        'Patrick Wilson'
+    ),
+    (
+        404,
+        '2022-05-28 23:21:23',
+        'Instagram',
+        2,
+        2022,
+        'Michael Baker'
+    ),
+    (
+        404,
+        '2022-05-28 23:21:23',
+        'Instagram',
+        1,
+        2022,
+        'Michelle Martin'
+    ),
+    (
+        404,
+        '2022-05-28 23:21:23',
+        'Instagram',
+        4,
+        2022,
+        'Andrew Hodges'
+    ),
+    (
+        404,
+        '2022-05-28 23:21:23',
+        'Instagram',
+        3,
+        2022,
+        'Martin Moore'
+    ),
+    (
+        404,
+        '2022-05-28 23:21:23',
+        'Instagram',
+        5,
+        2022,
+        'Andre Burton'
+    );
+
+INSERT INTO
+    musiccompdb.votes (
+        viewerid,
+        votedate,
+        votemode,
+        vote,
+        edition_year,
+        partname
+    )
+VALUES (
+        486,
+        '2022-05-28 23:15:48',
+        'Web',
+        4,
+        2022,
+        'Michael Martinez'
+    ),
+    (
+        486,
+        '2022-05-28 23:15:48',
+        'Web',
+        3,
+        2022,
+        'Thomas Gregory'
+    ),
+    (
+        486,
+        '2022-05-28 23:15:48',
+        'Web',
+        5,
+        2022,
+        'Michelle Martin'
+    ),
+    (
+        486,
+        '2022-05-28 23:15:48',
+        'Web',
+        1,
+        2022,
+        'Stephanie Smith'
+    ),
+    (
+        486,
+        '2022-05-28 23:15:48',
+        'Web',
+        2,
+        2022,
+        'Robert Curtis'
+    ),
+    (
+        515,
+        '2016-05-28 22:09:54',
+        'Facebook',
+        2,
+        2016,
+        'Melody Reese MD'
+    ),
+    (
+        515,
+        '2016-05-28 22:09:54',
+        'Facebook',
+        5,
+        2016,
+        'Brian Ingram'
+    ),

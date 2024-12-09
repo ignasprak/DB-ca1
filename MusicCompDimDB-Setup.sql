@@ -224,3 +224,78 @@ GROUP BY
     cd.CountyName,
     vf.VoteMode,
     vf.ViewerAgeGrp;
+
+--  --  --  --  --
+--  C20424992   --
+--      -       --
+--      Q2      --
+--  --  --  --  --
+
+-- C20424992 - Aadd a pre-aggregated fact table for county-based votes
+CREATE TABLE MusicCompDimDB_c20424992.CountyVotesFact (
+    EditionYear INT,
+    CountyID INT,
+    ParticipantName VARCHAR(100),
+    ViewerCategory INT,
+    TotalVotes INT,
+    PRIMARY KEY (
+        EditionYear,
+        CountyID,
+        ParticipantName,
+        ViewerCategory
+    ),
+    FOREIGN KEY (CountyID) REFERENCES MusicCompDimDB_c20424992.CountyDimension (CountyID),
+    FOREIGN KEY (ParticipantName) REFERENCES MusicCompDimDB_c20424992.ParticipantDimension (ParticipantName),
+    FOREIGN KEY (ViewerCategory) REFERENCES MusicCompDimDB_c20424992.CategoryDimension (CatID)
+);
+
+-- C20424992 - An ETL process to populate that table
+INSERT INTO
+    MusicCompDimDB_c20424992.CountyVotesFact (
+        EditionYear,
+        CountyID,
+        ParticipantName,
+        ViewerCategory,
+        TotalVotes
+    )
+SELECT
+    v.EDITION_YEAR,
+    p.COUNTYID,
+    v.PARTNAME,
+    vw.CATEGORY AS ViewerCategory,
+    COUNT(v.VOTE) AS TotalVotes
+FROM MusicCompDB.VOTES v
+    JOIN MusicCompDB.VIEWERS vw ON v.VIEWERID = vw.VIEWERID
+    JOIN MusicCompDB.PARTICIPANTS p ON v.PARTNAME = p.PARTNAME
+WHERE
+    vw.COUNTY = p.COUNTYID
+GROUP BY
+    v.EDITION_YEAR,
+    p.COUNTYID,
+    v.PARTNAME,
+    vw.CATEGORY;
+
+--  --  --  --  --
+--  C20424992   --
+--      -       --
+--      Q3      --
+--  --  --  --  --
+
+-- C20424992 - introduce new column to pre-calculate and store income/vote
+ALTER TABLE MusicCompDimDB_c20424992.VotesFact
+ADD COLUMN VoteIncome DECIMAL(10, 2);
+
+-- C20424992 - populate the VoteIncome column based on year-specific rates
+UPDATE MusicCompDimDB_c20424992.VotesFact
+SET
+    VoteIncome = CASE
+        WHEN EditionYear <= 2021
+        AND VoteMode IN ('Facebook', 'Instagram') THEN 0.20
+        WHEN EditionYear <= 2021
+        AND VoteMode IN ('Web', 'Phone') THEN 0.50
+        WHEN EditionYear > 2021
+        AND VoteMode IN ('Facebook', 'Instagram') THEN 0.50
+        WHEN EditionYear > 2021
+        AND VoteMode IN ('Web', 'Phone') THEN 1.00
+        ELSE 0.00
+    END;
