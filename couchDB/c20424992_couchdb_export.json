@@ -1,0 +1,1886 @@
+{
+    "total_rows": 100,
+    "offset": 0,
+    "rows": [
+        {
+            "id": "2021:fact:Aaron Baldwin",
+            "key": "2021:fact:Aaron Baldwin",
+            "value": {
+                "rev": "1-6cb0ca9e037c9cf93805bfd3009a987c"
+            },
+            "doc": {
+                "_id": "2021:fact:Aaron Baldwin",
+                "_rev": "1-6cb0ca9e037c9cf93805bfd3009a987c",
+                "type": "fact",
+                "data": {
+                    "votes": [
+                        "2021:vote:Aaron Baldwin:I",
+                        "2021:vote:Aaron Baldwin:F",
+                        "2021:vote:Aaron Baldwin:W",
+                        "2021:vote:Aaron Baldwin:P"
+                    ],
+                    "edition_year": 2021,
+                    "participant_name": "Aaron Baldwin"
+                }
+            }
+        },
+        {
+            "id": "2021:fact:Amber Mcdowell",
+            "key": "2021:fact:Amber Mcdowell",
+            "value": {
+                "rev": "1-05cbdd71c96eb93803205ca770327a52"
+            },
+            "doc": {
+                "_id": "2021:fact:Amber Mcdowell",
+                "_rev": "1-05cbdd71c96eb93803205ca770327a52",
+                "type": "fact",
+                "data": {
+                    "votes": [
+                        "2021:vote:Amber Mcdowell:P",
+                        "2021:vote:Amber Mcdowell:I",
+                        "2021:vote:Amber Mcdowell:F",
+                        "2021:vote:Amber Mcdowell:W"
+                    ],
+                    "edition_year": 2021,
+                    "participant_name": "Amber Mcdowell"
+                }
+            }
+        },
+        {
+            "id": "2021:fact:Ann Perez",
+            "key": "2021:fact:Ann Perez",
+            "value": {
+                "rev": "1-8d3afe1ed5dfe02f9dec86740872030f"
+            },
+            "doc": {
+                "_id": "2021:fact:Ann Perez",
+                "_rev": "1-8d3afe1ed5dfe02f9dec86740872030f",
+                "type": "fact",
+                "data": {
+                    "votes": [
+                        "2021:vote:Ann Perez:F",
+                        "2021:vote:Ann Perez:P",
+                        "2021:vote:Ann Perez:I",
+                        "2021:vote:Ann Perez:W"
+                    ],
+                    "edition_year": 2021,
+                    "participant_name": "Ann Perez"
+                }
+            }
+        },
+        {
+            "id": "2021:fact:Caleb Ellison",
+            "key": "2021:fact:Caleb Ellison",
+            "value": {
+                "rev": "1-7de7f5b61a9814a0c30ac8ed5f2ae3a7"
+            },
+            "doc": {
+                "_id": "2021:fact:Caleb Ellison",
+                "_rev": "1-7de7f5b61a9814a0c30ac8ed5f2ae3a7",
+                "type": "fact",
+                "data": {
+                    "votes": [
+                        "2021:vote:Caleb Ellison:F",
+                        "2021:vote:Caleb Ellison:I",
+                        "2021:vote:Caleb Ellison:W",
+                        "2021:vote:Caleb Ellison:P"
+                    ],
+                    "edition_year": 2021,
+                    "participant_name": "Caleb Ellison"
+                }
+            }
+        },
+        {
+            "id": "2021:fact:Jack Singh",
+            "key": "2021:fact:Jack Singh",
+            "value": {
+                "rev": "1-02c0215b1a52e87b492a99b49d5e81a8"
+            },
+            "doc": {
+                "_id": "2021:fact:Jack Singh",
+                "_rev": "1-02c0215b1a52e87b492a99b49d5e81a8",
+                "type": "fact",
+                "data": {
+                    "votes": [
+                        "2021:vote:Jack Singh:P",
+                        "2021:vote:Jack Singh:F",
+                        "2021:vote:Jack Singh:W",
+                        "2021:vote:Jack Singh:I"
+                    ],
+                    "edition_year": 2021,
+                    "participant_name": "Jack Singh"
+                }
+            }
+        },
+        {
+            "id": "2021:fact:Manuel Caldwell",
+            "key": "2021:fact:Manuel Caldwell",
+            "value": {
+                "rev": "1-9b1ee5c0a5b526669afcfae52cde07ff"
+            },
+            "doc": {
+                "_id": "2021:fact:Manuel Caldwell",
+                "_rev": "1-9b1ee5c0a5b526669afcfae52cde07ff",
+                "type": "fact",
+                "data": {
+                    "votes": [
+                        "2021:vote:Manuel Caldwell:I",
+                        "2021:vote:Manuel Caldwell:W",
+                        "2021:vote:Manuel Caldwell:P",
+                        "2021:vote:Manuel Caldwell:F"
+                    ],
+                    "edition_year": 2021,
+                    "participant_name": "Manuel Caldwell"
+                }
+            }
+        },
+        {
+            "id": "2021:fact:Robin Myers",
+            "key": "2021:fact:Robin Myers",
+            "value": {
+                "rev": "1-e3da76befb3a4be35d481f9cf9cc6f9a"
+            },
+            "doc": {
+                "_id": "2021:fact:Robin Myers",
+                "_rev": "1-e3da76befb3a4be35d481f9cf9cc6f9a",
+                "type": "fact",
+                "data": {
+                    "votes": [
+                        "2021:vote:Robin Myers:F",
+                        "2021:vote:Robin Myers:I",
+                        "2021:vote:Robin Myers:W",
+                        "2021:vote:Robin Myers:P"
+                    ],
+                    "edition_year": 2021,
+                    "participant_name": "Robin Myers"
+                }
+            }
+        },
+        {
+            "id": "2021:fact:Samantha Lee",
+            "key": "2021:fact:Samantha Lee",
+            "value": {
+                "rev": "1-a91e507cd0d27ebede2c8c88f5e82805"
+            },
+            "doc": {
+                "_id": "2021:fact:Samantha Lee",
+                "_rev": "1-a91e507cd0d27ebede2c8c88f5e82805",
+                "type": "fact",
+                "data": {
+                    "votes": [
+                        "2021:vote:Samantha Lee:W",
+                        "2021:vote:Samantha Lee:F",
+                        "2021:vote:Samantha Lee:P",
+                        "2021:vote:Samantha Lee:I"
+                    ],
+                    "edition_year": 2021,
+                    "participant_name": "Samantha Lee"
+                }
+            }
+        },
+        {
+            "id": "2021:fact:Tamara Barnes",
+            "key": "2021:fact:Tamara Barnes",
+            "value": {
+                "rev": "1-a11180b6a34ef5af2e80d25e145ffe25"
+            },
+            "doc": {
+                "_id": "2021:fact:Tamara Barnes",
+                "_rev": "1-a11180b6a34ef5af2e80d25e145ffe25",
+                "type": "fact",
+                "data": {
+                    "votes": [
+                        "2021:vote:Tamara Barnes:I",
+                        "2021:vote:Tamara Barnes:W",
+                        "2021:vote:Tamara Barnes:P",
+                        "2021:vote:Tamara Barnes:F"
+                    ],
+                    "edition_year": 2021,
+                    "participant_name": "Tamara Barnes"
+                }
+            }
+        },
+        {
+            "id": "2021:fact:Thomas Smith",
+            "key": "2021:fact:Thomas Smith",
+            "value": {
+                "rev": "1-3fb4e926d15b34d88426a1c2b4cc595f"
+            },
+            "doc": {
+                "_id": "2021:fact:Thomas Smith",
+                "_rev": "1-3fb4e926d15b34d88426a1c2b4cc595f",
+                "type": "fact",
+                "data": {
+                    "votes": [
+                        "2021:vote:Thomas Smith:I",
+                        "2021:vote:Thomas Smith:P",
+                        "2021:vote:Thomas Smith:F",
+                        "2021:vote:Thomas Smith:W"
+                    ],
+                    "edition_year": 2021,
+                    "participant_name": "Thomas Smith"
+                }
+            }
+        },
+        {
+            "id": "2021:vote:Aaron Baldwin:F",
+            "key": "2021:vote:Aaron Baldwin:F",
+            "value": {
+                "rev": "1-6dd02722c54fd2169691f872e93d7cf8"
+            },
+            "doc": {
+                "_id": "2021:vote:Aaron Baldwin:F",
+                "_rev": "1-6dd02722c54fd2169691f872e93d7cf8",
+                "type": "vote",
+                "data": {
+                    "edition_year": 2021,
+                    "participant_name": "Aaron Baldwin",
+                    "vote_mode": "Facebook",
+                    "total_votes": 51
+                }
+            }
+        },
+        {
+            "id": "2021:vote:Aaron Baldwin:I",
+            "key": "2021:vote:Aaron Baldwin:I",
+            "value": {
+                "rev": "1-b0615e360ec3f61b7f724c348c071c17"
+            },
+            "doc": {
+                "_id": "2021:vote:Aaron Baldwin:I",
+                "_rev": "1-b0615e360ec3f61b7f724c348c071c17",
+                "type": "vote",
+                "data": {
+                    "edition_year": 2021,
+                    "participant_name": "Aaron Baldwin",
+                    "vote_mode": "Instagram",
+                    "total_votes": 46
+                }
+            }
+        },
+        {
+            "id": "2021:vote:Aaron Baldwin:P",
+            "key": "2021:vote:Aaron Baldwin:P",
+            "value": {
+                "rev": "1-1217f9ffb4e98a1a4004de1c7934b717"
+            },
+            "doc": {
+                "_id": "2021:vote:Aaron Baldwin:P",
+                "_rev": "1-1217f9ffb4e98a1a4004de1c7934b717",
+                "type": "vote",
+                "data": {
+                    "edition_year": 2021,
+                    "participant_name": "Aaron Baldwin",
+                    "vote_mode": "Phone",
+                    "total_votes": 32
+                }
+            }
+        },
+        {
+            "id": "2021:vote:Aaron Baldwin:W",
+            "key": "2021:vote:Aaron Baldwin:W",
+            "value": {
+                "rev": "1-233cc923a55486778426fae83c123c68"
+            },
+            "doc": {
+                "_id": "2021:vote:Aaron Baldwin:W",
+                "_rev": "1-233cc923a55486778426fae83c123c68",
+                "type": "vote",
+                "data": {
+                    "edition_year": 2021,
+                    "participant_name": "Aaron Baldwin",
+                    "vote_mode": "Web",
+                    "total_votes": 34
+                }
+            }
+        },
+        {
+            "id": "2021:vote:Amber Mcdowell:F",
+            "key": "2021:vote:Amber Mcdowell:F",
+            "value": {
+                "rev": "1-ed0b3744398cc6a1989df50a77c2ae9d"
+            },
+            "doc": {
+                "_id": "2021:vote:Amber Mcdowell:F",
+                "_rev": "1-ed0b3744398cc6a1989df50a77c2ae9d",
+                "type": "vote",
+                "data": {
+                    "edition_year": 2021,
+                    "participant_name": "Amber Mcdowell",
+                    "vote_mode": "Facebook",
+                    "total_votes": 42
+                }
+            }
+        },
+        {
+            "id": "2021:vote:Amber Mcdowell:I",
+            "key": "2021:vote:Amber Mcdowell:I",
+            "value": {
+                "rev": "1-60782969b77e406708ecdd868738396e"
+            },
+            "doc": {
+                "_id": "2021:vote:Amber Mcdowell:I",
+                "_rev": "1-60782969b77e406708ecdd868738396e",
+                "type": "vote",
+                "data": {
+                    "edition_year": 2021,
+                    "participant_name": "Amber Mcdowell",
+                    "vote_mode": "Instagram",
+                    "total_votes": 46
+                }
+            }
+        },
+        {
+            "id": "2021:vote:Amber Mcdowell:P",
+            "key": "2021:vote:Amber Mcdowell:P",
+            "value": {
+                "rev": "1-6d8fa0dfd2cbe2ab7fc8a9a7c42c8efe"
+            },
+            "doc": {
+                "_id": "2021:vote:Amber Mcdowell:P",
+                "_rev": "1-6d8fa0dfd2cbe2ab7fc8a9a7c42c8efe",
+                "type": "vote",
+                "data": {
+                    "edition_year": 2021,
+                    "participant_name": "Amber Mcdowell",
+                    "vote_mode": "Phone",
+                    "total_votes": 31
+                }
+            }
+        },
+        {
+            "id": "2021:vote:Amber Mcdowell:W",
+            "key": "2021:vote:Amber Mcdowell:W",
+            "value": {
+                "rev": "1-8277a743e4b570835f012adb1020fbe2"
+            },
+            "doc": {
+                "_id": "2021:vote:Amber Mcdowell:W",
+                "_rev": "1-8277a743e4b570835f012adb1020fbe2",
+                "type": "vote",
+                "data": {
+                    "edition_year": 2021,
+                    "participant_name": "Amber Mcdowell",
+                    "vote_mode": "Web",
+                    "total_votes": 42
+                }
+            }
+        },
+        {
+            "id": "2021:vote:Ann Perez:F",
+            "key": "2021:vote:Ann Perez:F",
+            "value": {
+                "rev": "1-673a99afcf9a6ff00c542776efc8b35d"
+            },
+            "doc": {
+                "_id": "2021:vote:Ann Perez:F",
+                "_rev": "1-673a99afcf9a6ff00c542776efc8b35d",
+                "type": "vote",
+                "data": {
+                    "edition_year": 2021,
+                    "participant_name": "Ann Perez",
+                    "vote_mode": "Facebook",
+                    "total_votes": 49
+                }
+            }
+        },
+        {
+            "id": "2021:vote:Ann Perez:I",
+            "key": "2021:vote:Ann Perez:I",
+            "value": {
+                "rev": "1-3e18edcd64921e4b8eb5d307443f0f54"
+            },
+            "doc": {
+                "_id": "2021:vote:Ann Perez:I",
+                "_rev": "1-3e18edcd64921e4b8eb5d307443f0f54",
+                "type": "vote",
+                "data": {
+                    "edition_year": 2021,
+                    "participant_name": "Ann Perez",
+                    "vote_mode": "Instagram",
+                    "total_votes": 44
+                }
+            }
+        },
+        {
+            "id": "2021:vote:Ann Perez:P",
+            "key": "2021:vote:Ann Perez:P",
+            "value": {
+                "rev": "1-59bb49108a3e0a2421a8f02aa14fcc6d"
+            },
+            "doc": {
+                "_id": "2021:vote:Ann Perez:P",
+                "_rev": "1-59bb49108a3e0a2421a8f02aa14fcc6d",
+                "type": "vote",
+                "data": {
+                    "edition_year": 2021,
+                    "participant_name": "Ann Perez",
+                    "vote_mode": "Phone",
+                    "total_votes": 33
+                }
+            }
+        },
+        {
+            "id": "2021:vote:Ann Perez:W",
+            "key": "2021:vote:Ann Perez:W",
+            "value": {
+                "rev": "1-a0a1bfd0ae66be53486e609f7b5907a0"
+            },
+            "doc": {
+                "_id": "2021:vote:Ann Perez:W",
+                "_rev": "1-a0a1bfd0ae66be53486e609f7b5907a0",
+                "type": "vote",
+                "data": {
+                    "edition_year": 2021,
+                    "participant_name": "Ann Perez",
+                    "vote_mode": "Web",
+                    "total_votes": 40
+                }
+            }
+        },
+        {
+            "id": "2021:vote:Caleb Ellison:F",
+            "key": "2021:vote:Caleb Ellison:F",
+            "value": {
+                "rev": "1-a7f4b7bf332636b0d863314a91b4be88"
+            },
+            "doc": {
+                "_id": "2021:vote:Caleb Ellison:F",
+                "_rev": "1-a7f4b7bf332636b0d863314a91b4be88",
+                "type": "vote",
+                "data": {
+                    "edition_year": 2021,
+                    "participant_name": "Caleb Ellison",
+                    "vote_mode": "Facebook",
+                    "total_votes": 48
+                }
+            }
+        },
+        {
+            "id": "2021:vote:Caleb Ellison:I",
+            "key": "2021:vote:Caleb Ellison:I",
+            "value": {
+                "rev": "1-532cae2775e1ab5a05e43932e80d9444"
+            },
+            "doc": {
+                "_id": "2021:vote:Caleb Ellison:I",
+                "_rev": "1-532cae2775e1ab5a05e43932e80d9444",
+                "type": "vote",
+                "data": {
+                    "edition_year": 2021,
+                    "participant_name": "Caleb Ellison",
+                    "vote_mode": "Instagram",
+                    "total_votes": 41
+                }
+            }
+        },
+        {
+            "id": "2021:vote:Caleb Ellison:P",
+            "key": "2021:vote:Caleb Ellison:P",
+            "value": {
+                "rev": "1-1602fa286bcadbcf2a8ba9db9428c32f"
+            },
+            "doc": {
+                "_id": "2021:vote:Caleb Ellison:P",
+                "_rev": "1-1602fa286bcadbcf2a8ba9db9428c32f",
+                "type": "vote",
+                "data": {
+                    "edition_year": 2021,
+                    "participant_name": "Caleb Ellison",
+                    "vote_mode": "Phone",
+                    "total_votes": 31
+                }
+            }
+        },
+        {
+            "id": "2021:vote:Caleb Ellison:W",
+            "key": "2021:vote:Caleb Ellison:W",
+            "value": {
+                "rev": "1-f6b07223c5e06c556560f91da8c68761"
+            },
+            "doc": {
+                "_id": "2021:vote:Caleb Ellison:W",
+                "_rev": "1-f6b07223c5e06c556560f91da8c68761",
+                "type": "vote",
+                "data": {
+                    "edition_year": 2021,
+                    "participant_name": "Caleb Ellison",
+                    "vote_mode": "Web",
+                    "total_votes": 39
+                }
+            }
+        },
+        {
+            "id": "2021:vote:Jack Singh:F",
+            "key": "2021:vote:Jack Singh:F",
+            "value": {
+                "rev": "1-a0ec04af19e844e5e776a7546858e4a2"
+            },
+            "doc": {
+                "_id": "2021:vote:Jack Singh:F",
+                "_rev": "1-a0ec04af19e844e5e776a7546858e4a2",
+                "type": "vote",
+                "data": {
+                    "edition_year": 2021,
+                    "participant_name": "Jack Singh",
+                    "vote_mode": "Facebook",
+                    "total_votes": 41
+                }
+            }
+        },
+        {
+            "id": "2021:vote:Jack Singh:I",
+            "key": "2021:vote:Jack Singh:I",
+            "value": {
+                "rev": "1-1c4b5dd9c22a27e5bac81f600b43ebc8"
+            },
+            "doc": {
+                "_id": "2021:vote:Jack Singh:I",
+                "_rev": "1-1c4b5dd9c22a27e5bac81f600b43ebc8",
+                "type": "vote",
+                "data": {
+                    "edition_year": 2021,
+                    "participant_name": "Jack Singh",
+                    "vote_mode": "Instagram",
+                    "total_votes": 46
+                }
+            }
+        },
+        {
+            "id": "2021:vote:Jack Singh:P",
+            "key": "2021:vote:Jack Singh:P",
+            "value": {
+                "rev": "1-e3b33113a1b13b8ed9d2da8ee09870c7"
+            },
+            "doc": {
+                "_id": "2021:vote:Jack Singh:P",
+                "_rev": "1-e3b33113a1b13b8ed9d2da8ee09870c7",
+                "type": "vote",
+                "data": {
+                    "edition_year": 2021,
+                    "participant_name": "Jack Singh",
+                    "vote_mode": "Phone",
+                    "total_votes": 32
+                }
+            }
+        },
+        {
+            "id": "2021:vote:Jack Singh:W",
+            "key": "2021:vote:Jack Singh:W",
+            "value": {
+                "rev": "1-2240e9aeb101d49e0c721ad783dd3509"
+            },
+            "doc": {
+                "_id": "2021:vote:Jack Singh:W",
+                "_rev": "1-2240e9aeb101d49e0c721ad783dd3509",
+                "type": "vote",
+                "data": {
+                    "edition_year": 2021,
+                    "participant_name": "Jack Singh",
+                    "vote_mode": "Web",
+                    "total_votes": 30
+                }
+            }
+        },
+        {
+            "id": "2021:vote:Manuel Caldwell:F",
+            "key": "2021:vote:Manuel Caldwell:F",
+            "value": {
+                "rev": "1-5d0e769e38fee25e7cc81aa1ade3e880"
+            },
+            "doc": {
+                "_id": "2021:vote:Manuel Caldwell:F",
+                "_rev": "1-5d0e769e38fee25e7cc81aa1ade3e880",
+                "type": "vote",
+                "data": {
+                    "edition_year": 2021,
+                    "participant_name": "Manuel Caldwell",
+                    "vote_mode": "Facebook",
+                    "total_votes": 42
+                }
+            }
+        },
+        {
+            "id": "2021:vote:Manuel Caldwell:I",
+            "key": "2021:vote:Manuel Caldwell:I",
+            "value": {
+                "rev": "1-720b8fac11250d0c576abacfd550d94d"
+            },
+            "doc": {
+                "_id": "2021:vote:Manuel Caldwell:I",
+                "_rev": "1-720b8fac11250d0c576abacfd550d94d",
+                "type": "vote",
+                "data": {
+                    "edition_year": 2021,
+                    "participant_name": "Manuel Caldwell",
+                    "vote_mode": "Instagram",
+                    "total_votes": 48
+                }
+            }
+        },
+        {
+            "id": "2021:vote:Manuel Caldwell:P",
+            "key": "2021:vote:Manuel Caldwell:P",
+            "value": {
+                "rev": "1-37248f9123c788ec678721e914be05a7"
+            },
+            "doc": {
+                "_id": "2021:vote:Manuel Caldwell:P",
+                "_rev": "1-37248f9123c788ec678721e914be05a7",
+                "type": "vote",
+                "data": {
+                    "edition_year": 2021,
+                    "participant_name": "Manuel Caldwell",
+                    "vote_mode": "Phone",
+                    "total_votes": 35
+                }
+            }
+        },
+        {
+            "id": "2021:vote:Manuel Caldwell:W",
+            "key": "2021:vote:Manuel Caldwell:W",
+            "value": {
+                "rev": "1-fd5eaa45793dda946d801a217bbbc3bb"
+            },
+            "doc": {
+                "_id": "2021:vote:Manuel Caldwell:W",
+                "_rev": "1-fd5eaa45793dda946d801a217bbbc3bb",
+                "type": "vote",
+                "data": {
+                    "edition_year": 2021,
+                    "participant_name": "Manuel Caldwell",
+                    "vote_mode": "Web",
+                    "total_votes": 50
+                }
+            }
+        },
+        {
+            "id": "2021:vote:Robin Myers:F",
+            "key": "2021:vote:Robin Myers:F",
+            "value": {
+                "rev": "1-c0355855cdd475f288c8bcfc89aec66a"
+            },
+            "doc": {
+                "_id": "2021:vote:Robin Myers:F",
+                "_rev": "1-c0355855cdd475f288c8bcfc89aec66a",
+                "type": "vote",
+                "data": {
+                    "edition_year": 2021,
+                    "participant_name": "Robin Myers",
+                    "vote_mode": "Facebook",
+                    "total_votes": 42
+                }
+            }
+        },
+        {
+            "id": "2021:vote:Robin Myers:I",
+            "key": "2021:vote:Robin Myers:I",
+            "value": {
+                "rev": "1-6b6f2f01a02bca2725bd492cdbbcc753"
+            },
+            "doc": {
+                "_id": "2021:vote:Robin Myers:I",
+                "_rev": "1-6b6f2f01a02bca2725bd492cdbbcc753",
+                "type": "vote",
+                "data": {
+                    "edition_year": 2021,
+                    "participant_name": "Robin Myers",
+                    "vote_mode": "Instagram",
+                    "total_votes": 38
+                }
+            }
+        },
+        {
+            "id": "2021:vote:Robin Myers:P",
+            "key": "2021:vote:Robin Myers:P",
+            "value": {
+                "rev": "1-51cf14e11ba94ef43f33b6c9df3f92e9"
+            },
+            "doc": {
+                "_id": "2021:vote:Robin Myers:P",
+                "_rev": "1-51cf14e11ba94ef43f33b6c9df3f92e9",
+                "type": "vote",
+                "data": {
+                    "edition_year": 2021,
+                    "participant_name": "Robin Myers",
+                    "vote_mode": "Phone",
+                    "total_votes": 28
+                }
+            }
+        },
+        {
+            "id": "2021:vote:Robin Myers:W",
+            "key": "2021:vote:Robin Myers:W",
+            "value": {
+                "rev": "1-52c7ab20a467773b8841dfd2258ec5f6"
+            },
+            "doc": {
+                "_id": "2021:vote:Robin Myers:W",
+                "_rev": "1-52c7ab20a467773b8841dfd2258ec5f6",
+                "type": "vote",
+                "data": {
+                    "edition_year": 2021,
+                    "participant_name": "Robin Myers",
+                    "vote_mode": "Web",
+                    "total_votes": 41
+                }
+            }
+        },
+        {
+            "id": "2021:vote:Samantha Lee:F",
+            "key": "2021:vote:Samantha Lee:F",
+            "value": {
+                "rev": "1-c3ff53f7a5df179ff27afc58f70d26d6"
+            },
+            "doc": {
+                "_id": "2021:vote:Samantha Lee:F",
+                "_rev": "1-c3ff53f7a5df179ff27afc58f70d26d6",
+                "type": "vote",
+                "data": {
+                    "edition_year": 2021,
+                    "participant_name": "Samantha Lee",
+                    "vote_mode": "Facebook",
+                    "total_votes": 43
+                }
+            }
+        },
+        {
+            "id": "2021:vote:Samantha Lee:I",
+            "key": "2021:vote:Samantha Lee:I",
+            "value": {
+                "rev": "1-8e26c6caf8fb09205a1be0325ec37f0e"
+            },
+            "doc": {
+                "_id": "2021:vote:Samantha Lee:I",
+                "_rev": "1-8e26c6caf8fb09205a1be0325ec37f0e",
+                "type": "vote",
+                "data": {
+                    "edition_year": 2021,
+                    "participant_name": "Samantha Lee",
+                    "vote_mode": "Instagram",
+                    "total_votes": 45
+                }
+            }
+        },
+        {
+            "id": "2021:vote:Samantha Lee:P",
+            "key": "2021:vote:Samantha Lee:P",
+            "value": {
+                "rev": "1-4c200baf5fcded38540545678f385773"
+            },
+            "doc": {
+                "_id": "2021:vote:Samantha Lee:P",
+                "_rev": "1-4c200baf5fcded38540545678f385773",
+                "type": "vote",
+                "data": {
+                    "edition_year": 2021,
+                    "participant_name": "Samantha Lee",
+                    "vote_mode": "Phone",
+                    "total_votes": 38
+                }
+            }
+        },
+        {
+            "id": "2021:vote:Samantha Lee:W",
+            "key": "2021:vote:Samantha Lee:W",
+            "value": {
+                "rev": "1-d4ab7a1b1e961a4deffb52f7011327e7"
+            },
+            "doc": {
+                "_id": "2021:vote:Samantha Lee:W",
+                "_rev": "1-d4ab7a1b1e961a4deffb52f7011327e7",
+                "type": "vote",
+                "data": {
+                    "edition_year": 2021,
+                    "participant_name": "Samantha Lee",
+                    "vote_mode": "Web",
+                    "total_votes": 38
+                }
+            }
+        },
+        {
+            "id": "2021:vote:Tamara Barnes:F",
+            "key": "2021:vote:Tamara Barnes:F",
+            "value": {
+                "rev": "1-5369cbdaf75b9d95d5fb5642120596bc"
+            },
+            "doc": {
+                "_id": "2021:vote:Tamara Barnes:F",
+                "_rev": "1-5369cbdaf75b9d95d5fb5642120596bc",
+                "type": "vote",
+                "data": {
+                    "edition_year": 2021,
+                    "participant_name": "Tamara Barnes",
+                    "vote_mode": "Facebook",
+                    "total_votes": 49
+                }
+            }
+        },
+        {
+            "id": "2021:vote:Tamara Barnes:I",
+            "key": "2021:vote:Tamara Barnes:I",
+            "value": {
+                "rev": "1-1fd66d9314bff742966c6c2b2403c050"
+            },
+            "doc": {
+                "_id": "2021:vote:Tamara Barnes:I",
+                "_rev": "1-1fd66d9314bff742966c6c2b2403c050",
+                "type": "vote",
+                "data": {
+                    "edition_year": 2021,
+                    "participant_name": "Tamara Barnes",
+                    "vote_mode": "Instagram",
+                    "total_votes": 39
+                }
+            }
+        },
+        {
+            "id": "2021:vote:Tamara Barnes:P",
+            "key": "2021:vote:Tamara Barnes:P",
+            "value": {
+                "rev": "1-3571a208d706209555be3ec9bca842b5"
+            },
+            "doc": {
+                "_id": "2021:vote:Tamara Barnes:P",
+                "_rev": "1-3571a208d706209555be3ec9bca842b5",
+                "type": "vote",
+                "data": {
+                    "edition_year": 2021,
+                    "participant_name": "Tamara Barnes",
+                    "vote_mode": "Phone",
+                    "total_votes": 23
+                }
+            }
+        },
+        {
+            "id": "2021:vote:Tamara Barnes:W",
+            "key": "2021:vote:Tamara Barnes:W",
+            "value": {
+                "rev": "1-9ea3a679edde7476b3088485c23af038"
+            },
+            "doc": {
+                "_id": "2021:vote:Tamara Barnes:W",
+                "_rev": "1-9ea3a679edde7476b3088485c23af038",
+                "type": "vote",
+                "data": {
+                    "edition_year": 2021,
+                    "participant_name": "Tamara Barnes",
+                    "vote_mode": "Web",
+                    "total_votes": 42
+                }
+            }
+        },
+        {
+            "id": "2021:vote:Thomas Smith:F",
+            "key": "2021:vote:Thomas Smith:F",
+            "value": {
+                "rev": "1-3aa0a00f7e6359adc57806bad047e7a0"
+            },
+            "doc": {
+                "_id": "2021:vote:Thomas Smith:F",
+                "_rev": "1-3aa0a00f7e6359adc57806bad047e7a0",
+                "type": "vote",
+                "data": {
+                    "edition_year": 2021,
+                    "participant_name": "Thomas Smith",
+                    "vote_mode": "Facebook",
+                    "total_votes": 48
+                }
+            }
+        },
+        {
+            "id": "2021:vote:Thomas Smith:I",
+            "key": "2021:vote:Thomas Smith:I",
+            "value": {
+                "rev": "1-4a9f34123eaecf09a974812183081bf0"
+            },
+            "doc": {
+                "_id": "2021:vote:Thomas Smith:I",
+                "_rev": "1-4a9f34123eaecf09a974812183081bf0",
+                "type": "vote",
+                "data": {
+                    "edition_year": 2021,
+                    "participant_name": "Thomas Smith",
+                    "vote_mode": "Instagram",
+                    "total_votes": 44
+                }
+            }
+        },
+        {
+            "id": "2021:vote:Thomas Smith:P",
+            "key": "2021:vote:Thomas Smith:P",
+            "value": {
+                "rev": "1-dd73b13fad654efa3dcdf69cdd9240f5"
+            },
+            "doc": {
+                "_id": "2021:vote:Thomas Smith:P",
+                "_rev": "1-dd73b13fad654efa3dcdf69cdd9240f5",
+                "type": "vote",
+                "data": {
+                    "edition_year": 2021,
+                    "participant_name": "Thomas Smith",
+                    "vote_mode": "Phone",
+                    "total_votes": 44
+                }
+            }
+        },
+        {
+            "id": "2021:vote:Thomas Smith:W",
+            "key": "2021:vote:Thomas Smith:W",
+            "value": {
+                "rev": "1-70ce2df365ca788015ba5d4763b069b9"
+            },
+            "doc": {
+                "_id": "2021:vote:Thomas Smith:W",
+                "_rev": "1-70ce2df365ca788015ba5d4763b069b9",
+                "type": "vote",
+                "data": {
+                    "edition_year": 2021,
+                    "participant_name": "Thomas Smith",
+                    "vote_mode": "Web",
+                    "total_votes": 30
+                }
+            }
+        },
+        {
+            "id": "2023:fact:Christine Hayes",
+            "key": "2023:fact:Christine Hayes",
+            "value": {
+                "rev": "1-0d0da638d72d18a9fe160b8abc2ee0bd"
+            },
+            "doc": {
+                "_id": "2023:fact:Christine Hayes",
+                "_rev": "1-0d0da638d72d18a9fe160b8abc2ee0bd",
+                "type": "fact",
+                "data": {
+                    "votes": [
+                        "2023:vote:Christine Hayes:F",
+                        "2023:vote:Christine Hayes:P",
+                        "2023:vote:Christine Hayes:I",
+                        "2023:vote:Christine Hayes:W"
+                    ],
+                    "edition_year": 2023,
+                    "participant_name": "Christine Hayes"
+                }
+            }
+        },
+        {
+            "id": "2023:fact:Jacqueline Wagner",
+            "key": "2023:fact:Jacqueline Wagner",
+            "value": {
+                "rev": "1-35b56053823ec346419d459bfdc16779"
+            },
+            "doc": {
+                "_id": "2023:fact:Jacqueline Wagner",
+                "_rev": "1-35b56053823ec346419d459bfdc16779",
+                "type": "fact",
+                "data": {
+                    "votes": [
+                        "2023:vote:Jacqueline Wagner:P",
+                        "2023:vote:Jacqueline Wagner:F",
+                        "2023:vote:Jacqueline Wagner:W",
+                        "2023:vote:Jacqueline Wagner:I"
+                    ],
+                    "edition_year": 2023,
+                    "participant_name": "Jacqueline Wagner"
+                }
+            }
+        },
+        {
+            "id": "2023:fact:Leslie Lee",
+            "key": "2023:fact:Leslie Lee",
+            "value": {
+                "rev": "1-31ef93fe104ea9ed8c435bc11b28344a"
+            },
+            "doc": {
+                "_id": "2023:fact:Leslie Lee",
+                "_rev": "1-31ef93fe104ea9ed8c435bc11b28344a",
+                "type": "fact",
+                "data": {
+                    "votes": [
+                        "2023:vote:Leslie Lee:F",
+                        "2023:vote:Leslie Lee:I",
+                        "2023:vote:Leslie Lee:P",
+                        "2023:vote:Leslie Lee:W"
+                    ],
+                    "edition_year": 2023,
+                    "participant_name": "Leslie Lee"
+                }
+            }
+        },
+        {
+            "id": "2023:fact:Manuel Graves",
+            "key": "2023:fact:Manuel Graves",
+            "value": {
+                "rev": "1-88c354b52647333ffa6b7baa3f3b8551"
+            },
+            "doc": {
+                "_id": "2023:fact:Manuel Graves",
+                "_rev": "1-88c354b52647333ffa6b7baa3f3b8551",
+                "type": "fact",
+                "data": {
+                    "votes": [
+                        "2023:vote:Manuel Graves:P",
+                        "2023:vote:Manuel Graves:I",
+                        "2023:vote:Manuel Graves:F",
+                        "2023:vote:Manuel Graves:W"
+                    ],
+                    "edition_year": 2023,
+                    "participant_name": "Manuel Graves"
+                }
+            }
+        },
+        {
+            "id": "2023:fact:Megan Saunders",
+            "key": "2023:fact:Megan Saunders",
+            "value": {
+                "rev": "1-e98c85b5b15ad0e9e3bd8360d6ebb61b"
+            },
+            "doc": {
+                "_id": "2023:fact:Megan Saunders",
+                "_rev": "1-e98c85b5b15ad0e9e3bd8360d6ebb61b",
+                "type": "fact",
+                "data": {
+                    "votes": [
+                        "2023:vote:Megan Saunders:I",
+                        "2023:vote:Megan Saunders:P",
+                        "2023:vote:Megan Saunders:F",
+                        "2023:vote:Megan Saunders:W"
+                    ],
+                    "edition_year": 2023,
+                    "participant_name": "Megan Saunders"
+                }
+            }
+        },
+        {
+            "id": "2023:fact:Michael Butler",
+            "key": "2023:fact:Michael Butler",
+            "value": {
+                "rev": "1-90412629ff10336fbd45066ce3ed93c7"
+            },
+            "doc": {
+                "_id": "2023:fact:Michael Butler",
+                "_rev": "1-90412629ff10336fbd45066ce3ed93c7",
+                "type": "fact",
+                "data": {
+                    "votes": [
+                        "2023:vote:Michael Butler:W",
+                        "2023:vote:Michael Butler:P",
+                        "2023:vote:Michael Butler:F",
+                        "2023:vote:Michael Butler:I"
+                    ],
+                    "edition_year": 2023,
+                    "participant_name": "Michael Butler"
+                }
+            }
+        },
+        {
+            "id": "2023:fact:Paula Henderson",
+            "key": "2023:fact:Paula Henderson",
+            "value": {
+                "rev": "1-50e5cf228d2b144463b73cdc05239a19"
+            },
+            "doc": {
+                "_id": "2023:fact:Paula Henderson",
+                "_rev": "1-50e5cf228d2b144463b73cdc05239a19",
+                "type": "fact",
+                "data": {
+                    "votes": [
+                        "2023:vote:Paula Henderson:F",
+                        "2023:vote:Paula Henderson:I",
+                        "2023:vote:Paula Henderson:P",
+                        "2023:vote:Paula Henderson:W"
+                    ],
+                    "edition_year": 2023,
+                    "participant_name": "Paula Henderson"
+                }
+            }
+        },
+        {
+            "id": "2023:fact:Samantha Erickson",
+            "key": "2023:fact:Samantha Erickson",
+            "value": {
+                "rev": "1-5d7d28886312d38a2564933726adb862"
+            },
+            "doc": {
+                "_id": "2023:fact:Samantha Erickson",
+                "_rev": "1-5d7d28886312d38a2564933726adb862",
+                "type": "fact",
+                "data": {
+                    "votes": [
+                        "2023:vote:Samantha Erickson:I",
+                        "2023:vote:Samantha Erickson:F",
+                        "2023:vote:Samantha Erickson:P",
+                        "2023:vote:Samantha Erickson:W"
+                    ],
+                    "edition_year": 2023,
+                    "participant_name": "Samantha Erickson"
+                }
+            }
+        },
+        {
+            "id": "2023:fact:Scott Baker",
+            "key": "2023:fact:Scott Baker",
+            "value": {
+                "rev": "1-794a4d1807b511076516a4715732788d"
+            },
+            "doc": {
+                "_id": "2023:fact:Scott Baker",
+                "_rev": "1-794a4d1807b511076516a4715732788d",
+                "type": "fact",
+                "data": {
+                    "votes": [
+                        "2023:vote:Scott Baker:W",
+                        "2023:vote:Scott Baker:P",
+                        "2023:vote:Scott Baker:I",
+                        "2023:vote:Scott Baker:F"
+                    ],
+                    "edition_year": 2023,
+                    "participant_name": "Scott Baker"
+                }
+            }
+        },
+        {
+            "id": "2023:fact:Thomas Ruiz",
+            "key": "2023:fact:Thomas Ruiz",
+            "value": {
+                "rev": "1-2986dcf4e1ee015c0b981e1b7d038710"
+            },
+            "doc": {
+                "_id": "2023:fact:Thomas Ruiz",
+                "_rev": "1-2986dcf4e1ee015c0b981e1b7d038710",
+                "type": "fact",
+                "data": {
+                    "votes": [
+                        "2023:vote:Thomas Ruiz:F",
+                        "2023:vote:Thomas Ruiz:P",
+                        "2023:vote:Thomas Ruiz:W",
+                        "2023:vote:Thomas Ruiz:I"
+                    ],
+                    "edition_year": 2023,
+                    "participant_name": "Thomas Ruiz"
+                }
+            }
+        },
+        {
+            "id": "2023:vote:Christine Hayes:F",
+            "key": "2023:vote:Christine Hayes:F",
+            "value": {
+                "rev": "1-12e3d40bd9cfec60757ed3272307e915"
+            },
+            "doc": {
+                "_id": "2023:vote:Christine Hayes:F",
+                "_rev": "1-12e3d40bd9cfec60757ed3272307e915",
+                "type": "vote",
+                "data": {
+                    "edition_year": 2023,
+                    "participant_name": "Christine Hayes",
+                    "vote_mode": "Facebook",
+                    "total_votes": 38
+                }
+            }
+        },
+        {
+            "id": "2023:vote:Christine Hayes:I",
+            "key": "2023:vote:Christine Hayes:I",
+            "value": {
+                "rev": "1-2c69a3cf9d78f440978ee2f1f9638935"
+            },
+            "doc": {
+                "_id": "2023:vote:Christine Hayes:I",
+                "_rev": "1-2c69a3cf9d78f440978ee2f1f9638935",
+                "type": "vote",
+                "data": {
+                    "edition_year": 2023,
+                    "participant_name": "Christine Hayes",
+                    "vote_mode": "Instagram",
+                    "total_votes": 34
+                }
+            }
+        },
+        {
+            "id": "2023:vote:Christine Hayes:P",
+            "key": "2023:vote:Christine Hayes:P",
+            "value": {
+                "rev": "1-fdb3bfa733fa862a310ca3bb5cef0666"
+            },
+            "doc": {
+                "_id": "2023:vote:Christine Hayes:P",
+                "_rev": "1-fdb3bfa733fa862a310ca3bb5cef0666",
+                "type": "vote",
+                "data": {
+                    "edition_year": 2023,
+                    "participant_name": "Christine Hayes",
+                    "vote_mode": "Phone",
+                    "total_votes": 41
+                }
+            }
+        },
+        {
+            "id": "2023:vote:Christine Hayes:W",
+            "key": "2023:vote:Christine Hayes:W",
+            "value": {
+                "rev": "1-f78d7488f0428db1459ceab4fdde8188"
+            },
+            "doc": {
+                "_id": "2023:vote:Christine Hayes:W",
+                "_rev": "1-f78d7488f0428db1459ceab4fdde8188",
+                "type": "vote",
+                "data": {
+                    "edition_year": 2023,
+                    "participant_name": "Christine Hayes",
+                    "vote_mode": "Web",
+                    "total_votes": 35
+                }
+            }
+        },
+        {
+            "id": "2023:vote:Jacqueline Wagner:F",
+            "key": "2023:vote:Jacqueline Wagner:F",
+            "value": {
+                "rev": "1-5114d6756ab030f00e87b41a68aeee4a"
+            },
+            "doc": {
+                "_id": "2023:vote:Jacqueline Wagner:F",
+                "_rev": "1-5114d6756ab030f00e87b41a68aeee4a",
+                "type": "vote",
+                "data": {
+                    "edition_year": 2023,
+                    "participant_name": "Jacqueline Wagner",
+                    "vote_mode": "Facebook",
+                    "total_votes": 33
+                }
+            }
+        },
+        {
+            "id": "2023:vote:Jacqueline Wagner:I",
+            "key": "2023:vote:Jacqueline Wagner:I",
+            "value": {
+                "rev": "1-5230d634453828d8e16b3c9e967c778c"
+            },
+            "doc": {
+                "_id": "2023:vote:Jacqueline Wagner:I",
+                "_rev": "1-5230d634453828d8e16b3c9e967c778c",
+                "type": "vote",
+                "data": {
+                    "edition_year": 2023,
+                    "participant_name": "Jacqueline Wagner",
+                    "vote_mode": "Instagram",
+                    "total_votes": 41
+                }
+            }
+        },
+        {
+            "id": "2023:vote:Jacqueline Wagner:P",
+            "key": "2023:vote:Jacqueline Wagner:P",
+            "value": {
+                "rev": "1-4ca73eb75dda94d56c82f44224eb8d10"
+            },
+            "doc": {
+                "_id": "2023:vote:Jacqueline Wagner:P",
+                "_rev": "1-4ca73eb75dda94d56c82f44224eb8d10",
+                "type": "vote",
+                "data": {
+                    "edition_year": 2023,
+                    "participant_name": "Jacqueline Wagner",
+                    "vote_mode": "Phone",
+                    "total_votes": 40
+                }
+            }
+        },
+        {
+            "id": "2023:vote:Jacqueline Wagner:W",
+            "key": "2023:vote:Jacqueline Wagner:W",
+            "value": {
+                "rev": "1-aced34cd3d5a63d4b65d971770b285d7"
+            },
+            "doc": {
+                "_id": "2023:vote:Jacqueline Wagner:W",
+                "_rev": "1-aced34cd3d5a63d4b65d971770b285d7",
+                "type": "vote",
+                "data": {
+                    "edition_year": 2023,
+                    "participant_name": "Jacqueline Wagner",
+                    "vote_mode": "Web",
+                    "total_votes": 37
+                }
+            }
+        },
+        {
+            "id": "2023:vote:Leslie Lee:F",
+            "key": "2023:vote:Leslie Lee:F",
+            "value": {
+                "rev": "1-779ba0b9c5451ad2e5fa62f508b5ef0c"
+            },
+            "doc": {
+                "_id": "2023:vote:Leslie Lee:F",
+                "_rev": "1-779ba0b9c5451ad2e5fa62f508b5ef0c",
+                "type": "vote",
+                "data": {
+                    "edition_year": 2023,
+                    "participant_name": "Leslie Lee",
+                    "vote_mode": "Facebook",
+                    "total_votes": 27
+                }
+            }
+        },
+        {
+            "id": "2023:vote:Leslie Lee:I",
+            "key": "2023:vote:Leslie Lee:I",
+            "value": {
+                "rev": "1-a3dc017272530f2d76e326b54e749852"
+            },
+            "doc": {
+                "_id": "2023:vote:Leslie Lee:I",
+                "_rev": "1-a3dc017272530f2d76e326b54e749852",
+                "type": "vote",
+                "data": {
+                    "edition_year": 2023,
+                    "participant_name": "Leslie Lee",
+                    "vote_mode": "Instagram",
+                    "total_votes": 45
+                }
+            }
+        },
+        {
+            "id": "2023:vote:Leslie Lee:P",
+            "key": "2023:vote:Leslie Lee:P",
+            "value": {
+                "rev": "1-c6924f2f6d628aca3cc4c0faabaea4f9"
+            },
+            "doc": {
+                "_id": "2023:vote:Leslie Lee:P",
+                "_rev": "1-c6924f2f6d628aca3cc4c0faabaea4f9",
+                "type": "vote",
+                "data": {
+                    "edition_year": 2023,
+                    "participant_name": "Leslie Lee",
+                    "vote_mode": "Phone",
+                    "total_votes": 42
+                }
+            }
+        },
+        {
+            "id": "2023:vote:Leslie Lee:W",
+            "key": "2023:vote:Leslie Lee:W",
+            "value": {
+                "rev": "1-d838f789e2006f148ec2afcf90d220e0"
+            },
+            "doc": {
+                "_id": "2023:vote:Leslie Lee:W",
+                "_rev": "1-d838f789e2006f148ec2afcf90d220e0",
+                "type": "vote",
+                "data": {
+                    "edition_year": 2023,
+                    "participant_name": "Leslie Lee",
+                    "vote_mode": "Web",
+                    "total_votes": 40
+                }
+            }
+        },
+        {
+            "id": "2023:vote:Manuel Graves:F",
+            "key": "2023:vote:Manuel Graves:F",
+            "value": {
+                "rev": "1-c6963cc0c9fed9ad27f5da56d3ba91f4"
+            },
+            "doc": {
+                "_id": "2023:vote:Manuel Graves:F",
+                "_rev": "1-c6963cc0c9fed9ad27f5da56d3ba91f4",
+                "type": "vote",
+                "data": {
+                    "edition_year": 2023,
+                    "participant_name": "Manuel Graves",
+                    "vote_mode": "Facebook",
+                    "total_votes": 40
+                }
+            }
+        },
+        {
+            "id": "2023:vote:Manuel Graves:I",
+            "key": "2023:vote:Manuel Graves:I",
+            "value": {
+                "rev": "1-de23c5ec74e1827524d6160df17035f9"
+            },
+            "doc": {
+                "_id": "2023:vote:Manuel Graves:I",
+                "_rev": "1-de23c5ec74e1827524d6160df17035f9",
+                "type": "vote",
+                "data": {
+                    "edition_year": 2023,
+                    "participant_name": "Manuel Graves",
+                    "vote_mode": "Instagram",
+                    "total_votes": 41
+                }
+            }
+        },
+        {
+            "id": "2023:vote:Manuel Graves:P",
+            "key": "2023:vote:Manuel Graves:P",
+            "value": {
+                "rev": "1-feeb3d3acb7d21ce6048e53600c77ee7"
+            },
+            "doc": {
+                "_id": "2023:vote:Manuel Graves:P",
+                "_rev": "1-feeb3d3acb7d21ce6048e53600c77ee7",
+                "type": "vote",
+                "data": {
+                    "edition_year": 2023,
+                    "participant_name": "Manuel Graves",
+                    "vote_mode": "Phone",
+                    "total_votes": 40
+                }
+            }
+        },
+        {
+            "id": "2023:vote:Manuel Graves:W",
+            "key": "2023:vote:Manuel Graves:W",
+            "value": {
+                "rev": "1-9335d3155427c5377dc24f708e4ec85b"
+            },
+            "doc": {
+                "_id": "2023:vote:Manuel Graves:W",
+                "_rev": "1-9335d3155427c5377dc24f708e4ec85b",
+                "type": "vote",
+                "data": {
+                    "edition_year": 2023,
+                    "participant_name": "Manuel Graves",
+                    "vote_mode": "Web",
+                    "total_votes": 32
+                }
+            }
+        },
+        {
+            "id": "2023:vote:Megan Saunders:F",
+            "key": "2023:vote:Megan Saunders:F",
+            "value": {
+                "rev": "1-376306b0362ef01a8f46e2e4e894829f"
+            },
+            "doc": {
+                "_id": "2023:vote:Megan Saunders:F",
+                "_rev": "1-376306b0362ef01a8f46e2e4e894829f",
+                "type": "vote",
+                "data": {
+                    "edition_year": 2023,
+                    "participant_name": "Megan Saunders",
+                    "vote_mode": "Facebook",
+                    "total_votes": 38
+                }
+            }
+        },
+        {
+            "id": "2023:vote:Megan Saunders:I",
+            "key": "2023:vote:Megan Saunders:I",
+            "value": {
+                "rev": "1-bb2a5257c91f4f03f26844152b8ada3b"
+            },
+            "doc": {
+                "_id": "2023:vote:Megan Saunders:I",
+                "_rev": "1-bb2a5257c91f4f03f26844152b8ada3b",
+                "type": "vote",
+                "data": {
+                    "edition_year": 2023,
+                    "participant_name": "Megan Saunders",
+                    "vote_mode": "Instagram",
+                    "total_votes": 40
+                }
+            }
+        },
+        {
+            "id": "2023:vote:Megan Saunders:P",
+            "key": "2023:vote:Megan Saunders:P",
+            "value": {
+                "rev": "1-5d3e8200870953de99eae8e172266211"
+            },
+            "doc": {
+                "_id": "2023:vote:Megan Saunders:P",
+                "_rev": "1-5d3e8200870953de99eae8e172266211",
+                "type": "vote",
+                "data": {
+                    "edition_year": 2023,
+                    "participant_name": "Megan Saunders",
+                    "vote_mode": "Phone",
+                    "total_votes": 41
+                }
+            }
+        },
+        {
+            "id": "2023:vote:Megan Saunders:W",
+            "key": "2023:vote:Megan Saunders:W",
+            "value": {
+                "rev": "1-b7bf9c34526d5e830728209e87555218"
+            },
+            "doc": {
+                "_id": "2023:vote:Megan Saunders:W",
+                "_rev": "1-b7bf9c34526d5e830728209e87555218",
+                "type": "vote",
+                "data": {
+                    "edition_year": 2023,
+                    "participant_name": "Megan Saunders",
+                    "vote_mode": "Web",
+                    "total_votes": 47
+                }
+            }
+        },
+        {
+            "id": "2023:vote:Michael Butler:F",
+            "key": "2023:vote:Michael Butler:F",
+            "value": {
+                "rev": "1-9c660fdbae152f7428e9637bd07fcb3c"
+            },
+            "doc": {
+                "_id": "2023:vote:Michael Butler:F",
+                "_rev": "1-9c660fdbae152f7428e9637bd07fcb3c",
+                "type": "vote",
+                "data": {
+                    "edition_year": 2023,
+                    "participant_name": "Michael Butler",
+                    "vote_mode": "Facebook",
+                    "total_votes": 38
+                }
+            }
+        },
+        {
+            "id": "2023:vote:Michael Butler:I",
+            "key": "2023:vote:Michael Butler:I",
+            "value": {
+                "rev": "1-2ddc244cf12ca699ce8333773e023508"
+            },
+            "doc": {
+                "_id": "2023:vote:Michael Butler:I",
+                "_rev": "1-2ddc244cf12ca699ce8333773e023508",
+                "type": "vote",
+                "data": {
+                    "edition_year": 2023,
+                    "participant_name": "Michael Butler",
+                    "vote_mode": "Instagram",
+                    "total_votes": 35
+                }
+            }
+        },
+        {
+            "id": "2023:vote:Michael Butler:P",
+            "key": "2023:vote:Michael Butler:P",
+            "value": {
+                "rev": "1-0b38e4c6196defa62deacfdafaad9cd1"
+            },
+            "doc": {
+                "_id": "2023:vote:Michael Butler:P",
+                "_rev": "1-0b38e4c6196defa62deacfdafaad9cd1",
+                "type": "vote",
+                "data": {
+                    "edition_year": 2023,
+                    "participant_name": "Michael Butler",
+                    "vote_mode": "Phone",
+                    "total_votes": 39
+                }
+            }
+        },
+        {
+            "id": "2023:vote:Michael Butler:W",
+            "key": "2023:vote:Michael Butler:W",
+            "value": {
+                "rev": "1-a7ae5aceb94596bb93a247f85900789a"
+            },
+            "doc": {
+                "_id": "2023:vote:Michael Butler:W",
+                "_rev": "1-a7ae5aceb94596bb93a247f85900789a",
+                "type": "vote",
+                "data": {
+                    "edition_year": 2023,
+                    "participant_name": "Michael Butler",
+                    "vote_mode": "Web",
+                    "total_votes": 41
+                }
+            }
+        },
+        {
+            "id": "2023:vote:Paula Henderson:F",
+            "key": "2023:vote:Paula Henderson:F",
+            "value": {
+                "rev": "1-9cf8c52bf12235c3dad92c16e8517ab6"
+            },
+            "doc": {
+                "_id": "2023:vote:Paula Henderson:F",
+                "_rev": "1-9cf8c52bf12235c3dad92c16e8517ab6",
+                "type": "vote",
+                "data": {
+                    "edition_year": 2023,
+                    "participant_name": "Paula Henderson",
+                    "vote_mode": "Facebook",
+                    "total_votes": 34
+                }
+            }
+        },
+        {
+            "id": "2023:vote:Paula Henderson:I",
+            "key": "2023:vote:Paula Henderson:I",
+            "value": {
+                "rev": "1-c489783870a1a5adca8c6ed164805e3a"
+            },
+            "doc": {
+                "_id": "2023:vote:Paula Henderson:I",
+                "_rev": "1-c489783870a1a5adca8c6ed164805e3a",
+                "type": "vote",
+                "data": {
+                    "edition_year": 2023,
+                    "participant_name": "Paula Henderson",
+                    "vote_mode": "Instagram",
+                    "total_votes": 33
+                }
+            }
+        },
+        {
+            "id": "2023:vote:Paula Henderson:P",
+            "key": "2023:vote:Paula Henderson:P",
+            "value": {
+                "rev": "1-3cc50817f4c05c48c60c9b5a199a9009"
+            },
+            "doc": {
+                "_id": "2023:vote:Paula Henderson:P",
+                "_rev": "1-3cc50817f4c05c48c60c9b5a199a9009",
+                "type": "vote",
+                "data": {
+                    "edition_year": 2023,
+                    "participant_name": "Paula Henderson",
+                    "vote_mode": "Phone",
+                    "total_votes": 43
+                }
+            }
+        },
+        {
+            "id": "2023:vote:Paula Henderson:W",
+            "key": "2023:vote:Paula Henderson:W",
+            "value": {
+                "rev": "1-b8c22e12b20c7fbb7d74c0938000625b"
+            },
+            "doc": {
+                "_id": "2023:vote:Paula Henderson:W",
+                "_rev": "1-b8c22e12b20c7fbb7d74c0938000625b",
+                "type": "vote",
+                "data": {
+                    "edition_year": 2023,
+                    "participant_name": "Paula Henderson",
+                    "vote_mode": "Web",
+                    "total_votes": 34
+                }
+            }
+        },
+        {
+            "id": "2023:vote:Samantha Erickson:F",
+            "key": "2023:vote:Samantha Erickson:F",
+            "value": {
+                "rev": "1-a654236264d81095eb96454671569faf"
+            },
+            "doc": {
+                "_id": "2023:vote:Samantha Erickson:F",
+                "_rev": "1-a654236264d81095eb96454671569faf",
+                "type": "vote",
+                "data": {
+                    "edition_year": 2023,
+                    "participant_name": "Samantha Erickson",
+                    "vote_mode": "Facebook",
+                    "total_votes": 37
+                }
+            }
+        },
+        {
+            "id": "2023:vote:Samantha Erickson:I",
+            "key": "2023:vote:Samantha Erickson:I",
+            "value": {
+                "rev": "1-1dddeb2e44e7b54576e9a33e8af947ef"
+            },
+            "doc": {
+                "_id": "2023:vote:Samantha Erickson:I",
+                "_rev": "1-1dddeb2e44e7b54576e9a33e8af947ef",
+                "type": "vote",
+                "data": {
+                    "edition_year": 2023,
+                    "participant_name": "Samantha Erickson",
+                    "vote_mode": "Instagram",
+                    "total_votes": 41
+                }
+            }
+        },
+        {
+            "id": "2023:vote:Samantha Erickson:P",
+            "key": "2023:vote:Samantha Erickson:P",
+            "value": {
+                "rev": "1-a0e1fd051e9bc04f33944b0ffc0a0c38"
+            },
+            "doc": {
+                "_id": "2023:vote:Samantha Erickson:P",
+                "_rev": "1-a0e1fd051e9bc04f33944b0ffc0a0c38",
+                "type": "vote",
+                "data": {
+                    "edition_year": 2023,
+                    "participant_name": "Samantha Erickson",
+                    "vote_mode": "Phone",
+                    "total_votes": 35
+                }
+            }
+        },
+        {
+            "id": "2023:vote:Samantha Erickson:W",
+            "key": "2023:vote:Samantha Erickson:W",
+            "value": {
+                "rev": "1-76ec810fe18c4af2762a23654e960962"
+            },
+            "doc": {
+                "_id": "2023:vote:Samantha Erickson:W",
+                "_rev": "1-76ec810fe18c4af2762a23654e960962",
+                "type": "vote",
+                "data": {
+                    "edition_year": 2023,
+                    "participant_name": "Samantha Erickson",
+                    "vote_mode": "Web",
+                    "total_votes": 29
+                }
+            }
+        },
+        {
+            "id": "2023:vote:Scott Baker:F",
+            "key": "2023:vote:Scott Baker:F",
+            "value": {
+                "rev": "1-9e1f295aa3f0f7776d38958056923e52"
+            },
+            "doc": {
+                "_id": "2023:vote:Scott Baker:F",
+                "_rev": "1-9e1f295aa3f0f7776d38958056923e52",
+                "type": "vote",
+                "data": {
+                    "edition_year": 2023,
+                    "participant_name": "Scott Baker",
+                    "vote_mode": "Facebook",
+                    "total_votes": 38
+                }
+            }
+        },
+        {
+            "id": "2023:vote:Scott Baker:I",
+            "key": "2023:vote:Scott Baker:I",
+            "value": {
+                "rev": "1-b8d8431a15043eb81b75b1d65b608f0b"
+            },
+            "doc": {
+                "_id": "2023:vote:Scott Baker:I",
+                "_rev": "1-b8d8431a15043eb81b75b1d65b608f0b",
+                "type": "vote",
+                "data": {
+                    "edition_year": 2023,
+                    "participant_name": "Scott Baker",
+                    "vote_mode": "Instagram",
+                    "total_votes": 38
+                }
+            }
+        },
+        {
+            "id": "2023:vote:Scott Baker:P",
+            "key": "2023:vote:Scott Baker:P",
+            "value": {
+                "rev": "1-d00506d60f94b187742312fe9fee20df"
+            },
+            "doc": {
+                "_id": "2023:vote:Scott Baker:P",
+                "_rev": "1-d00506d60f94b187742312fe9fee20df",
+                "type": "vote",
+                "data": {
+                    "edition_year": 2023,
+                    "participant_name": "Scott Baker",
+                    "vote_mode": "Phone",
+                    "total_votes": 38
+                }
+            }
+        },
+        {
+            "id": "2023:vote:Scott Baker:W",
+            "key": "2023:vote:Scott Baker:W",
+            "value": {
+                "rev": "1-03e30708f040525c00c16dac69c7a477"
+            },
+            "doc": {
+                "_id": "2023:vote:Scott Baker:W",
+                "_rev": "1-03e30708f040525c00c16dac69c7a477",
+                "type": "vote",
+                "data": {
+                    "edition_year": 2023,
+                    "participant_name": "Scott Baker",
+                    "vote_mode": "Web",
+                    "total_votes": 40
+                }
+            }
+        },
+        {
+            "id": "2023:vote:Thomas Ruiz:F",
+            "key": "2023:vote:Thomas Ruiz:F",
+            "value": {
+                "rev": "1-8c2de3641a8ff149668c9f176f9c1683"
+            },
+            "doc": {
+                "_id": "2023:vote:Thomas Ruiz:F",
+                "_rev": "1-8c2de3641a8ff149668c9f176f9c1683",
+                "type": "vote",
+                "data": {
+                    "edition_year": 2023,
+                    "participant_name": "Thomas Ruiz",
+                    "vote_mode": "Facebook",
+                    "total_votes": 37
+                }
+            }
+        },
+        {
+            "id": "2023:vote:Thomas Ruiz:I",
+            "key": "2023:vote:Thomas Ruiz:I",
+            "value": {
+                "rev": "1-df88ca851f22cb19435527fd69ff0c51"
+            },
+            "doc": {
+                "_id": "2023:vote:Thomas Ruiz:I",
+                "_rev": "1-df88ca851f22cb19435527fd69ff0c51",
+                "type": "vote",
+                "data": {
+                    "edition_year": 2023,
+                    "participant_name": "Thomas Ruiz",
+                    "vote_mode": "Instagram",
+                    "total_votes": 35
+                }
+            }
+        },
+        {
+            "id": "2023:vote:Thomas Ruiz:P",
+            "key": "2023:vote:Thomas Ruiz:P",
+            "value": {
+                "rev": "1-d6c24720367f977fee4562e37dba202c"
+            },
+            "doc": {
+                "_id": "2023:vote:Thomas Ruiz:P",
+                "_rev": "1-d6c24720367f977fee4562e37dba202c",
+                "type": "vote",
+                "data": {
+                    "edition_year": 2023,
+                    "participant_name": "Thomas Ruiz",
+                    "vote_mode": "Phone",
+                    "total_votes": 46
+                }
+            }
+        },
+        {
+            "id": "2023:vote:Thomas Ruiz:W",
+            "key": "2023:vote:Thomas Ruiz:W",
+            "value": {
+                "rev": "1-334b20d547ca4dbb7c11f03d60901ad8"
+            },
+            "doc": {
+                "_id": "2023:vote:Thomas Ruiz:W",
+                "_rev": "1-334b20d547ca4dbb7c11f03d60901ad8",
+                "type": "vote",
+                "data": {
+                    "edition_year": 2023,
+                    "participant_name": "Thomas Ruiz",
+                    "vote_mode": "Web",
+                    "total_votes": 34
+                }
+            }
+        }
+    ]
+}
