@@ -1,0 +1,26 @@
+-- Step 0: Get into Cassandra (have a cassandra node running)
+docker exec -it cassandra1  bash -c 'cqlsh' 
+
+-- Step 1: Create Keyspace
+CREATE KEYSPACE IF NOT EXISTS c20424992 WITH replication = 
+{
+    'class': 'SimpleStrategy',
+    'replication_factor': 3
+};
+
+-- Step 2: Use the Keyspace
+USE c20424992;
+
+-- Step 3: Create the Table
+CREATE TABLE IF NOT EXISTS votes_by_participant (
+    edition_year INT,
+    participant_name TEXT,
+    votes MAP<TEXT, INT>, -- A map to store vote_mode -> total_votes
+    PRIMARY KEY (edition_year, participant_name)
+);
+
+-- Step 4: Run c20424992MigrateToCassandra.py
+
+# Select statements to verify the data
+# SELECT * FROM votes_by_participant WHERE edition_year = 2021;
+# SELECT * FROM votes_by_participant WHERE edition_year = 2023;
